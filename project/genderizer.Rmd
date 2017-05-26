@@ -58,10 +58,10 @@ I also used <strong>a very interesting package called genderizeR</strong>, which
 </blockquote>
 <h2>Examples of applications</h2>
 
-* Is there a gender difference in scientific collaboration? A scientometric examination of co-authorships among industrial–organizational psychologists
-Fell, C.B. &amp; König, C.J. Scientometrics (2016) 108: 113. doi:10.1007/s11192-016-1967-5
-<a href="http://link.springer.com/article/10.1007/s11192-016-1967-5">http://link.springer.com/article/10.1007/s11192-016-1967-5</a>
-<a href="https://www.researchgate.net/publication/301771909_Is_there_a_gender_difference_in_scientific_collaboration_A_scientometric_examination_of_co_authorships_among_industrial_organizational_psychologists">https://www.researchgate.net/publication/301771909</a>
+* Fell, C.B. &amp; König, C.J. _Is there a gender difference in scientific collaboration? A scientometric examination of co-authorships among industrial–organizational psychologists_, Scientometrics (2016) 108: 113. 
+    * doi:10.1007/s11192-016-1967-5
+    * <a href="http://link.springer.com/article/10.1007/s11192-016-1967-5">http://link.springer.com/article/10.1007/s11192-016-1967-5</a>
+    * <a href="https://www.researchgate.net/publication/301771909_Is_there_a_gender_difference_in_scientific_collaboration_A_scientometric_examination_of_co_authorships_among_industrial_organizational_psychologists">https://www.researchgate.net/publication/301771909</a>
 * <a href="https://jlsumner.shinyapps.io/syllabustool/">How Diverse is Your Syllabus?</a>
 * <a href="http://www.highcharts.com/blog/223-visualizing-the-gender-of-us-senators">Visualizing the gender of US senators with R and Highmaps</a>
 * <a href="https://aschinchon.wordpress.com/2016/06/06/women-in-orchestras/">Women in Orchestras</a>
