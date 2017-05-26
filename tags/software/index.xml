@@ -11,20 +11,6 @@
     <atom:link href="/tags/software/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>genderizeR</title>
-      <link>https://kalimu.github.io/project/genderizer/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://kalimu.github.io/project/genderizer/</guid>
-      <description>&lt;div id=&#34;r-package-for-gender-prediction-based-on-first-names&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R package for gender prediction based on first names&lt;/h1&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>limeRick</title>
       <link>https://kalimu.github.io/project/limerick/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -34,6 +20,92 @@
 &lt;h1&gt;The bridge between LimeSurvey and R&lt;/h1&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>genderizeR</title>
+      <link>https://kalimu.github.io/project/genderizer/</link>
+      <pubDate>Tue, 27 Jan 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://kalimu.github.io/project/genderizer/</guid>
+      <description>&lt;div id=&#34;r-package-for-gender-prediction-based-on-first-names&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R package for gender prediction based on first names&lt;/h1&gt;
+&lt;p&gt;The package uses&lt;a title=&#34;http://genderize.io&#34; href=&#34;http://genderize.io&#34; target=&#34;_blank&#34;&gt;&lt;em&gt; genderize.io&lt;/em&gt;&lt;/a&gt; API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.&lt;/p&gt;
+&lt;p&gt;README, BugReports and development repository on GitHub: &lt;a title=&#34;https://github.com/kalimu/genderizeR&#34; href=&#34;https://github.com/kalimu/genderizeR&#34; target=&#34;_blank&#34;&gt;https://github.com/kalimu/genderizeR&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The package webpage on CRAN:&lt;br /&gt;
+&lt;a href=&#34;http://cran.r-project.org/web/packages/genderizeR&#34; target=&#34;_blank&#34;&gt;http://cran.r-project.org/web/packages/genderizeR&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;
+Article &amp;amp; Citations:
+&lt;/h2&gt;
+When using the genderizeR R package in your work, &lt;strong&gt;please cite also the &lt;a href=&#34;https://kalimu.github.io/publication/genderizer&#34;&gt;article&lt;/a&gt;&lt;/strong&gt;:
+&lt;p style=&#34;padding-left: 30px;&#34;&gt;
+Kamil Wais, &lt;strong&gt;&lt;em&gt;Gender Prediction Methods Based on First Names with genderizeR&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;The R Journal&lt;/strong&gt;,Vol. 8/1, Aug. 2016, &lt;a href=&#34;https://journal.r-project.org/archive/2016-1/wais.pdf&#34;&gt;https://journal.r-project.org/archive/2016-1/wais.pdf&lt;/a&gt;
+&lt;/p&gt;
+&lt;pre class=&#34;&#34;&gt;@article{RJ-2016-002,
+  author = {Kamil Wais},
+  title = {{Gender Prediction Methods Based on First Names with
+          genderizeR}},
+  year = {2016},
+  journal = {{The R Journal}},
+  url = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html},
+  pages = {17--37},
+  volume = {8},
+  number = {1}
+}
+&lt;/pre&gt;
+&lt;p&gt; &lt;/p&gt;
+Abstract:
+&lt;blockquote&gt;
+In recent years, there has been increased interest in methods for gender prediction based on first names that employ various open data sources. These methods have applications from bibliometric studies to customizing commercial offers for web users. Analysis of gender disparities in science based on such methods are published in the most prestigious journals, although they could be improved by choosing the most suited prediction method with optimal parameters and performing validation studies using the best data source for a given purpose. There is also a need to monitor and report how well a given prediction method works in comparison to others. In this paper, the author recommends a set of tools (including one dedicated to gender prediction, the R package called genderizeR), data sources (including the genderize.io API), and metrics that could be fully reproduced and tested in order to choose the optimal approach suitable for different gender analyses.
+&lt;/blockquote&gt;
+&lt;h2&gt;
+Testimonials:
+&lt;/h2&gt;
+From the peer-reviews:
+&lt;blockquote&gt;
+“[…] In this paper, the authors provide methods and an R package for gender prediction based on a set of names. This comes an opportune time, given the increased number of studies that require gender identification. As someone who has to do this for my own studies,&lt;strong&gt; I immediately see value in this kind of package and know of many colleagues who would also use this package.&lt;/strong&gt;”
+&lt;/blockquote&gt;
+Other testimonials:
+&lt;blockquote&gt;
+&lt;p&gt;It is easy creating a highcharts using highcharter, &lt;strong&gt;an amazing library as genderizeR, the one I use to obtain gender names. I like them a lot&lt;/strong&gt;. &lt;a href=&#34;https://aschinchon.wordpress.com/2016/07/28/visualizing-the-gender-of-us-senators-with-r-and-highmaps/&#34;&gt;Visualizing the Gender of US Senators With R and Highmaps&lt;/a&gt;&lt;/p&gt;
+I also used &lt;strong&gt;a very interesting package called genderizeR&lt;/strong&gt;, which makes gender prediction based on first names &lt;a href=&#34;https://aschinchon.wordpress.com/tag/genderizer/&#34; target=&#34;_blank&#34;&gt;The Gender of Big Data&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Following this discussion on Finnish names, I came across &lt;strong&gt;the fantastic genderizeR package&lt;/strong&gt;, which looks into an online database to determine gender from names in several languages. &lt;a href=&#34;http://stackoverflow.com/questions/16802704/r-is-there-a-package-to-determine-gender-from-english-first-names#&#34; target=&#34;_blank&#34;&gt;[source link] &lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p style=&#34;text-align: left;&#34;&gt;
+I’m a Data Scientist working for a company on the automotive industry. I stumbled upon the genderizeR package while looking for a solution that would allow me to complete missing data, present on our databases. Sometimes some people forget to fill out their honorific titles (e.g. Mrs.), or they’re transcribed poorly from paper-based documents. &lt;strong&gt;With this package, I’m able to not only correct those mistakes, but also to complete the missing data to provide stronger statistical value to my work. All this can be done automatically, directly in R&lt;/strong&gt;. I personally thank Dr. Kamil Wais for helping me with some features that are to be implemented in a future version of the package.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: right;&#34;&gt;
+Carlos
+&lt;/p&gt;
+&lt;strong&gt;Without this package, I never would have been able to implement the algorithm I needed to assess gender balance in syllabi&lt;/strong&gt;, since RShiny doesn’t work well with https. Thanks so much for making it. It’s really great and makes using the genderize.io API so much easier.
+&lt;p style=&#34;text-align: right;&#34;&gt;
+Jane
+&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;
+Examples of applications
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Is there a gender difference in scientific collaboration? A scientometric examination of co-authorships among industrial–organizational psychologists Fell, C.B. &amp;amp; König, C.J. Scientometrics (2016) 108: 113. &lt;a href=&#34;doi:10.1007/s11192-016-1967-5&#34; class=&#34;uri&#34;&gt;doi:10.1007/s11192-016-1967-5&lt;/a&gt; &lt;a href=&#34;http://link.springer.com/article/10.1007/s11192-016-1967-5&#34;&gt;http://link.springer.com/article/10.1007/s11192-016-1967-5&lt;/a&gt; &lt;a href=&#34;https://www.researchgate.net/publication/301771909_Is_there_a_gender_difference_in_scientific_collaboration_A_scientometric_examination_of_co_authorships_among_industrial_organizational_psychologists&#34;&gt;https://www.researchgate.net/publication/301771909&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jlsumner.shinyapps.io/syllabustool/&#34;&gt;How Diverse is Your Syllabus?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.highcharts.com/blog/223-visualizing-the-gender-of-us-senators&#34;&gt;Visualizing the gender of US senators with R and Highmaps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aschinchon.wordpress.com/2016/06/06/women-in-orchestras/&#34;&gt;Women in Orchestras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aschinchon.wordpress.com/2016/02/17/the-gender-of-big-data/&#34;&gt;The Gender of Big Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;
+Collaboration
+&lt;/h2&gt;
+&lt;p&gt;Feel free to comment or contribute in any way! Let me know if you are using the genderizeR package in your work or if I could help you in your research or commercial project.&lt;/p&gt;
+&lt;div id=&#34;package-downloads&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Package downloads&lt;/h2&gt;
+&lt;p&gt;(from CRAN RStudio mirror)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kalimu.github.io/project/genderizer_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>

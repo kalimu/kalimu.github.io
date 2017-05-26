@@ -1,6 +1,6 @@
 ---
 title: "genderizeR"
-date: 2015-07-23T21:13:14-05:00
+date: 2015-01-27T21:13:14-05:00
 tags:  ["software","r"]
 image_preview: "headers/gender.gif"
 header: 
@@ -13,7 +13,112 @@ math: false
 
 # R package for gender prediction based on first names
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The package uses<a title="http://genderize.io" href="http://genderize.io" target="_blank"><em> genderize.io</em></a> API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+README, BugReports and development repository on GitHub:
+<a title="https://github.com/kalimu/genderizeR" href="https://github.com/kalimu/genderizeR" target="_blank">https://github.com/kalimu/genderizeR</a>
+
+The package webpage on CRAN:  
+<a href="http://cran.r-project.org/web/packages/genderizeR" target="_blank">http://cran.r-project.org/web/packages/genderizeR</a>
+
+<h2>Article &amp; Citations:</h2>
+When using the genderizeR R package in your work, <strong>please cite also the [article](/publication/genderizer)</strong>:
+<p style="padding-left: 30px;">Kamil Wais, <strong><em>Gender Prediction Methods Based on First Names with genderizeR</em></strong>,
+<strong>The R Journal</strong>,Vol. 8/1, Aug. 2016, <a href="https://journal.r-project.org/archive/2016-1/wais.pdf">https://journal.r-project.org/archive/2016-1/wais.pdf</a></p>
+
+<pre class="">@article{RJ-2016-002,
+  author = {Kamil Wais},
+  title = {{Gender Prediction Methods Based on First Names with
+          genderizeR}},
+  year = {2016},
+  journal = {{The R Journal}},
+  url = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html},
+  pages = {17--37},
+  volume = {8},
+  number = {1}
+}
+</pre>
+&nbsp;
+
+Abstract:
+<blockquote>In recent years, there has been increased interest in methods for gender prediction based on first names that employ various open data sources. These methods have applications from bibliometric studies to customizing commercial offers for web users. Analysis of gender disparities in science based on such methods are published in the most prestigious journals, although they could be improved by choosing the most suited prediction method with optimal parameters and performing validation studies using the best data source for a given purpose. There is also a need to monitor and report how well a given prediction method works in comparison to others. In this paper, the author recommends a set of tools (including one dedicated to gender prediction, the R package called genderizeR), data sources (including the genderize.io API), and metrics that could be fully reproduced and tested in order to choose the optimal approach suitable for different gender analyses.</blockquote>
+<h2>Testimonials:</h2>
+From the peer-reviews:
+<blockquote>"[...] In this paper, the authors provide methods and an R package for gender prediction based on a set of names. This comes an opportune time, given the increased number of studies that require gender identification. As someone who has to do this for my own studies,<strong> I immediately see value in this kind of package and know of many colleagues who would also use this package.</strong>"</blockquote>
+Other testimonials:
+<blockquote>It is easy creating a highcharts using highcharter, <strong>an amazing library as genderizeR, the one I use to obtain gender names. I like them a lot</strong>. <a href="https://aschinchon.wordpress.com/2016/07/28/visualizing-the-gender-of-us-senators-with-r-and-highmaps/">Visualizing the Gender of US Senators With R and Highmaps</a>
+
+I also used <strong>a very interesting package called genderizeR</strong>, which makes gender prediction based on first names <a href="https://aschinchon.wordpress.com/tag/genderizer/" target="_blank">The Gender of Big Data</a></blockquote>
+<blockquote>Following this discussion on Finnish names, I came across <strong>the fantastic genderizeR package</strong>, which looks into an online database to determine gender from names in several languages. <a href="http://stackoverflow.com/questions/16802704/r-is-there-a-package-to-determine-gender-from-english-first-names#" target="_blank">[source link] </a></blockquote>
+<blockquote>
+<p style="text-align: left;">I'm a Data Scientist working for a company on the automotive industry. I stumbled upon the genderizeR package while looking for a solution that would allow me to complete missing data, present on our databases. Sometimes some people forget to fill out their honorific titles (e.g. Mrs.), or they're transcribed poorly from paper-based documents. <strong>With this package, I'm able to not only correct those mistakes, but also to complete the missing data to provide stronger statistical value to my work. All this can be done automatically, directly in R</strong>. I personally thank Dr. Kamil Wais for helping me with some features that are to be implemented in a future version of the package.</p>
+<p style="text-align: right;">Carlos</p>
+<strong>Without this package, I never would have been able to implement the algorithm I needed to assess gender balance in syllabi</strong>, since RShiny doesn't work well with https. Thanks so much for making it. It's really great and makes using the genderize.io API so much easier.
+<p style="text-align: right;">Jane</p>
+</blockquote>
+<h2>Examples of applications</h2>
+
+* Is there a gender difference in scientific collaboration? A scientometric examination of co-authorships among industrial–organizational psychologists
+Fell, C.B. &amp; König, C.J. Scientometrics (2016) 108: 113. doi:10.1007/s11192-016-1967-5
+<a href="http://link.springer.com/article/10.1007/s11192-016-1967-5">http://link.springer.com/article/10.1007/s11192-016-1967-5</a>
+<a href="https://www.researchgate.net/publication/301771909_Is_there_a_gender_difference_in_scientific_collaboration_A_scientometric_examination_of_co_authorships_among_industrial_organizational_psychologists">https://www.researchgate.net/publication/301771909</a>
+* <a href="https://jlsumner.shinyapps.io/syllabustool/">How Diverse is Your Syllabus?</a>
+* <a href="http://www.highcharts.com/blog/223-visualizing-the-gender-of-us-senators">Visualizing the gender of US senators with R and Highmaps</a>
+* <a href="https://aschinchon.wordpress.com/2016/06/06/women-in-orchestras/">Women in Orchestras</a>
+* <a href="https://aschinchon.wordpress.com/2016/02/17/the-gender-of-big-data/">The Gender of Big Data</a>
+
+
+<h2>Collaboration</h2>
+Feel free to comment or contribute in any way! Let me know if you are using the genderizeR package in your work or if I could help you in your research or commercial project.
+
+## Package downloads 
+(from CRAN RStudio mirror)
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(stringr)
+library(dplyr)
+library(ggplot2)
+library(lubridate)
+library(cranlogs)
+library(zoo)
+library(scales)
+
+get_initial_release_date = function(packages)
+{
+    min_date = Sys.Date() - 1
+    
+    for (pkg in packages)
+    {
+        # api data for package. we want the initial release - the first element of the "timeline"
+        pkg_data = httr::GET(paste0("http://crandb.r-pkg.org/", pkg, "/all"))
+        pkg_data = httr::content(pkg_data)
+        
+        initial_release = pkg_data$timeline[[1]]
+        min_date = min(min_date, as.Date(initial_release))    
+    }
+    
+    min_date
+}
+
+  
+      packages <- "genderizeR"
+      
+      
+      cran_downloads0 <- failwith(NULL, cran_downloads, quiet = TRUE)
+      
+      downloads <- 
+      cran_downloads0(package = packages, 
+                      from    = get_initial_release_date(packages), 
+                      to      = Sys.Date()-1)
+  
+    
+  
+      d <- downloads
+      
+          d = d %>% group_by(package) %>% transmute(count=cumsum(count), date=date) 
+      
+
+    ggplot(d, aes(date, count, color = package)) + geom_line() + xlab("Date") + scale_y_continuous(name="Number of downloads")
  
+```
