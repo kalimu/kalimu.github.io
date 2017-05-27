@@ -2,34 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Kamil Wais</title>
-    <link>https://kalimu.github.io/tags/r/</link>
+    <link>/tags/r/</link>
     <description>Recent content in R on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais [v.002]</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown</copyright>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     <atom:link href="/tags/r/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>limeRick</title>
-      <link>https://kalimu.github.io/project/limerick/</link>
+      <link>/project/limerick/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/limerick/</guid>
-      <description>&lt;div id=&#34;the-bridge-between-limesurvey-and-r&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;The bridge between LimeSurvey and R&lt;/h1&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+      <guid>/project/limerick/</guid>
+      <description>&lt;div id=&#34;limerick-the-bridge-between-limesurvey-and-r&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;limeRick: The bridge between LimeSurvey and R&lt;/h1&gt;
+&lt;p&gt;The R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;importing on-line survey responses into R,&lt;/li&gt;
+&lt;li&gt;adding new responses to the survey directly from R,&lt;/li&gt;
+&lt;li&gt;automatically accessing surveys and question properties,&lt;/li&gt;
+&lt;li&gt;implementing passive measurement surveys,&lt;/li&gt;
+&lt;li&gt;developing data products based on real-time declarative data collection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;README, BugReports and development repository on GitHub: &lt;a href=&#34;https://github.com/kalimu/LimeRick&#34;&gt;https://github.com/kalimu/LimeRick&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;roadmap&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Roadmap&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;updating and expanding documentation of the package (man pages)&lt;/li&gt;
+&lt;li&gt;checking available LimeSurvey updates via R&lt;/li&gt;
+&lt;li&gt;ping function to an active survey&lt;/li&gt;
+&lt;li&gt;function for populating survey with temporary lorem ipsum answers&lt;/li&gt;
+&lt;li&gt;dedicated demo Shiny app&lt;/li&gt;
+&lt;li&gt;getting only new responses&lt;/li&gt;
+&lt;li&gt;automatically labelling survey questions in R&lt;/li&gt;
+&lt;li&gt;generating a data frame of temporary responses&lt;/li&gt;
+&lt;li&gt;unit testing&lt;/li&gt;
+&lt;li&gt;tutorial vignette&lt;/li&gt;
+&lt;li&gt;package on CRAN&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;first public package presentation on European R User Meeting in Poznań&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>genderizeR</title>
-      <link>https://kalimu.github.io/project/genderizer/</link>
+      <link>/project/genderizer/</link>
       <pubDate>Tue, 27 Jan 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/genderizer/</guid>
+      <guid>/project/genderizer/</guid>
       <description>&lt;div id=&#34;r-package-for-gender-prediction-based-on-first-names&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R package for gender prediction based on first names&lt;/h1&gt;
 &lt;p&gt;The package uses&lt;a title=&#34;http://genderize.io&#34; href=&#34;http://genderize.io&#34; target=&#34;_blank&#34;&gt;&lt;em&gt; genderize.io&lt;/em&gt;&lt;/a&gt; API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.&lt;/p&gt;
@@ -39,7 +63,7 @@
 &lt;h2&gt;
 Article &amp;amp; Citations:
 &lt;/h2&gt;
-When using the genderizeR R package in your work, &lt;strong&gt;please cite also the &lt;a href=&#34;https://kalimu.github.io/publication/genderizer&#34;&gt;article&lt;/a&gt;&lt;/strong&gt;:
+When using the genderizeR R package in your work, &lt;strong&gt;please cite also the &lt;a href=&#34;/publication/genderizer&#34;&gt;article&lt;/a&gt;&lt;/strong&gt;:
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;
 Kamil Wais, &lt;strong&gt;&lt;em&gt;Gender Prediction Methods Based on First Names with genderizeR&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;The R Journal&lt;/strong&gt;,Vol. 8/1, Aug. 2016, &lt;a href=&#34;https://journal.r-project.org/archive/2016-1/wais.pdf&#34;&gt;https://journal.r-project.org/archive/2016-1/wais.pdf&lt;/a&gt;
 &lt;/p&gt;
@@ -109,7 +133,7 @@ Collaboration
 &lt;div id=&#34;package-downloads&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Package downloads&lt;/h2&gt;
 &lt;p&gt;(from CRAN RStudio mirror)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://kalimu.github.io/project/genderizer_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/project/genderizer_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -117,14 +141,30 @@ Collaboration
     
     <item>
       <title>RRUG</title>
-      <link>https://kalimu.github.io/project/rrug/</link>
+      <link>/project/rrug/</link>
       <pubDate>Wed, 23 Jul 2014 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/rrug/</guid>
+      <guid>/project/rrug/</guid>
       <description>&lt;div id=&#34;resovia-r-user-group-rrug&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Resovia R User Group (RRUG)&lt;/h1&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;[in Polish]&lt;/p&gt;
+&lt;p&gt;Od kwietnia 2016 roku działa pod patronatem WSIiZ w Rzeszowie Resovia R User Group (RRUG), czyli Rzeszowska Grupa Użytkowników R’a. Język programowania statystycznego R jest standardem zarówno wśród analityków sektora komercyjnego, administracyjnego, jak i pracowników naukowych. Globalna liczba jego użytkowników szacowana jest w milionach i stale rośnie. Wymianę doświadczeń związanych z analizą danych za pomocą R’a wspierają liczne grupy użytkowników R’a – lokalne społeczności analityków i programistów wspierające się w rozwoju zawodowym, naukowym i projektach analitycznych. Stworzenie takiej właśnie społeczności jest celem również naszej grupy.&lt;/p&gt;
+&lt;p&gt;Bieżąca komunikacja wewnątrz grupy odbywa się za pomocą Slack’a: rerug.slack.com. Jeśli nie możesz się dołączyć do grupy lub nie dostałaś zaproszenia skontaktuj się ze mną – można użyć formularza kontaktowego na tej stronie.&lt;/p&gt;
+&lt;p&gt;Spotykamy się w wybrane środy o 17.00 w Wyższej Szkole Informatyki i Zarządzania w Rzeszowie (WSIiZ) na Sucharskiego 2. O dokładnych terminach staramy się powiadamiać z minimum tygodniowym wyprzedzeniem (jak tylko uzyskamy potwierdzenia od prowadzących na danym spotkaniu prezentacje).&lt;/p&gt;
+&lt;p&gt;Spotkania składają się zwykle z dwóch krótkich prezentacji (2 x ok. 20-30 min). Po prezentacjach przewidujemy swobodną wymianę myśli i zarysowanie planów przyszłych spotkań. Jest też czas na dyskusję w kuluarach, wymianę doświadczeń, networking. Atmosfera spotkań jest przyjazna i nieformalna.&lt;/p&gt;
+&lt;p&gt;Jeśli jest zapotrzebowanie możemy spotkanie przekształcić w mini warsztaty wprowadzające do wybranych zagadnień związanych z R’em. Wtedy też uczestnicy pojawiają się ze swoimi laptopami. Na zwykłych spotkaniach nie są one potrzebne. Prowadzącym zapewniamy dostęp do komputera z Internetem i rzutnika multimedialnego (oczywiście można też przyjść ze swoim sprzętem).&lt;/p&gt;
+&lt;p&gt;Jak dotąd uczestnikami spotkań byli przedstawiciele firm, innych uczelni rzeszowskich, administracji, programiści, zawodowi i początkujący analitycy, informatycy i badacze społeczni, studenci. Zapraszamy i zachęcamy do przekazania tej informacji wszystkim zainteresowanym. Proszę tylko ze względów logistycznych o wstępne zgłaszanie swojej chęci obecności (ew. liczby chętnych osób). Można skorzystać ze slacka lub formularza kontaktowego.&lt;/p&gt;
+&lt;div id=&#34;informacje-o-wybranych-spotkaniach&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Informacje o wybranych spotkaniach:&lt;/h2&gt;
+&lt;div id=&#34;listopada-2016-r.&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;30 listopada 2016 r.&lt;/h3&gt;
+&lt;p&gt;Mieliśmy dwie prezentacje:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Relacja z październikowego eRum – Europejskiego Spotkania Użytkowników R’a (by Kamil Wais). Prezentacja dostępna tutaj: &lt;a href=&#34;http://rpubs.com/kalimu/erum-about&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum-about&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;dr Piotr Lasek przedstawił prezentację “Początki i współczesne wyzwania wizualizacji danych” i opowiedział o swoich doświadczeniach z tą problematyką, którą zajmował się przez ostatnie 2 lata jako Postdoctoral Fellow w York University (Toronto). Można było dowiedzieć się o drodze jaką przeszła wizualizacja danych od swoich początków, po katastrofę promu Challenger i na współczesnych narzędziach wizualizacji terabajtowych zbiorów danych skończywszy. Więcej informacji o naszym prelegencie: &lt;a href=&#34;http://piotrlasek.com/about/&#34; class=&#34;uri&#34;&gt;http://piotrlasek.com/about/&lt;/a&gt; Prezentacja dostępna tutaj: &lt;a href=&#34;http://piotrlasek.com/talks/datavis&#34; class=&#34;uri&#34;&gt;http://piotrlasek.com/talks/datavis&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>

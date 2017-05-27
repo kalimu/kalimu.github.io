@@ -11,9 +11,30 @@ external_link: ""
 math: false
 ---
 
-# The bridge between LimeSurvey and R
+# limeRick: The bridge between LimeSurvey and R
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
- 
+* importing on-line survey responses into R,
+* adding new responses to the survey directly from R,
+* automatically accessing surveys and question properties,
+* implementing passive measurement surveys,
+* developing data products based on real-time declarative data collection.
+
+README, BugReports and development repository on GitHub:
+<a href="https://github.com/kalimu/LimeRick">https://github.com/kalimu/LimeRick</a>
+
+## Roadmap
+
+* updating and expanding documentation of the package (man pages)
+* checking available LimeSurvey updates via R
+* ping function to an active survey
+* function for populating survey with temporary lorem ipsum answers
+* dedicated demo Shiny app
+* getting only new responses
+* automatically labelling survey questions in R
+* generating a data frame of temporary responses
+* unit testing
+* tutorial vignette
+* package on CRAN
+* ~~first public package presentation on European R User Meeting in Poznań~~
