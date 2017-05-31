@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kamil Wais on Kamil Wais</title>
-    <link>/</link>
+    <link>https://kalimu.github.io/</link>
     <description>Recent content in Kamil Wais on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,11 +11,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Building static homepage with R &amp; blogdown</title>
+      <link>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</guid>
+      <description>&lt;p&gt;This new homepage is a static website generated in R (!) with the help of brilliant &lt;code&gt;blogdown&lt;/code&gt; package by Yihui Xie. &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is the site engine and it also uses amazing &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Academic theme&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More about the blogdown R package you can find here: &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; class=&#34;uri&#34;&gt;https://bookdown.org/yihui/blogdown/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Some additional usefull posts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://daijiang.name/en/2017/03/30/updating-website-with-hugo-and-blogdown/&#34; class=&#34;uri&#34;&gt;https://daijiang.name/en/2017/03/30/updating-website-with-hugo-and-blogdown/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proquestionasker.github.io/blog/Making_Site/&#34; class=&#34;uri&#34;&gt;https://proquestionasker.github.io/blog/Making_Site/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Gender Prediction Methods based on First Names with genderizeR</title>
-      <link>/publication/genderizer/</link>
+      <link>https://kalimu.github.io/publication/genderizer/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/genderizer/</guid>
+      <guid>https://kalimu.github.io/publication/genderizer/</guid>
       <description>&lt;p&gt;When using the genderizeR R package in your work, please cite also the article:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;@article{RJ-2016-002,
@@ -35,19 +51,19 @@
     
     <item>
       <title>International On-line Expert Access Panel for Open Science Development (poster)</title>
-      <link>/talk/2016-tokyo/</link>
+      <link>https://kalimu.github.io/talk/2016-tokyo/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/talk/2016-tokyo/</guid>
+      <guid>https://kalimu.github.io/talk/2016-tokyo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>limeRick</title>
-      <link>/project/limerick/</link>
+      <link>https://kalimu.github.io/project/limerick/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/project/limerick/</guid>
+      <guid>https://kalimu.github.io/project/limerick/</guid>
       <description>&lt;div id=&#34;limerick-the-bridge-between-limesurvey-and-r&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;limeRick: The bridge between LimeSurvey and R&lt;/h1&gt;
 &lt;p&gt;The R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:&lt;/p&gt;
@@ -82,10 +98,10 @@
     
     <item>
       <title>genderizeR</title>
-      <link>/project/genderizer/</link>
+      <link>https://kalimu.github.io/project/genderizer/</link>
       <pubDate>Tue, 27 Jan 2015 21:13:14 -0500</pubDate>
       
-      <guid>/project/genderizer/</guid>
+      <guid>https://kalimu.github.io/project/genderizer/</guid>
       <description>&lt;div id=&#34;r-package-for-gender-prediction-based-on-first-names&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R package for gender prediction based on first names&lt;/h1&gt;
 &lt;p&gt;The package uses&lt;a title=&#34;http://genderize.io&#34; href=&#34;http://genderize.io&#34; target=&#34;_blank&#34;&gt;&lt;em&gt; genderize.io&lt;/em&gt;&lt;/a&gt; API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.&lt;/p&gt;
@@ -95,7 +111,7 @@
 &lt;h2&gt;
 Article &amp;amp; Citations:
 &lt;/h2&gt;
-When using the genderizeR R package in your work, &lt;strong&gt;please cite also the &lt;a href=&#34;/publication/genderizer&#34;&gt;article&lt;/a&gt;&lt;/strong&gt;:
+When using the genderizeR R package in your work, &lt;strong&gt;please cite also the &lt;a href=&#34;https://kalimu.github.io/publication/genderizer&#34;&gt;article&lt;/a&gt;&lt;/strong&gt;:
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;
 Kamil Wais, &lt;strong&gt;&lt;em&gt;Gender Prediction Methods Based on First Names with genderizeR&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;The R Journal&lt;/strong&gt;,Vol. 8/1, Aug. 2016, &lt;a href=&#34;https://journal.r-project.org/archive/2016-1/wais.pdf&#34;&gt;https://journal.r-project.org/archive/2016-1/wais.pdf&lt;/a&gt;
 &lt;/p&gt;
@@ -165,7 +181,7 @@ Collaboration
 &lt;div id=&#34;package-downloads&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Package downloads&lt;/h2&gt;
 &lt;p&gt;(from CRAN RStudio mirror)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/project/genderizer_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kalimu.github.io/project/genderizer_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -173,10 +189,10 @@ Collaboration
     
     <item>
       <title>RRUG</title>
-      <link>/project/rrug/</link>
+      <link>https://kalimu.github.io/project/rrug/</link>
       <pubDate>Wed, 23 Jul 2014 21:13:14 -0500</pubDate>
       
-      <guid>/project/rrug/</guid>
+      <guid>https://kalimu.github.io/project/rrug/</guid>
       <description>&lt;div id=&#34;resovia-r-user-group-rrug&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Resovia R User Group (RRUG)&lt;/h1&gt;
 &lt;p&gt;[in Polish]&lt;/p&gt;
