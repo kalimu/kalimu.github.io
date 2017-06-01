@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Kamil Wais</title>
-    <link>https://kalimu.github.io/publication_types/2/</link>
+    <link>/publication_types/2/</link>
     <description>Recent content in 2 on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Gender Prediction Methods based on First Names with genderizeR</title>
-      <link>https://kalimu.github.io/publication/genderizer/</link>
+      <link>/publication/genderizer/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/publication/genderizer/</guid>
+      <guid>/publication/genderizer/</guid>
       <description>&lt;p&gt;When using the genderizeR R package in your work, please cite also the article:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;@article{RJ-2016-002,

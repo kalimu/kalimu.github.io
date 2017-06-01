@@ -1,0 +1,47 @@
+---
+title: 'Resources: Programming & Data Science in R'
+author: Kamil Wais
+date: '2017-06-01'
+slug: resources-programming-data-science-in-r
+categories:
+  - bibliography
+tags:
+  - R
+  - MOOCs
+  - books
+  - programming
+  - DataScience
+---
+
+This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.   
+
+The last update of this post was done: `r Sys.Date()`.
+
+## Books (on-line & printed)
+
+1. __Hadley Wickham, *Advanced R*__    
+http://adv-r.had.co.nz/  
+_The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side._  
+<small>[programming in R]</small>
+<div class="star-ratings-css"><div class="star-ratings-css-top" style="width: 100%"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div><div class="star-ratings-css-bottom"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div></div>
+
+1. __Hadley Wickham, *R packages*__    
+http://adv-r.had.co.nz/  
+_[...] You’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better._  
+<small>[programming in R][R package development]</small>
+<div class="star-ratings-css"><div class="star-ratings-css-top" style="width: 100%"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div><div class="star-ratings-css-bottom"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div></div>
+
+1. __R Core Team, *Writing R Extensions*__    
+http://cran.r-project.org/doc/manuals/r-release/R-exts.html 
+_Official R Package documentation. Mandatory reading for R Package developers but not very user-friendly._   
+<small>[R package development]</small>
+<div class="star-ratings-css"><div class="star-ratings-css-top" style="width: 65%"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div><div class="star-ratings-css-bottom"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div></div>
+
+1. __Marek Gągolewski, *Programowanie w języku R. Analiza danych. Obliczenia. Symulacje*__    
+http://ksiegarnia.pwn.pl/produkt/213568/programowanie-w-jezyku-r.html   
+_Formalne, ustrukturyzowane podejście do języka. Raczej dla osób powyżej początkujących._   
+<small>[in Polish][programming in R][Data Science in R]</small>
+<div class="star-ratings-css"><div class="star-ratings-css-top" style="width: 80%"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div><div class="star-ratings-css-bottom"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div></div>
+
+
+

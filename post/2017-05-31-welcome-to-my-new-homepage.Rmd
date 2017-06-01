@@ -6,7 +6,7 @@ categories:
   - news
 tags:
   - blogdown
-  - r
+  - R
 slug: building-static-homepage-with-R-and-blogdown
 ---
 
