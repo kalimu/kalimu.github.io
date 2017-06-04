@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kamil Wais</title>
-    <link>/categories/</link>
+    <link>https://kalimu.github.io/categories/</link>
     <description>Recent content in Categories on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Bibliography</title>
-      <link>/categories/bibliography/</link>
+      <link>https://kalimu.github.io/categories/bibliography/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/bibliography/</guid>
+      <guid>https://kalimu.github.io/categories/bibliography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/categories/news/</link>
+      <link>https://kalimu.github.io/categories/news/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/news/</guid>
+      <guid>https://kalimu.github.io/categories/news/</guid>
       <description></description>
     </item>
     
