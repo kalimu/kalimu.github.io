@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogdown on Kamil Wais</title>
-    <link>/tags/blogdown/</link>
+    <link>https://kalimu.github.io/tags/blogdown/</link>
     <description>Recent content in Blogdown on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Building static homepage with R &amp; blogdown</title>
-      <link>/post/building-static-homepage-with-r-and-blogdown/</link>
+      <link>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/building-static-homepage-with-r-and-blogdown/</guid>
+      <guid>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</guid>
       <description>&lt;p&gt;This new homepage is a static website generated in R (!) with the help of brilliant &lt;code&gt;blogdown&lt;/code&gt; package by Yihui Xie. &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is the site engine and it also uses amazing &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Academic theme&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;More about the blogdown R package you can find here: &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; class=&#34;uri&#34;&gt;https://bookdown.org/yihui/blogdown/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Some additional usefull posts:&lt;/p&gt;

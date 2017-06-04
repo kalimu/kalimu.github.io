@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bibliography on Kamil Wais</title>
-    <link>/categories/bibliography/</link>
+    <link>https://kalimu.github.io/categories/bibliography/</link>
     <description>Recent content in Bibliography on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,18 +12,17 @@
     
     <item>
       <title>Resources: Programming &amp; Data Science in R</title>
-      <link>/post/resources-programming-data-science-in-r/</link>
+      <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/resources-programming-data-science-in-r/</guid>
+      <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>&lt;p&gt;This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-06-01.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2017-06-04.&lt;/p&gt;
 &lt;div id=&#34;books-on-line-printed&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Books (on-line &amp;amp; printed)&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Hadley Wickham, &lt;em&gt;Advanced R&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&#34;http://adv-r.had.co.nz/&#34; class=&#34;uri&#34;&gt;http://adv-r.had.co.nz/&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.&lt;/em&gt; &lt;a href=&#34;http://adv-r.had.co.nz/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
 &lt;small&gt;[programming in R]&lt;/small&gt;
 &lt;div class=&#34;star-ratings-css&#34;&gt;
 &lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
@@ -34,8 +33,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hadley Wickham, &lt;em&gt;R packages&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&#34;http://adv-r.had.co.nz/&#34; class=&#34;uri&#34;&gt;http://adv-r.had.co.nz/&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;[…] You’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;[…] You’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.&lt;/em&gt; &lt;a href=&#34;http://adv-r.had.co.nz/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
 &lt;small&gt;[programming in R][R package development]&lt;/small&gt;
 &lt;div class=&#34;star-ratings-css&#34;&gt;
 &lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
@@ -46,7 +44,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;R Core Team, &lt;em&gt;Writing R Extensions&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&#34;http://cran.r-project.org/doc/manuals/r-release/R-exts.html&#34; class=&#34;uri&#34;&gt;http://cran.r-project.org/doc/manuals/r-release/R-exts.html&lt;/a&gt; &lt;em&gt;Official R Package documentation. Mandatory reading for R Package developers but not very user-friendly.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Official R Package documentation. Mandatory reading for R Package developers but not very user-friendly.&lt;/em&gt; &lt;a href=&#34;http://cran.r-project.org/doc/manuals/r-release/R-exts.html&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
 &lt;small&gt;[R package development]&lt;/small&gt;
 &lt;div class=&#34;star-ratings-css&#34;&gt;
 &lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 65%&#34;&gt;
@@ -57,9 +55,35 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Marek Gągolewski, &lt;em&gt;Programowanie w języku R. Analiza danych. Obliczenia. Symulacje&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&#34;http://ksiegarnia.pwn.pl/produkt/213568/programowanie-w-jezyku-r.html&#34; class=&#34;uri&#34;&gt;http://ksiegarnia.pwn.pl/produkt/213568/programowanie-w-jezyku-r.html&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;Formalne, ustrukturyzowane podejście do języka. Raczej dla osób powyżej początkujących.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Formalne, ustrukturyzowane podejście do języka. Raczej dla osób powyżej początkujących.&lt;/em&gt; &lt;a href=&#34;http://ksiegarnia.pwn.pl/produkt/213568/programowanie-w-jezyku-r.html&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
 &lt;small&gt;[in Polish][programming in R][Data Science in R]&lt;/small&gt;
+&lt;div class=&#34;star-ratings-css&#34;&gt;
+&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 80%&#34;&gt;
+&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
+&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Andrea Spanò, &lt;em&gt;Ramarro. R for Developers&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;For more advanced R programmers. Included topics about OOP, debugging and profiling, parallel computation, and C++ integration via Rcpp.&lt;/em&gt; &lt;a href=&#34;http://www.quantide.com/ramarro-r-for-developers/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
+&lt;small&gt;[programming in R]&lt;/small&gt;
+&lt;div class=&#34;star-ratings-css&#34;&gt;
+&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 80%&#34;&gt;
+&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
+&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-courses&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video Courses&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Jared P. Lander, &lt;em&gt;R Programming LiveLessons. Fundamentals to Advanced&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;16+ Hours of Video Instruction. R Programming: Fundamentals to Advanced is a tour through the most important parts of R, the statistical programming language, from the very basics to complex modeling. It covers reading data, programming basics, visualization. data munging, regression, classification, clustering, modern machine learning and more.&lt;/em&gt; &lt;a href=&#34;http://www.informit.com/store/r-programming-livelessons-video-training-fundamentals-9780133743272&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
+&lt;small&gt;[programming in R][Data Science in R]&lt;/small&gt;
 &lt;div class=&#34;star-ratings-css&#34;&gt;
 &lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 80%&#34;&gt;
 &lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
