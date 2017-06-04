@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Środowisko fizyczne i społeczne oraz jakość funkcjonowania szkoły a zdrowie subiektywne i zachowania zdrowotne nastolatków. Raport końcowy z realizacji projektu badawczego</title>
+      <link>https://kalimu.github.io/publication/imid/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/publication/imid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Resources: Programming &amp; Data Science in R</title>
       <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
@@ -23,7 +32,7 @@
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Hadley Wickham, &lt;em&gt;Advanced R&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.&lt;/em&gt; &lt;a href=&#34;http://adv-r.had.co.nz/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-&lt;small&gt;[programming in R]&lt;/small&gt;
+
 &lt;div class=&#34;star-ratings-css&#34;&gt;
 &lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
 &lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
@@ -34,7 +43,7 @@
 &lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hadley Wickham, &lt;em&gt;R packages&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;[…] You’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.&lt;/em&gt; &lt;a href=&#34;http://adv-r.had.co.nz/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-&lt;small&gt;[programming in R][R package development]&lt;/small&gt;
+
 &lt;div class=&#34;star-ratings-css&#34;&gt;
 &lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
 &lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
@@ -56,7 +65,7 @@
 &lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Marek Gągolewski, &lt;em&gt;Programowanie w języku R. Analiza danych. Obliczenia. Symulacje&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;Formalne, ustrukturyzowane podejście do języka. Raczej dla osób powyżej początkujących.&lt;/em&gt; &lt;a href=&#34;http://ksiegarnia.pwn.pl/produkt/213568/programowanie-w-jezyku-r.html&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-&lt;small&gt;[in Polish][programming in R][Data Science in R]&lt;/small&gt;
+
 &lt;div class=&#34;star-ratings-css&#34;&gt;
 &lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 80%&#34;&gt;
 &lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
@@ -67,7 +76,7 @@
 &lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Andrea Spanò, &lt;em&gt;Ramarro. R for Developers&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;For more advanced R programmers. Included topics about OOP, debugging and profiling, parallel computation, and C++ integration via Rcpp.&lt;/em&gt; &lt;a href=&#34;http://www.quantide.com/ramarro-r-for-developers/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-&lt;small&gt;[programming in R]&lt;/small&gt;
+
 &lt;div class=&#34;star-ratings-css&#34;&gt;
 &lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 80%&#34;&gt;
 &lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
@@ -83,7 +92,7 @@
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Jared P. Lander, &lt;em&gt;R Programming LiveLessons. Fundamentals to Advanced&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;16+ Hours of Video Instruction. R Programming: Fundamentals to Advanced is a tour through the most important parts of R, the statistical programming language, from the very basics to complex modeling. It covers reading data, programming basics, visualization. data munging, regression, classification, clustering, modern machine learning and more.&lt;/em&gt; &lt;a href=&#34;http://www.informit.com/store/r-programming-livelessons-video-training-fundamentals-9780133743272&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-&lt;small&gt;[programming in R][Data Science in R]&lt;/small&gt;
+
 &lt;div class=&#34;star-ratings-css&#34;&gt;
 &lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 80%&#34;&gt;
 &lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
@@ -92,6 +101,29 @@
 &lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;massive-open-online-courses-moocs&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Massive Open Online Courses (MOOCs)&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div id=&#34;formal-education&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Formal Education&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Master of Computer Science in Data Science (MCS-DS)&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;With tuition under $20K, the MCS-DS is one of the most affordable gateways to one of the most lucrative and fastest growing careers of the new millennium. The MCS-DS builds expertise in four core areas of computer science: data visualization, machine learning, data mining and cloud computing, in addition to building valuable skill sets in statistics and information science with courses taught in collaboration with the University’s Statistics Department and iSchool (ranked #1 among Library and Information Studies Schools.)&lt;/em&gt; &lt;a href=&#34;https://www.coursera.org/university-programs/masters-in-computer-data-science&#34;&gt;[See more…]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Studia podyplomowe: Metody statystyczne w biznesie. Warsztaty z oprogramowaniem SAS&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Adresatami studiów podyplomowych „Metody statystyczne w biznesie” są wszystkie osoby pracujące na co dzień z danymi, zajmujący się ich analizą, przetwarzaniem, jak również będące odbiorcami takich analiz. Oferta skierowana jest do analityków, specjalistów ds. badań, jak również kadry menedżerskiej. Wszystkie zajęcia mają charakter warsztatów z wykorzystaniem oprogramowania SAS i odbywają się w pracowni komputerowej.&lt;/em&gt; &lt;a href=&#34;http://coin.wne.uw.edu.pl/pwojcik/podyplomowe_statystyka/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
+
+&lt;div class=&#34;star-ratings-css&#34;&gt;
+&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
+&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
+&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Studia podyplomowe: Inżynieria danych – Big Data&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Adresatami studiów są zatem osoby pragnące pogłębić i poszerzyć swoją wiedzę teoretyczną oraz praktyczne umiejętności jej wykorzystania w obszarze nowoczesnych informatycznych metod i narzędzi analityki Big Data, ze szczególnym uwzględnieniem zastosowań biznesowych.&lt;/em&gt; &lt;a href=&#34;http://bigdatacenter.pl/?page_id=166&#34;&gt;[See more…]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>

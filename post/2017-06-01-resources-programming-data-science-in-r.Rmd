@@ -22,13 +22,11 @@ The last update of this post was done: `r Sys.Date()`.
 1. __Hadley Wickham, *Advanced R*__   
 _The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side._
 [[See more...]](http://adv-r.had.co.nz/)   
-<small>[programming in R]</small>
 <div class="star-ratings-css"><div class="star-ratings-css-top" style="width: 100%"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div><div class="star-ratings-css-bottom"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div></div>
 
 1. __Hadley Wickham, *R packages*__  
 _[...] You’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better._
 [[See more...]](http://adv-r.had.co.nz/)  
-<small>[programming in R][R package development]</small>
 <div class="star-ratings-css"><div class="star-ratings-css-top" style="width: 100%"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div><div class="star-ratings-css-bottom"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div></div>
 
 1. __R Core Team, *Writing R Extensions*__   
@@ -40,13 +38,11 @@ _Official R Package documentation. Mandatory reading for R Package developers bu
 1. __Marek Gągolewski, *Programowanie w języku R. Analiza danych. Obliczenia. Symulacje*__  
 _Formalne, ustrukturyzowane podejście do języka. Raczej dla osób powyżej początkujących._
 [[See more...]](http://ksiegarnia.pwn.pl/produkt/213568/programowanie-w-jezyku-r.html)     
-<small>[in Polish][programming in R][Data Science in R]</small>
 <div class="star-ratings-css"><div class="star-ratings-css-top" style="width: 80%"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div><div class="star-ratings-css-bottom"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div></div>
 
 1. __Andrea Spanò, *Ramarro. R for Developers*__   
 _For more advanced R programmers. Included topics about OOP, debugging and profiling, parallel computation, and C++ integration via Rcpp._
 [[See more...]](http://www.quantide.com/ramarro-r-for-developers/)    
-<small>[programming in R]</small>
 <div class="star-ratings-css"><div class="star-ratings-css-top" style="width: 80%"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div><div class="star-ratings-css-bottom"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div></div>
 
 ## Video Courses
@@ -54,7 +50,24 @@ _For more advanced R programmers. Included topics about OOP, debugging and profi
 1. __Jared P. Lander, *R Programming LiveLessons. Fundamentals to Advanced*__   
 _16+ Hours of Video Instruction. R Programming: Fundamentals to Advanced is a tour through the most important parts of R, the statistical programming language, from the very basics to complex modeling.  It covers reading data, programming basics, visualization. data munging, regression, classification, clustering, modern machine learning and more._
 [[See more...]](http://www.informit.com/store/r-programming-livelessons-video-training-fundamentals-9780133743272)   
-<small>[programming in R][Data Science in R]</small>
 <div class="star-ratings-css"><div class="star-ratings-css-top" style="width: 80%"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div><div class="star-ratings-css-bottom"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div></div>
+
+
+## Massive Open Online Courses (MOOCs)
+
+## Formal Education
+
+1. __Master of Computer Science in Data Science (MCS-DS)__    
+_With tuition under $20K, the MCS-DS is one of the most affordable gateways to one of the most lucrative and fastest growing careers of the new millennium. The MCS-DS builds expertise in four core areas of computer science: data visualization, machine learning, data mining and cloud computing, in addition to building valuable skill sets in statistics and information science with courses taught in collaboration with the University’s Statistics Department and iSchool (ranked #1 among Library and Information Studies Schools.)_
+[[See more...]](https://www.coursera.org/university-programs/masters-in-computer-data-science)   
+
+1. __Studia podyplomowe: Metody statystyczne w biznesie. Warsztaty z oprogramowaniem SAS__    
+_Adresatami studiów podyplomowych „Metody statystyczne w biznesie” są wszystkie osoby pracujące na co dzień z danymi, zajmujący się ich analizą, przetwarzaniem, jak również będące odbiorcami takich analiz. Oferta skierowana jest do analityków, specjalistów ds. badań, jak również kadry menedżerskiej. Wszystkie zajęcia mają charakter warsztatów z wykorzystaniem oprogramowania SAS i odbywają się w pracowni komputerowej._
+[[See more...]](http://coin.wne.uw.edu.pl/pwojcik/podyplomowe_statystyka/)   
+<div class="star-ratings-css"><div class="star-ratings-css-top" style="width: 100%"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div><div class="star-ratings-css-bottom"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div></div>
+
+1. __Studia podyplomowe: Inżynieria danych – Big Data__    
+_Adresatami studiów są zatem osoby pragnące pogłębić i poszerzyć swoją wiedzę teoretyczną oraz praktyczne umiejętności jej wykorzystania w obszarze nowoczesnych informatycznych metod i narzędzi analityki Big Data, ze szczególnym uwzględnieniem zastosowań biznesowych._
+[[See more...]](http://bigdatacenter.pl/?page_id=166) 
 
 
