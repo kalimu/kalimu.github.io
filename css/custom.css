@@ -28,3 +28,17 @@
     display: block;
     z-index: 0;
   }
+
+
+a.image_container {
+    /*background-color: #999;style="height: 100px; display: inline; "*/
+    /*width: 200px;*/
+    height: 100px;
+    display: inline-block;
+    overflow: hidden;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+a.image_container img {
+    max-height: 100%;
+}
