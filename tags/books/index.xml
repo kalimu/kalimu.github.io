@@ -17,7 +17,7 @@
       
       <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>&lt;p&gt;This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-06-04.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2017-06-05.&lt;/p&gt;
 &lt;div id=&#34;books-on-line-printed&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Books (on-line &amp;amp; printed)&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -76,6 +76,17 @@
 &lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dan Navarro, &lt;em&gt;Learning Statistics with R&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Over 560 pages of very good introductory materials into statistics and R. Strongly recommended for beginners in statistics.&lt;/em&gt; &lt;a href=&#34;http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
+
+&lt;div class=&#34;star-ratings-css&#34;&gt;
+&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
+&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
+&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div id=&#34;video-courses&#34; class=&#34;section level2&#34;&gt;
@@ -96,6 +107,19 @@
 &lt;/div&gt;
 &lt;div id=&#34;massive-open-online-courses-moocs&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Massive Open Online Courses (MOOCs)&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;DataCamp.com&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Interactive programming and Data Science courses in R and Python. Some of them are free of charge, some of them are premium courses. High quality materials, lots of interactive excercises, well-known data scientists as authors of the courses. Highly recommended.&lt;/em&gt; &lt;a href=&#34;https://www.datacamp.com/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
+
+&lt;div class=&#34;star-ratings-css&#34;&gt;
+&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
+&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
+&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/div&gt;
 &lt;div id=&#34;formal-education&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Formal Education&lt;/h2&gt;
@@ -103,7 +127,7 @@
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Master of Computer Science in Data Science (MCS-DS)&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;With tuition under $20K, the MCS-DS is one of the most affordable gateways to one of the most lucrative and fastest growing careers of the new millennium. The MCS-DS builds expertise in four core areas of computer science: data visualization, machine learning, data mining and cloud computing, in addition to building valuable skill sets in statistics and information science with courses taught in collaboration with the University’s Statistics Department and iSchool (ranked #1 among Library and Information Studies Schools.)&lt;/em&gt; &lt;a href=&#34;https://www.coursera.org/university-programs/masters-in-computer-data-science&#34;&gt;[See more…]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Studia podyplomowe: Metody statystyczne w biznesie. Warsztaty z oprogramowaniem SAS&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Adresatami studiów podyplomowych „Metody statystyczne w biznesie” są wszystkie osoby pracujące na co dzień z danymi, zajmujący się ich analizą, przetwarzaniem, jak również będące odbiorcami takich analiz. Oferta skierowana jest do analityków, specjalistów ds. badań, jak również kadry menedżerskiej. Wszystkie zajęcia mają charakter warsztatów z wykorzystaniem oprogramowania SAS i odbywają się w pracowni komputerowej.&lt;/em&gt; &lt;a href=&#34;http://coin.wne.uw.edu.pl/pwojcik/podyplomowe_statystyka/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Adresatami studiów podyplomowych „Metody statystyczne w biznesie” są wszystkie osoby pracujące na co dzień z danymi, zajmujący się ich analizą, przetwarzaniem, jak również będące odbiorcami takich analiz. Oferta skierowana jest do analityków, specjalistów ds. badań, jak również kadry menedżerskiej. Wszystkie zajęcia mają charakter warsztatów z wykorzystaniem oprogramowania SAS [niestety nie R, ale również warte polecenia] i odbywają się w pracowni komputerowej.&lt;/em&gt; &lt;a href=&#34;http://coin.wne.uw.edu.pl/pwojcik/podyplomowe_statystyka/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
 
 &lt;div class=&#34;star-ratings-css&#34;&gt;
 &lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
