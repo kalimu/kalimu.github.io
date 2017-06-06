@@ -17,7 +17,7 @@
       
       <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>&lt;p&gt;This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-06-05.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2017-06-06.&lt;/p&gt;
 &lt;div id=&#34;books-on-line-printed&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Books (on-line &amp;amp; printed)&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -157,6 +157,123 @@
 &lt;li&gt;&lt;a href=&#34;https://daijiang.name/en/2017/03/30/updating-website-with-hugo-and-blogdown/&#34; class=&#34;uri&#34;&gt;https://daijiang.name/en/2017/03/30/updating-website-with-hugo-and-blogdown/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://proquestionasker.github.io/blog/Making_Site/&#34; class=&#34;uri&#34;&gt;https://proquestionasker.github.io/blog/Making_Site/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Checklist for R package submission to CRAN</title>
+      <link>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
+      <description>&lt;div id=&#34;version-1.2&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Version: 1.2&lt;/h2&gt;
+&lt;p&gt;The last update of this post: 2017-06-06.&lt;/p&gt;
+&lt;p&gt;Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;strong&gt;See what new Hadley recommends&lt;/strong&gt;:&lt;br /&gt;
+(&lt;a href=&#34;http://r-pkgs.had.co.nz/release.html&#34; class=&#34;uri&#34;&gt;http://r-pkgs.had.co.nz/release.html&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Update R &amp;amp; packages&lt;/strong&gt;:
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;li&gt;all packages&lt;/li&gt;
+&lt;li&gt;RStudio (stable or preview version).&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Update your package&lt;/strong&gt;:
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Check unit tests.&lt;/li&gt;
+&lt;li&gt;Update vignettes.&lt;/li&gt;
+&lt;li&gt;Check reverse dependencies.
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;If devtools functions don’t work use:&lt;br /&gt;
+tools::dependsOnPkgs()&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Import undefined globals in the NAMESPACE file&lt;br /&gt;
+(generated automatically by roxygen2)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Update README.md file&lt;/strong&gt;:
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Make change in README.Rmd.&lt;/li&gt;
+&lt;li&gt;Knit the Rmd into md.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Run a R CMD check locally with ‘–as-cran‘ option&lt;/strong&gt;.
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;If you got an error regarding qpdf missing, check:
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;View(Sys.getenv(“PATH”) )&lt;/li&gt;
+&lt;li&gt;Sys.which(Sys.getenv(“R_QPDF”, “qpdf”))&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Run a R CMD check on win-builder&lt;/strong&gt;&lt;br /&gt;
+(devel and release versions) via ‘devtools::build_win()‘.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Run a R CMD check on Ubuntu (via Travis-CI)&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Update ‘cran-comments.md‘&lt;/strong&gt;:
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Test environments,&lt;/li&gt;
+&lt;li&gt;R CMD check results (explain ERRORs, WARNINGs, NOTEs).&lt;/li&gt;
+&lt;li&gt;Downstream dependencies.&lt;/li&gt;
+&lt;li&gt;Resubmit comments.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Update ‘Version‘ field in the DESCRIPTION file&lt;/strong&gt;&lt;br /&gt;
+(major.minor.patch.dev).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Update ‘Date‘ field in the DESCRIPTION file&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Update NEWS.md file&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Push all necessary commits to GitHub&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Run again a R CMD check locally just to be sure&lt;/strong&gt;.
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Use devtools::check().&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Push all necessary commits to GitHub&lt;/strong&gt;.
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Merge branches if necessary&lt;br /&gt;
+Via GithHub website OR Via GIT: git merge –no-ff branch_name&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Check vignettes&lt;/strong&gt;:
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Build your package sources&lt;/li&gt;
+&lt;li&gt;Load them with:&lt;br /&gt;
+install.packages(“../packageName_2.0.90002.tar.gz”,&lt;br /&gt;
+repos = NULL, type = “source”)&lt;/li&gt;
+&lt;li&gt;Use browseVignettes(“genderizeR”)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Submit the package to CRAN&lt;/strong&gt;.
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Use devtools::release().&lt;/li&gt;
+&lt;li&gt;Confirm submission via link in the mail.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Check results of submission&lt;/strong&gt;:
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;in all CRAN checks&lt;br /&gt;
+(from &lt;a href=&#34;http://cran.r-project.org/web/packages&#34; class=&#34;uri&#34;&gt;http://cran.r-project.org/web/packages&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;in comments inside the e-mail from CRAN&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fix what needs to be fixed&lt;/strong&gt;.
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Consider increasing version number.&lt;/li&gt;
+&lt;li&gt;Check everything again.&lt;/li&gt;
+&lt;li&gt;Resubmit to CRAN.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;After successful submission&lt;/strong&gt;:
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Create a new release with tag version on GitHub repo.
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Copy and paste the contents of the relevant NEWS.md section into the release notes&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Increment the version of the package in the DESCRIPTION file (to X.X.X.9000).&lt;/li&gt;
+&lt;li&gt;Promote your package
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Post on personal blog&lt;/li&gt;
+&lt;li&gt;Post on Twitter (use #rstats)&lt;/li&gt;
+&lt;li&gt;R-Bloggers&lt;/li&gt;
+&lt;li&gt;etc.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Update this checklist&lt;/strong&gt;.
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Update the checklist version number.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 </description>
     </item>
     

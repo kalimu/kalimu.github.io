@@ -95,6 +95,15 @@
     
     <url>
     
+      <loc>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</loc>
+      <lastmod>2015-04-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kalimu.github.io/project/genderizer/</loc>
       <lastmod>2015-01-27T21:13:14-05:00</lastmod>
     </url>
@@ -232,6 +241,16 @@
     
       <loc>https://kalimu.github.io/tags/programming/</loc>
       <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kalimu.github.io/categories/programming/</loc>
+      <lastmod>2015-04-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
