@@ -56,6 +56,14 @@ I also used <strong>a very interesting package called genderizeR</strong>, which
 <strong>Without this package, I never would have been able to implement the algorithm I needed to assess gender balance in syllabi</strong>, since RShiny doesn't work well with https. Thanks so much for making it. It's really great and makes using the genderize.io API so much easier.
 <p style="text-align: right;">Jane</p>
 </blockquote>
+
+Jane is the author of a [Shiny app](https://jlsumner.shinyapps.io/syllabustool/), which is an interesting use case for the genderizeR package:
+ 
+> How Gender-Balanced is Your Syllabus?
+> One of the explanations for the gender citation gap is that syllabi are disproportionately male. Thus, when students begin conducting their own research, most of their exposure has been to male researchers. Yet even well-meaning instructors may find that they have difficulty assessing how gender-balanced their syllabi really are. Counting is tedious and prone to human error, and instructors may not know the gender identities of all the authors they cite. This tool aims to help with that, by automating the process of evaluating the (probabilistic) gender of each name and then providing an estimate of what percentage of the authors on a syllabus are women.
+
+I am glad that the package can be helpful for so many applications.
+
 <h2>Examples of applications</h2>
 
 * Fell, C.B. &amp; König, C.J. _Is there a gender difference in scientific collaboration? A scientometric examination of co-authorships among industrial–organizational psychologists_, Scientometrics (2016) 108: 113. 
@@ -70,6 +78,12 @@ I also used <strong>a very interesting package called genderizeR</strong>, which
 
 <h2>Collaboration</h2>
 Feel free to comment or contribute in any way! Let me know if you are using the genderizeR package in your work or if I could help you in your research or commercial project.
+
+
+## Speed Test
+A few people have been asking about the speed of the package, so I have done some speed test using the latest version of the genderizeR package.
+
+Without any parallel programming I managed to check 108 023 unique terms through genderize.io API and it took 45 minutes (2 395 term per minute).
 
 ## Package downloads 
 (from CRAN RStudio mirror)

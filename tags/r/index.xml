@@ -17,7 +17,7 @@
       
       <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>&lt;p&gt;This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-06-06.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2017-06-11.&lt;/p&gt;
 &lt;div id=&#34;books-on-line-printed&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Books (on-line &amp;amp; printed)&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -161,6 +161,20 @@
     </item>
     
     <item>
+      <title>Presentation of R package LimeRick on eRum</title>
+      <link>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</guid>
+      <description>&lt;p&gt;UPDATE: The online static version of the presentation is available here: &lt;a href=&#34;http://rpubs.com/kalimu/erum&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum&lt;/a&gt;. Thank you for all the feedback!&lt;/p&gt;
+&lt;p&gt;In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data. But the LimeRick package will be able to do a lot more. Stay tuned!&lt;/p&gt;
+&lt;p&gt;The abstract:&lt;/p&gt;
+&lt;p&gt;The first public presentation of the prototype of a new R package that provides useful connection between R and the most popular open-source web scripts for on-line surveys (&lt;a href=&#34;http://www.LimeSurvey.org&#34; class=&#34;uri&#34;&gt;http://www.LimeSurvey.org&lt;/a&gt;). The package aims to enable and simplify the work flow of reproducible CAWI research in Social Science; preparing templates for ad hoc and real-time analysis, performing detailed meta-analysis, archiving and monitoring responses directly from R. With the LimeRick package one can import pre-processed data from an on-line survey with an R script (with the use of RemoteConrol2 API or with non-API solution). Then, the data can be processed analytically by an R script and automatically reported with the use of shiny package. The whole process can be pre-programmed and performed without the researcher interference. This enables to build data products based on declarative data from on-line surveys, which are processed, analyzed, and visualized on-line and in real time. It can be of use for performing automatic tracking studies with real-time KPIs monitoring (e.g. for a customer satisfaction survey). The package will be also linked to a tool for unique, advanced analysis of meta-data from an on-line survey, which has already been alpha tested during large CAWI research project. As the early prototype of the package is presented, the presentation will end with a call for collaboration for developing and testing the package in different usage cases.&lt;/p&gt;
+&lt;p&gt;PS. Thanks to Carsten Shmitz (the main developer of LimeSurvey) after my presentation participants interested in LimeSurvey and LimeRick projects will be able to get some gifts (cool promotional materials of LimeSurvey open-source project – see the picture below). See you then!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>limeRick</title>
       <link>https://kalimu.github.io/project/limerick/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -177,6 +191,7 @@
 &lt;li&gt;developing data products based on real-time declarative data collection.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;README, BugReports and development repository on GitHub: &lt;a href=&#34;https://github.com/kalimu/LimeRick&#34;&gt;https://github.com/kalimu/LimeRick&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Presentation of early version of LimeRick package: &lt;a href=&#34;http://rpubs.com/kalimu/erum&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;roadmap&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Roadmap&lt;/h2&gt;
 &lt;ul&gt;
@@ -206,7 +221,7 @@
       <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
       <description>&lt;div id=&#34;version-1.2&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Version: 1.2&lt;/h2&gt;
-&lt;p&gt;The last update of this post: 2017-06-06.&lt;/p&gt;
+&lt;p&gt;The last update of this post: 2017-06-11.&lt;/p&gt;
 &lt;p&gt;Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;strong&gt;See what new Hadley recommends&lt;/strong&gt;:&lt;br /&gt;
@@ -378,6 +393,11 @@ Carlos
 Jane
 &lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;Jane is the author of a &lt;a href=&#34;https://jlsumner.shinyapps.io/syllabustool/&#34;&gt;Shiny app&lt;/a&gt;, which is an interesting use case for the genderizeR package:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;How Gender-Balanced is Your Syllabus? One of the explanations for the gender citation gap is that syllabi are disproportionately male. Thus, when students begin conducting their own research, most of their exposure has been to male researchers. Yet even well-meaning instructors may find that they have difficulty assessing how gender-balanced their syllabi really are. Counting is tedious and prone to human error, and instructors may not know the gender identities of all the authors they cite. This tool aims to help with that, by automating the process of evaluating the (probabilistic) gender of each name and then providing an estimate of what percentage of the authors on a syllabus are women.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I am glad that the package can be helpful for so many applications.&lt;/p&gt;
 &lt;h2&gt;
 Examples of applications
 &lt;/h2&gt;
@@ -397,6 +417,11 @@ Examples of applications
 Collaboration
 &lt;/h2&gt;
 &lt;p&gt;Feel free to comment or contribute in any way! Let me know if you are using the genderizeR package in your work or if I could help you in your research or commercial project.&lt;/p&gt;
+&lt;div id=&#34;speed-test&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Speed Test&lt;/h2&gt;
+&lt;p&gt;A few people have been asking about the speed of the package, so I have done some speed test using the latest version of the genderizeR package.&lt;/p&gt;
+&lt;p&gt;Without any parallel programming I managed to check 108 023 unique terms through genderize.io API and it took 45 minutes (2 395 term per minute).&lt;/p&gt;
+&lt;/div&gt;
 &lt;div id=&#34;package-downloads&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Package downloads&lt;/h2&gt;
 &lt;p&gt;(from CRAN RStudio mirror)&lt;/p&gt;

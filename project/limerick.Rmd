@@ -24,6 +24,8 @@ The R package LimeRick enables close connection between R and LimeSurvey - one o
 README, BugReports and development repository on GitHub:
 <a href="https://github.com/kalimu/LimeRick">https://github.com/kalimu/LimeRick</a>
 
+Presentation of early version of LimeRick package: http://rpubs.com/kalimu/erum
+
 ## Roadmap
 
 * updating and expanding documentation of the package (man pages)

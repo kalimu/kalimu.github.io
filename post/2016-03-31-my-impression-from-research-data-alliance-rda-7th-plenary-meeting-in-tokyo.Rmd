@@ -1,0 +1,46 @@
+---
+title: My impression from Research Data Alliance (RDA) 7th Plenary Meeting in Tokyo
+author: Kamil Wais
+date: '2016-03-31'
+slug: my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo
+categories:
+  - conferences
+tags:
+  - RDA
+  - Open Research Data
+header: 
+    image: "photos/rda_tokyo.jpg"
+    caption: "Research Data Alliance (RDA) 7th Plenary Meeting in Tokyo, 2016"  
+---
+
+Seventh RDA Plenary was organized in Tokyo in March 2016 in close partnership with the Japan Science and Technology Agency (JST). This was the first time a plenary took place in Asia. One of the reason was  to expand the reach of the RDA far beyond America and Europe through increase in organization’s memberships from Asia region.
+
+As one of the winners of the RDA Early Career European Researchers & Scientists Working with Data (RDA P7 Financial Support Programme), I had a unique opportunity and honor to see with my own eyes how activities in RDA look like. Now, I can share with you my experience.
+
+Firstly, RDA is a truly global (international and intercontinental) organization with mission to build the social and technical bridges that enable open sharing of research data. The global character can be seen on every level. For example, to establish a so called „Working Group” you need to cooperate with researchers from at least 3 different continents.
+
+Those Working & Interest Groups are fully community-driven entities, based on volunteers’ work, consensus and a  true passion for Open Research Data and Open Science in general.
+
+The atmosphere inside Working & Interest Groups, as well during the Plenary, is very friendly without artificial distance based on level of experience or position in the academic hierarchy. One has an opportunity to have fascinating talks about science and data with leading word researchers and experts from different industries, disciplines and the most famous research centers.
+
+The RDA plenaries themselves are not like traditional academic conferences. Apart from a global perspective on sharing research data, they lack meaningless paper presentations. Instead, they are focusing on collaborative effort to produce applicable outcomes and recommendations. These outcomes are results of consensus achieved mainly through on-line and off-line discussions. This approach turned out to be effective, as the RDA recommendations are quickly and widely adopted by recognized institutions and organizations.
+
+There also comes a great value from working in such inter-national and inter-cultural environment. It is fascinating to hear about different perspectives and solutions specific to cultural and local conditions. Moreover, there is a mixture of all possible disciplines, from agriculture to astronomy. Many of those disciplines have different perspectives, different approaches to working with research data, which makes a common dialog sometimes difficult but also rewarding when we can agree on some common solutions to different problems.
+
+During  the 7th Plenary I have participated in several Working & Interest Group sessions. Two of them were organized by Data Fabric Interest Group. The term „Data Fabric” (German metaphor for a „factory”) describes the Data Cycle: creating new data collections, processing, registering, describing, storing, preserving and publishing the data. The goal of the group is to improve the cycle, make the cycle more efficient and cost-effective. Considering that the most time data scientists spend on data management, improving such processes will have a huge impact on science.
+
+Although, I am not a librarian, I found the IG Libraries for Research Data session very interesting as well. It was called Applying Global Information Sharing and Collaboration in Libraries to Local Practice, and showed what impressive work librarians from all over the world can do.  Solutions were presented from Japan, Korea and Singapore. Some countries are at the beginning of the process of implementing links between Open Access papers and repositories with Open Research Data. However, their „beginnings” are still very impressive (for example two levels of software platforms for open research data in Korea; one for university repositories and one for central platform that aggregates metadata from local repositories).
+
+Inspired by this session I just can hope that someday many modern Polish librarians will be engaged in developing Open Access, Open Research Software and Open Data infrastructure and Open Science culture in general.
+
+Shortly after  the Plenary discussion the Array Database Assessment WG was created. It focuses on benchmarking, overview and best usage of Array Databases in science, engineering, and beyond. There are big hopes for efficiency and scalability of array databases. If they meet the expectations they may dominate the market of Big Data technologies in close future.
+
+There were many interesting topics in the plenary sessions as well. Jean-Claude Burgelman from the European Commission, talked about European Open Science Cloud project. It might have an impressive effect on changing of many of European researchers’ workflows. I am looking forward to evaluate it myself.
+
+From the round table in Open Symposium: Data-driven Science – The trigger of Scientific development, I got an impression that data-driven approach in science is fairy more appreciated and recognized in Japan than in Poland, where still dominates hypothesis-driven approach especially in social sciences.
+
+I was also impressed  with IT science infrastructure in Japan, and a research project that allows to identify dangerous places on streets where drivers hit breaks rapidly, thanks to spatial-temporal analysis based on data collected from GPS and accelerometers installed in cars. Considering that similar data are produced daily by approximately 100 000 users of some mobile application in Poland, it would be great if similar study would help to improve safety on Polish roads.
+
+I have also come back with positive feedback on my poster presented in Tokyo titled [International On-line Expert Access Panel for Open Science Development](/talk/2016-tokyo/). With some institutional and organizational support such project seems to be feasible and I believe that it can bring a lot of valuable data from science community. Anyone interested in the project is welcome to [contact me](/#contact).
+
+Now, I am back to Poland, but I feel that this was only the beginning of me thinking constantly about science that always takes into account the open research data postulates. Now it is also the time to promote RDA activities in my country, with the vision of global science community that works together and shares its research data for the benefits of all of us.
