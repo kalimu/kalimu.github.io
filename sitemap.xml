@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/imid/</loc>
+      <loc>https://kalimu.github.io/publication/2017_imid/</loc>
       <lastmod>2017-06-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -25,6 +25,15 @@
     
       <loc>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</loc>
       <lastmod>2017-05-31T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kalimu.github.io/publication/2017_prague/</loc>
+      <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -77,7 +86,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/genderizer/</loc>
+      <loc>https://kalimu.github.io/publication/2016_genderizer/</loc>
       <lastmod>2016-08-31T00:00:00+00:00</lastmod>
     </url>
     
@@ -131,6 +140,15 @@
     
     <url>
     
+      <loc>https://kalimu.github.io/publication/2015_shadow_banking/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kalimu.github.io/project/rrug/</loc>
       <lastmod>2014-07-23T21:13:14-05:00</lastmod>
     </url>
@@ -140,7 +158,16 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/action_for_growth/</loc>
+      <loc>https://kalimu.github.io/publication/2013_przeglad_socjologiczny/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kalimu.github.io/publication/2007_action_for_growth/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -168,7 +195,7 @@
     <url>
     
       <loc>https://kalimu.github.io/publication_types/2/</loc>
-      <lastmod>2016-08-31T00:00:00+00:00</lastmod>
+      <lastmod>2017-05-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -179,6 +206,16 @@
     
       <loc>https://kalimu.github.io/publication_types/4/</loc>
       <lastmod>2017-06-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kalimu.github.io/publication_types/5/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -306,8 +343,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/programming/</loc>
-      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <loc>https://kalimu.github.io/categories/programming/</loc>
+      <lastmod>2015-04-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -316,8 +353,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/categories/programming/</loc>
-      <lastmod>2015-04-21T00:00:00+00:00</lastmod>
+      <loc>https://kalimu.github.io/tags/programming/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

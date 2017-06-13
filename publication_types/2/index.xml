@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown</copyright>
-    <lastBuildDate>Wed, 31 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Personal Loan Companies in Poland: Does Empirical Evidence Justify Regulatory Transition?</title>
+      <link>https://kalimu.github.io/publication/2017_prague/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/publication/2017_prague/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gender Prediction Methods based on First Names with genderizeR</title>
-      <link>https://kalimu.github.io/publication/genderizer/</link>
+      <link>https://kalimu.github.io/publication/2016_genderizer/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/publication/genderizer/</guid>
+      <guid>https://kalimu.github.io/publication/2016_genderizer/</guid>
       <description>&lt;p&gt;When using the genderizeR R package in your work, please cite also the article:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;@article{RJ-2016-002,
@@ -31,6 +40,15 @@
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Access Panel and its specificity as a challange for new research techniques based on internet technologies / Access Panel i jego specyfika jako wyzwanie nowych technik badawczych opartych na technologiach internetowych</title>
+      <link>https://kalimu.github.io/publication/2013_przeglad_socjologiczny/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/publication/2013_przeglad_socjologiczny/</guid>
+      <description></description>
     </item>
     
   </channel>
