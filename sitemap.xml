@@ -5,7 +5,16 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/2017_imid/</loc>
+      <loc>https://kalimu.github.io/post/my-data-science-skills-and-tools/</loc>
+      <lastmod>2017-06-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kalimu.github.io/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/</loc>
       <lastmod>2017-06-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/2017_prague/</loc>
+      <loc>https://kalimu.github.io/publication/personal-loan-companies-in-poland/</loc>
       <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,6 +86,15 @@
     
     <url>
     
+      <loc>https://kalimu.github.io/publication/external-evaluation-of-the-school-and-academic-achievements/</loc>
+      <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</loc>
       <lastmod>2016-10-09T00:00:00+00:00</lastmod>
     </url>
@@ -86,7 +104,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/2016_genderizer/</loc>
+      <loc>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</loc>
       <lastmod>2016-08-31T00:00:00+00:00</lastmod>
     </url>
     
@@ -106,6 +124,15 @@
     
       <loc>https://kalimu.github.io/talk/2016-tokyo/</loc>
       <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kalimu.github.io/publication/loan-perception-and-loan-related-attitude-of-poles/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -140,7 +167,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/2015_shadow_banking/</loc>
+      <loc>https://kalimu.github.io/publication/sektor-shadow-banking-in-poland/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -158,7 +185,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/2013_przeglad_socjologiczny/</loc>
+      <loc>https://kalimu.github.io/publication/access-panel-and-its-specificity-as-a-challange-for-new-reserch-techniques-based-on-internet/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -167,7 +194,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/2007_action_for_growth/</loc>
+      <loc>https://kalimu.github.io/publication/action-for-growth-a-resource/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -274,8 +301,18 @@
     
     <url>
     
+      <loc>https://kalimu.github.io/categories/cv/</loc>
+      <lastmod>2017-06-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kalimu.github.io/tags/datascience/</loc>
-      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -354,7 +391,7 @@
     <url>
     
       <loc>https://kalimu.github.io/tags/programming/</loc>
-      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -384,7 +421,7 @@
     <url>
     
       <loc>https://kalimu.github.io/tags/r/</loc>
-      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

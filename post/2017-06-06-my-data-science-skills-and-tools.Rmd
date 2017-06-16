@@ -1,0 +1,24 @@
+---
+title: 'My Data Science Skills & Tools'
+author: Kamil Wais
+date: '2017-06-06'
+slug: my-data-science-skills-and-tools
+categories:
+  - CV
+tags:
+  - R
+  - programming
+  - DataScience
+---
+
+Here is a selection of my Data Science skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.
+
+The last update of this post was done: `r Sys.Date()`.
+
+1. __Data Manipulation__   
+    * Fast data manipulation with R packages:   
+    `dplyr`, `data.table`, `reshape2`. 
+    * Working with dates and time-series:   
+    `lubridate`, `xts`.
+
+

@@ -71,7 +71,7 @@
       <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
       <description>&lt;div id=&#34;version-1.2&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Version: 1.2&lt;/h2&gt;
-&lt;p&gt;The last update of this post: 2017-06-13.&lt;/p&gt;
+&lt;p&gt;The last update of this post: 2017-06-16.&lt;/p&gt;
 &lt;p&gt;Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;strong&gt;See what new Hadley recommends&lt;/strong&gt;:&lt;br /&gt;
