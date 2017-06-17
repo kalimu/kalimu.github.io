@@ -15,10 +15,48 @@ Here is a selection of my Data Science skills and tools that turned out to be he
 
 The last update of this post was done: `r Sys.Date()`.
 
-1. __Data Manipulation__   
-    * Fast data manipulation with R packages:   
-    `dplyr`, `data.table`, `reshape2`. 
-    * Working with dates and time-series:   
-    `lubridate`, `xts`.
 
+
+1. __Data Manipulation__   
+    * Efficient data manipulation in R;   
+    `dplyr`, `data.table`, `reshape2`. 
+    * Working with dates and time-series;   
+    `lubridate`, `xts`.
+1. __Reproducible Analyses__  
+    * RStudio IDE, Markdown, LaTeX;  
+    `RMarkdown`, `knitr`.
+1. __Databases and Data Formats__  
+    * MySQL, MongoDB, JSON, XML, Excel, CSV, shapefiles, Linked Open Data / SPARQL, etc.   
+    `mongolite`, `jsonlite`.
+1. __Data Acquisition__   
+    * parallel web-scrapping; working with REST API;   
+    `httr`, `RCurl`, `rvest`, `RSelenium`.
+1. __Text-mining__  
+    * regular expressions; stemming with dictionary method;   
+    `stringr`, `tm`, `genderizeR`.
+1. __Qualitative Analyses__  
+    * `RQDA`.
+1. __On-Line Surveys (CAWI)__  
+    * advanced on-line surveys in `LimeSurvey`;   
+    `LimeRick`. 
+1. __Networks Analyses__  
+    * visualizing and analyzing networks in `Gelphi`;   
+    * programming dynamic networks simulations in `NetLogo`;   
+1. __Data Visualization__   
+    * static and interactive data visualization;   
+    `ggplot2`, `ggvis`, `waffle`.
+    * dashboards and data reporting via WWW apps;   
+    `Shiny`, `shinydashboard`, `shinyjs`.
+1. __Communicating Results__  
+    * reports and presentations in `Tableau`, `PowerPoint`, and `HTML5`;  
+    `Rmarkdown`, `isoslides`.
+1. __Statistical Analysis & Machine Learning__   
+    * multiple linear regression, logistic regression, ordinal logistic regression, Principal Component Analysis (PCA), factor analysis, segmentation analysis, cluster analysis (k-means, hierarchical clustering), supervised / unsupervised learning, neural networks, Support Vector Machines (SVM), decision trees, Random Forests, Ridge Regression, LASSO, elastic net regularization, K-fold cross-validation, bootstraping, survival analysis;   
+    `caret`.
+1. __Big Data tools__
+    * familiarity with working with 0.5 TB data files;
+    * `MapReduce`, `Hadoop`, `Pig`.
+1. __Other Data Science Tools__  
+    * familiarity with `SPSS`, `SAS`, `Octave`, `RapidMiner`, `Excel VisualBasic`, 
+    `R Revolution Enterprise` / `Microsoft R`.
 

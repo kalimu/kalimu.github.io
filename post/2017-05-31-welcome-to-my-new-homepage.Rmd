@@ -19,6 +19,6 @@ Some additional usefull posts:
 
 * https://daijiang.name/en/2017/03/30/updating-website-with-hugo-and-blogdown/
 * https://proquestionasker.github.io/blog/Making_Site/
-
+* https://help.github.com/articles/quick-start-setting-up-a-custom-domain/
 
 
