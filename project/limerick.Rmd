@@ -9,7 +9,7 @@ header:
 summary: "The bridge between LimeSurvey and R."
 external_link: ""
 math: false
-draft: true
+draft: false
 ---
 
 # limeRick: The bridge between LimeSurvey and R

@@ -6,7 +6,7 @@
     <description>Recent content in Software on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v005</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v006</copyright>
     <lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/software/" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,45 @@
 &lt;p&gt;The abstract:&lt;/p&gt;
 &lt;p&gt;The first public presentation of the prototype of a new R package that provides useful connection between R and the most popular open-source web scripts for on-line surveys (&lt;a href=&#34;http://www.LimeSurvey.org&#34; class=&#34;uri&#34;&gt;http://www.LimeSurvey.org&lt;/a&gt;). The package aims to enable and simplify the work flow of reproducible CAWI research in Social Science; preparing templates for ad hoc and real-time analysis, performing detailed meta-analysis, archiving and monitoring responses directly from R. With the LimeRick package one can import pre-processed data from an on-line survey with an R script (with the use of RemoteConrol2 API or with non-API solution). Then, the data can be processed analytically by an R script and automatically reported with the use of shiny package. The whole process can be pre-programmed and performed without the researcher interference. This enables to build data products based on declarative data from on-line surveys, which are processed, analyzed, and visualized on-line and in real time. It can be of use for performing automatic tracking studies with real-time KPIs monitoring (e.g. for a customer satisfaction survey). The package will be also linked to a tool for unique, advanced analysis of meta-data from an on-line survey, which has already been alpha tested during large CAWI research project. As the early prototype of the package is presented, the presentation will end with a call for collaboration for developing and testing the package in different usage cases.&lt;/p&gt;
 &lt;p&gt;PS. Thanks to Carsten Shmitz (the main developer of LimeSurvey) after my presentation participants interested in LimeSurvey and LimeRick projects will be able to get some gifts (cool promotional materials of LimeSurvey open-source project – see the picture below). See you then!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>limeRick</title>
+      <link>https://kalimu.github.io/project/limerick/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://kalimu.github.io/project/limerick/</guid>
+      <description>&lt;div id=&#34;limerick-the-bridge-between-limesurvey-and-r&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;limeRick: The bridge between LimeSurvey and R&lt;/h1&gt;
+&lt;p&gt;The R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;importing on-line survey responses into R,&lt;/li&gt;
+&lt;li&gt;adding new responses to the survey directly from R,&lt;/li&gt;
+&lt;li&gt;automatically accessing surveys and question properties,&lt;/li&gt;
+&lt;li&gt;implementing passive measurement surveys,&lt;/li&gt;
+&lt;li&gt;developing data products based on real-time declarative data collection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;README, BugReports and development repository on GitHub: &lt;a href=&#34;https://github.com/kalimu/LimeRick&#34;&gt;https://github.com/kalimu/LimeRick&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Presentation of early version of LimeRick package: &lt;a href=&#34;http://rpubs.com/kalimu/erum&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;roadmap&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Roadmap&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;updating and expanding documentation of the package (man pages)&lt;/li&gt;
+&lt;li&gt;checking available LimeSurvey updates via R&lt;/li&gt;
+&lt;li&gt;ping function to an active survey&lt;/li&gt;
+&lt;li&gt;function for populating survey with temporary lorem ipsum answers&lt;/li&gt;
+&lt;li&gt;dedicated demo Shiny app&lt;/li&gt;
+&lt;li&gt;getting only new responses&lt;/li&gt;
+&lt;li&gt;automatically labelling survey questions in R&lt;/li&gt;
+&lt;li&gt;generating a data frame of temporary responses&lt;/li&gt;
+&lt;li&gt;unit testing&lt;/li&gt;
+&lt;li&gt;tutorial vignette&lt;/li&gt;
+&lt;li&gt;package on CRAN&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;first public package presentation on European R User Meeting in Poznań&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     

@@ -89,7 +89,7 @@ Without any parallel programming I managed to check 108 023 unique terms through
 (from CRAN RStudio mirror)
 
 
-```{r, echo=FALSE, message=FALSE, warning=FALSE}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, cache=TRUE}
 library(stringr)
 library(dplyr)
 library(ggplot2)
