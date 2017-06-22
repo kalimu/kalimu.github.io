@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Downloads on Kamil Wais</title>
-    <link>https://kalimu.github.io/downloads/</link>
+    <link>/downloads/</link>
     <description>Recent content in Downloads on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title></title>
-      <link>https://kalimu.github.io/downloads/odgar/</link>
+      <link>/downloads/odgar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/downloads/odgar/</guid>
+      <guid>/downloads/odgar/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;

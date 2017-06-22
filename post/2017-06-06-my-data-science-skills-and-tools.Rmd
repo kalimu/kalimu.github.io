@@ -1,8 +1,8 @@
 ---
-title: 'My Data Science Skills & Tools'
+title: 'My Data Science & Programming Skills & Tools'
 author: Kamil Wais
 date: '2017-06-06'
-slug: my-data-science-skills-and-tools
+slug: my-data-science-and-programming-skills-and-tools
 categories:
   - CV
 tags:
@@ -11,11 +11,11 @@ tags:
   - DataScience
 ---
 
-Here is a selection of my Data Science skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.
+Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.
 
 The last update of this post was done: `r Sys.Date()`.
 
-
+## Data Science Skills
 
 1. __Data Manipulation__   
     * Efficient data manipulation in R;   
@@ -51,8 +51,11 @@ The last update of this post was done: `r Sys.Date()`.
     * reports and presentations in `Tableau`, `PowerPoint`, and `HTML5`;  
     `Rmarkdown`, `isoslides`.
 1. __Statistical Analysis & Machine Learning__   
-    * multiple linear regression, logistic regression, ordinal logistic regression, Principal Component Analysis (PCA), factor analysis, segmentation analysis, cluster analysis (k-means, hierarchical clustering), supervised / unsupervised learning, neural networks, Support Vector Machines (SVM), decision trees, Random Forests, Ridge Regression, LASSO, elastic net regularization, K-fold cross-validation, bootstraping, survival analysis;   
-    `caret`.
+    * multiple linear regression, logistic regression, ordinal logistic regression, Principal Component Analysis (PCA), factor analysis, segmentation analysis, cluster analysis (k-means, hierarchical clustering), supervised / unsupervised learning,
+    * neural networks, Support Vector Machines (SVM), decision trees, Random Forests, Ridge Regression, LASSO, elastic net regularization, K-fold cross-validation, bootstraping with `caret`; 
+    * survival analysis with `survival`;
+    * time-series analysis (ETS, ARIMA, TBATS) with `forecast`;  
+    
 1. __Big Data tools__
     * familiarity with working with 0.5 TB data files;
     * `MapReduce`, `Hadoop`, `Pig`.
@@ -60,3 +63,19 @@ The last update of this post was done: `r Sys.Date()`.
     * familiarity with `SPSS`, `SAS`, `Octave`, `RapidMiner`, `Excel VisualBasic`, 
     `R Revolution Enterprise` / `Microsoft R`.
 
+## Programming Skills
+
+1. __Programming in R__ 
+    * code versioning with `RStudio IDE`, `Git`, `GitHub`; 
+    * functional programming with `purrr`; 
+    * reactive programming with `Shiny`, `shinyjs`;
+    * parallel programming with `parallel`;
+1. __R package development__
+    * package distribution with `GitHub`, `CRAN`; 
+    * preparing package documentation with `roxygen2`; 
+    * unit testing with `testthat`;
+1. __Internet technologies__
+    * `HTML5`, `CSS3`, `JavaScript`;
+    * familiarity with `MongoDB`, `MEAN` Stack, `Bootstrap`, and `Linux` servers;
+1. __Other programming languages__
+    * familiarity with `Python`, `C++`, `Java for Android` & Android Studio.

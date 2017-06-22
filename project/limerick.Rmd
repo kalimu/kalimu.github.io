@@ -1,7 +1,7 @@
 ---
 title: "limeRick"
 date: 2015-07-23T21:13:14-05:00
-tags:  ["software","r"]
+tags:  ["software","R"]
 image_preview: ""
 header: 
     image: ""
@@ -9,6 +9,7 @@ header:
 summary: "The bridge between LimeSurvey and R."
 external_link: ""
 math: false
+draft: true
 ---
 
 # limeRick: The bridge between LimeSurvey and R

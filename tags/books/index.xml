@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Kamil Wais</title>
-    <link>https://kalimu.github.io/tags/books/</link>
+    <link>/tags/books/</link>
     <description>Recent content in Books on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Resources: Programming &amp; Data Science in R</title>
-      <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
+      <link>/post/resources-programming-data-science-in-r/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
+      <guid>/post/resources-programming-data-science-in-r/</guid>
       <description>&lt;p&gt;This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.&lt;/p&gt;
 &lt;p&gt;The last update of this post was done: 2017-06-17.&lt;/p&gt;
 &lt;div id=&#34;books-on-line-printed&#34; class=&#34;section level2&#34;&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cv on Kamil Wais</title>
-    <link>https://kalimu.github.io/categories/cv/</link>
+    <link>/categories/cv/</link>
     <description>Recent content in Cv on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,13 +11,15 @@
     <atom:link href="/categories/cv/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My Data Science Skills &amp; Tools</title>
-      <link>https://kalimu.github.io/post/my-data-science-skills-and-tools/</link>
+      <title>My Data Science &amp; Programming Skills &amp; Tools</title>
+      <link>/post/my-data-science-and-programming-skills-and-tools/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/post/my-data-science-skills-and-tools/</guid>
-      <description>&lt;p&gt;Here is a selection of my Data Science skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-06-17.&lt;/p&gt;
+      <guid>/post/my-data-science-and-programming-skills-and-tools/</guid>
+      <description>&lt;p&gt;Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2017-06-18.&lt;/p&gt;
+&lt;div id=&#34;data-science-skills&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Data Science Skills&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Data Manipulation&lt;/strong&gt;
 &lt;ul&gt;
@@ -76,8 +78,10 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Statistical Analysis &amp;amp; Machine Learning&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;multiple linear regression, logistic regression, ordinal logistic regression, Principal Component Analysis (PCA), factor analysis, segmentation analysis, cluster analysis (k-means, hierarchical clustering), supervised / unsupervised learning, neural networks, Support Vector Machines (SVM), decision trees, Random Forests, Ridge Regression, LASSO, elastic net regularization, K-fold cross-validation, bootstraping, survival analysis;&lt;br /&gt;
-&lt;code&gt;caret&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;multiple linear regression, logistic regression, ordinal logistic regression, Principal Component Analysis (PCA), factor analysis, segmentation analysis, cluster analysis (k-means, hierarchical clustering), supervised / unsupervised learning,&lt;/li&gt;
+&lt;li&gt;neural networks, Support Vector Machines (SVM), decision trees, Random Forests, Ridge Regression, LASSO, elastic net regularization, K-fold cross-validation, bootstraping with &lt;code&gt;caret&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;survival analysis with &lt;code&gt;survival&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;time-series analysis (ETS, ARIMA, TBATS) with &lt;code&gt;forecast&lt;/code&gt;;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Big Data tools&lt;/strong&gt;
 &lt;ul&gt;
@@ -89,6 +93,34 @@
 &lt;li&gt;familiarity with &lt;code&gt;SPSS&lt;/code&gt;, &lt;code&gt;SAS&lt;/code&gt;, &lt;code&gt;Octave&lt;/code&gt;, &lt;code&gt;RapidMiner&lt;/code&gt;, &lt;code&gt;Excel VisualBasic&lt;/code&gt;, &lt;code&gt;R Revolution Enterprise&lt;/code&gt; / &lt;code&gt;Microsoft R&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;programming-skills&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Programming Skills&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Programming in R&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;code versioning with &lt;code&gt;RStudio IDE&lt;/code&gt;, &lt;code&gt;Git&lt;/code&gt;, &lt;code&gt;GitHub&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;functional programming with &lt;code&gt;purrr&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;reactive programming with &lt;code&gt;Shiny&lt;/code&gt;, &lt;code&gt;shinyjs&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;parallel programming with &lt;code&gt;parallel&lt;/code&gt;;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R package development&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;package distribution with &lt;code&gt;GitHub&lt;/code&gt;, &lt;code&gt;CRAN&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;preparing package documentation with &lt;code&gt;roxygen2&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;unit testing with &lt;code&gt;testthat&lt;/code&gt;;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Internet technologies&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;HTML5&lt;/code&gt;, &lt;code&gt;CSS3&lt;/code&gt;, &lt;code&gt;JavaScript&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;familiarity with &lt;code&gt;MongoDB&lt;/code&gt;, &lt;code&gt;MEAN&lt;/code&gt; Stack, &lt;code&gt;Bootstrap&lt;/code&gt;, and &lt;code&gt;Linux&lt;/code&gt; servers;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other programming languages&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;familiarity with &lt;code&gt;Python&lt;/code&gt;, &lt;code&gt;C++&lt;/code&gt;, &lt;code&gt;Java for Android&lt;/code&gt; &amp;amp; Android Studio.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 </description>
     </item>
     

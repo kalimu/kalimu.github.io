@@ -17,8 +17,8 @@ https://bookdown.org/yihui/blogdown/
 
 Some additional usefull posts:
 
-* https://daijiang.name/en/2017/03/30/updating-website-with-hugo-and-blogdown/
-* https://proquestionasker.github.io/blog/Making_Site/
-* https://help.github.com/articles/quick-start-setting-up-a-custom-domain/
+* [Updating website with Hugo and Blogdown](https://daijiang.name/en/2017/03/30/updating-website-with-hugo-and-blogdown/)
+* [Making Site](https://proquestionasker.github.io/blog/Making_Site/)
+* [Quick Start setting up a custom domain with GitHub pages](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/)
 
 

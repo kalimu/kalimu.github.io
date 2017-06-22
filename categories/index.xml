@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kamil Wais</title>
-    <link>https://kalimu.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,46 +12,46 @@
     
     <item>
       <title>Bibliography</title>
-      <link>https://kalimu.github.io/categories/bibliography/</link>
+      <link>/categories/bibliography/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/categories/bibliography/</guid>
+      <guid>/categories/bibliography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conferences</title>
-      <link>https://kalimu.github.io/categories/conferences/</link>
+      <link>/categories/conferences/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/categories/conferences/</guid>
+      <guid>/categories/conferences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cv</title>
-      <link>https://kalimu.github.io/categories/cv/</link>
+      <link>/categories/cv/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/categories/cv/</guid>
+      <guid>/categories/cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>https://kalimu.github.io/categories/news/</link>
+      <link>/categories/news/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/categories/news/</guid>
+      <guid>/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>https://kalimu.github.io/categories/programming/</link>
+      <link>/categories/programming/</link>
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/categories/programming/</guid>
+      <guid>/categories/programming/</guid>
       <description></description>
     </item>
     

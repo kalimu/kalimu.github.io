@@ -1,7 +1,7 @@
 ---
 title: "genderizeR"
 date: 2015-01-27T21:13:14-05:00
-tags:  ["software","r"]
+tags:  ["software","R"]
 image_preview: "headers/gender.gif"
 header: 
     image: "headers/gender.gif"
