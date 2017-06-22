@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kamil Wais</title>
-    <link>/post/</link>
+    <link>https://kalimu.github.io/post/</link>
     <description>Recent content in Posts on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · 003 · </copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My Data Science &amp; Programming Skills &amp; Tools</title>
-      <link>/post/my-data-science-and-programming-skills-and-tools/</link>
+      <link>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-data-science-and-programming-skills-and-tools/</guid>
+      <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
       <description>&lt;p&gt;Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-06-18.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2017-06-22.&lt;/p&gt;
 &lt;div id=&#34;data-science-skills&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Data Science Skills&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -126,12 +126,12 @@
     
     <item>
       <title>Resources: Programming &amp; Data Science in R</title>
-      <link>/post/resources-programming-data-science-in-r/</link>
+      <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/resources-programming-data-science-in-r/</guid>
+      <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>&lt;p&gt;This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-06-17.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2017-06-22.&lt;/p&gt;
 &lt;div id=&#34;books-on-line-printed&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Books (on-line &amp;amp; printed)&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -260,10 +260,10 @@
     
     <item>
       <title>Building static homepage with R &amp; blogdown</title>
-      <link>/post/building-static-homepage-with-r-and-blogdown/</link>
+      <link>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/building-static-homepage-with-r-and-blogdown/</guid>
+      <guid>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</guid>
       <description>&lt;p&gt;This new homepage is a static website generated in R (!) with the help of brilliant &lt;code&gt;blogdown&lt;/code&gt; package by Yihui Xie. &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is the site engine and it also uses amazing &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Academic theme&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;More about the blogdown R package you can find here: &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; class=&#34;uri&#34;&gt;https://bookdown.org/yihui/blogdown/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Some additional usefull posts:&lt;/p&gt;
@@ -277,10 +277,10 @@
     
     <item>
       <title>Presentation of R package LimeRick on eRum</title>
-      <link>/post/presentation-of-r-package-limerick-on-erum/</link>
+      <link>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/presentation-of-r-package-limerick-on-erum/</guid>
+      <guid>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</guid>
       <description>&lt;p&gt;UPDATE: The online static version of the presentation is available here: &lt;a href=&#34;http://rpubs.com/kalimu/erum&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum&lt;/a&gt;. Thank you for all the feedback!&lt;/p&gt;
 &lt;p&gt;In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data. But the LimeRick package will be able to do a lot more. Stay tuned!&lt;/p&gt;
 &lt;p&gt;The abstract:&lt;/p&gt;
@@ -291,10 +291,10 @@
     
     <item>
       <title>My impression from Research Data Alliance (RDA) 7th Plenary Meeting in Tokyo</title>
-      <link>/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</link>
+      <link>https://kalimu.github.io/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</link>
       <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</guid>
+      <guid>https://kalimu.github.io/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</guid>
       <description>&lt;p&gt;Seventh RDA Plenary was organized in Tokyo in March 2016 in close partnership with the Japan Science and Technology Agency (JST). This was the first time a plenary took place in Asia. One of the reason was to expand the reach of the RDA far beyond America and Europe through increase in organization’s memberships from Asia region.&lt;/p&gt;
 &lt;p&gt;As one of the winners of the RDA Early Career European Researchers &amp;amp; Scientists Working with Data (RDA P7 Financial Support Programme), I had a unique opportunity and honor to see with my own eyes how activities in RDA look like. Now, I can share with you my experience.&lt;/p&gt;
 &lt;p&gt;Firstly, RDA is a truly global (international and intercontinental) organization with mission to build the social and technical bridges that enable open sharing of research data. The global character can be seen on every level. For example, to establish a so called „Working Group” you need to cooperate with researchers from at least 3 different continents.&lt;/p&gt;
@@ -309,20 +309,20 @@
 &lt;p&gt;There were many interesting topics in the plenary sessions as well. Jean-Claude Burgelman from the European Commission, talked about European Open Science Cloud project. It might have an impressive effect on changing of many of European researchers’ workflows. I am looking forward to evaluate it myself.&lt;/p&gt;
 &lt;p&gt;From the round table in Open Symposium: Data-driven Science – The trigger of Scientific development, I got an impression that data-driven approach in science is fairy more appreciated and recognized in Japan than in Poland, where still dominates hypothesis-driven approach especially in social sciences.&lt;/p&gt;
 &lt;p&gt;I was also impressed with IT science infrastructure in Japan, and a research project that allows to identify dangerous places on streets where drivers hit breaks rapidly, thanks to spatial-temporal analysis based on data collected from GPS and accelerometers installed in cars. Considering that similar data are produced daily by approximately 100 000 users of some mobile application in Poland, it would be great if similar study would help to improve safety on Polish roads.&lt;/p&gt;
-&lt;p&gt;I have also come back with positive feedback on my poster presented in Tokyo titled &lt;a href=&#34;/talk/2016-tokyo/&#34;&gt;International On-line Expert Access Panel for Open Science Development&lt;/a&gt;. With some institutional and organizational support such project seems to be feasible and I believe that it can bring a lot of valuable data from science community. Anyone interested in the project is welcome to &lt;a href=&#34;/#contact&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have also come back with positive feedback on my poster presented in Tokyo titled &lt;a href=&#34;https://kalimu.github.io/talk/2016-tokyo/&#34;&gt;International On-line Expert Access Panel for Open Science Development&lt;/a&gt;. With some institutional and organizational support such project seems to be feasible and I believe that it can bring a lot of valuable data from science community. Anyone interested in the project is welcome to &lt;a href=&#34;https://kalimu.github.io/#contact&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Now, I am back to Poland, but I feel that this was only the beginning of me thinking constantly about science that always takes into account the open research data postulates. Now it is also the time to promote RDA activities in my country, with the vision of global science community that works together and shares its research data for the benefits of all of us.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Checklist for R package submission to CRAN</title>
-      <link>/post/checklist-for-r-package-submission-to-cran/</link>
+      <link>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</link>
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/checklist-for-r-package-submission-to-cran/</guid>
+      <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
       <description>&lt;div id=&#34;version-1.2&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Version: 1.2&lt;/h2&gt;
-&lt;p&gt;The last update of this post: 2017-06-17.&lt;/p&gt;
+&lt;p&gt;The last update of this post: 2017-06-22.&lt;/p&gt;
 &lt;p&gt;Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;strong&gt;See what new Hadley recommends&lt;/strong&gt;:&lt;br /&gt;
