@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v006</copyright>
-    <lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/conferences/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Seminarium z udziałem prof. Philipa Zimbardo </title>
+      <link>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</guid>
+      <description>&lt;p&gt;W sobotę (24.06) odbyło się na WSIiZ insprujące seminarium z udziałem on-line prof. P.Zimbardo.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Philip Zimbardo był w 1971 roku liderem sławnego Stanfordzkiego Eksperymentu Więziennego i świadkiem-ekspertem w sprawie więzienia Abu Ghraib. Autor wpływowych książek: The Time Paradox: The New Psychology of Time That Will Change Your Life i The Lucifer Effect: Understanding How Good People Turn Evil.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Warto zapoznać się z projektem Profesora Zimbardo:&lt;br /&gt;
+&lt;a href=&#34;http://heroicimagination.org/&#34;&gt;Heroic Imagination Project&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Przystępne krótkie wykłady można natomiast znaleźć na stronie:&lt;br /&gt;
+&lt;a href=&#34;https://www.ted.com/speakers/philip_zimbardo&#34;&gt;TED Talks&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Więcej o samym seminarium &lt;a href=&#34;https://wsiz.rzeszow.pl/pl/Uczelnia/Wydarzenia/Strony/profesor-philip-zimbardo-z-wykladem-podczas-seminarium-doktoranckiego-wsiiz.aspx&#34;&gt;na stronie WSIiZ&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Presentation of R package LimeRick on eRum</title>
