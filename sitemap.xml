@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://kalimu.github.io/habilitacja/cykl/</loc>
+      <lastmod>2017-06-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</loc>
       <lastmod>2017-06-25T00:00:00+00:00</lastmod>
     </url>
@@ -339,6 +348,26 @@
     
     <url>
     
+      <loc>https://kalimu.github.io/tags/habilitacja/</loc>
+      <lastmod>2017-06-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kalimu.github.io/habilitacja/</loc>
+      <lastmod>2017-06-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kalimu.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -389,8 +418,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/categories/programming/</loc>
-      <lastmod>2015-04-21T00:00:00+00:00</lastmod>
+      <loc>https://kalimu.github.io/tags/programming/</loc>
+      <lastmod>2017-06-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -399,8 +428,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/programming/</loc>
-      <lastmod>2017-06-06T00:00:00+00:00</lastmod>
+      <loc>https://kalimu.github.io/categories/programming/</loc>
+      <lastmod>2015-04-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -441,6 +470,16 @@
     
       <loc>https://kalimu.github.io/tags/rda/</loc>
       <lastmod>2016-03-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kalimu.github.io/categories/research/</loc>
+      <lastmod>2017-06-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
