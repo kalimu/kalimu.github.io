@@ -9,7 +9,7 @@ header:
 summary: "Barriers & bad practices in accessing Open Data. Case study of Poland."
 external_link: ""
 math: false
-draft: true
+draft: false
 ---
 
 ## Summary

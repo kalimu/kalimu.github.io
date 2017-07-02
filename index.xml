@@ -6,7 +6,7 @@
     <description>Recent content in Kamil Wais on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v008</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v.10</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -22,38 +22,43 @@
 &lt;p&gt;Non-linear On-line Micro-Surveys With Instant Feedback (NOMSIF) as New Approach to Respondent-Researcher Relationship&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;LimeRick&lt;/strong&gt;. Analytical Data Products based on &lt;strong&gt;Real-Time Declarative &amp;amp; Passive Data Collection&lt;/strong&gt; [A], [30], [50]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;The Impact of Traditional &lt;strong&gt;Researcher-Respondent Relationship&lt;/strong&gt; Paradigm on Response-Rates. &lt;strong&gt;NetLogo&lt;/strong&gt; [A], [20], [50]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Non-Linear On-line Micro-Surveys with Instant Feedback ( &lt;strong&gt;NOMSIF&lt;/strong&gt; ) as a New Paradigm in Social Science Research Techniques. [A], [20], [50]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Securing &lt;strong&gt;Sensitive Data in On-line Surveys &amp;amp; Data Products&lt;/strong&gt; with Asymmetric Cryptography. [A], [20], [50]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;del&gt;&lt;strong&gt;GenderizeR&lt;/strong&gt;&lt;/del&gt; [A], [30], [30]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;GUS: &lt;strong&gt;Closed Open Data&lt;/strong&gt;. Case study of Poland. [A], [10], [40]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;DataScience in H&amp;amp;SS&lt;/strong&gt;. [A], [10], [50]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Krajowy Panel Badawczy&lt;/strong&gt; [B], [10], [15]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;LimeRick&lt;/strong&gt;. Analytical Data Products based on &lt;strong&gt;Real-Time Declarative &amp;amp; Passive Data Collection&lt;/strong&gt; [A], [30], [50], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Process analysis of on-line surveys &lt;strong&gt;paradata&lt;/strong&gt;. IMID. [A], [20], [30], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The Impact of Traditional &lt;strong&gt;Researcher-Respondent Relationship&lt;/strong&gt; Paradigm on Response-Rates. &lt;strong&gt;NetLogo&lt;/strong&gt; [A], [20], [50], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;On-line Surveys with Instant Feedback (&lt;strong&gt;OSIF&lt;/strong&gt;) as a New Paradigm in Social Science Research Techniques. [A], [20], [50], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Securing &lt;strong&gt;Sensitive Data in On-line Surveys &amp;amp; Data Products&lt;/strong&gt; with Asymmetric Cryptography. [A], [20], [50], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;del&gt;&lt;strong&gt;GenderizeR&lt;/strong&gt;&lt;/del&gt; &lt;del&gt;[A], [30], [30], [30]&lt;/del&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;GUS: &lt;strong&gt;Closed Open Data&lt;/strong&gt;. Case study of Poland. [A], [10], [40], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;DataScience in H&amp;amp;SS&lt;/strong&gt;. [A], [10], [50], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Krajowy Panel Badawczy&lt;/strong&gt; [B], [10], [15], [0]&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;table style=&#34;width:44%;&#34;&gt;
+&lt;table style=&#34;width:64%;&#34;&gt;
 &lt;colgroup&gt;
 &lt;col width=&#34;11%&#34; /&gt;
 &lt;col width=&#34;16%&#34; /&gt;
 &lt;col width=&#34;16%&#34; /&gt;
+&lt;col width=&#34;19%&#34; /&gt;
 &lt;/colgroup&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
 &lt;th align=&#34;center&#34;&gt;lista&lt;/th&gt;
 &lt;th align=&#34;center&#34;&gt;punktyMin&lt;/th&gt;
 &lt;th align=&#34;center&#34;&gt;punktyMax&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;opublikowane&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td align=&#34;center&#34;&gt;A&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;140&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;320&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;160&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;350&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;30&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td align=&#34;center&#34;&gt;B&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;10&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;15&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -107,13 +112,26 @@
     </item>
     
     <item>
+      <title>Closed Open Data</title>
+      <link>https://kalimu.github.io/project/gus/</link>
+      <pubDate>Sun, 18 Jun 2017 21:13:14 -0500</pubDate>
+      
+      <guid>https://kalimu.github.io/project/gus/</guid>
+      <description>&lt;div id=&#34;summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+&lt;p&gt;In this research project we analyze barriers and bad practices in accessing Open Administrative Data in Poland.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My Data Science &amp; Programming Skills &amp; Tools</title>
       <link>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
       <description>&lt;p&gt;Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-06-28.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2017-07-02.&lt;/p&gt;
 &lt;div id=&#34;data-science-skills&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Data Science Skills&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -177,12 +195,13 @@
 &lt;li&gt;multiple linear regression, logistic regression, ordinal logistic regression, Principal Component Analysis (PCA), factor analysis, segmentation analysis, cluster analysis (k-means, hierarchical clustering), supervised / unsupervised learning,&lt;/li&gt;
 &lt;li&gt;neural networks, Support Vector Machines (SVM), decision trees, Random Forests, Ridge Regression, LASSO, elastic net regularization, K-fold cross-validation, bootstraping with &lt;code&gt;caret&lt;/code&gt;;&lt;/li&gt;
 &lt;li&gt;survival analysis with &lt;code&gt;survival&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;time-series analysis (ETS, ARIMA, TBATS) with &lt;code&gt;forecast&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;time series analysis (ARIMA, TBATS) with &lt;code&gt;forecast&lt;/code&gt;.&lt;br /&gt;
+&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Big Data tools&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;Big Data Tools&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;familiarity with working with 0.5 TB data files;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;MapReduce&lt;/code&gt;, &lt;code&gt;Hadoop&lt;/code&gt;, &lt;code&gt;Pig&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;familiarity with &lt;code&gt;Spark&lt;/code&gt; and &lt;code&gt;sparklyr&lt;/code&gt; in R;&lt;/li&gt;
+&lt;li&gt;familiarity with &lt;code&gt;MapReduce&lt;/code&gt;, &lt;code&gt;Hadoop&lt;/code&gt;, &lt;code&gt;Pig&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Other Data Science Tools&lt;/strong&gt;
 &lt;ul&gt;
@@ -238,7 +257,7 @@
       
       <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>&lt;p&gt;This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-06-28.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2017-07-02.&lt;/p&gt;
 &lt;div id=&#34;books-on-line-printed&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Books (on-line &amp;amp; printed)&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -515,123 +534,6 @@
 &lt;li&gt;&lt;del&gt;first public package presentation on European R User Meeting in Poznań&lt;/del&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Checklist for R package submission to CRAN</title>
-      <link>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</link>
-      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
-      <description>&lt;div id=&#34;version-1.2&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Version: 1.2&lt;/h2&gt;
-&lt;p&gt;The last update of this post: 2017-06-28.&lt;/p&gt;
-&lt;p&gt;Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.&lt;/p&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;See what new Hadley recommends&lt;/strong&gt;:&lt;br /&gt;
-(&lt;a href=&#34;http://r-pkgs.had.co.nz/release.html&#34; class=&#34;uri&#34;&gt;http://r-pkgs.had.co.nz/release.html&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update R &amp;amp; packages&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;R&lt;/li&gt;
-&lt;li&gt;all packages&lt;/li&gt;
-&lt;li&gt;RStudio (stable or preview version).&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update your package&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Check unit tests.&lt;/li&gt;
-&lt;li&gt;Update vignettes.&lt;/li&gt;
-&lt;li&gt;Check reverse dependencies.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;If devtools functions don’t work use:&lt;br /&gt;
-tools::dependsOnPkgs()&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Import undefined globals in the NAMESPACE file&lt;br /&gt;
-(generated automatically by roxygen2)&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update README.md file&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Make change in README.Rmd.&lt;/li&gt;
-&lt;li&gt;Knit the Rmd into md.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Run a R CMD check locally with ‘–as-cran‘ option&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;If you got an error regarding qpdf missing, check:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;View(Sys.getenv(“PATH”) )&lt;/li&gt;
-&lt;li&gt;Sys.which(Sys.getenv(“R_QPDF”, “qpdf”))&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Run a R CMD check on win-builder&lt;/strong&gt;&lt;br /&gt;
-(devel and release versions) via ‘devtools::build_win()‘.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Run a R CMD check on Ubuntu (via Travis-CI)&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update ‘cran-comments.md‘&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Test environments,&lt;/li&gt;
-&lt;li&gt;R CMD check results (explain ERRORs, WARNINGs, NOTEs).&lt;/li&gt;
-&lt;li&gt;Downstream dependencies.&lt;/li&gt;
-&lt;li&gt;Resubmit comments.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update ‘Version‘ field in the DESCRIPTION file&lt;/strong&gt;&lt;br /&gt;
-(major.minor.patch.dev).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update ‘Date‘ field in the DESCRIPTION file&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update NEWS.md file&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Push all necessary commits to GitHub&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Run again a R CMD check locally just to be sure&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Use devtools::check().&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Push all necessary commits to GitHub&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Merge branches if necessary&lt;br /&gt;
-Via GithHub website OR Via GIT: git merge –no-ff branch_name&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Check vignettes&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Build your package sources&lt;/li&gt;
-&lt;li&gt;Load them with:&lt;br /&gt;
-install.packages(“../packageName_2.0.90002.tar.gz”,&lt;br /&gt;
-repos = NULL, type = “source”)&lt;/li&gt;
-&lt;li&gt;Use browseVignettes(“genderizeR”)&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Submit the package to CRAN&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Use devtools::release().&lt;/li&gt;
-&lt;li&gt;Confirm submission via link in the mail.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Check results of submission&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;in all CRAN checks&lt;br /&gt;
-(from &lt;a href=&#34;http://cran.r-project.org/web/packages&#34; class=&#34;uri&#34;&gt;http://cran.r-project.org/web/packages&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;in comments inside the e-mail from CRAN&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fix what needs to be fixed&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Consider increasing version number.&lt;/li&gt;
-&lt;li&gt;Check everything again.&lt;/li&gt;
-&lt;li&gt;Resubmit to CRAN.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;After successful submission&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Create a new release with tag version on GitHub repo.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Copy and paste the contents of the relevant NEWS.md section into the release notes&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Increment the version of the package in the DESCRIPTION file (to X.X.X.9000).&lt;/li&gt;
-&lt;li&gt;Promote your package
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Post on personal blog&lt;/li&gt;
-&lt;li&gt;Post on Twitter (use #rstats)&lt;/li&gt;
-&lt;li&gt;R-Bloggers&lt;/li&gt;
-&lt;li&gt;etc.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update this checklist&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Update the checklist version number.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;
 &lt;/div&gt;
 </description>
     </item>

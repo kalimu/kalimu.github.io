@@ -23,6 +23,15 @@
     
     <url>
     
+      <loc>https://kalimu.github.io/project/gus/</loc>
+      <lastmod>2017-06-18T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</loc>
       <lastmod>2017-06-06T00:00:00+00:00</lastmod>
     </url>
@@ -418,6 +427,16 @@
     
     <url>
     
+      <loc>https://kalimu.github.io/tags/opendata/</loc>
+      <lastmod>2017-06-18T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kalimu.github.io/tags/programming/</loc>
       <lastmod>2017-06-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -439,7 +458,7 @@
     <url>
     
       <loc>https://kalimu.github.io/project/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <lastmod>2017-06-18T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -470,6 +489,16 @@
     
       <loc>https://kalimu.github.io/tags/rda/</loc>
       <lastmod>2016-03-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kalimu.github.io/tags/research/</loc>
+      <lastmod>2017-06-18T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     

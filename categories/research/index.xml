@@ -6,7 +6,7 @@
     <description>Recent content in Research on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v008</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v.10</copyright>
     <lastBuildDate>Mon, 26 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/research/" rel="self" type="application/rss+xml" />
     
@@ -22,38 +22,43 @@
 &lt;p&gt;Non-linear On-line Micro-Surveys With Instant Feedback (NOMSIF) as New Approach to Respondent-Researcher Relationship&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;LimeRick&lt;/strong&gt;. Analytical Data Products based on &lt;strong&gt;Real-Time Declarative &amp;amp; Passive Data Collection&lt;/strong&gt; [A], [30], [50]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;The Impact of Traditional &lt;strong&gt;Researcher-Respondent Relationship&lt;/strong&gt; Paradigm on Response-Rates. &lt;strong&gt;NetLogo&lt;/strong&gt; [A], [20], [50]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Non-Linear On-line Micro-Surveys with Instant Feedback ( &lt;strong&gt;NOMSIF&lt;/strong&gt; ) as a New Paradigm in Social Science Research Techniques. [A], [20], [50]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Securing &lt;strong&gt;Sensitive Data in On-line Surveys &amp;amp; Data Products&lt;/strong&gt; with Asymmetric Cryptography. [A], [20], [50]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;del&gt;&lt;strong&gt;GenderizeR&lt;/strong&gt;&lt;/del&gt; [A], [30], [30]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;GUS: &lt;strong&gt;Closed Open Data&lt;/strong&gt;. Case study of Poland. [A], [10], [40]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;DataScience in H&amp;amp;SS&lt;/strong&gt;. [A], [10], [50]&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Krajowy Panel Badawczy&lt;/strong&gt; [B], [10], [15]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;LimeRick&lt;/strong&gt;. Analytical Data Products based on &lt;strong&gt;Real-Time Declarative &amp;amp; Passive Data Collection&lt;/strong&gt; [A], [30], [50], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Process analysis of on-line surveys &lt;strong&gt;paradata&lt;/strong&gt;. IMID. [A], [20], [30], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The Impact of Traditional &lt;strong&gt;Researcher-Respondent Relationship&lt;/strong&gt; Paradigm on Response-Rates. &lt;strong&gt;NetLogo&lt;/strong&gt; [A], [20], [50], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;On-line Surveys with Instant Feedback (&lt;strong&gt;OSIF&lt;/strong&gt;) as a New Paradigm in Social Science Research Techniques. [A], [20], [50], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Securing &lt;strong&gt;Sensitive Data in On-line Surveys &amp;amp; Data Products&lt;/strong&gt; with Asymmetric Cryptography. [A], [20], [50], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;del&gt;&lt;strong&gt;GenderizeR&lt;/strong&gt;&lt;/del&gt; &lt;del&gt;[A], [30], [30], [30]&lt;/del&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;GUS: &lt;strong&gt;Closed Open Data&lt;/strong&gt;. Case study of Poland. [A], [10], [40], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;DataScience in H&amp;amp;SS&lt;/strong&gt;. [A], [10], [50], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Krajowy Panel Badawczy&lt;/strong&gt; [B], [10], [15], [0]&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;table style=&#34;width:44%;&#34;&gt;
+&lt;table style=&#34;width:64%;&#34;&gt;
 &lt;colgroup&gt;
 &lt;col width=&#34;11%&#34; /&gt;
 &lt;col width=&#34;16%&#34; /&gt;
 &lt;col width=&#34;16%&#34; /&gt;
+&lt;col width=&#34;19%&#34; /&gt;
 &lt;/colgroup&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
 &lt;th align=&#34;center&#34;&gt;lista&lt;/th&gt;
 &lt;th align=&#34;center&#34;&gt;punktyMin&lt;/th&gt;
 &lt;th align=&#34;center&#34;&gt;punktyMax&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;opublikowane&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td align=&#34;center&#34;&gt;A&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;140&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;320&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;160&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;350&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;30&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td align=&#34;center&#34;&gt;B&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;10&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;15&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

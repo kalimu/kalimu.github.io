@@ -54,11 +54,10 @@ The last update of this post was done: `r Sys.Date()`.
     * multiple linear regression, logistic regression, ordinal logistic regression, Principal Component Analysis (PCA), factor analysis, segmentation analysis, cluster analysis (k-means, hierarchical clustering), supervised / unsupervised learning,
     * neural networks, Support Vector Machines (SVM), decision trees, Random Forests, Ridge Regression, LASSO, elastic net regularization, K-fold cross-validation, bootstraping with `caret`; 
     * survival analysis with `survival`;
-    * time-series analysis (ETS, ARIMA, TBATS) with `forecast`;  
-    
-1. __Big Data tools__
-    * familiarity with working with 0.5 TB data files;
-    * `MapReduce`, `Hadoop`, `Pig`.
+    * time series analysis (ARIMA, TBATS) with `forecast`.  
+1. __Big Data Tools__
+    * familiarity with `Spark` and `sparklyr` in R; 
+    * familiarity with `MapReduce`, `Hadoop`, `Pig`.
 1. __Other Data Science Tools__  
     * familiarity with `SPSS`, `SAS`, `Octave`, `RapidMiner`, `Excel VisualBasic`, 
     `R Revolution Enterprise` / `Microsoft R`.
