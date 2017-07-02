@@ -7,7 +7,7 @@ categories:
 tags:
   - habilitacja
 slug: cykl
-draft: false
+draft: true
 ---
 `r df = data.frame(lista = "A", punkty_min=0, punkty_max=0, published=0, stringsAsFactors = FALSE)`
 
@@ -20,7 +20,7 @@ draft: false
 
 
 
-1. __LimeRick__. Analytical Data Products based on __Real-Time Declarative & Passive Data Collection__ 
+1. __LimeRick__. Web Data Products based on __Real-Time Declarative & Passive Data Collection__ 
 `r article = c(lista = "A", punkty_min=30, punkty_max=50, published=0); df = rbind(df, article); paste0("[", article, "]")`
 
 1. Process analysis of on-line surveys __paradata__. IMID.
@@ -66,8 +66,15 @@ tab = df %>% group_by(lista) %>%
 pander::pander(tab)
 ```
 
+## Inne
+
+* Staż
+* Working with OpenData in R
+
+
+
+
 <!--
-## Temp
 
 ### Recruitment of Respondents & Panelists:
 1. The Impact of __Traditional Researcher-Respondent Paradigm__ on Response-Rates.    

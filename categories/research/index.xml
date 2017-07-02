@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Kamil Wais</title>
-    <link>https://kalimu.github.io/categories/research/</link>
+    <link>/categories/research/</link>
     <description>Recent content in Research on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,17 +12,17 @@
     
     <item>
       <title>Cykl publikacji</title>
-      <link>https://kalimu.github.io/habilitacja/cykl/</link>
+      <link>/habilitacja/cykl/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/habilitacja/cykl/</guid>
+      <guid>/habilitacja/cykl/</guid>
       <description>&lt;div id=&#34;nowe-paradygmaty-w-metodach-technikach-i-narzedziach-badan-spoecznych-wykorzystujacych-technologie-internetowe-i-dane-otwarte.&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Nowe paradygmaty w metodach, technikach i narzędziach badań społecznych wykorzystujących technologie internetowe i dane otwarte.&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Non-linear On-line Micro-Surveys With Instant Feedback (NOMSIF) as New Approach to Respondent-Researcher Relationship&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;LimeRick&lt;/strong&gt;. Analytical Data Products based on &lt;strong&gt;Real-Time Declarative &amp;amp; Passive Data Collection&lt;/strong&gt; [A], [30], [50], [0]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;LimeRick&lt;/strong&gt;. Web Data Products based on &lt;strong&gt;Real-Time Declarative &amp;amp; Passive Data Collection&lt;/strong&gt; [A], [30], [50], [0]&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Process analysis of on-line surveys &lt;strong&gt;paradata&lt;/strong&gt;. IMID. [A], [20], [30], [0]&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;The Impact of Traditional &lt;strong&gt;Researcher-Respondent Relationship&lt;/strong&gt; Paradigm on Response-Rates. &lt;strong&gt;NetLogo&lt;/strong&gt; [A], [20], [50], [0]&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;On-line Surveys with Instant Feedback (&lt;strong&gt;OSIF&lt;/strong&gt;) as a New Paradigm in Social Science Research Techniques. [A], [20], [50], [0]&lt;/p&gt;&lt;/li&gt;
@@ -62,8 +62,14 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;inne&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Inne&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Staż&lt;/li&gt;
+&lt;li&gt;Working with OpenData in R&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
-## Temp
 
 ### Recruitment of Respondents &amp; Panelists:
 1. The Impact of __Traditional Researcher-Respondent Paradigm__ on Response-Rates.    
