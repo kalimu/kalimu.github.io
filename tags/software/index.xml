@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on Kamil Wais</title>
-    <link>https://kalimu.github.io/tags/software/</link>
+    <link>/tags/software/</link>
     <description>Recent content in Software on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Presentation of R package LimeRick on eRum</title>
-      <link>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</link>
+      <link>/post/presentation-of-r-package-limerick-on-erum/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</guid>
+      <guid>/post/presentation-of-r-package-limerick-on-erum/</guid>
       <description>&lt;p&gt;UPDATE: The online static version of the presentation is available here: &lt;a href=&#34;http://rpubs.com/kalimu/erum&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum&lt;/a&gt;. Thank you for all the feedback!&lt;/p&gt;
 &lt;p&gt;In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data. But the LimeRick package will be able to do a lot more. Stay tuned!&lt;/p&gt;
 &lt;p&gt;The abstract:&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>limeRick</title>
-      <link>https://kalimu.github.io/project/limerick/</link>
+      <link>/project/limerick/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/limerick/</guid>
+      <guid>/project/limerick/</guid>
       <description>&lt;div id=&#34;limerick-the-bridge-between-limesurvey-and-r&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;limeRick: The bridge between LimeSurvey and R&lt;/h1&gt;
 &lt;p&gt;The R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:&lt;/p&gt;
@@ -65,10 +65,10 @@
     
     <item>
       <title>Checklist for R package submission to CRAN</title>
-      <link>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</link>
+      <link>/post/checklist-for-r-package-submission-to-cran/</link>
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
+      <guid>/post/checklist-for-r-package-submission-to-cran/</guid>
       <description>&lt;div id=&#34;version-1.2&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Version: 1.2&lt;/h2&gt;
 &lt;p&gt;The last update of this post: 2017-07-21.&lt;/p&gt;
@@ -182,10 +182,10 @@ repos = NULL, type = “source”)&lt;/li&gt;
     
     <item>
       <title>genderizeR</title>
-      <link>https://kalimu.github.io/project/genderizer/</link>
+      <link>/project/genderizer/</link>
       <pubDate>Tue, 27 Jan 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/genderizer/</guid>
+      <guid>/project/genderizer/</guid>
       <description>&lt;div id=&#34;r-package-for-gender-prediction-based-on-first-names&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R package for gender prediction based on first names&lt;/h1&gt;
 &lt;p&gt;The package uses&lt;a title=&#34;http://genderize.io&#34; href=&#34;http://genderize.io&#34; target=&#34;_blank&#34;&gt;&lt;em&gt; genderize.io&lt;/em&gt;&lt;/a&gt; API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.&lt;/p&gt;
@@ -195,7 +195,7 @@ repos = NULL, type = “source”)&lt;/li&gt;
 &lt;h2&gt;
 Article &amp;amp; Citations:
 &lt;/h2&gt;
-When using the genderizeR R package in your work, &lt;strong&gt;please cite also the &lt;a href=&#34;https://kalimu.github.io/publication/genderizer&#34;&gt;article&lt;/a&gt;&lt;/strong&gt;:
+When using the genderizeR R package in your work, &lt;strong&gt;please cite also the &lt;a href=&#34;/publication/genderizer&#34;&gt;article&lt;/a&gt;&lt;/strong&gt;:
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;
 Kamil Wais, &lt;strong&gt;&lt;em&gt;Gender Prediction Methods Based on First Names with genderizeR&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;The R Journal&lt;/strong&gt;,Vol. 8/1, Aug. 2016, &lt;a href=&#34;https://journal.r-project.org/archive/2016-1/wais.pdf&#34;&gt;https://journal.r-project.org/archive/2016-1/wais.pdf&lt;/a&gt;
 &lt;/p&gt;
@@ -275,7 +275,7 @@ Collaboration
 &lt;div id=&#34;package-downloads&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Package downloads&lt;/h2&gt;
 &lt;p&gt;(from CRAN RStudio mirror)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://kalimu.github.io/project/genderizer_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/project/genderizer_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>

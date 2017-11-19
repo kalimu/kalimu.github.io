@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v.14</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.1.0</copyright>
     <lastBuildDate>Sun, 18 Jun 2017 21:13:14 -0500</lastBuildDate>
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
@@ -164,14 +164,12 @@ Collaboration
     </item>
     
     <item>
-      <title>RRUG</title>
+      <title>Resovia R User Group (RRUG)</title>
       <link>https://kalimu.github.io/project/rrug/</link>
       <pubDate>Wed, 23 Jul 2014 21:13:14 -0500</pubDate>
       
       <guid>https://kalimu.github.io/project/rrug/</guid>
-      <description>&lt;div id=&#34;resovia-r-user-group-rrug&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Resovia R User Group (RRUG)&lt;/h1&gt;
-&lt;p&gt;[in Polish]&lt;/p&gt;
+      <description>&lt;p&gt;[in Polish]&lt;/p&gt;
 &lt;p&gt;Od kwietnia 2016 roku działa pod patronatem WSIiZ w Rzeszowie Resovia R User Group (RRUG), czyli Rzeszowska Grupa Użytkowników R’a. Język programowania statystycznego R jest standardem zarówno wśród analityków sektora komercyjnego, administracyjnego, jak i pracowników naukowych. Globalna liczba jego użytkowników szacowana jest w milionach i stale rośnie. Wymianę doświadczeń związanych z analizą danych za pomocą R’a wspierają liczne grupy użytkowników R’a – lokalne społeczności analityków i programistów wspierające się w rozwoju zawodowym, naukowym i projektach analitycznych. Stworzenie takiej właśnie społeczności jest celem również naszej grupy.&lt;/p&gt;
 &lt;p&gt;Bieżąca komunikacja wewnątrz grupy odbywa się za pomocą Slack’a: rerug.slack.com. Jeśli nie możesz się dołączyć do grupy lub nie dostałaś zaproszenia skontaktuj się ze mną – można użyć formularza kontaktowego na tej stronie.&lt;/p&gt;
 &lt;p&gt;Spotykamy się w wybrane środy o 17.00 w Wyższej Szkole Informatyki i Zarządzania w Rzeszowie (WSIiZ) na Sucharskiego 2. O dokładnych terminach staramy się powiadamiać z minimum tygodniowym wyprzedzeniem (jak tylko uzyskamy potwierdzenia od prowadzących na danym spotkaniu prezentacje).&lt;/p&gt;
@@ -189,7 +187,24 @@ Collaboration
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Polonia</title>
+      <link>https://kalimu.github.io/project/polonia/</link>
+      <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
+      
+      <guid>https://kalimu.github.io/project/polonia/</guid>
+      <description>&lt;p&gt;W ramach projektu badawczego prowadzone są badania CAWI i PAPI wśród przedstawicieli środowisk polonijnych z całego świata, m.in.:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Polonijny Omnibus&lt;/em&gt; – badanie ankietowe przeprowadzane od 2011 r. wśród uczestników kolejnych edycji Światowych Festiwali Polonijnych Zespołów Folklorystycznych w Rzeszowie.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Partnerami projektu są:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rzeszowski Oddział Stowarzyszenia “Wspólnota Polska”&lt;/li&gt;
+&lt;li&gt;Centrum Badań nad Polonią i Polakami na Świecie Uniwersytetu Rzeszowskiego&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

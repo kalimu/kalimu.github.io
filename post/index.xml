@@ -6,9 +6,70 @@
     <description>Recent content in Posts on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v.14</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.1.0</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wrażenia z pobytu na Uniwersytecie Notre Dame (USA)</title>
+      <link>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
+      <description>&lt;div id=&#34;center-for-research-computing-crc&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Center for Research Computing (CRC)&lt;/h2&gt;
+&lt;p&gt;Od 1 sierpnia do 31 października 2017 r. miałem możliwość i ogromną satysfakcję gościć na Uniwersytecie Notre Dame w stanie Indiana. Pojechałem tam zaproszony przez dyrektora Center for Research Computing (CRC) prof. Jarka Nabrzyskiego, którego poznałem w Tokio rok wcześniej na konferencji plenarnej &lt;em&gt;Research Data Alliance&lt;/em&gt;. W USA spędziłem trzy miesiące jako wizytujący &lt;em&gt;assistant professor&lt;/em&gt;, przyglądając się pracy CRC, które jest jednym z kilku wydzielonych Centrów, działających na Uniwersytecie Notre Dame. W szczególności blisko współpracowałem z Center for Social Research (CRS). CRS jest jednostką blisko zintegrowaną z CRC i kierowaną przez Kate E. Mueller. CRS składa się z grupy osób specjalizujących się w analizie danych (Data Science) w badaniach społecznych. W sumie w całym CRC pracuje około 50 osób. Oprócz CRS w CRC działają też inne grupy: &lt;em&gt;High Performance Computing Group&lt;/em&gt;, &lt;em&gt;Software Development Group&lt;/em&gt; i &lt;em&gt;CyberInfrastructure Development Group&lt;/em&gt;. Taka struktura pozwala CRC na sprawną realizację misji, którą jest, między innymi, ułatwienie współpracy interdyscyplinarnej pomiędzy badaczami nauk społecznych i informatycznych. CRC zapewnia dostęp do rozbudowanej infrastruktury informatycznej i może np. zapewnić dostęp do mocy obliczeniowej ponad 30 000 rdzeni procesorowych, pozwalając m.in. na rozwój tzw. obliczeniowych nauk społecznych (Computational Social Science). CRC jest uznawane za jedno z najlepszych akademickich centrów obliczeniowych w Stanach. Notre Dame dysponuje obecnie w sumie dwudziestoma światowej klasy ośrodkami/centrami badawczymi (tzw. &lt;em&gt;core facilities&lt;/em&gt;).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;center-for-social-research-crs&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Center for Social Research (CRS)&lt;/h2&gt;
+&lt;p&gt;CRS z kolei zapewnia wsparcie pracownikom naukowym Uniwersytetu w zakresie gromadzenia, przechowywania, analizy, interpretacji i wizualizacji danych badawczych. W skład Centrum wchodzą osoby specjalizujące się w różnych obszarach i narzędziach. Cześć z tych osób pracuje nad doktoratami (pierwszymi lub kolejnymi). Nie mają oni obowiązków dydaktycznych. Oferowane są natomiast warsztaty dla chętnych studentów i pracowników naukowych. Podstawowym narzędziem analitycznym jest język programowania statystycznego R; wykorzystywany jest również Python. Mam bardzo pozytywne wrażenia z pracy w tym międzynarodowym środowisku osób (w składzie zespołu znajdowały się osoby pochodzące z Chin, Irlandii, czy Nepalu), zajmujących się Data Science w naukach społecznych. Niezwykle wartościowe było również różnorodne, interdyscyplinarne przygotowanie tych osób, często wychodzące daleko poza tylko nauki społeczne, np. podwójne studia z filozofii i informatyki, doktoraty z prawa oraz fizyki i statystyki, bioinformatyka, systemy GIS, czy formalna matematyka. CRS rozwija się coraz intensywniej, zatrudnia nowych konsultantów, rozbudowuje ofertę usługową. Plany rozwoju są ambitne, a potencjał duży również dzięki bliskiej integracji z CRC. Podczas swoich kontaktów z CRC/CRS byłem pod ogromnym wrażeniem dużej życzliwości i otwartości kadry zarządzającej, nie tylko w stosunku do mnie, ale i do wszystkich pracowników. To wszystko budowało od początku bardzo dobrą atmosferę do zespołowej pracy, współodpowiedzialność za projekty, lojalność i zaangażowanie ze strony pracowników. Dodać też trzeba, że ogromne wsparcie było również widoczne ze strony wszystkich wydziałów administracyjnych, jakie miałem okazję poznać (w moim przypadku szczególnie w sprawach formalno-wizowych).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;charakterystyka-uniwersytetu-notre-dame&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Charakterystyka Uniwersytetu Notre Dame&lt;/h2&gt;
+&lt;p&gt;Uniwersytet Notre Dame został ufundowany w 1842 r. jako uniwersytet katolicki i od 175 lat nieprzerwanie zachowuje ten religijny charakter. Nie przeszkadza to jednak w tym, że zarówno pracownicy, jak i studenci reprezentują różne kraje, kultury i religie. Władze Uczelni jednoznacznie i otwarcie sprzeciwiają się wszelkim tendencjom rasistowskim czy antysemickim. Wolność słowa czy wyznania to wartości powszechnie akceptowane i pilnowane przez wszystkie strony. Podkreślana jest przez władze uczelni konieczność dialogu niezależnie od dzielących różnic, także światopoglądowych czy politycznych.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;kadra-i-studenci&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Kadra i studenci&lt;/h2&gt;
+&lt;p&gt;Na uniwersytecie pracuje około 1200 pełnoetatowych pracowników akademickich (nie licząc administracyjnych) i studiuje prawie 12 400 studentów, co daje stosunek ok. 10 studentów na jednego pracownika naukowego. Z tego też powodu grupy dydaktyczne liczące 12 osób uważane są za duże. Na około 20 000 podań w 2016 roku przyjęto na studia 3 655 osób, czyli 18.7% aplikujących. Składana jest duża liczba aplikacji z całego świata, mimo że czesne należy do jednego z wyższych w USA (średniorocznie ok. 50 tys. dolarów). Jednocześnie prawie 3/4 studentów pierwszych lat otrzymuje jakąś formę pomocy finansowej — w 2015/16 było to w sumie ponad 233 miliony dolarów. Na 2200 studentów poziomu graduate, 73% zdobywa doktoraty w 32 dyscyplinach. Około 97% otrzymuje pełne stypendia (&lt;em&gt;full-tuition scholarships&lt;/em&gt;). Ponad połowa studentów pierwszych lat studiuje również za granicą: w Australii, Brazylii, Chile, Chinach, Francji, Niemczech, Grecji, Irlandii, Izraelu, we Włoszech, Japonii, Jordanii, Meksyku, Rosji, Senegalu, Singapurze, Południowej Korei, Hiszpanii, Szwajcarii, Ugandzie i Wielkiej Brytanii. Na Notre Dame studiuje 1300 studentów międzynarodowych z 100 krajów. Dodatkowo, uczelnia gości każdego roku około 350 naukowców z różnych krajów. Na uczelni działa ponad 500 klubów studenckich i organizacji. 95% studentów kończy uczelnie z dyplomem, co daje Notre Dame miejsce w pierwszej piątce rankingu dla uczelni badawczych. Na świecie aktywnie działa największa w szkolnictwie wyższym sieć 270 klubów absolwentów Notre Dame.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;rankingi&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Rankingi&lt;/h2&gt;
+&lt;p&gt;Krajowe rankingi dają Notre Dame miejsce (w zależności od konstrukcji) w pierwszej 25-tce, 15-tce lub nawet 10-tce najlepszych uniwersytetów w Stanach Zjednoczonych. Uczelnia jest też w ścisłej czołówce rankingu uniwersytetów, w którym rodzicie wybierają uczelnie, na jakich chcieliby, żeby studiowały ich dzieci (24% obecnych studentów to dzieci absolwentów Notre Dame). Uniwersytet jest również na pierwszym miejscu w rankingu instytucji szkolnictwa wyższego o charakterze katolickim. Wśród absolwentów Notre Dame są nobliści, senatorowie, pracownicy NASA, astronauci, kardynałowie czy osoby ze świata polityki, jak np. była Sekretarz Stanu Condoleezza Rice. Absolwenci Notre Dame pełnią najwyższe funkcje zarządcze (CEO) w około 25 collegach i uniwersytetach. W skład Notre Dame wchodzą również znane college i szkoły uznawane w kraju za jedne z najlepszych (np. Notre Dame Law School czy Mendoza College of Business).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;finanse&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Finanse&lt;/h2&gt;
+&lt;p&gt;Notre Dame dysponuje rocznym budżetem około 1.6 miliarda dolarów i obecnie może pochwalić się najwyższą ze wszystkich amerykańskich uniwersytetów sumą darowizn, wynoszącą łącznie ponad 10 miliardów dolarów. W roku 2016/17 sami absolwenci uczelni przekazali swojej Alma Mater w darowiznach 233 miliony dolarów. W ostatnim roku pozyskano również 138 milionów dolarów z samych grantów badawczych. Za pozyskanie ok. 10% tej sumy, czyli 14 mln dolarów, było współodpowiedzialne CRC.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;kampus&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Kampus&lt;/h2&gt;
+&lt;p&gt;Kampus Uniwersytetu jest uważany za najpiękniejszy w Stanach Zjednoczonych i stanowi jedną z głównych atrakcji turystycznych w stanie Indiana. W roku akademickim 2015/2016 odwiedziło go ponad 1.8 miliona gości.&lt;br /&gt;
+Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co razem daje wartość ponad 3 miliardów dolarów. Budowane są kolejne budynki, w tym nowe centra badawcze. Moje miejsce pracy mieściło się w siedzibie CRS, zlokalizowanej w nowo wybudowanym, nowoczesnym i pięknym architektonicznie &lt;em&gt;Jenkins Hall&lt;/em&gt;. W obrębie kampusu mieszczą się boiska, pola golfowe, trasy spacerowo-biegowe wokół dwóch jezior, przystań dla żaglówek, dwie pływalnie (w tym jedna o wymiarach olimpijskich). Na kampusie zlokalizowany jest też stadion sportowy mieszczący 80 000 widzów, na którym regularnie odbywają się rozgrywki amerykańskiego footballu. W historii 150 kolejnych rozgrywek, za każdym razem, wykupione były wszystkie miejsca. Stadion od tego roku został wyposażony w największy stadionowy telebim. Kontrakt ze znaną marką amerykańską Under Armor na produkcję odzieży sportowej z logiem Notre Dame został wyceniony na prawie 100 mln dolarów, a wartość footballowej drużyny sportowej jest wyceniana na ponad 100 mln dolarów. Przy stadionie zlokalizowane jest również nowe, wyposażone w najnowszą technologię, studium telewizyjne, które przygotowuje transmisje telewizyjne wychodzące z Uniwersytetu. Główny budynek biblioteki uniwersyteckiej (a jest ich kilka) ma 14 pięter i w momencie ukończenia budowy był największą biblioteką uniwersytecką na świecie. Uniwersytet ma również własną elektrownię, straż pożarną, dwie kliniki (dla studentów i kadry naukowej) i własną policję, która posiada jurysdykcję na terenie kampusu niezależną od lokalnej policji. Wydawnictwo uniwersyteckie ma 1000 książek w druku i ponad 50 nowych tytułów rocznie. Uniwersytet Notre Dame posiada również swoje filie w Londynie, Beijing, Dublinie, Jeruzalem i Rzymie.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;eventy&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Eventy&lt;/h2&gt;
+&lt;p&gt;Pobyt w Notre Dame to również była doskonała okazja do udziału w otwartych wykładach, seminariach, spotkaniach, warsztatach i uroczystościach. Z ciekawszych wykładów warto wspomnieć wykład prof. Anny Grzymały-Busse ze Stanford University, która odbierała jednocześnie prestiżową nagrodę z swoją książkę &lt;em&gt;Nations under God&lt;/em&gt;, czy wykład &lt;em&gt;Citizenship in a Global Age&lt;/em&gt; prowadzony przez Horsta Koehlera — byłego prezydenta Niemiec, obecnie przedstawiciela Narodów Zjednoczonych na zachodnią Saharę. Wartościowe było osobiste poznanie Hadley’a Wickhama (Chief Scientist w RStudio), cieszącego się ogromnym uznaniem w społeczności osób zajmujących się Data Science, który przybył do Notre Dame z gościnnym wykładem w ramach cyklu zaproszonych wykładów dla studentów kierunku Data Science. Interesujące były również spotkania z udziałem osób ze świata polityki amerykańskiej, np. z byłą Sekretarz Stanu Condoleezzą Rice, szefami sztabów Baracka Obamy i Georga Busha, czy byłym dyrektorem CIA. Brałem również udział w bardzo wartościowych i inspirujących warsztatach &lt;em&gt;Writing Successful Grants&lt;/em&gt; prowadzonych przez Roberta Portera — byłego dyrektora Research Development na University of Tenessee.&lt;/p&gt;
+&lt;p&gt;Ogólnie swój pobyt oceniam jako bardzo udany, przekraczający znacznie moje wcześniejsze oczekiwania. O wynikach prac naukowych prowadzonych w Notre Dame będę informował w odpowiednim czasie w innym miejscu na swojej stronie WWW.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kalimu.github.io/img/photos/nd_01.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_02.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_03.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_04.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_05.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_06.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_07.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_08.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_09.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_10.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_11.jpg&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Tidyverse. Hadley Wickham lecture at Notre Dame University</title>
+      <link>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
+      <description>&lt;p&gt;During my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham’s lecture &lt;em&gt;Welcome to the Tidyverse&lt;/em&gt; and meet Hadley in person. Hadley’s talks are always well-structured and worth listening.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hadley Wickham has been a prime mover in releasing R upon the masses, enabling hordes of unsuspecting would-be researchers to process and visualize data in ways they never dreamed of. The tidyverse, the culmination of years of effort in the R language, is a universe of packages that facilitate a grammar of data, graphics, and modeling that allows even beginners to speak the language of data science fluently. Author of several books on programming and dozens(!) of R packages that are among the most widely used in the realm of data, Hadley Wickham invites you personally to experience the thrill of diving deep into data, discovering unknown treasures, and coming out on the other side with a fuller understanding of the way in which the world works! Hadley Wickham is the Chief Scientist at RStudio and an Adjunct Professor of Statistics at the University of Auckland, Stanford University, and Rice University. He builds computational and cognitive tools that make data science easier, faster, and more fun. This event was hosted by the MS-ACMS Data Science program and was co-sponsored by the Mendoza College of Business MSBA program and the Office of the Provost.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;https://kalimu.github.io/img/photos/hadley.jpg&#34; alt=&#34;May the RStudio be with you!&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;May the RStudio be with you!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Seminarium z udziałem prof. Philipa Zimbardo </title>
@@ -35,7 +96,7 @@
       
       <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
       <description>&lt;p&gt;Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-07-21.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2017-11-19.&lt;/p&gt;
 &lt;div id=&#34;data-science-skills&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Data Science Skills&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -150,7 +211,7 @@
       
       <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>&lt;p&gt;This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-07-21.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2017-11-19.&lt;/p&gt;
 &lt;div id=&#34;books-on-line-printed&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Books (on-line &amp;amp; printed)&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -341,7 +402,7 @@
       <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
       <description>&lt;div id=&#34;version-1.2&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Version: 1.2&lt;/h2&gt;
-&lt;p&gt;The last update of this post: 2017-07-21.&lt;/p&gt;
+&lt;p&gt;The last update of this post: 2017-11-19.&lt;/p&gt;
 &lt;p&gt;Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;strong&gt;See what new Hadley recommends&lt;/strong&gt;:&lt;br /&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opendata on Kamil Wais</title>
-    <link>https://kalimu.github.io/tags/opendata/</link>
+    <link>/tags/opendata/</link>
     <description>Recent content in Opendata on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Closed Open Data</title>
-      <link>https://kalimu.github.io/project/gus/</link>
+      <link>/project/gus/</link>
       <pubDate>Sun, 18 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/gus/</guid>
+      <guid>/project/gus/</guid>
       <description>&lt;div id=&#34;summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this research project we analyze barriers and bad practices in accessing Open Administrative Data in Poland.&lt;/p&gt;
