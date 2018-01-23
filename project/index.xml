@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Kamil Wais</title>
-    <link>https://kalimu.github.io/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.2.0</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.3.0</copyright>
     <lastBuildDate>Sun, 18 Jun 2017 21:13:14 -0500</lastBuildDate>
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Closed Open Data</title>
-      <link>https://kalimu.github.io/project/gus/</link>
+      <link>/project/gus/</link>
       <pubDate>Sun, 18 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/gus/</guid>
+      <guid>/project/gus/</guid>
       <description>&lt;div id=&#34;summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this research project we analyze barriers and bad practices in accessing Open Administrative Data in Poland.&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>limeRick</title>
-      <link>https://kalimu.github.io/project/limerick/</link>
+      <link>/project/limerick/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/limerick/</guid>
+      <guid>/project/limerick/</guid>
       <description>&lt;div id=&#34;limerick-the-bridge-between-limesurvey-and-r&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;limeRick: The bridge between LimeSurvey and R&lt;/h1&gt;
 &lt;p&gt;The R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:&lt;/p&gt;
@@ -64,10 +64,10 @@
     
     <item>
       <title>genderizeR</title>
-      <link>https://kalimu.github.io/project/genderizer/</link>
+      <link>/project/genderizer/</link>
       <pubDate>Tue, 27 Jan 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/genderizer/</guid>
+      <guid>/project/genderizer/</guid>
       <description>&lt;div id=&#34;r-package-for-gender-prediction-based-on-first-names&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R package for gender prediction based on first names&lt;/h1&gt;
 &lt;p&gt;The package uses&lt;a title=&#34;http://genderize.io&#34; href=&#34;http://genderize.io&#34; target=&#34;_blank&#34;&gt;&lt;em&gt; genderize.io&lt;/em&gt;&lt;/a&gt; API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.&lt;/p&gt;
@@ -77,7 +77,7 @@
 &lt;h2&gt;
 Article &amp;amp; Citations:
 &lt;/h2&gt;
-When using the genderizeR R package in your work, &lt;strong&gt;please cite also the &lt;a href=&#34;https://kalimu.github.io/publication/genderizer&#34;&gt;article&lt;/a&gt;&lt;/strong&gt;:
+When using the genderizeR R package in your work, &lt;strong&gt;please cite also the &lt;a href=&#34;/publication/genderizer&#34;&gt;article&lt;/a&gt;&lt;/strong&gt;:
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;
 Kamil Wais, &lt;strong&gt;&lt;em&gt;Gender Prediction Methods Based on First Names with genderizeR&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;The R Journal&lt;/strong&gt;,Vol. 8/1, Aug. 2016, &lt;a href=&#34;https://journal.r-project.org/archive/2016-1/wais.pdf&#34;&gt;https://journal.r-project.org/archive/2016-1/wais.pdf&lt;/a&gt;
 &lt;/p&gt;
@@ -157,7 +157,7 @@ Collaboration
 &lt;div id=&#34;package-downloads&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Package downloads&lt;/h2&gt;
 &lt;p&gt;(from CRAN RStudio mirror)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://kalimu.github.io/project/genderizer_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/project/genderizer_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -165,10 +165,10 @@ Collaboration
     
     <item>
       <title>Resovia R User Group (RRUG)</title>
-      <link>https://kalimu.github.io/project/rrug/</link>
+      <link>/project/rrug/</link>
       <pubDate>Wed, 23 Jul 2014 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/rrug/</guid>
+      <guid>/project/rrug/</guid>
       <description>&lt;p&gt;[in Polish]&lt;/p&gt;
 &lt;p&gt;Od kwietnia 2016 roku działa pod patronatem WSIiZ w Rzeszowie Resovia R User Group (RRUG), czyli Rzeszowska Grupa Użytkowników R’a. Język programowania statystycznego R jest standardem zarówno wśród analityków sektora komercyjnego, administracyjnego, jak i pracowników naukowych. Globalna liczba jego użytkowników szacowana jest w milionach i stale rośnie. Wymianę doświadczeń związanych z analizą danych za pomocą R’a wspierają liczne grupy użytkowników R’a – lokalne społeczności analityków i programistów wspierające się w rozwoju zawodowym, naukowym i projektach analitycznych. Stworzenie takiej właśnie społeczności jest celem również naszej grupy.&lt;/p&gt;
 &lt;p&gt;Bieżąca komunikacja wewnątrz grupy odbywa się za pomocą Slack’a: rerug.slack.com. Jeśli nie możesz się dołączyć do grupy lub nie dostałaś zaproszenia skontaktuj się ze mną – można użyć formularza kontaktowego na tej stronie.&lt;/p&gt;
@@ -191,11 +191,74 @@ Collaboration
     </item>
     
     <item>
-      <title>Polonia</title>
-      <link>https://kalimu.github.io/project/polonia/</link>
+      <title>ODGAR</title>
+      <link>/project/odgar/</link>
       <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/polonia/</guid>
+      <guid>/project/odgar/</guid>
+      <description>&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/viz/viz.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/DiagrammeR-styles/styles.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/grViz-binding/grViz.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;em&gt;ODGAR: Framework for Online Declarative Data Gathering, Analyzing, and Reporting.&lt;/em&gt;&lt;/p&gt;
+&lt;div id=&#34;background&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Off-line research paradigms are still dominant even in on-line survey techniques&lt;/strong&gt;. Most online research techniques convert old-fashioned off-line questionnaires to HTML forms, so not only they do not exploit the full potential of Data Science &amp;amp; Internet Technologies, but &lt;strong&gt;they are outdated already by design&lt;/strong&gt;. Thus, contemporary on-line techniques are not natively on-line—they are mainly off-line questionnaires converted into more or less advanced on-line HTML forms, but with inherited off-line characteristics (high burden and low value for respondents, non-equivalent information exchange). We want to change that!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Social researchers usually fail to establish long-term relationships with participants of their studies&lt;/strong&gt;. On-line surveys are boring for respondents, and nothing compensates this boredom—the respondents devote their time and share their knowledge but receive nothing valuable in return. Hence, that their intrinsic motivation is low, resulting in &lt;strong&gt;long-term trend of decreasing response rates&lt;/strong&gt; in social studies. We want to change that!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;proposed-solution&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Proposed solution&lt;/h2&gt;
+&lt;p&gt;The most important principle for establishing long-term relations with intrinsically motivated respondents is that they should be able to immediately access the feedback relevant to their answers, and thus, they should be &lt;strong&gt;enclosed within an instant feedback loop&lt;/strong&gt; (see Figure 1). To increase its value, the feedback should be dynamically customized to each respondent. This can be achieved by pre-programmed templates of feedback scenarios, which can be adaptively customized by the respondent’s answers to this or previous questions. Most traditional research techniques do not provide instant feedback to respondents. We want to utilize the possibilities of instant feedback to the maximum, apply it to different topics, and combine different feedback sources: a respondent’s answers to a given question and to other questions; other users’ answers; external open data; aggregated or summarized outcomes from reference studies.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-1&#34;&gt;&lt;/span&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;grViz html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;diagram&#34;:&#34;digraph {\n\n# graph [layout = twopi] # graph [layout = dot|neato|twopi|circo]\n  graph [compound = true, nodesep = .5, ranksep = .25,\n         color = blue]\n\nnode [fontname = Helvetica, fixedsize = true, style = filled, fontsize = 16]\n\nnode [width = 2]\n\n    \&#34;Researcher\&#34; [fillcolor = red]\n    \&#34;Data Scientist\&#34; [fillcolor = mediumpurple]\n\nnode [shape = diamond, fillcolor = red, width = 3.5, fixedsize = false]\n\n    \&#34;Question\&#34;\n\nnode [shape = oval, fillcolor = chartreuse, width = 2.5]\n\n    \&#34;Respondent 1\&#34;; \&#34;Respondent 2\&#34;\n\nnode [shape = rectangle, style = filled, fillcolor = grey, width = 2]\n\n    \&#34;Answer 1\&#34;; \&#34;Answer 2\&#34;\n\nnode [shape = square, style = filled, fixedsize = false, width = 2.3]\n\n    \&#34;All user answers\&#34; [fillcolor = grey]\n    \&#34;External data sources\&#34; [fillcolor = mediumpurple]\n\n\nnode [shape = rectangle, style = filled, fillcolor = lightblue, \n      fixedsize = true, width = 2.5]\n\n    \&#34;Customized feedback 1\&#34;; \&#34;Customized feedback 2\&#34;\n\n\nedge [color = grey, penwidth = 2.5]\n    \&#34;Researcher\&#34; -&gt; \&#34;Question\&#34;\n    \&#34;Data Scientist\&#34; -&gt; \&#34;External data sources\&#34;\n    \&#34;Question\&#34; -&gt; \&#34;Data Scientist\&#34;\n\nsubgraph cluster0 {\n    \&#34;Respondent 1\&#34; -&gt; \&#34;Answer 1\&#34;\n    \&#34;Answer 1\&#34; -&gt; \&#34;Customized feedback 1\&#34; -&gt; \&#34;Respondent 1\&#34;\n} \nsubgraph cluster2 {\n    \&#34;Respondent 2\&#34; -&gt; \&#34;Answer 2\&#34;\n    \&#34;Answer 2\&#34; -&gt; \&#34;Customized feedback 2\&#34; -&gt; \&#34;Respondent 2\&#34;\n}\n#subgraph cluster3 {\n   \&#34;All user answers\&#34; -&gt; \&#34;Customized feedback 1\&#34;\n    \&#34;All user answers\&#34; -&gt; \&#34;Customized feedback 2\&#34;\n    \&#34;External data sources\&#34; -&gt; \&#34;Customized feedback 1\&#34;\n    \&#34;External data sources\&#34; -&gt; \&#34;Customized feedback 2\&#34;\n \n#}\n\&#34;Question\&#34; -&gt; \&#34;Respondent 1\&#34; [lhead = cluster0]\n\&#34;Question\&#34; -&gt; \&#34;Respondent 2\&#34; [lhead = cluster1]\n\&#34;Answer 1\&#34; -&gt; \&#34;All user answers\&#34;\n\&#34;Answer 2\&#34; -&gt; \&#34;All user answers\&#34;\n    \&#34;All user answers\&#34; -&gt; \&#34;Researcher\&#34;\n\n\n}&#34;,&#34;config&#34;:{&#34;engine&#34;:&#34;dot&#34;,&#34;options&#34;:null}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: Declarative Data Collection with Instant Feedback Loop
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;research-plan&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Research Plan&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Desk Research and designing on-line experiment.&lt;/li&gt;
+&lt;li&gt;Development &amp;amp; testing of prototype of new research software fully supporting instant feedback.&lt;/li&gt;
+&lt;li&gt;Conducting large-scale on-line experiment in full factorial design.&lt;/li&gt;
+&lt;li&gt;Empirical data analysis.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;related-research-task-in-progress&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Related research task in progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Explaining Response Rates via Social Response Theory and Agent-Based Modeling Simulations&lt;/li&gt;
+&lt;li&gt;Data Science Skills in Social Sciences &amp;amp; Humanities&lt;/li&gt;
+&lt;li&gt;How to Legally Close &amp;amp; Commercialize Open Data? Case Study of Poland&lt;/li&gt;
+&lt;li&gt;R Package for Developing Web Data Products Based on Declarative Data Collection with Instant Feedback&lt;/li&gt;
+&lt;li&gt;Sensitive Data Management in Web Data Products with Instant Feedback&lt;/li&gt;
+&lt;li&gt;New Paradata Analysis and Quality Metrics in Declarative Data Collection with Instant Feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;call-for-collaboration&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Call for Collaboration&lt;/h2&gt;
+&lt;p&gt;If you are interested in of any form of collaboration within this project, please let me know! Especially, we are looking for research partners that could implement our approach in real-world case studies.&lt;/p&gt;
+&lt;div style=&#34;display: block; width: 100%; align: right; text-align: right;&#34;&gt;
+Looking forward to hearing from You!
+&lt;/div&gt;
+&lt;img src=&#34;\img\podpis.png&#34; style=&#34;box-shadow: 0px 0px 0px; float:right; margin-top: 5px;&#34;&gt;
+&lt;div style=&#34;clear: both;&#34;&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Polonia</title>
+      <link>/project/polonia/</link>
+      <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
+      
+      <guid>/project/polonia/</guid>
       <description>&lt;p&gt;W ramach projektu badawczego prowadzone są badania CAWI i PAPI wśród przedstawicieli środowisk polonijnych z całego świata, m.in.:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Polonijny Omnibus&lt;/em&gt; – badanie ankietowe przeprowadzane od 2011 r. wśród uczestników kolejnych edycji Światowych Festiwali Polonijnych Zespołów Folklorystycznych w Rzeszowie.&lt;/li&gt;
