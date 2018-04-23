@@ -2,273 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Kamil Wais</title>
-    <link>/project/</link>
+    <link>https://kalimu.github.io/project/</link>
     <description>Recent content in Projects on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.3.2</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
     <lastBuildDate>Sun, 18 Jun 2017 21:13:14 -0500</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://kalimu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Closed Open Data</title>
-      <link>/project/gus/</link>
+      <link>https://kalimu.github.io/project/gus/</link>
       <pubDate>Sun, 18 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>/project/gus/</guid>
-      <description>&lt;div id=&#34;summary&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Summary&lt;/h2&gt;
-&lt;p&gt;In this research project we analyze barriers and bad practices in accessing Open Administrative Data in Poland.&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/project/gus/</guid>
+      <description>SummaryIn this research project we analyze barriers and bad practices in accessing Open Administrative Data in Poland.
+</description>
     </item>
     
     <item>
       <title>limeRick</title>
-      <link>/project/limerick/</link>
+      <link>https://kalimu.github.io/project/limerick/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/project/limerick/</guid>
-      <description>&lt;div id=&#34;limerick-the-bridge-between-limesurvey-and-r&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;limeRick: The bridge between LimeSurvey and R&lt;/h1&gt;
-&lt;p&gt;The R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;importing on-line survey responses into R,&lt;/li&gt;
-&lt;li&gt;adding new responses to the survey directly from R,&lt;/li&gt;
-&lt;li&gt;automatically accessing surveys and question properties,&lt;/li&gt;
-&lt;li&gt;implementing passive measurement surveys,&lt;/li&gt;
-&lt;li&gt;developing data products based on real-time declarative data collection.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;README, BugReports and development repository on GitHub: &lt;a href=&#34;https://github.com/kalimu/LimeRick&#34;&gt;https://github.com/kalimu/LimeRick&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Presentation of early version of LimeRick package: &lt;a href=&#34;http://rpubs.com/kalimu/erum&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;roadmap&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Roadmap&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;updating and expanding documentation of the package (man pages)&lt;/li&gt;
-&lt;li&gt;checking available LimeSurvey updates via R&lt;/li&gt;
-&lt;li&gt;ping function to an active survey&lt;/li&gt;
-&lt;li&gt;function for populating survey with temporary lorem ipsum answers&lt;/li&gt;
-&lt;li&gt;dedicated demo Shiny app&lt;/li&gt;
-&lt;li&gt;getting only new responses&lt;/li&gt;
-&lt;li&gt;automatically labelling survey questions in R&lt;/li&gt;
-&lt;li&gt;generating a data frame of temporary responses&lt;/li&gt;
-&lt;li&gt;unit testing&lt;/li&gt;
-&lt;li&gt;tutorial vignette&lt;/li&gt;
-&lt;li&gt;package on CRAN&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;first public package presentation on European R User Meeting in Poznań&lt;/del&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/project/limerick/</guid>
+      <description>limeRick: The bridge between LimeSurvey and RThe R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:
+importing on-line survey responses into R,adding new responses to the survey directly from R,automatically accessing surveys and question properties,implementing passive measurement surveys,developing data products based on real-time declarative data collection.</description>
     </item>
     
     <item>
       <title>genderizeR</title>
-      <link>/project/genderizer/</link>
+      <link>https://kalimu.github.io/project/genderizer/</link>
       <pubDate>Tue, 27 Jan 2015 21:13:14 -0500</pubDate>
       
-      <guid>/project/genderizer/</guid>
-      <description>&lt;div id=&#34;r-package-for-gender-prediction-based-on-first-names&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R package for gender prediction based on first names&lt;/h1&gt;
-&lt;p&gt;The package uses&lt;a title=&#34;http://genderize.io&#34; href=&#34;http://genderize.io&#34; target=&#34;_blank&#34;&gt;&lt;em&gt; genderize.io&lt;/em&gt;&lt;/a&gt; API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.&lt;/p&gt;
-&lt;p&gt;README, BugReports and development repository on GitHub: &lt;a title=&#34;https://github.com/kalimu/genderizeR&#34; href=&#34;https://github.com/kalimu/genderizeR&#34; target=&#34;_blank&#34;&gt;https://github.com/kalimu/genderizeR&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The package webpage on CRAN:&lt;br /&gt;
-&lt;a href=&#34;http://cran.r-project.org/web/packages/genderizeR&#34; target=&#34;_blank&#34;&gt;http://cran.r-project.org/web/packages/genderizeR&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;
-Article &amp;amp; Citations:
-&lt;/h2&gt;
-When using the genderizeR R package in your work, &lt;strong&gt;please cite also the &lt;a href=&#34;/publication/genderizer&#34;&gt;article&lt;/a&gt;&lt;/strong&gt;:
-&lt;p style=&#34;padding-left: 30px;&#34;&gt;
-Kamil Wais, &lt;strong&gt;&lt;em&gt;Gender Prediction Methods Based on First Names with genderizeR&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;The R Journal&lt;/strong&gt;,Vol. 8/1, Aug. 2016, &lt;a href=&#34;https://journal.r-project.org/archive/2016-1/wais.pdf&#34;&gt;https://journal.r-project.org/archive/2016-1/wais.pdf&lt;/a&gt;
-&lt;/p&gt;
-&lt;pre class=&#34;&#34;&gt;@article{RJ-2016-002,
-  author = {Kamil Wais},
-  title = {{Gender Prediction Methods Based on First Names with
-          genderizeR}},
-  year = {2016},
-  journal = {{The R Journal}},
-  url = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html},
-  pages = {17--37},
-  volume = {8},
-  number = {1}
-}
-&lt;/pre&gt;
-&lt;p&gt; &lt;/p&gt;
-Abstract:
-&lt;blockquote&gt;
-In recent years, there has been increased interest in methods for gender prediction based on first names that employ various open data sources. These methods have applications from bibliometric studies to customizing commercial offers for web users. Analysis of gender disparities in science based on such methods are published in the most prestigious journals, although they could be improved by choosing the most suited prediction method with optimal parameters and performing validation studies using the best data source for a given purpose. There is also a need to monitor and report how well a given prediction method works in comparison to others. In this paper, the author recommends a set of tools (including one dedicated to gender prediction, the R package called genderizeR), data sources (including the genderize.io API), and metrics that could be fully reproduced and tested in order to choose the optimal approach suitable for different gender analyses.
-&lt;/blockquote&gt;
-&lt;h2&gt;
-Testimonials:
-&lt;/h2&gt;
-From the peer-reviews:
-&lt;blockquote&gt;
-“[…] In this paper, the authors provide methods and an R package for gender prediction based on a set of names. This comes an opportune time, given the increased number of studies that require gender identification. As someone who has to do this for my own studies,&lt;strong&gt; I immediately see value in this kind of package and know of many colleagues who would also use this package.&lt;/strong&gt;”
-&lt;/blockquote&gt;
-Other testimonials:
-&lt;blockquote&gt;
-&lt;p&gt;It is easy creating a highcharts using highcharter, &lt;strong&gt;an amazing library as genderizeR, the one I use to obtain gender names. I like them a lot&lt;/strong&gt;. &lt;a href=&#34;https://aschinchon.wordpress.com/2016/07/28/visualizing-the-gender-of-us-senators-with-r-and-highmaps/&#34;&gt;Visualizing the Gender of US Senators With R and Highmaps&lt;/a&gt;&lt;/p&gt;
-I also used &lt;strong&gt;a very interesting package called genderizeR&lt;/strong&gt;, which makes gender prediction based on first names &lt;a href=&#34;https://aschinchon.wordpress.com/tag/genderizer/&#34; target=&#34;_blank&#34;&gt;The Gender of Big Data&lt;/a&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-Following this discussion on Finnish names, I came across &lt;strong&gt;the fantastic genderizeR package&lt;/strong&gt;, which looks into an online database to determine gender from names in several languages. &lt;a href=&#34;http://stackoverflow.com/questions/16802704/r-is-there-a-package-to-determine-gender-from-english-first-names#&#34; target=&#34;_blank&#34;&gt;[source link] &lt;/a&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p style=&#34;text-align: left;&#34;&gt;
-I’m a Data Scientist working for a company on the automotive industry. I stumbled upon the genderizeR package while looking for a solution that would allow me to complete missing data, present on our databases. Sometimes some people forget to fill out their honorific titles (e.g. Mrs.), or they’re transcribed poorly from paper-based documents. &lt;strong&gt;With this package, I’m able to not only correct those mistakes, but also to complete the missing data to provide stronger statistical value to my work. All this can be done automatically, directly in R&lt;/strong&gt;. I personally thank Dr. Kamil Wais for helping me with some features that are to be implemented in a future version of the package.
-&lt;/p&gt;
-&lt;p style=&#34;text-align: right;&#34;&gt;
-Carlos
-&lt;/p&gt;
-&lt;strong&gt;Without this package, I never would have been able to implement the algorithm I needed to assess gender balance in syllabi&lt;/strong&gt;, since RShiny doesn’t work well with https. Thanks so much for making it. It’s really great and makes using the genderize.io API so much easier.
-&lt;p style=&#34;text-align: right;&#34;&gt;
-Jane
-&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Jane is the author of a &lt;a href=&#34;https://jlsumner.shinyapps.io/syllabustool/&#34;&gt;Shiny app&lt;/a&gt;, which is an interesting use case for the genderizeR package:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;How Gender-Balanced is Your Syllabus? One of the explanations for the gender citation gap is that syllabi are disproportionately male. Thus, when students begin conducting their own research, most of their exposure has been to male researchers. Yet even well-meaning instructors may find that they have difficulty assessing how gender-balanced their syllabi really are. Counting is tedious and prone to human error, and instructors may not know the gender identities of all the authors they cite. This tool aims to help with that, by automating the process of evaluating the (probabilistic) gender of each name and then providing an estimate of what percentage of the authors on a syllabus are women.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I am glad that the package can be helpful for so many applications.&lt;/p&gt;
-&lt;h2&gt;
-Examples of applications
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fell, C.B. &amp;amp; König, C.J. &lt;em&gt;Is there a gender difference in scientific collaboration? A scientometric examination of co-authorships among industrial–organizational psychologists&lt;/em&gt;, Scientometrics (2016) 108: 113.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;doi:10.1007/s11192-016-1967-5&#34; class=&#34;uri&#34;&gt;doi:10.1007/s11192-016-1967-5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://link.springer.com/article/10.1007/s11192-016-1967-5&#34;&gt;http://link.springer.com/article/10.1007/s11192-016-1967-5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/publication/301771909_Is_there_a_gender_difference_in_scientific_collaboration_A_scientometric_examination_of_co_authorships_among_industrial_organizational_psychologists&#34;&gt;https://www.researchgate.net/publication/301771909&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jlsumner.shinyapps.io/syllabustool/&#34;&gt;How Diverse is Your Syllabus?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.highcharts.com/blog/223-visualizing-the-gender-of-us-senators&#34;&gt;Visualizing the gender of US senators with R and Highmaps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aschinchon.wordpress.com/2016/06/06/women-in-orchestras/&#34;&gt;Women in Orchestras&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aschinchon.wordpress.com/2016/02/17/the-gender-of-big-data/&#34;&gt;The Gender of Big Data&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;
-Collaboration
-&lt;/h2&gt;
-&lt;p&gt;Feel free to comment or contribute in any way! Let me know if you are using the genderizeR package in your work or if I could help you in your research or commercial project.&lt;/p&gt;
-&lt;div id=&#34;speed-test&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Speed Test&lt;/h2&gt;
-&lt;p&gt;A few people have been asking about the speed of the package, so I have done some speed test using the latest version of the genderizeR package.&lt;/p&gt;
-&lt;p&gt;Without any parallel programming I managed to check 108 023 unique terms through genderize.io API and it took 45 minutes (2 395 term per minute).&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;package-downloads&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Package downloads&lt;/h2&gt;
-&lt;p&gt;(from CRAN RStudio mirror)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/project/genderizer_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/project/genderizer/</guid>
+      <description>R package for gender prediction based on first namesThe package uses genderize.io API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.
+README, BugReports and development repository on GitHub: https://github.com/kalimu/genderizeR
+The package webpage on CRAN:
+http://cran.r-project.org/web/packages/genderizeR
+Article &amp;amp; Citations:When using the genderizeR R package in your work, please cite also the article:Kamil Wais, Gender Prediction Methods Based on First Names with genderizeR, The R Journal,Vol.</description>
     </item>
     
     <item>
       <title>Resovia R User Group (RRUG)</title>
-      <link>/project/rrug/</link>
+      <link>https://kalimu.github.io/project/rrug/</link>
       <pubDate>Wed, 23 Jul 2014 21:13:14 -0500</pubDate>
       
-      <guid>/project/rrug/</guid>
-      <description>&lt;p&gt;[in Polish]&lt;/p&gt;
-&lt;p&gt;Od kwietnia 2016 roku działa pod patronatem WSIiZ w Rzeszowie Resovia R User Group (RRUG), czyli Rzeszowska Grupa Użytkowników R’a. Język programowania statystycznego R jest standardem zarówno wśród analityków sektora komercyjnego, administracyjnego, jak i pracowników naukowych. Globalna liczba jego użytkowników szacowana jest w milionach i stale rośnie. Wymianę doświadczeń związanych z analizą danych za pomocą R’a wspierają liczne grupy użytkowników R’a – lokalne społeczności analityków i programistów wspierające się w rozwoju zawodowym, naukowym i projektach analitycznych. Stworzenie takiej właśnie społeczności jest celem również naszej grupy.&lt;/p&gt;
-&lt;p&gt;Bieżąca komunikacja wewnątrz grupy odbywa się za pomocą Slack’a: rerug.slack.com. Jeśli nie możesz się dołączyć do grupy lub nie dostałaś zaproszenia skontaktuj się ze mną – można użyć formularza kontaktowego na tej stronie.&lt;/p&gt;
-&lt;p&gt;Spotykamy się w wybrane środy o 17.00 w Wyższej Szkole Informatyki i Zarządzania w Rzeszowie (WSIiZ) na Sucharskiego 2. O dokładnych terminach staramy się powiadamiać z minimum tygodniowym wyprzedzeniem (jak tylko uzyskamy potwierdzenia od prowadzących na danym spotkaniu prezentacje).&lt;/p&gt;
-&lt;p&gt;Spotkania składają się zwykle z dwóch krótkich prezentacji (2 x ok. 20-30 min). Po prezentacjach przewidujemy swobodną wymianę myśli i zarysowanie planów przyszłych spotkań. Jest też czas na dyskusję w kuluarach, wymianę doświadczeń, networking. Atmosfera spotkań jest przyjazna i nieformalna.&lt;/p&gt;
-&lt;p&gt;Jeśli jest zapotrzebowanie możemy spotkanie przekształcić w mini warsztaty wprowadzające do wybranych zagadnień związanych z R’em. Wtedy też uczestnicy pojawiają się ze swoimi laptopami. Na zwykłych spotkaniach nie są one potrzebne. Prowadzącym zapewniamy dostęp do komputera z Internetem i rzutnika multimedialnego (oczywiście można też przyjść ze swoim sprzętem).&lt;/p&gt;
-&lt;p&gt;Jak dotąd uczestnikami spotkań byli przedstawiciele firm, innych uczelni rzeszowskich, administracji, programiści, zawodowi i początkujący analitycy, informatycy i badacze społeczni, studenci. Zapraszamy i zachęcamy do przekazania tej informacji wszystkim zainteresowanym. Proszę tylko ze względów logistycznych o wstępne zgłaszanie swojej chęci obecności (ew. liczby chętnych osób). Można skorzystać ze slacka lub formularza kontaktowego.&lt;/p&gt;
-&lt;div id=&#34;informacje-o-wybranych-spotkaniach&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Informacje o wybranych spotkaniach:&lt;/h2&gt;
-&lt;div id=&#34;listopada-2016-r.&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;30 listopada 2016 r.&lt;/h3&gt;
-&lt;p&gt;Mieliśmy dwie prezentacje:&lt;/p&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;p&gt;Relacja z październikowego eRum – Europejskiego Spotkania Użytkowników R’a (by Kamil Wais). Prezentacja dostępna tutaj: &lt;a href=&#34;http://rpubs.com/kalimu/erum-about&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum-about&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;dr Piotr Lasek przedstawił prezentację “Początki i współczesne wyzwania wizualizacji danych” i opowiedział o swoich doświadczeniach z tą problematyką, którą zajmował się przez ostatnie 2 lata jako Postdoctoral Fellow w York University (Toronto). Można było dowiedzieć się o drodze jaką przeszła wizualizacja danych od swoich początków, po katastrofę promu Challenger i na współczesnych narzędziach wizualizacji terabajtowych zbiorów danych skończywszy. Więcej informacji o naszym prelegencie: &lt;a href=&#34;http://piotrlasek.com/about/&#34; class=&#34;uri&#34;&gt;http://piotrlasek.com/about/&lt;/a&gt; Prezentacja dostępna tutaj: &lt;a href=&#34;http://piotrlasek.com/talks/datavis&#34; class=&#34;uri&#34;&gt;http://piotrlasek.com/talks/datavis&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/project/rrug/</guid>
+      <description>[in Polish]
+Od kwietnia 2016 roku działa pod patronatem WSIiZ w Rzeszowie Resovia R User Group (RRUG), czyli Rzeszowska Grupa Użytkowników R’a. Język programowania statystycznego R jest standardem zarówno wśród analityków sektora komercyjnego, administracyjnego, jak i pracowników naukowych. Globalna liczba jego użytkowników szacowana jest w milionach i stale rośnie. Wymianę doświadczeń związanych z analizą danych za pomocą R’a wspierają liczne grupy użytkowników R’a – lokalne społeczności analityków i programistów wspierające się w rozwoju zawodowym, naukowym i projektach analitycznych.</description>
     </item>
     
     <item>
       <title>ODGAR</title>
-      <link>/project/odgar/</link>
+      <link>https://kalimu.github.io/project/odgar/</link>
       <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
       
-      <guid>/project/odgar/</guid>
-      <description>&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/viz/viz.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/DiagrammeR-styles/styles.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/rmarkdown-libs/grViz-binding/grViz.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;p&gt;&lt;em&gt;ODGAR: Framework for Online Declarative Data Gathering, Analyzing, and Reporting.&lt;/em&gt;&lt;/p&gt;
-&lt;div id=&#34;background&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Background&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Off-line research paradigms are still dominant even in on-line survey techniques&lt;/strong&gt;. Most online research techniques convert old-fashioned off-line questionnaires to HTML forms, so not only they do not exploit the full potential of Data Science &amp;amp; Internet Technologies, but &lt;strong&gt;they are outdated already by design&lt;/strong&gt;. Thus, contemporary on-line techniques are not natively on-line—they are mainly off-line questionnaires converted into more or less advanced on-line HTML forms, but with inherited off-line characteristics (high burden and low value for respondents, non-equivalent information exchange). We want to change that!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Social researchers usually fail to establish long-term relationships with participants of their studies&lt;/strong&gt;. On-line surveys are boring for respondents, and nothing compensates this boredom—the respondents devote their time and share their knowledge but receive nothing valuable in return. Hence, that their intrinsic motivation is low, resulting in &lt;strong&gt;long-term trend of decreasing response rates&lt;/strong&gt; in social studies. We want to change that!&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;proposed-solution&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Proposed solution&lt;/h2&gt;
-&lt;p&gt;The most important principle for establishing long-term relations with intrinsically motivated respondents is that they should be able to immediately access the feedback relevant to their answers, and thus, they should be &lt;strong&gt;enclosed within an instant feedback loop&lt;/strong&gt; (see Figure 1). To increase its value, the feedback should be dynamically customized to each respondent. This can be achieved by pre-programmed templates of feedback scenarios, which can be adaptively customized by the respondent’s answers to this or previous questions. Most traditional research techniques do not provide instant feedback to respondents. We want to utilize the possibilities of instant feedback to the maximum, apply it to different topics, and combine different feedback sources: a respondent’s answers to a given question and to other questions; other users’ answers; external open data; aggregated or summarized outcomes from reference studies.&lt;/p&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-1&#34;&gt;&lt;/span&gt;
-&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;grViz html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;diagram&#34;:&#34;digraph {\n\n# graph [layout = twopi] # graph [layout = dot|neato|twopi|circo]\n  graph [compound = true, nodesep = .5, ranksep = .25,\n         color = blue]\n\nnode [fontname = Helvetica, fixedsize = true, style = filled, fontsize = 16]\n\nnode [width = 2]\n\n    \&#34;Researcher\&#34; [fillcolor = red]\n    \&#34;Data Scientist\&#34; [fillcolor = mediumpurple]\n\nnode [shape = diamond, fillcolor = red, width = 3.5, fixedsize = false]\n\n    \&#34;Question\&#34;\n\nnode [shape = oval, fillcolor = chartreuse, width = 2.5]\n\n    \&#34;Respondent 1\&#34;; \&#34;Respondent 2\&#34;\n\nnode [shape = rectangle, style = filled, fillcolor = grey, width = 2]\n\n    \&#34;Answer 1\&#34;; \&#34;Answer 2\&#34;\n\nnode [shape = square, style = filled, fixedsize = false, width = 2.3]\n\n    \&#34;All user answers\&#34; [fillcolor = grey]\n    \&#34;External data sources\&#34; [fillcolor = mediumpurple]\n\n\nnode [shape = rectangle, style = filled, fillcolor = lightblue, \n      fixedsize = true, width = 2.5]\n\n    \&#34;Customized feedback 1\&#34;; \&#34;Customized feedback 2\&#34;\n\n\nedge [color = grey, penwidth = 2.5]\n    \&#34;Researcher\&#34; -&gt; \&#34;Question\&#34;\n    \&#34;Data Scientist\&#34; -&gt; \&#34;External data sources\&#34;\n    \&#34;Question\&#34; -&gt; \&#34;Data Scientist\&#34;\n\nsubgraph cluster0 {\n    \&#34;Respondent 1\&#34; -&gt; \&#34;Answer 1\&#34;\n    \&#34;Answer 1\&#34; -&gt; \&#34;Customized feedback 1\&#34; -&gt; \&#34;Respondent 1\&#34;\n} \nsubgraph cluster2 {\n    \&#34;Respondent 2\&#34; -&gt; \&#34;Answer 2\&#34;\n    \&#34;Answer 2\&#34; -&gt; \&#34;Customized feedback 2\&#34; -&gt; \&#34;Respondent 2\&#34;\n}\n#subgraph cluster3 {\n   \&#34;All user answers\&#34; -&gt; \&#34;Customized feedback 1\&#34;\n    \&#34;All user answers\&#34; -&gt; \&#34;Customized feedback 2\&#34;\n    \&#34;External data sources\&#34; -&gt; \&#34;Customized feedback 1\&#34;\n    \&#34;External data sources\&#34; -&gt; \&#34;Customized feedback 2\&#34;\n \n#}\n\&#34;Question\&#34; -&gt; \&#34;Respondent 1\&#34; [lhead = cluster0]\n\&#34;Question\&#34; -&gt; \&#34;Respondent 2\&#34; [lhead = cluster1]\n\&#34;Answer 1\&#34; -&gt; \&#34;All user answers\&#34;\n\&#34;Answer 2\&#34; -&gt; \&#34;All user answers\&#34;\n    \&#34;All user answers\&#34; -&gt; \&#34;Researcher\&#34;\n\n\n}&#34;,&#34;config&#34;:{&#34;engine&#34;:&#34;dot&#34;,&#34;options&#34;:null}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: Declarative Data Collection with Instant Feedback Loop
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;research-plan&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Research Plan&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Desk Research and designing on-line experiment.&lt;/li&gt;
-&lt;li&gt;Development &amp;amp; testing of prototype of new research software fully supporting instant feedback.&lt;/li&gt;
-&lt;li&gt;Conducting large-scale on-line experiment in full factorial design.&lt;/li&gt;
-&lt;li&gt;Empirical data analysis.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div id=&#34;related-research-task-in-progress&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Related research task in progress&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Explaining Response Rates via Social Response Theory and Agent-Based Modeling Simulations&lt;/li&gt;
-&lt;li&gt;Data Science Skills in Social Sciences &amp;amp; Humanities&lt;/li&gt;
-&lt;li&gt;How to Legally Close &amp;amp; Commercialize Open Data? Case Study of Poland&lt;/li&gt;
-&lt;li&gt;R Package for Developing Web Data Products Based on Declarative Data Collection with Instant Feedback&lt;/li&gt;
-&lt;li&gt;Sensitive Data Management in Web Data Products with Instant Feedback&lt;/li&gt;
-&lt;li&gt;New Paradata Analysis and Quality Metrics in Declarative Data Collection with Instant Feedback&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;call-for-collaboration&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Call for Collaboration&lt;/h2&gt;
-&lt;p&gt;If you are interested in of any form of collaboration within this project, please let me know! Especially, we are looking for research partners that could implement our approach in real-world case studies.&lt;/p&gt;
-&lt;div style=&#34;display: block; width: 100%; align: right; text-align: right;&#34;&gt;
-Looking forward to hearing from You!
-&lt;/div&gt;
-&lt;img src=&#34;\img\podpis.png&#34; style=&#34;box-shadow: 0px 0px 0px; float:right; margin-top: 5px;&#34;&gt;
-&lt;div style=&#34;clear: both;&#34;&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/project/odgar/</guid>
+      <description>ODGAR: Framework for Online Declarative Data Gathering, Analyzing, and Reporting.
+BackgroundOff-line research paradigms are still dominant even in on-line survey techniques. Most online research techniques convert old-fashioned off-line questionnaires to HTML forms, so not only they do not exploit the full potential of Data Science &amp;amp; Internet Technologies, but they are outdated already by design. Thus, contemporary on-line techniques are not natively on-line—they are mainly off-line questionnaires converted into more or less advanced on-line HTML forms, but with inherited off-line characteristics (high burden and low value for respondents, non-equivalent information exchange).</description>
     </item>
     
     <item>
       <title>Polonia</title>
-      <link>/project/polonia/</link>
+      <link>https://kalimu.github.io/project/polonia/</link>
       <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
       
-      <guid>/project/polonia/</guid>
-      <description>&lt;p&gt;W ramach projektu badawczego prowadzone są badania CAWI i PAPI wśród przedstawicieli środowisk polonijnych z całego świata, m.in.:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Polonijny Omnibus&lt;/em&gt; – badanie ankietowe przeprowadzane od 2011 r. wśród uczestników kolejnych edycji Światowych Festiwali Polonijnych Zespołów Folklorystycznych w Rzeszowie.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Partnerami projektu są:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Rzeszowski Oddział Stowarzyszenia “Wspólnota Polska”&lt;/li&gt;
-&lt;li&gt;Centrum Badań nad Polonią i Polakami na Świecie Uniwersytetu Rzeszowskiego&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://kalimu.github.io/project/polonia/</guid>
+      <description>W ramach projektu badawczego prowadzone są badania CAWI i PAPI wśród przedstawicieli środowisk polonijnych z całego świata, m.in.:
+Polonijny Omnibus – badanie ankietowe przeprowadzane od 2011 r. wśród uczestników kolejnych edycji Światowych Festiwali Polonijnych Zespołów Folklorystycznych w Rzeszowie.Partnerami projektu są:
+Rzeszowski Oddział Stowarzyszenia “Wspólnota Polska”Centrum Badań nad Polonią i Polakami na Świecie Uniwersytetu Rzeszowskiego</description>
     </item>
     
   </channel>

@@ -2,378 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Kamil Wais</title>
-    <link>/tags/programming/</link>
+    <link>https://kalimu.github.io/tags/programming/</link>
     <description>Recent content in Programming on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v.14</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
     <lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/programming/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://kalimu.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>My Data Science &amp; Programming Skills &amp; Tools</title>
-      <link>/post/my-data-science-and-programming-skills-and-tools/</link>
+      <link>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-data-science-and-programming-skills-and-tools/</guid>
-      <description>&lt;p&gt;Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-07-21.&lt;/p&gt;
-&lt;div id=&#34;data-science-skills&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Data Science Skills&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;Data Manipulation&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficient data manipulation in R;&lt;br /&gt;
-&lt;code&gt;dplyr&lt;/code&gt;, &lt;code&gt;data.table&lt;/code&gt;, &lt;code&gt;reshape2&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Working with dates and time-series;&lt;br /&gt;
-&lt;code&gt;lubridate&lt;/code&gt;, &lt;code&gt;xts&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Reproducible Analyses&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;RStudio IDE, Markdown, LaTeX;&lt;br /&gt;
-&lt;code&gt;RMarkdown&lt;/code&gt;, &lt;code&gt;knitr&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Databases and Data Formats&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;MySQL, MongoDB, JSON, XML, Excel, CSV, shapefiles, Linked Open Data / SPARQL, etc.&lt;br /&gt;
-&lt;code&gt;mongolite&lt;/code&gt;, &lt;code&gt;jsonlite&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data Acquisition&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;parallel web-scrapping; working with REST API;&lt;br /&gt;
-&lt;code&gt;httr&lt;/code&gt;, &lt;code&gt;RCurl&lt;/code&gt;, &lt;code&gt;rvest&lt;/code&gt;, &lt;code&gt;RSelenium&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Text-mining&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;regular expressions; stemming with dictionary method;&lt;br /&gt;
-&lt;code&gt;stringr&lt;/code&gt;, &lt;code&gt;tm&lt;/code&gt;, &lt;code&gt;genderizeR&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Qualitative Analyses&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;RQDA&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;On-Line Surveys (CAWI)&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;advanced on-line surveys in &lt;code&gt;LimeSurvey&lt;/code&gt;;&lt;br /&gt;
-&lt;code&gt;LimeRick&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Networks Analyses&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;visualizing and analyzing networks in &lt;code&gt;Gelphi&lt;/code&gt;;&lt;br /&gt;
-&lt;/li&gt;
-&lt;li&gt;programming dynamic networks simulations in &lt;code&gt;NetLogo&lt;/code&gt;;&lt;br /&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data Visualization&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;static and interactive data visualization;&lt;br /&gt;
-&lt;code&gt;ggplot2&lt;/code&gt;, &lt;code&gt;ggvis&lt;/code&gt;, &lt;code&gt;waffle&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;dashboards and data reporting via WWW apps;&lt;br /&gt;
-&lt;code&gt;Shiny&lt;/code&gt;, &lt;code&gt;shinydashboard&lt;/code&gt;, &lt;code&gt;shinyjs&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Communicating Results&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;reports and presentations in &lt;code&gt;Tableau&lt;/code&gt;, &lt;code&gt;PowerPoint&lt;/code&gt;, and &lt;code&gt;HTML5&lt;/code&gt;;&lt;br /&gt;
-&lt;code&gt;Rmarkdown&lt;/code&gt;, &lt;code&gt;isoslides&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Statistical Analysis &amp;amp; Machine Learning&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;multiple linear regression, logistic regression, ordinal logistic regression, Principal Component Analysis (PCA), factor analysis, segmentation analysis, cluster analysis (k-means, hierarchical clustering), supervised / unsupervised learning,&lt;/li&gt;
-&lt;li&gt;neural networks, Support Vector Machines (SVM), decision trees, Random Forests, Ridge Regression, LASSO, elastic net regularization, K-fold cross-validation, bootstraping with &lt;code&gt;caret&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;survival analysis with &lt;code&gt;survival&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;time series analysis (ARIMA, TBATS) with &lt;code&gt;forecast&lt;/code&gt;.&lt;br /&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Big Data Tools&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;familiarity with &lt;code&gt;Spark&lt;/code&gt; and &lt;code&gt;sparklyr&lt;/code&gt; in R;&lt;/li&gt;
-&lt;li&gt;familiarity with &lt;code&gt;MapReduce&lt;/code&gt;, &lt;code&gt;Hadoop&lt;/code&gt;, &lt;code&gt;Pig&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Other Data Science Tools&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;familiarity with &lt;code&gt;SPSS&lt;/code&gt;, &lt;code&gt;SAS&lt;/code&gt;, &lt;code&gt;Octave&lt;/code&gt;, &lt;code&gt;RapidMiner&lt;/code&gt;, &lt;code&gt;Excel VisualBasic&lt;/code&gt;, &lt;code&gt;R Revolution Enterprise&lt;/code&gt; / &lt;code&gt;Microsoft R&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div id=&#34;programming-skills&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Programming Skills&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;Programming in R&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;code versioning with &lt;code&gt;RStudio IDE&lt;/code&gt;, &lt;code&gt;Git&lt;/code&gt;, &lt;code&gt;GitHub&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;functional programming with &lt;code&gt;purrr&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;reactive programming with &lt;code&gt;Shiny&lt;/code&gt;, &lt;code&gt;shinyjs&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;parallel programming with &lt;code&gt;parallel&lt;/code&gt;;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;R package development&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;package distribution with &lt;code&gt;GitHub&lt;/code&gt;, &lt;code&gt;CRAN&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;preparing package documentation with &lt;code&gt;roxygen2&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;unit testing with &lt;code&gt;testthat&lt;/code&gt;;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Internet technologies&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;HTML5&lt;/code&gt;, &lt;code&gt;CSS3&lt;/code&gt;, &lt;code&gt;JavaScript&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;familiarity with &lt;code&gt;MongoDB&lt;/code&gt;, &lt;code&gt;MEAN&lt;/code&gt; Stack, &lt;code&gt;Bootstrap&lt;/code&gt;, and &lt;code&gt;Linux&lt;/code&gt; servers;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Other programming languages&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;familiarity with &lt;code&gt;Python&lt;/code&gt;, &lt;code&gt;C++&lt;/code&gt;, &lt;code&gt;Java for Android&lt;/code&gt; &amp;amp; Android Studio.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
+      <description>Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.
+The last update of this post was done: 2018-04-23.
+Data Science SkillsData ManipulationEfficient data manipulation in R;
+dplyr, data.table, reshape2.Working with dates and time-series;
+lubridate, xts.Reproducible AnalysesRStudio IDE, Markdown, LaTeX;</description>
     </item>
     
     <item>
       <title>Resources: Programming &amp; Data Science in R</title>
-      <link>/post/resources-programming-data-science-in-r/</link>
+      <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/resources-programming-data-science-in-r/</guid>
-      <description>&lt;p&gt;This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-07-21.&lt;/p&gt;
-&lt;div id=&#34;books-on-line-printed&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Books (on-line &amp;amp; printed)&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;Hadley Wickham, &lt;em&gt;Advanced R&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.&lt;/em&gt; &lt;a href=&#34;http://adv-r.had.co.nz/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hadley Wickham, &lt;em&gt;R packages&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;[…] You’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.&lt;/em&gt; &lt;a href=&#34;http://adv-r.had.co.nz/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;R Core Team, &lt;em&gt;Writing R Extensions&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Official R Package documentation. Mandatory reading for R Package developers but not very user-friendly.&lt;/em&gt; &lt;a href=&#34;http://cran.r-project.org/doc/manuals/r-release/R-exts.html&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-&lt;small&gt;[R package development]&lt;/small&gt;
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 65%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Marek Gągolewski, &lt;em&gt;Programowanie w języku R. Analiza danych. Obliczenia. Symulacje&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Formalne, ustrukturyzowane podejście do języka. Raczej dla osób powyżej początkujących.&lt;/em&gt; &lt;a href=&#34;http://ksiegarnia.pwn.pl/produkt/213568/programowanie-w-jezyku-r.html&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 80%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Andrea Spanò, &lt;em&gt;Ramarro. R for Developers&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;For more advanced R programmers. Included topics about OOP, debugging and profiling, parallel computation, and C++ integration via Rcpp.&lt;/em&gt; &lt;a href=&#34;http://www.quantide.com/ramarro-r-for-developers/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 80%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dan Navarro, &lt;em&gt;Learning Statistics with R&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Over 560 pages of very good introductory materials into statistics and R. Strongly recommended for beginners in statistics.&lt;/em&gt; &lt;a href=&#34;http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-courses&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video Courses&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;Jared P. Lander, &lt;em&gt;R Programming LiveLessons. Fundamentals to Advanced&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;16+ Hours of Video Instruction. R Programming: Fundamentals to Advanced is a tour through the most important parts of R, the statistical programming language, from the very basics to complex modeling. It covers reading data, programming basics, visualization. data munging, regression, classification, clustering, modern machine learning and more.&lt;/em&gt; &lt;a href=&#34;http://www.informit.com/store/r-programming-livelessons-video-training-fundamentals-9780133743272&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 80%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div id=&#34;massive-open-online-courses-moocs&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Massive Open Online Courses (MOOCs)&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;DataCamp.com&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Interactive programming and Data Science courses in R and Python. Some of them are free of charge, some of them are premium courses. High quality materials, lots of interactive excercises, well-known data scientists as authors of the courses. Highly recommended.&lt;/em&gt; &lt;a href=&#34;https://www.datacamp.com/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div id=&#34;formal-education&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Formal Education&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Master of Computer Science in Data Science (MCS-DS)&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;With tuition under $20K, the MCS-DS is one of the most affordable gateways to one of the most lucrative and fastest growing careers of the new millennium. The MCS-DS builds expertise in four core areas of computer science: data visualization, machine learning, data mining and cloud computing, in addition to building valuable skill sets in statistics and information science with courses taught in collaboration with the University’s Statistics Department and iSchool (ranked #1 among Library and Information Studies Schools.)&lt;/em&gt; &lt;a href=&#34;https://www.coursera.org/university-programs/masters-in-computer-data-science&#34;&gt;[See more…]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Studia podyplomowe: Metody statystyczne w biznesie. Warsztaty z oprogramowaniem SAS&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Adresatami studiów podyplomowych „Metody statystyczne w biznesie” są wszystkie osoby pracujące na co dzień z danymi, zajmujący się ich analizą, przetwarzaniem, jak również będące odbiorcami takich analiz. Oferta skierowana jest do analityków, specjalistów ds. badań, jak również kadry menedżerskiej. Wszystkie zajęcia mają charakter warsztatów z wykorzystaniem oprogramowania SAS [niestety nie R, ale również warte polecenia] i odbywają się w pracowni komputerowej.&lt;/em&gt; &lt;a href=&#34;http://coin.wne.uw.edu.pl/pwojcik/podyplomowe_statystyka/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Studia podyplomowe: Inżynieria danych – Big Data&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Adresatami studiów są zatem osoby pragnące pogłębić i poszerzyć swoją wiedzę teoretyczną oraz praktyczne umiejętności jej wykorzystania w obszarze nowoczesnych informatycznych metod i narzędzi analityki Big Data, ze szczególnym uwzględnieniem zastosowań biznesowych.&lt;/em&gt; &lt;a href=&#34;http://bigdatacenter.pl/?page_id=166&#34;&gt;[See more…]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
+      <description>This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.
+The last update of this post was done: 2018-04-23.
+Books (on-line &amp;amp; printed)Hadley Wickham, Advanced R
+The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.</description>
     </item>
     
     <item>
       <title>Checklist for R package submission to CRAN</title>
-      <link>/post/checklist-for-r-package-submission-to-cran/</link>
+      <link>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</link>
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/checklist-for-r-package-submission-to-cran/</guid>
-      <description>&lt;div id=&#34;version-1.2&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Version: 1.2&lt;/h2&gt;
-&lt;p&gt;The last update of this post: 2017-07-21.&lt;/p&gt;
-&lt;p&gt;Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.&lt;/p&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;See what new Hadley recommends&lt;/strong&gt;:&lt;br /&gt;
-(&lt;a href=&#34;http://r-pkgs.had.co.nz/release.html&#34; class=&#34;uri&#34;&gt;http://r-pkgs.had.co.nz/release.html&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update R &amp;amp; packages&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;R&lt;/li&gt;
-&lt;li&gt;all packages&lt;/li&gt;
-&lt;li&gt;RStudio (stable or preview version).&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update your package&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Check unit tests.&lt;/li&gt;
-&lt;li&gt;Update vignettes.&lt;/li&gt;
-&lt;li&gt;Check reverse dependencies.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;If devtools functions don’t work use:&lt;br /&gt;
-tools::dependsOnPkgs()&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Import undefined globals in the NAMESPACE file&lt;br /&gt;
-(generated automatically by roxygen2)&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update README.md file&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Make change in README.Rmd.&lt;/li&gt;
-&lt;li&gt;Knit the Rmd into md.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Run a R CMD check locally with ‘–as-cran‘ option&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;If you got an error regarding qpdf missing, check:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;View(Sys.getenv(“PATH”) )&lt;/li&gt;
-&lt;li&gt;Sys.which(Sys.getenv(“R_QPDF”, “qpdf”))&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Run a R CMD check on win-builder&lt;/strong&gt;&lt;br /&gt;
-(devel and release versions) via ‘devtools::build_win()‘.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Run a R CMD check on Ubuntu (via Travis-CI)&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update ‘cran-comments.md‘&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Test environments,&lt;/li&gt;
-&lt;li&gt;R CMD check results (explain ERRORs, WARNINGs, NOTEs).&lt;/li&gt;
-&lt;li&gt;Downstream dependencies.&lt;/li&gt;
-&lt;li&gt;Resubmit comments.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update ‘Version‘ field in the DESCRIPTION file&lt;/strong&gt;&lt;br /&gt;
-(major.minor.patch.dev).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update ‘Date‘ field in the DESCRIPTION file&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update NEWS.md file&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Push all necessary commits to GitHub&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Run again a R CMD check locally just to be sure&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Use devtools::check().&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Push all necessary commits to GitHub&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Merge branches if necessary&lt;br /&gt;
-Via GithHub website OR Via GIT: git merge –no-ff branch_name&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Check vignettes&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Build your package sources&lt;/li&gt;
-&lt;li&gt;Load them with:&lt;br /&gt;
-install.packages(“../packageName_2.0.90002.tar.gz”,&lt;br /&gt;
-repos = NULL, type = “source”)&lt;/li&gt;
-&lt;li&gt;Use browseVignettes(“genderizeR”)&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Submit the package to CRAN&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Use devtools::release().&lt;/li&gt;
-&lt;li&gt;Confirm submission via link in the mail.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Check results of submission&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;in all CRAN checks&lt;br /&gt;
-(from &lt;a href=&#34;http://cran.r-project.org/web/packages&#34; class=&#34;uri&#34;&gt;http://cran.r-project.org/web/packages&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;in comments inside the e-mail from CRAN&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fix what needs to be fixed&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Consider increasing version number.&lt;/li&gt;
-&lt;li&gt;Check everything again.&lt;/li&gt;
-&lt;li&gt;Resubmit to CRAN.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;After successful submission&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Create a new release with tag version on GitHub repo.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Copy and paste the contents of the relevant NEWS.md section into the release notes&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Increment the version of the package in the DESCRIPTION file (to X.X.X.9000).&lt;/li&gt;
-&lt;li&gt;Promote your package
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Post on personal blog&lt;/li&gt;
-&lt;li&gt;Post on Twitter (use #rstats)&lt;/li&gt;
-&lt;li&gt;R-Bloggers&lt;/li&gt;
-&lt;li&gt;etc.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update this checklist&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Update the checklist version number.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
+      <description>Version: 1.2The last update of this post: 2018-04-23.
+Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
+See what new Hadley recommends:
+(http://r-pkgs.had.co.nz/release.html).Update R &amp;amp; packages:Rall packagesRStudio (stable or preview version).Update your package:Check unit tests.</description>
     </item>
     
   </channel>

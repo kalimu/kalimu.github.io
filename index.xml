@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kamil Wais on Kamil Wais</title>
-    <link>/</link>
+    <link>https://kalimu.github.io/</link>
     <description>Recent content in Kamil Wais on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.3.2</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Wrażenia z pobytu na Uniwersytecie Notre Dame (USA)</title>
-      <link>/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
+      <link>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
+      <guid>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
       <description>&lt;div id=&#34;center-for-research-computing-crc&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Center for Research Computing (CRC)&lt;/h2&gt;
 &lt;p&gt;Od 1 sierpnia do 31 października 2017 r. miałem możliwość i ogromną satysfakcję gościć na Uniwersytecie Notre Dame w stanie Indiana. Pojechałem tam zaproszony przez dyrektora Center for Research Computing (CRC) prof. Jarka Nabrzyskiego, którego poznałem w Tokio rok wcześniej na konferencji plenarnej &lt;em&gt;Research Data Alliance&lt;/em&gt;. W USA spędziłem trzy miesiące jako wizytujący &lt;em&gt;assistant professor&lt;/em&gt;, przyglądając się pracy CRC, które jest jednym z kilku wydzielonych Centrów, działających na Uniwersytecie Notre Dame. W szczególności blisko współpracowałem z Center for Social Research (CRS). CRS jest jednostką blisko zintegrowaną z CRC i kierowaną przez Kate E. Mueller. CRS składa się z grupy osób specjalizujących się w analizie danych (Data Science) w badaniach społecznych. W sumie w całym CRC pracuje około 50 osób. Oprócz CRS w CRC działają też inne grupy: &lt;em&gt;High Performance Computing Group&lt;/em&gt;, &lt;em&gt;Software Development Group&lt;/em&gt; i &lt;em&gt;CyberInfrastructure Development Group&lt;/em&gt;. Taka struktura pozwala CRC na sprawną realizację misji, którą jest, między innymi, ułatwienie współpracy interdyscyplinarnej pomiędzy badaczami nauk społecznych i informatycznych. CRC zapewnia dostęp do rozbudowanej infrastruktury informatycznej i może np. zapewnić dostęp do mocy obliczeniowej ponad 30 000 rdzeni procesorowych, pozwalając m.in. na rozwój tzw. obliczeniowych nauk społecznych (Computational Social Science). CRC jest uznawane za jedno z najlepszych akademickich centrów obliczeniowych w Stanach. Notre Dame dysponuje obecnie w sumie dwudziestoma światowej klasy ośrodkami/centrami badawczymi (tzw. &lt;em&gt;core facilities&lt;/em&gt;).&lt;/p&gt;
@@ -49,41 +49,41 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
 &lt;h2&gt;Eventy&lt;/h2&gt;
 &lt;p&gt;Pobyt w Notre Dame to również była doskonała okazja do udziału w otwartych wykładach, seminariach, spotkaniach, warsztatach i uroczystościach. Z ciekawszych wykładów warto wspomnieć wykład prof. Anny Grzymały-Busse ze Stanford University, która odbierała jednocześnie prestiżową nagrodę z swoją książkę &lt;em&gt;Nations under God&lt;/em&gt;, czy wykład &lt;em&gt;Citizenship in a Global Age&lt;/em&gt; prowadzony przez Horsta Koehlera — byłego prezydenta Niemiec, obecnie przedstawiciela Narodów Zjednoczonych na zachodnią Saharę. Wartościowe było osobiste poznanie Hadley’a Wickhama (Chief Scientist w RStudio), cieszącego się ogromnym uznaniem w społeczności osób zajmujących się Data Science, który przybył do Notre Dame z gościnnym wykładem w ramach cyklu zaproszonych wykładów dla studentów kierunku Data Science. Interesujące były również spotkania z udziałem osób ze świata polityki amerykańskiej, np. z byłą Sekretarz Stanu Condoleezzą Rice, szefami sztabów Baracka Obamy i Georga Busha, czy byłym dyrektorem CIA. Brałem również udział w bardzo wartościowych i inspirujących warsztatach &lt;em&gt;Writing Successful Grants&lt;/em&gt; prowadzonych przez Roberta Portera — byłego dyrektora Research Development na University of Tenessee.&lt;/p&gt;
 &lt;p&gt;Ogólnie swój pobyt oceniam jako bardzo udany, przekraczający znacznie moje wcześniejsze oczekiwania. O wynikach prac naukowych prowadzonych w Notre Dame będę informował w odpowiednim czasie w innym miejscu na swojej stronie WWW.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/photos/nd_01.jpg&#34; /&gt; &lt;img src=&#34;/img/photos/nd_02.jpg&#34; /&gt; &lt;img src=&#34;/img/photos/nd_03.jpg&#34; /&gt; &lt;img src=&#34;/img/photos/nd_04.jpg&#34; /&gt; &lt;img src=&#34;/img/photos/nd_05.jpg&#34; /&gt; &lt;img src=&#34;/img/photos/nd_06.jpg&#34; /&gt; &lt;img src=&#34;/img/photos/nd_07.jpg&#34; /&gt; &lt;img src=&#34;/img/photos/nd_08.jpg&#34; /&gt; &lt;img src=&#34;/img/photos/nd_09.jpg&#34; /&gt; &lt;img src=&#34;/img/photos/nd_10.jpg&#34; /&gt; &lt;img src=&#34;/img/photos/nd_11.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kalimu.github.io/img/photos/nd_01.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_02.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_03.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_04.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_05.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_06.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_07.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_08.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_09.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_10.jpg&#34; /&gt; &lt;img src=&#34;https://kalimu.github.io/img/photos/nd_11.jpg&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Determinants of willingness to study in Poland among members of Polish Diaspora</title>
-      <link>/publication/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</link>
+      <link>https://kalimu.github.io/publication/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</guid>
+      <guid>https://kalimu.github.io/publication/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Role of Data Science in Pursuit of Long-Term Relationship Between Respondents and Social Researchers</title>
-      <link>/talk/2017-chicago/</link>
+      <link>https://kalimu.github.io/talk/2017-chicago/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/2017-chicago/</guid>
+      <guid>https://kalimu.github.io/talk/2017-chicago/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to the Tidyverse. Hadley Wickham lecture at Notre Dame University</title>
-      <link>/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</link>
+      <link>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
+      <guid>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
       <description>&lt;p&gt;During my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham’s lecture &lt;em&gt;Welcome to the Tidyverse&lt;/em&gt; and meet Hadley in person. Hadley’s talks are always well-structured and worth listening.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Hadley Wickham has been a prime mover in releasing R upon the masses, enabling hordes of unsuspecting would-be researchers to process and visualize data in ways they never dreamed of. The tidyverse, the culmination of years of effort in the R language, is a universe of packages that facilitate a grammar of data, graphics, and modeling that allows even beginners to speak the language of data science fluently. Author of several books on programming and dozens(!) of R packages that are among the most widely used in the realm of data, Hadley Wickham invites you personally to experience the thrill of diving deep into data, discovering unknown treasures, and coming out on the other side with a fuller understanding of the way in which the world works! Hadley Wickham is the Chief Scientist at RStudio and an Adjunct Professor of Statistics at the University of Auckland, Stanford University, and Rice University. He builds computational and cognitive tools that make data science easier, faster, and more fun. This event was hosted by the MS-ACMS Data Science program and was co-sponsored by the Mendoza College of Business MSBA program and the Office of the Provost.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/photos/hadley.jpg&#34; alt=&#34;May the RStudio be with you!&#34; /&gt;
+&lt;img src=&#34;https://kalimu.github.io/img/photos/hadley.jpg&#34; alt=&#34;May the RStudio be with you!&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;May the RStudio be with you!&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -91,10 +91,10 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
     
     <item>
       <title>Seminarium z udziałem prof. Philipa Zimbardo </title>
-      <link>/post/seminarium-z-udzialem-prof-philip-zimbardo/</link>
+      <link>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/seminarium-z-udzialem-prof-philip-zimbardo/</guid>
+      <guid>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</guid>
       <description>&lt;p&gt;W sobotę (24.06) odbyło się na WSIiZ insprujące seminarium z udziałem on-line prof. P.Zimbardo.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Philip Zimbardo był w 1971 roku liderem sławnego Stanfordzkiego Eksperymentu Więziennego i świadkiem-ekspertem w sprawie więzienia Abu Ghraib. Autor wpływowych książek: The Time Paradox: The New Psychology of Time That Will Change Your Life i The Lucifer Effect: Understanding How Good People Turn Evil.&lt;/p&gt;
@@ -109,10 +109,10 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
     
     <item>
       <title>Closed Open Data</title>
-      <link>/project/gus/</link>
+      <link>https://kalimu.github.io/project/gus/</link>
       <pubDate>Sun, 18 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>/project/gus/</guid>
+      <guid>https://kalimu.github.io/project/gus/</guid>
       <description>&lt;div id=&#34;summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this research project we analyze barriers and bad practices in accessing Open Administrative Data in Poland.&lt;/p&gt;
@@ -122,12 +122,12 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
     
     <item>
       <title>My Data Science &amp; Programming Skills &amp; Tools</title>
-      <link>/post/my-data-science-and-programming-skills-and-tools/</link>
+      <link>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-data-science-and-programming-skills-and-tools/</guid>
+      <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
       <description>&lt;p&gt;Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2018-01-24.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2018-04-23.&lt;/p&gt;
 &lt;div id=&#34;data-science-skills&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Data Science Skills&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -237,10 +237,10 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
     
     <item>
       <title>Środowisko fizyczne i społeczne oraz jakość funkcjonowania szkoły a zdrowie subiektywne i zachowania zdrowotne nastolatków. Raport końcowy z realizacji projektu badawczego</title>
-      <link>/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/</link>
+      <link>https://kalimu.github.io/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/</guid>
+      <guid>https://kalimu.github.io/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/</guid>
       <description>&lt;p&gt;Raport został przedstawiony przez prof. Bogusława Śliwerskiego na jego blogu:
 &lt;a href=&#34;http://sliwerski-pedagog.blogspot.com/2017/06/jakosc-szkoy-zdrowie-uczniow.html&#34; target=&#34;_blank&#34;&gt;http://sliwerski-pedagog.blogspot.com/2017/06/jakosc-szkoy-zdrowie-uczniow.html&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -248,12 +248,12 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
     
     <item>
       <title>Resources: Programming &amp; Data Science in R</title>
-      <link>/post/resources-programming-data-science-in-r/</link>
+      <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/resources-programming-data-science-in-r/</guid>
+      <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>&lt;p&gt;This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2018-01-24.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2018-04-23.&lt;/p&gt;
 &lt;div id=&#34;books-on-line-printed&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Books (on-line &amp;amp; printed)&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -382,10 +382,10 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
     
     <item>
       <title>Building static homepage with R &amp; blogdown</title>
-      <link>/post/building-static-homepage-with-r-and-blogdown/</link>
+      <link>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/building-static-homepage-with-r-and-blogdown/</guid>
+      <guid>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</guid>
       <description>&lt;p&gt;This new homepage is a static website generated in R (!) with the help of brilliant &lt;code&gt;blogdown&lt;/code&gt; package by Yihui Xie. &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is the site engine and it also uses amazing &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Academic theme&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;More about the blogdown R package you can find here: &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; class=&#34;uri&#34;&gt;https://bookdown.org/yihui/blogdown/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Some additional usefull posts:&lt;/p&gt;
@@ -399,28 +399,28 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
     
     <item>
       <title>Personal Loan Companies in Poland: Does Empirical Evidence Justify Regulatory Transition?</title>
-      <link>/publication/personal-loan-companies-in-poland/</link>
+      <link>https://kalimu.github.io/publication/personal-loan-companies-in-poland/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/personal-loan-companies-in-poland/</guid>
+      <guid>https://kalimu.github.io/publication/personal-loan-companies-in-poland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External evaluation of the school and academic achievements in relation to alcohol drinking and delinquent behaviour among secondary school students / Wyniki zewnętrznej ewaluacji szkoły i osiągnięcia w nauce a picie alkoholu i wykroczenia gimnazjalistów</title>
-      <link>/publication/external-evaluation-of-the-school-and-academic-achievements/</link>
+      <link>https://kalimu.github.io/publication/external-evaluation-of-the-school-and-academic-achievements/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/external-evaluation-of-the-school-and-academic-achievements/</guid>
+      <guid>https://kalimu.github.io/publication/external-evaluation-of-the-school-and-academic-achievements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentation of R package LimeRick on eRum</title>
-      <link>/post/presentation-of-r-package-limerick-on-erum/</link>
+      <link>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/presentation-of-r-package-limerick-on-erum/</guid>
+      <guid>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</guid>
       <description>&lt;p&gt;UPDATE: The online static version of the presentation is available here: &lt;a href=&#34;http://rpubs.com/kalimu/erum&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum&lt;/a&gt;. Thank you for all the feedback!&lt;/p&gt;
 &lt;p&gt;In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data. But the LimeRick package will be able to do a lot more. Stay tuned!&lt;/p&gt;
 &lt;p&gt;The abstract:&lt;/p&gt;
@@ -431,10 +431,10 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
     
     <item>
       <title>Gender Prediction Methods based on First Names with genderizeR</title>
-      <link>/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
+      <link>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
+      <guid>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
       <description>&lt;p&gt;When using the genderizeR R package in your work, please cite also the article:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;@article{RJ-2016-002,
@@ -454,10 +454,10 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
     
     <item>
       <title>My impression from Research Data Alliance (RDA) 7th Plenary Meeting in Tokyo</title>
-      <link>/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</link>
+      <link>https://kalimu.github.io/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</link>
       <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</guid>
+      <guid>https://kalimu.github.io/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</guid>
       <description>&lt;p&gt;Seventh RDA Plenary was organized in Tokyo in March 2016 in close partnership with the Japan Science and Technology Agency (JST). This was the first time a plenary took place in Asia. One of the reason was to expand the reach of the RDA far beyond America and Europe through increase in organization’s memberships from Asia region.&lt;/p&gt;
 &lt;p&gt;As one of the winners of the RDA Early Career European Researchers &amp;amp; Scientists Working with Data (RDA P7 Financial Support Programme), I had a unique opportunity and honor to see with my own eyes how activities in RDA look like. Now, I can share with you my experience.&lt;/p&gt;
 &lt;p&gt;Firstly, RDA is a truly global (international and intercontinental) organization with mission to build the social and technical bridges that enable open sharing of research data. The global character can be seen on every level. For example, to establish a so called „Working Group” you need to cooperate with researchers from at least 3 different continents.&lt;/p&gt;
@@ -472,7 +472,7 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
 &lt;p&gt;There were many interesting topics in the plenary sessions as well. Jean-Claude Burgelman from the European Commission, talked about European Open Science Cloud project. It might have an impressive effect on changing of many of European researchers’ workflows. I am looking forward to evaluate it myself.&lt;/p&gt;
 &lt;p&gt;From the round table in Open Symposium: Data-driven Science – The trigger of Scientific development, I got an impression that data-driven approach in science is fairy more appreciated and recognized in Japan than in Poland, where still dominates hypothesis-driven approach especially in social sciences.&lt;/p&gt;
 &lt;p&gt;I was also impressed with IT science infrastructure in Japan, and a research project that allows to identify dangerous places on streets where drivers hit breaks rapidly, thanks to spatial-temporal analysis based on data collected from GPS and accelerometers installed in cars. Considering that similar data are produced daily by approximately 100 000 users of some mobile application in Poland, it would be great if similar study would help to improve safety on Polish roads.&lt;/p&gt;
-&lt;p&gt;I have also come back with positive feedback on my poster presented in Tokyo titled &lt;a href=&#34;/talk/2016-tokyo/&#34;&gt;International On-line Expert Access Panel for Open Science Development&lt;/a&gt;. With some institutional and organizational support such project seems to be feasible and I believe that it can bring a lot of valuable data from science community. Anyone interested in the project is welcome to &lt;a href=&#34;/#contact&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have also come back with positive feedback on my poster presented in Tokyo titled &lt;a href=&#34;https://kalimu.github.io/talk/2016-tokyo/&#34;&gt;International On-line Expert Access Panel for Open Science Development&lt;/a&gt;. With some institutional and organizational support such project seems to be feasible and I believe that it can bring a lot of valuable data from science community. Anyone interested in the project is welcome to &lt;a href=&#34;https://kalimu.github.io/#contact&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Now, I am back to Poland, but I feel that this was only the beginning of me thinking constantly about science that always takes into account the open research data postulates. Now it is also the time to promote RDA activities in my country, with the vision of global science community that works together and shares its research data for the benefits of all of us.&lt;/p&gt;
 </description>
     </item>

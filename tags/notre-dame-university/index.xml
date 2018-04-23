@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notre Dame University on Kamil Wais</title>
+    <link>https://kalimu.github.io/tags/notre-dame-university/</link>
+    <description>Recent content in Notre Dame University on Kamil Wais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
+    <lastBuildDate>Sun, 19 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kalimu.github.io/tags/notre-dame-university/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wrażenia z pobytu na Uniwersytecie Notre Dame (USA)</title>
+      <link>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
+      <description>Center for Research Computing (CRC)Od 1 sierpnia do 31 października 2017 r. miałem możliwość i ogromną satysfakcję gościć na Uniwersytecie Notre Dame w stanie Indiana. Pojechałem tam zaproszony przez dyrektora Center for Research Computing (CRC) prof. Jarka Nabrzyskiego, którego poznałem w Tokio rok wcześniej na konferencji plenarnej Research Data Alliance. W USA spędziłem trzy miesiące jako wizytujący assistant professor, przyglądając się pracy CRC, które jest jednym z kilku wydzielonych Centrów, działających na Uniwersytecie Notre Dame.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Tidyverse. Hadley Wickham lecture at Notre Dame University</title>
+      <link>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
+      <description>During my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham’s lecture Welcome to the Tidyverse and meet Hadley in person. Hadley’s talks are always well-structured and worth listening.
+Hadley Wickham has been a prime mover in releasing R upon the masses, enabling hordes of unsuspecting would-be researchers to process and visualize data in ways they never dreamed of. The tidyverse, the culmination of years of effort in the R language, is a universe of packages that facilitate a grammar of data, graphics, and modeling that allows even beginners to speak the language of data science fluently.</description>
+    </item>
+    
+  </channel>
+</rss>

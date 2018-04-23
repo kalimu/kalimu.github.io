@@ -2,13 +2,134 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Kamil Wais</title>
-    <link>/home/</link>
+    <link>https://kalimu.github.io/home/</link>
     <description>Recent content in Homes on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.3.2</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://kalimu.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://kalimu.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/home/about/</guid>
+      <description>Biography Kamil Wais Ph.D. — Data Scientist with R &amp;amp; Shiny programming skills, specializing in developing web data products and new research techniques &amp;amp; tools based on Internet technologies and Open Data.
+Previously, Research Product Manager in MillwardBrown Poland (one of the largest global institutes of market and opinion research), Assistant Professor in Department of Quantitative and Qualitative Methods at University of Information Technology and Management in Rzeszow, Poland. In 2017, short-term visiting Assistant Professor at Center for Social Research &amp;amp; Center for Research Computing at the University of Notre Dame (Indiana, USA).</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://kalimu.github.io/home/news/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/home/news/</guid>
+      <description> eRum2018: Europen R User Conference
+See you at eRum in Budapest where I&amp;rsquo;ll be given a talk Towards Native Declarative Data Collection with Question and Survey Instant Feedback in R&amp;amp;Shiny.  </description>
+    </item>
+    
+    <item>
+      <title>ODGAR Framework</title>
+      <link>https://kalimu.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://kalimu.github.io/home/hero/</guid>
+      <description>for Online Declarative Data Gathering, Analyzing, and&amp;nbsp;Reporting is coming&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://kalimu.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://kalimu.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Talks</title>
+      <link>https://kalimu.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://kalimu.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://kalimu.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>https://kalimu.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/home/teaching/</guid>
+      <description> Academic Teaching  Statistics Inferential Statistics Analysis and Visualisation of Economic Data  Workshops &amp;amp; Short Courses (including PhD level)  Introduction to R Programming in R Data Science in R Developing Web Data Products in R &amp;amp; Shiny   </description>
+    </item>
+    
+    <item>
+      <title>Hire me!</title>
+      <link>https://kalimu.github.io/home/offer/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/home/offer/</guid>
+      <description>Collaboration in research projects (non-profit &amp;amp; commercial)  reproducible data analysis machine learning &amp;amp; statistical analysis scripting for on-line surveys data collection Computer-Aided Web Interviewing (CAWI) interactive web reporting of research data co-authoring research papers  R packages development  GitHub &amp;amp; CRAN deployment  Web Data Products development  reactive programming in R &amp;amp; Shiny prototyping and expanding Shiny application  Consultations  methodology in Social Science data collection statistical analysis data vizualization   Feel free to send me an e-mail if you have any questions!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kalimu.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>See also</title>
+      <link>https://kalimu.github.io/home/banners/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/home/banners/</guid>
+      <description>      </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://kalimu.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://kalimu.github.io/home/tags/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

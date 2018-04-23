@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ODGAR on Kamil Wais</title>
+    <link>https://kalimu.github.io/tags/odgar/</link>
+    <description>Recent content in ODGAR on Kamil Wais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
+    <lastBuildDate>Sat, 23 Jul 2011 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="https://kalimu.github.io/tags/odgar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ODGAR</title>
+      <link>https://kalimu.github.io/project/odgar/</link>
+      <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
+      
+      <guid>https://kalimu.github.io/project/odgar/</guid>
+      <description>ODGAR: Framework for Online Declarative Data Gathering, Analyzing, and Reporting.
+BackgroundOff-line research paradigms are still dominant even in on-line survey techniques. Most online research techniques convert old-fashioned off-line questionnaires to HTML forms, so not only they do not exploit the full potential of Data Science &amp;amp; Internet Technologies, but they are outdated already by design. Thus, contemporary on-line techniques are not natively on-line—they are mainly off-line questionnaires converted into more or less advanced on-line HTML forms, but with inherited off-line characteristics (high burden and low value for respondents, non-equivalent information exchange).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,69 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferences on Kamil Wais</title>
-    <link>/categories/conferences/</link>
+    <link>https://kalimu.github.io/categories/conferences/</link>
     <description>Recent content in Conferences on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v.14</copyright>
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
     <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/conferences/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://kalimu.github.io/categories/conferences/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Seminarium z udziałem prof. Philipa Zimbardo </title>
-      <link>/post/seminarium-z-udzialem-prof-philip-zimbardo/</link>
+      <link>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/seminarium-z-udzialem-prof-philip-zimbardo/</guid>
-      <description>&lt;p&gt;W sobotę (24.06) odbyło się na WSIiZ insprujące seminarium z udziałem on-line prof. P.Zimbardo.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Philip Zimbardo był w 1971 roku liderem sławnego Stanfordzkiego Eksperymentu Więziennego i świadkiem-ekspertem w sprawie więzienia Abu Ghraib. Autor wpływowych książek: The Time Paradox: The New Psychology of Time That Will Change Your Life i The Lucifer Effect: Understanding How Good People Turn Evil.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Warto zapoznać się z projektem Profesora Zimbardo:&lt;br /&gt;
-&lt;a href=&#34;http://heroicimagination.org/&#34;&gt;Heroic Imagination Project&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Przystępne krótkie wykłady można natomiast znaleźć na stronie:&lt;br /&gt;
-&lt;a href=&#34;https://www.ted.com/speakers/philip_zimbardo&#34;&gt;TED Talks&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Więcej o samym seminarium &lt;a href=&#34;https://wsiz.rzeszow.pl/pl/Uczelnia/Wydarzenia/Strony/profesor-philip-zimbardo-z-wykladem-podczas-seminarium-doktoranckiego-wsiiz.aspx&#34;&gt;na stronie WSIiZ&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</guid>
+      <description>W sobotę (24.06) odbyło się na WSIiZ insprujące seminarium z udziałem on-line prof. P.Zimbardo.
+Philip Zimbardo był w 1971 roku liderem sławnego Stanfordzkiego Eksperymentu Więziennego i świadkiem-ekspertem w sprawie więzienia Abu Ghraib. Autor wpływowych książek: The Time Paradox: The New Psychology of Time That Will Change Your Life i The Lucifer Effect: Understanding How Good People Turn Evil.
+Warto zapoznać się z projektem Profesora Zimbardo:
+Heroic Imagination Project.</description>
     </item>
     
     <item>
       <title>Presentation of R package LimeRick on eRum</title>
-      <link>/post/presentation-of-r-package-limerick-on-erum/</link>
+      <link>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/presentation-of-r-package-limerick-on-erum/</guid>
-      <description>&lt;p&gt;UPDATE: The online static version of the presentation is available here: &lt;a href=&#34;http://rpubs.com/kalimu/erum&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum&lt;/a&gt;. Thank you for all the feedback!&lt;/p&gt;
-&lt;p&gt;In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data. But the LimeRick package will be able to do a lot more. Stay tuned!&lt;/p&gt;
-&lt;p&gt;The abstract:&lt;/p&gt;
-&lt;p&gt;The first public presentation of the prototype of a new R package that provides useful connection between R and the most popular open-source web scripts for on-line surveys (&lt;a href=&#34;http://www.LimeSurvey.org&#34; class=&#34;uri&#34;&gt;http://www.LimeSurvey.org&lt;/a&gt;). The package aims to enable and simplify the work flow of reproducible CAWI research in Social Science; preparing templates for ad hoc and real-time analysis, performing detailed meta-analysis, archiving and monitoring responses directly from R. With the LimeRick package one can import pre-processed data from an on-line survey with an R script (with the use of RemoteConrol2 API or with non-API solution). Then, the data can be processed analytically by an R script and automatically reported with the use of shiny package. The whole process can be pre-programmed and performed without the researcher interference. This enables to build data products based on declarative data from on-line surveys, which are processed, analyzed, and visualized on-line and in real time. It can be of use for performing automatic tracking studies with real-time KPIs monitoring (e.g. for a customer satisfaction survey). The package will be also linked to a tool for unique, advanced analysis of meta-data from an on-line survey, which has already been alpha tested during large CAWI research project. As the early prototype of the package is presented, the presentation will end with a call for collaboration for developing and testing the package in different usage cases.&lt;/p&gt;
-&lt;p&gt;PS. Thanks to Carsten Shmitz (the main developer of LimeSurvey) after my presentation participants interested in LimeSurvey and LimeRick projects will be able to get some gifts (cool promotional materials of LimeSurvey open-source project – see the picture below). See you then!&lt;/p&gt;
-</description>
+      <guid>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</guid>
+      <description>UPDATE: The online static version of the presentation is available here: http://rpubs.com/kalimu/erum. Thank you for all the feedback!
+In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data.</description>
     </item>
     
     <item>
       <title>My impression from Research Data Alliance (RDA) 7th Plenary Meeting in Tokyo</title>
-      <link>/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</link>
+      <link>https://kalimu.github.io/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</link>
       <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</guid>
-      <description>&lt;p&gt;Seventh RDA Plenary was organized in Tokyo in March 2016 in close partnership with the Japan Science and Technology Agency (JST). This was the first time a plenary took place in Asia. One of the reason was to expand the reach of the RDA far beyond America and Europe through increase in organization’s memberships from Asia region.&lt;/p&gt;
-&lt;p&gt;As one of the winners of the RDA Early Career European Researchers &amp;amp; Scientists Working with Data (RDA P7 Financial Support Programme), I had a unique opportunity and honor to see with my own eyes how activities in RDA look like. Now, I can share with you my experience.&lt;/p&gt;
-&lt;p&gt;Firstly, RDA is a truly global (international and intercontinental) organization with mission to build the social and technical bridges that enable open sharing of research data. The global character can be seen on every level. For example, to establish a so called „Working Group” you need to cooperate with researchers from at least 3 different continents.&lt;/p&gt;
-&lt;p&gt;Those Working &amp;amp; Interest Groups are fully community-driven entities, based on volunteers’ work, consensus and a true passion for Open Research Data and Open Science in general.&lt;/p&gt;
-&lt;p&gt;The atmosphere inside Working &amp;amp; Interest Groups, as well during the Plenary, is very friendly without artificial distance based on level of experience or position in the academic hierarchy. One has an opportunity to have fascinating talks about science and data with leading word researchers and experts from different industries, disciplines and the most famous research centers.&lt;/p&gt;
-&lt;p&gt;The RDA plenaries themselves are not like traditional academic conferences. Apart from a global perspective on sharing research data, they lack meaningless paper presentations. Instead, they are focusing on collaborative effort to produce applicable outcomes and recommendations. These outcomes are results of consensus achieved mainly through on-line and off-line discussions. This approach turned out to be effective, as the RDA recommendations are quickly and widely adopted by recognized institutions and organizations.&lt;/p&gt;
-&lt;p&gt;There also comes a great value from working in such inter-national and inter-cultural environment. It is fascinating to hear about different perspectives and solutions specific to cultural and local conditions. Moreover, there is a mixture of all possible disciplines, from agriculture to astronomy. Many of those disciplines have different perspectives, different approaches to working with research data, which makes a common dialog sometimes difficult but also rewarding when we can agree on some common solutions to different problems.&lt;/p&gt;
-&lt;p&gt;During the 7th Plenary I have participated in several Working &amp;amp; Interest Group sessions. Two of them were organized by Data Fabric Interest Group. The term „Data Fabric” (German metaphor for a „factory”) describes the Data Cycle: creating new data collections, processing, registering, describing, storing, preserving and publishing the data. The goal of the group is to improve the cycle, make the cycle more efficient and cost-effective. Considering that the most time data scientists spend on data management, improving such processes will have a huge impact on science.&lt;/p&gt;
-&lt;p&gt;Although, I am not a librarian, I found the IG Libraries for Research Data session very interesting as well. It was called Applying Global Information Sharing and Collaboration in Libraries to Local Practice, and showed what impressive work librarians from all over the world can do. Solutions were presented from Japan, Korea and Singapore. Some countries are at the beginning of the process of implementing links between Open Access papers and repositories with Open Research Data. However, their „beginnings” are still very impressive (for example two levels of software platforms for open research data in Korea; one for university repositories and one for central platform that aggregates metadata from local repositories).&lt;/p&gt;
-&lt;p&gt;Inspired by this session I just can hope that someday many modern Polish librarians will be engaged in developing Open Access, Open Research Software and Open Data infrastructure and Open Science culture in general.&lt;/p&gt;
-&lt;p&gt;Shortly after the Plenary discussion the Array Database Assessment WG was created. It focuses on benchmarking, overview and best usage of Array Databases in science, engineering, and beyond. There are big hopes for efficiency and scalability of array databases. If they meet the expectations they may dominate the market of Big Data technologies in close future.&lt;/p&gt;
-&lt;p&gt;There were many interesting topics in the plenary sessions as well. Jean-Claude Burgelman from the European Commission, talked about European Open Science Cloud project. It might have an impressive effect on changing of many of European researchers’ workflows. I am looking forward to evaluate it myself.&lt;/p&gt;
-&lt;p&gt;From the round table in Open Symposium: Data-driven Science – The trigger of Scientific development, I got an impression that data-driven approach in science is fairy more appreciated and recognized in Japan than in Poland, where still dominates hypothesis-driven approach especially in social sciences.&lt;/p&gt;
-&lt;p&gt;I was also impressed with IT science infrastructure in Japan, and a research project that allows to identify dangerous places on streets where drivers hit breaks rapidly, thanks to spatial-temporal analysis based on data collected from GPS and accelerometers installed in cars. Considering that similar data are produced daily by approximately 100 000 users of some mobile application in Poland, it would be great if similar study would help to improve safety on Polish roads.&lt;/p&gt;
-&lt;p&gt;I have also come back with positive feedback on my poster presented in Tokyo titled &lt;a href=&#34;/talk/2016-tokyo/&#34;&gt;International On-line Expert Access Panel for Open Science Development&lt;/a&gt;. With some institutional and organizational support such project seems to be feasible and I believe that it can bring a lot of valuable data from science community. Anyone interested in the project is welcome to &lt;a href=&#34;/#contact&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Now, I am back to Poland, but I feel that this was only the beginning of me thinking constantly about science that always takes into account the open research data postulates. Now it is also the time to promote RDA activities in my country, with the vision of global science community that works together and shares its research data for the benefits of all of us.&lt;/p&gt;
-</description>
+      <guid>https://kalimu.github.io/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</guid>
+      <description>Seventh RDA Plenary was organized in Tokyo in March 2016 in close partnership with the Japan Science and Technology Agency (JST). This was the first time a plenary took place in Asia. One of the reason was to expand the reach of the RDA far beyond America and Europe through increase in organization’s memberships from Asia region.
+As one of the winners of the RDA Early Career European Researchers &amp;amp; Scientists Working with Data (RDA P7 Financial Support Programme), I had a unique opportunity and honor to see with my own eyes how activities in RDA look like.</description>
     </item>
     
   </channel>

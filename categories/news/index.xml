@@ -2,47 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Kamil Wais</title>
-    <link>/categories/news/</link>
+    <link>https://kalimu.github.io/categories/news/</link>
     <description>Recent content in News on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v.14</copyright>
-    <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/news/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
+    <lastBuildDate>Sun, 19 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kalimu.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wrażenia z pobytu na Uniwersytecie Notre Dame (USA)</title>
+      <link>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
+      <description>Center for Research Computing (CRC)Od 1 sierpnia do 31 października 2017 r. miałem możliwość i ogromną satysfakcję gościć na Uniwersytecie Notre Dame w stanie Indiana. Pojechałem tam zaproszony przez dyrektora Center for Research Computing (CRC) prof. Jarka Nabrzyskiego, którego poznałem w Tokio rok wcześniej na konferencji plenarnej Research Data Alliance. W USA spędziłem trzy miesiące jako wizytujący assistant professor, przyglądając się pracy CRC, które jest jednym z kilku wydzielonych Centrów, działających na Uniwersytecie Notre Dame.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Tidyverse. Hadley Wickham lecture at Notre Dame University</title>
+      <link>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
+      <description>During my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham’s lecture Welcome to the Tidyverse and meet Hadley in person. Hadley’s talks are always well-structured and worth listening.
+Hadley Wickham has been a prime mover in releasing R upon the masses, enabling hordes of unsuspecting would-be researchers to process and visualize data in ways they never dreamed of. The tidyverse, the culmination of years of effort in the R language, is a universe of packages that facilitate a grammar of data, graphics, and modeling that allows even beginners to speak the language of data science fluently.</description>
+    </item>
     
     <item>
       <title>Seminarium z udziałem prof. Philipa Zimbardo </title>
-      <link>/post/seminarium-z-udzialem-prof-philip-zimbardo/</link>
+      <link>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/seminarium-z-udzialem-prof-philip-zimbardo/</guid>
-      <description>&lt;p&gt;W sobotę (24.06) odbyło się na WSIiZ insprujące seminarium z udziałem on-line prof. P.Zimbardo.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Philip Zimbardo był w 1971 roku liderem sławnego Stanfordzkiego Eksperymentu Więziennego i świadkiem-ekspertem w sprawie więzienia Abu Ghraib. Autor wpływowych książek: The Time Paradox: The New Psychology of Time That Will Change Your Life i The Lucifer Effect: Understanding How Good People Turn Evil.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Warto zapoznać się z projektem Profesora Zimbardo:&lt;br /&gt;
-&lt;a href=&#34;http://heroicimagination.org/&#34;&gt;Heroic Imagination Project&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Przystępne krótkie wykłady można natomiast znaleźć na stronie:&lt;br /&gt;
-&lt;a href=&#34;https://www.ted.com/speakers/philip_zimbardo&#34;&gt;TED Talks&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Więcej o samym seminarium &lt;a href=&#34;https://wsiz.rzeszow.pl/pl/Uczelnia/Wydarzenia/Strony/profesor-philip-zimbardo-z-wykladem-podczas-seminarium-doktoranckiego-wsiiz.aspx&#34;&gt;na stronie WSIiZ&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</guid>
+      <description>W sobotę (24.06) odbyło się na WSIiZ insprujące seminarium z udziałem on-line prof. P.Zimbardo.
+Philip Zimbardo był w 1971 roku liderem sławnego Stanfordzkiego Eksperymentu Więziennego i świadkiem-ekspertem w sprawie więzienia Abu Ghraib. Autor wpływowych książek: The Time Paradox: The New Psychology of Time That Will Change Your Life i The Lucifer Effect: Understanding How Good People Turn Evil.
+Warto zapoznać się z projektem Profesora Zimbardo:
+Heroic Imagination Project.</description>
     </item>
     
     <item>
       <title>Building static homepage with R &amp; blogdown</title>
-      <link>/post/building-static-homepage-with-r-and-blogdown/</link>
+      <link>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/building-static-homepage-with-r-and-blogdown/</guid>
-      <description>&lt;p&gt;This new homepage is a static website generated in R (!) with the help of brilliant &lt;code&gt;blogdown&lt;/code&gt; package by Yihui Xie. &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is the site engine and it also uses amazing &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Academic theme&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More about the blogdown R package you can find here: &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; class=&#34;uri&#34;&gt;https://bookdown.org/yihui/blogdown/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Some additional usefull posts:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://daijiang.name/en/2017/03/30/updating-website-with-hugo-and-blogdown/&#34;&gt;Updating website with Hugo and Blogdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://proquestionasker.github.io/blog/Making_Site/&#34;&gt;Making Site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/quick-start-setting-up-a-custom-domain/&#34;&gt;Quick Start setting up a custom domain with GitHub pages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</guid>
+      <description>This new homepage is a static website generated in R (!) with the help of brilliant blogdown package by Yihui Xie. Hugo is the site engine and it also uses amazing Academic theme.
+More about the blogdown R package you can find here: https://bookdown.org/yihui/blogdown/
+Some additional usefull posts:
+Updating website with Hugo and BlogdownMaking SiteQuick Start setting up a custom domain with GitHub pages</description>
     </item>
     
   </channel>

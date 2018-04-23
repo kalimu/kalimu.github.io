@@ -2,579 +2,126 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Kamil Wais</title>
-    <link>/tags/r/</link>
+    <link>https://kalimu.github.io/tags/r/</link>
     <description>Recent content in R on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v.14</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/r/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
+    <lastBuildDate>Mon, 28 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kalimu.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to the Tidyverse. Hadley Wickham lecture at Notre Dame University</title>
+      <link>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
+      <description>During my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham’s lecture Welcome to the Tidyverse and meet Hadley in person. Hadley’s talks are always well-structured and worth listening.
+Hadley Wickham has been a prime mover in releasing R upon the masses, enabling hordes of unsuspecting would-be researchers to process and visualize data in ways they never dreamed of. The tidyverse, the culmination of years of effort in the R language, is a universe of packages that facilitate a grammar of data, graphics, and modeling that allows even beginners to speak the language of data science fluently.</description>
+    </item>
     
     <item>
       <title>My Data Science &amp; Programming Skills &amp; Tools</title>
-      <link>/post/my-data-science-and-programming-skills-and-tools/</link>
+      <link>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-data-science-and-programming-skills-and-tools/</guid>
-      <description>&lt;p&gt;Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-07-21.&lt;/p&gt;
-&lt;div id=&#34;data-science-skills&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Data Science Skills&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;Data Manipulation&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficient data manipulation in R;&lt;br /&gt;
-&lt;code&gt;dplyr&lt;/code&gt;, &lt;code&gt;data.table&lt;/code&gt;, &lt;code&gt;reshape2&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Working with dates and time-series;&lt;br /&gt;
-&lt;code&gt;lubridate&lt;/code&gt;, &lt;code&gt;xts&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Reproducible Analyses&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;RStudio IDE, Markdown, LaTeX;&lt;br /&gt;
-&lt;code&gt;RMarkdown&lt;/code&gt;, &lt;code&gt;knitr&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Databases and Data Formats&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;MySQL, MongoDB, JSON, XML, Excel, CSV, shapefiles, Linked Open Data / SPARQL, etc.&lt;br /&gt;
-&lt;code&gt;mongolite&lt;/code&gt;, &lt;code&gt;jsonlite&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data Acquisition&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;parallel web-scrapping; working with REST API;&lt;br /&gt;
-&lt;code&gt;httr&lt;/code&gt;, &lt;code&gt;RCurl&lt;/code&gt;, &lt;code&gt;rvest&lt;/code&gt;, &lt;code&gt;RSelenium&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Text-mining&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;regular expressions; stemming with dictionary method;&lt;br /&gt;
-&lt;code&gt;stringr&lt;/code&gt;, &lt;code&gt;tm&lt;/code&gt;, &lt;code&gt;genderizeR&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Qualitative Analyses&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;RQDA&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;On-Line Surveys (CAWI)&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;advanced on-line surveys in &lt;code&gt;LimeSurvey&lt;/code&gt;;&lt;br /&gt;
-&lt;code&gt;LimeRick&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Networks Analyses&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;visualizing and analyzing networks in &lt;code&gt;Gelphi&lt;/code&gt;;&lt;br /&gt;
-&lt;/li&gt;
-&lt;li&gt;programming dynamic networks simulations in &lt;code&gt;NetLogo&lt;/code&gt;;&lt;br /&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data Visualization&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;static and interactive data visualization;&lt;br /&gt;
-&lt;code&gt;ggplot2&lt;/code&gt;, &lt;code&gt;ggvis&lt;/code&gt;, &lt;code&gt;waffle&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;dashboards and data reporting via WWW apps;&lt;br /&gt;
-&lt;code&gt;Shiny&lt;/code&gt;, &lt;code&gt;shinydashboard&lt;/code&gt;, &lt;code&gt;shinyjs&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Communicating Results&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;reports and presentations in &lt;code&gt;Tableau&lt;/code&gt;, &lt;code&gt;PowerPoint&lt;/code&gt;, and &lt;code&gt;HTML5&lt;/code&gt;;&lt;br /&gt;
-&lt;code&gt;Rmarkdown&lt;/code&gt;, &lt;code&gt;isoslides&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Statistical Analysis &amp;amp; Machine Learning&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;multiple linear regression, logistic regression, ordinal logistic regression, Principal Component Analysis (PCA), factor analysis, segmentation analysis, cluster analysis (k-means, hierarchical clustering), supervised / unsupervised learning,&lt;/li&gt;
-&lt;li&gt;neural networks, Support Vector Machines (SVM), decision trees, Random Forests, Ridge Regression, LASSO, elastic net regularization, K-fold cross-validation, bootstraping with &lt;code&gt;caret&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;survival analysis with &lt;code&gt;survival&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;time series analysis (ARIMA, TBATS) with &lt;code&gt;forecast&lt;/code&gt;.&lt;br /&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Big Data Tools&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;familiarity with &lt;code&gt;Spark&lt;/code&gt; and &lt;code&gt;sparklyr&lt;/code&gt; in R;&lt;/li&gt;
-&lt;li&gt;familiarity with &lt;code&gt;MapReduce&lt;/code&gt;, &lt;code&gt;Hadoop&lt;/code&gt;, &lt;code&gt;Pig&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Other Data Science Tools&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;familiarity with &lt;code&gt;SPSS&lt;/code&gt;, &lt;code&gt;SAS&lt;/code&gt;, &lt;code&gt;Octave&lt;/code&gt;, &lt;code&gt;RapidMiner&lt;/code&gt;, &lt;code&gt;Excel VisualBasic&lt;/code&gt;, &lt;code&gt;R Revolution Enterprise&lt;/code&gt; / &lt;code&gt;Microsoft R&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div id=&#34;programming-skills&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Programming Skills&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;Programming in R&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;code versioning with &lt;code&gt;RStudio IDE&lt;/code&gt;, &lt;code&gt;Git&lt;/code&gt;, &lt;code&gt;GitHub&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;functional programming with &lt;code&gt;purrr&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;reactive programming with &lt;code&gt;Shiny&lt;/code&gt;, &lt;code&gt;shinyjs&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;parallel programming with &lt;code&gt;parallel&lt;/code&gt;;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;R package development&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;package distribution with &lt;code&gt;GitHub&lt;/code&gt;, &lt;code&gt;CRAN&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;preparing package documentation with &lt;code&gt;roxygen2&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;unit testing with &lt;code&gt;testthat&lt;/code&gt;;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Internet technologies&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;HTML5&lt;/code&gt;, &lt;code&gt;CSS3&lt;/code&gt;, &lt;code&gt;JavaScript&lt;/code&gt;;&lt;/li&gt;
-&lt;li&gt;familiarity with &lt;code&gt;MongoDB&lt;/code&gt;, &lt;code&gt;MEAN&lt;/code&gt; Stack, &lt;code&gt;Bootstrap&lt;/code&gt;, and &lt;code&gt;Linux&lt;/code&gt; servers;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Other programming languages&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;familiarity with &lt;code&gt;Python&lt;/code&gt;, &lt;code&gt;C++&lt;/code&gt;, &lt;code&gt;Java for Android&lt;/code&gt; &amp;amp; Android Studio.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
+      <description>Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.
+The last update of this post was done: 2018-04-23.
+Data Science SkillsData ManipulationEfficient data manipulation in R;
+dplyr, data.table, reshape2.Working with dates and time-series;
+lubridate, xts.Reproducible AnalysesRStudio IDE, Markdown, LaTeX;</description>
     </item>
     
     <item>
       <title>Resources: Programming &amp; Data Science in R</title>
-      <link>/post/resources-programming-data-science-in-r/</link>
+      <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/resources-programming-data-science-in-r/</guid>
-      <description>&lt;p&gt;This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2017-07-21.&lt;/p&gt;
-&lt;div id=&#34;books-on-line-printed&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Books (on-line &amp;amp; printed)&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;Hadley Wickham, &lt;em&gt;Advanced R&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.&lt;/em&gt; &lt;a href=&#34;http://adv-r.had.co.nz/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hadley Wickham, &lt;em&gt;R packages&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;[…] You’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.&lt;/em&gt; &lt;a href=&#34;http://adv-r.had.co.nz/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;R Core Team, &lt;em&gt;Writing R Extensions&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Official R Package documentation. Mandatory reading for R Package developers but not very user-friendly.&lt;/em&gt; &lt;a href=&#34;http://cran.r-project.org/doc/manuals/r-release/R-exts.html&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-&lt;small&gt;[R package development]&lt;/small&gt;
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 65%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Marek Gągolewski, &lt;em&gt;Programowanie w języku R. Analiza danych. Obliczenia. Symulacje&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Formalne, ustrukturyzowane podejście do języka. Raczej dla osób powyżej początkujących.&lt;/em&gt; &lt;a href=&#34;http://ksiegarnia.pwn.pl/produkt/213568/programowanie-w-jezyku-r.html&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 80%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Andrea Spanò, &lt;em&gt;Ramarro. R for Developers&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;For more advanced R programmers. Included topics about OOP, debugging and profiling, parallel computation, and C++ integration via Rcpp.&lt;/em&gt; &lt;a href=&#34;http://www.quantide.com/ramarro-r-for-developers/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 80%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dan Navarro, &lt;em&gt;Learning Statistics with R&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Over 560 pages of very good introductory materials into statistics and R. Strongly recommended for beginners in statistics.&lt;/em&gt; &lt;a href=&#34;http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div id=&#34;video-courses&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Video Courses&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;Jared P. Lander, &lt;em&gt;R Programming LiveLessons. Fundamentals to Advanced&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;16+ Hours of Video Instruction. R Programming: Fundamentals to Advanced is a tour through the most important parts of R, the statistical programming language, from the very basics to complex modeling. It covers reading data, programming basics, visualization. data munging, regression, classification, clustering, modern machine learning and more.&lt;/em&gt; &lt;a href=&#34;http://www.informit.com/store/r-programming-livelessons-video-training-fundamentals-9780133743272&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 80%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div id=&#34;massive-open-online-courses-moocs&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Massive Open Online Courses (MOOCs)&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;DataCamp.com&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Interactive programming and Data Science courses in R and Python. Some of them are free of charge, some of them are premium courses. High quality materials, lots of interactive excercises, well-known data scientists as authors of the courses. Highly recommended.&lt;/em&gt; &lt;a href=&#34;https://www.datacamp.com/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div id=&#34;formal-education&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Formal Education&lt;/h2&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Master of Computer Science in Data Science (MCS-DS)&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;With tuition under $20K, the MCS-DS is one of the most affordable gateways to one of the most lucrative and fastest growing careers of the new millennium. The MCS-DS builds expertise in four core areas of computer science: data visualization, machine learning, data mining and cloud computing, in addition to building valuable skill sets in statistics and information science with courses taught in collaboration with the University’s Statistics Department and iSchool (ranked #1 among Library and Information Studies Schools.)&lt;/em&gt; &lt;a href=&#34;https://www.coursera.org/university-programs/masters-in-computer-data-science&#34;&gt;[See more…]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Studia podyplomowe: Metody statystyczne w biznesie. Warsztaty z oprogramowaniem SAS&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Adresatami studiów podyplomowych „Metody statystyczne w biznesie” są wszystkie osoby pracujące na co dzień z danymi, zajmujący się ich analizą, przetwarzaniem, jak również będące odbiorcami takich analiz. Oferta skierowana jest do analityków, specjalistów ds. badań, jak również kadry menedżerskiej. Wszystkie zajęcia mają charakter warsztatów z wykorzystaniem oprogramowania SAS [niestety nie R, ale również warte polecenia] i odbywają się w pracowni komputerowej.&lt;/em&gt; &lt;a href=&#34;http://coin.wne.uw.edu.pl/pwojcik/podyplomowe_statystyka/&#34;&gt;[See more…]&lt;/a&gt;&lt;br /&gt;
-
-&lt;div class=&#34;star-ratings-css&#34;&gt;
-&lt;div class=&#34;star-ratings-css-top&#34; style=&#34;width: 100%&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;star-ratings-css-bottom&#34;&gt;
-&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;&lt;span&gt;★&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Studia podyplomowe: Inżynieria danych – Big Data&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Adresatami studiów są zatem osoby pragnące pogłębić i poszerzyć swoją wiedzę teoretyczną oraz praktyczne umiejętności jej wykorzystania w obszarze nowoczesnych informatycznych metod i narzędzi analityki Big Data, ze szczególnym uwzględnieniem zastosowań biznesowych.&lt;/em&gt; &lt;a href=&#34;http://bigdatacenter.pl/?page_id=166&#34;&gt;[See more…]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
+      <description>This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.
+The last update of this post was done: 2018-04-23.
+Books (on-line &amp;amp; printed)Hadley Wickham, Advanced R
+The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.</description>
     </item>
     
     <item>
       <title>Building static homepage with R &amp; blogdown</title>
-      <link>/post/building-static-homepage-with-r-and-blogdown/</link>
+      <link>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/building-static-homepage-with-r-and-blogdown/</guid>
-      <description>&lt;p&gt;This new homepage is a static website generated in R (!) with the help of brilliant &lt;code&gt;blogdown&lt;/code&gt; package by Yihui Xie. &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is the site engine and it also uses amazing &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Academic theme&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More about the blogdown R package you can find here: &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; class=&#34;uri&#34;&gt;https://bookdown.org/yihui/blogdown/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Some additional usefull posts:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://daijiang.name/en/2017/03/30/updating-website-with-hugo-and-blogdown/&#34;&gt;Updating website with Hugo and Blogdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://proquestionasker.github.io/blog/Making_Site/&#34;&gt;Making Site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/quick-start-setting-up-a-custom-domain/&#34;&gt;Quick Start setting up a custom domain with GitHub pages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</guid>
+      <description>This new homepage is a static website generated in R (!) with the help of brilliant blogdown package by Yihui Xie. Hugo is the site engine and it also uses amazing Academic theme.
+More about the blogdown R package you can find here: https://bookdown.org/yihui/blogdown/
+Some additional usefull posts:
+Updating website with Hugo and BlogdownMaking SiteQuick Start setting up a custom domain with GitHub pages</description>
     </item>
     
     <item>
       <title>Presentation of R package LimeRick on eRum</title>
-      <link>/post/presentation-of-r-package-limerick-on-erum/</link>
+      <link>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/presentation-of-r-package-limerick-on-erum/</guid>
-      <description>&lt;p&gt;UPDATE: The online static version of the presentation is available here: &lt;a href=&#34;http://rpubs.com/kalimu/erum&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum&lt;/a&gt;. Thank you for all the feedback!&lt;/p&gt;
-&lt;p&gt;In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data. But the LimeRick package will be able to do a lot more. Stay tuned!&lt;/p&gt;
-&lt;p&gt;The abstract:&lt;/p&gt;
-&lt;p&gt;The first public presentation of the prototype of a new R package that provides useful connection between R and the most popular open-source web scripts for on-line surveys (&lt;a href=&#34;http://www.LimeSurvey.org&#34; class=&#34;uri&#34;&gt;http://www.LimeSurvey.org&lt;/a&gt;). The package aims to enable and simplify the work flow of reproducible CAWI research in Social Science; preparing templates for ad hoc and real-time analysis, performing detailed meta-analysis, archiving and monitoring responses directly from R. With the LimeRick package one can import pre-processed data from an on-line survey with an R script (with the use of RemoteConrol2 API or with non-API solution). Then, the data can be processed analytically by an R script and automatically reported with the use of shiny package. The whole process can be pre-programmed and performed without the researcher interference. This enables to build data products based on declarative data from on-line surveys, which are processed, analyzed, and visualized on-line and in real time. It can be of use for performing automatic tracking studies with real-time KPIs monitoring (e.g. for a customer satisfaction survey). The package will be also linked to a tool for unique, advanced analysis of meta-data from an on-line survey, which has already been alpha tested during large CAWI research project. As the early prototype of the package is presented, the presentation will end with a call for collaboration for developing and testing the package in different usage cases.&lt;/p&gt;
-&lt;p&gt;PS. Thanks to Carsten Shmitz (the main developer of LimeSurvey) after my presentation participants interested in LimeSurvey and LimeRick projects will be able to get some gifts (cool promotional materials of LimeSurvey open-source project – see the picture below). See you then!&lt;/p&gt;
-</description>
+      <guid>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</guid>
+      <description>UPDATE: The online static version of the presentation is available here: http://rpubs.com/kalimu/erum. Thank you for all the feedback!
+In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data.</description>
+    </item>
+    
+    <item>
+      <title>Gender Prediction Methods based on First Names with genderizeR</title>
+      <link>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
+      <description>When using the genderizeR R package in your work, please cite also the article:
+@article{RJ-2016-002, author = {Kamil Wais}, title = {{Gender Prediction Methods Based on First Names with genderizeR}}, year = {2016}, journal = {{The R Journal}}, url = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html}, pages = {17--37}, volume = {8}, number = {1} }  </description>
     </item>
     
     <item>
       <title>limeRick</title>
-      <link>/project/limerick/</link>
+      <link>https://kalimu.github.io/project/limerick/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/project/limerick/</guid>
-      <description>&lt;div id=&#34;limerick-the-bridge-between-limesurvey-and-r&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;limeRick: The bridge between LimeSurvey and R&lt;/h1&gt;
-&lt;p&gt;The R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;importing on-line survey responses into R,&lt;/li&gt;
-&lt;li&gt;adding new responses to the survey directly from R,&lt;/li&gt;
-&lt;li&gt;automatically accessing surveys and question properties,&lt;/li&gt;
-&lt;li&gt;implementing passive measurement surveys,&lt;/li&gt;
-&lt;li&gt;developing data products based on real-time declarative data collection.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;README, BugReports and development repository on GitHub: &lt;a href=&#34;https://github.com/kalimu/LimeRick&#34;&gt;https://github.com/kalimu/LimeRick&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Presentation of early version of LimeRick package: &lt;a href=&#34;http://rpubs.com/kalimu/erum&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;roadmap&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Roadmap&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;updating and expanding documentation of the package (man pages)&lt;/li&gt;
-&lt;li&gt;checking available LimeSurvey updates via R&lt;/li&gt;
-&lt;li&gt;ping function to an active survey&lt;/li&gt;
-&lt;li&gt;function for populating survey with temporary lorem ipsum answers&lt;/li&gt;
-&lt;li&gt;dedicated demo Shiny app&lt;/li&gt;
-&lt;li&gt;getting only new responses&lt;/li&gt;
-&lt;li&gt;automatically labelling survey questions in R&lt;/li&gt;
-&lt;li&gt;generating a data frame of temporary responses&lt;/li&gt;
-&lt;li&gt;unit testing&lt;/li&gt;
-&lt;li&gt;tutorial vignette&lt;/li&gt;
-&lt;li&gt;package on CRAN&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;first public package presentation on European R User Meeting in Poznań&lt;/del&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/project/limerick/</guid>
+      <description>limeRick: The bridge between LimeSurvey and RThe R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:
+importing on-line survey responses into R,adding new responses to the survey directly from R,automatically accessing surveys and question properties,implementing passive measurement surveys,developing data products based on real-time declarative data collection.</description>
     </item>
     
     <item>
       <title>Checklist for R package submission to CRAN</title>
-      <link>/post/checklist-for-r-package-submission-to-cran/</link>
+      <link>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</link>
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/checklist-for-r-package-submission-to-cran/</guid>
-      <description>&lt;div id=&#34;version-1.2&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Version: 1.2&lt;/h2&gt;
-&lt;p&gt;The last update of this post: 2017-07-21.&lt;/p&gt;
-&lt;p&gt;Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.&lt;/p&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;strong&gt;See what new Hadley recommends&lt;/strong&gt;:&lt;br /&gt;
-(&lt;a href=&#34;http://r-pkgs.had.co.nz/release.html&#34; class=&#34;uri&#34;&gt;http://r-pkgs.had.co.nz/release.html&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update R &amp;amp; packages&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;R&lt;/li&gt;
-&lt;li&gt;all packages&lt;/li&gt;
-&lt;li&gt;RStudio (stable or preview version).&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update your package&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Check unit tests.&lt;/li&gt;
-&lt;li&gt;Update vignettes.&lt;/li&gt;
-&lt;li&gt;Check reverse dependencies.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;If devtools functions don’t work use:&lt;br /&gt;
-tools::dependsOnPkgs()&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Import undefined globals in the NAMESPACE file&lt;br /&gt;
-(generated automatically by roxygen2)&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update README.md file&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Make change in README.Rmd.&lt;/li&gt;
-&lt;li&gt;Knit the Rmd into md.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Run a R CMD check locally with ‘–as-cran‘ option&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;If you got an error regarding qpdf missing, check:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;View(Sys.getenv(“PATH”) )&lt;/li&gt;
-&lt;li&gt;Sys.which(Sys.getenv(“R_QPDF”, “qpdf”))&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Run a R CMD check on win-builder&lt;/strong&gt;&lt;br /&gt;
-(devel and release versions) via ‘devtools::build_win()‘.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Run a R CMD check on Ubuntu (via Travis-CI)&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update ‘cran-comments.md‘&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Test environments,&lt;/li&gt;
-&lt;li&gt;R CMD check results (explain ERRORs, WARNINGs, NOTEs).&lt;/li&gt;
-&lt;li&gt;Downstream dependencies.&lt;/li&gt;
-&lt;li&gt;Resubmit comments.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update ‘Version‘ field in the DESCRIPTION file&lt;/strong&gt;&lt;br /&gt;
-(major.minor.patch.dev).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update ‘Date‘ field in the DESCRIPTION file&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update NEWS.md file&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Push all necessary commits to GitHub&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Run again a R CMD check locally just to be sure&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Use devtools::check().&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Push all necessary commits to GitHub&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Merge branches if necessary&lt;br /&gt;
-Via GithHub website OR Via GIT: git merge –no-ff branch_name&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Check vignettes&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Build your package sources&lt;/li&gt;
-&lt;li&gt;Load them with:&lt;br /&gt;
-install.packages(“../packageName_2.0.90002.tar.gz”,&lt;br /&gt;
-repos = NULL, type = “source”)&lt;/li&gt;
-&lt;li&gt;Use browseVignettes(“genderizeR”)&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Submit the package to CRAN&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Use devtools::release().&lt;/li&gt;
-&lt;li&gt;Confirm submission via link in the mail.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Check results of submission&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;in all CRAN checks&lt;br /&gt;
-(from &lt;a href=&#34;http://cran.r-project.org/web/packages&#34; class=&#34;uri&#34;&gt;http://cran.r-project.org/web/packages&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;in comments inside the e-mail from CRAN&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fix what needs to be fixed&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Consider increasing version number.&lt;/li&gt;
-&lt;li&gt;Check everything again.&lt;/li&gt;
-&lt;li&gt;Resubmit to CRAN.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;After successful submission&lt;/strong&gt;:
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Create a new release with tag version on GitHub repo.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Copy and paste the contents of the relevant NEWS.md section into the release notes&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Increment the version of the package in the DESCRIPTION file (to X.X.X.9000).&lt;/li&gt;
-&lt;li&gt;Promote your package
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Post on personal blog&lt;/li&gt;
-&lt;li&gt;Post on Twitter (use #rstats)&lt;/li&gt;
-&lt;li&gt;R-Bloggers&lt;/li&gt;
-&lt;li&gt;etc.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Update this checklist&lt;/strong&gt;.
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Update the checklist version number.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
+      <description>Version: 1.2The last update of this post: 2018-04-23.
+Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
+See what new Hadley recommends:
+(http://r-pkgs.had.co.nz/release.html).Update R &amp;amp; packages:Rall packagesRStudio (stable or preview version).Update your package:Check unit tests.</description>
     </item>
     
     <item>
       <title>genderizeR</title>
-      <link>/project/genderizer/</link>
+      <link>https://kalimu.github.io/project/genderizer/</link>
       <pubDate>Tue, 27 Jan 2015 21:13:14 -0500</pubDate>
       
-      <guid>/project/genderizer/</guid>
-      <description>&lt;div id=&#34;r-package-for-gender-prediction-based-on-first-names&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R package for gender prediction based on first names&lt;/h1&gt;
-&lt;p&gt;The package uses&lt;a title=&#34;http://genderize.io&#34; href=&#34;http://genderize.io&#34; target=&#34;_blank&#34;&gt;&lt;em&gt; genderize.io&lt;/em&gt;&lt;/a&gt; API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.&lt;/p&gt;
-&lt;p&gt;README, BugReports and development repository on GitHub: &lt;a title=&#34;https://github.com/kalimu/genderizeR&#34; href=&#34;https://github.com/kalimu/genderizeR&#34; target=&#34;_blank&#34;&gt;https://github.com/kalimu/genderizeR&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The package webpage on CRAN:&lt;br /&gt;
-&lt;a href=&#34;http://cran.r-project.org/web/packages/genderizeR&#34; target=&#34;_blank&#34;&gt;http://cran.r-project.org/web/packages/genderizeR&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;
-Article &amp;amp; Citations:
-&lt;/h2&gt;
-When using the genderizeR R package in your work, &lt;strong&gt;please cite also the &lt;a href=&#34;/publication/genderizer&#34;&gt;article&lt;/a&gt;&lt;/strong&gt;:
-&lt;p style=&#34;padding-left: 30px;&#34;&gt;
-Kamil Wais, &lt;strong&gt;&lt;em&gt;Gender Prediction Methods Based on First Names with genderizeR&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;The R Journal&lt;/strong&gt;,Vol. 8/1, Aug. 2016, &lt;a href=&#34;https://journal.r-project.org/archive/2016-1/wais.pdf&#34;&gt;https://journal.r-project.org/archive/2016-1/wais.pdf&lt;/a&gt;
-&lt;/p&gt;
-&lt;pre class=&#34;&#34;&gt;@article{RJ-2016-002,
-  author = {Kamil Wais},
-  title = {{Gender Prediction Methods Based on First Names with
-          genderizeR}},
-  year = {2016},
-  journal = {{The R Journal}},
-  url = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html},
-  pages = {17--37},
-  volume = {8},
-  number = {1}
-}
-&lt;/pre&gt;
-&lt;p&gt; &lt;/p&gt;
-Abstract:
-&lt;blockquote&gt;
-In recent years, there has been increased interest in methods for gender prediction based on first names that employ various open data sources. These methods have applications from bibliometric studies to customizing commercial offers for web users. Analysis of gender disparities in science based on such methods are published in the most prestigious journals, although they could be improved by choosing the most suited prediction method with optimal parameters and performing validation studies using the best data source for a given purpose. There is also a need to monitor and report how well a given prediction method works in comparison to others. In this paper, the author recommends a set of tools (including one dedicated to gender prediction, the R package called genderizeR), data sources (including the genderize.io API), and metrics that could be fully reproduced and tested in order to choose the optimal approach suitable for different gender analyses.
-&lt;/blockquote&gt;
-&lt;h2&gt;
-Testimonials:
-&lt;/h2&gt;
-From the peer-reviews:
-&lt;blockquote&gt;
-“[…] In this paper, the authors provide methods and an R package for gender prediction based on a set of names. This comes an opportune time, given the increased number of studies that require gender identification. As someone who has to do this for my own studies,&lt;strong&gt; I immediately see value in this kind of package and know of many colleagues who would also use this package.&lt;/strong&gt;”
-&lt;/blockquote&gt;
-Other testimonials:
-&lt;blockquote&gt;
-&lt;p&gt;It is easy creating a highcharts using highcharter, &lt;strong&gt;an amazing library as genderizeR, the one I use to obtain gender names. I like them a lot&lt;/strong&gt;. &lt;a href=&#34;https://aschinchon.wordpress.com/2016/07/28/visualizing-the-gender-of-us-senators-with-r-and-highmaps/&#34;&gt;Visualizing the Gender of US Senators With R and Highmaps&lt;/a&gt;&lt;/p&gt;
-I also used &lt;strong&gt;a very interesting package called genderizeR&lt;/strong&gt;, which makes gender prediction based on first names &lt;a href=&#34;https://aschinchon.wordpress.com/tag/genderizer/&#34; target=&#34;_blank&#34;&gt;The Gender of Big Data&lt;/a&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-Following this discussion on Finnish names, I came across &lt;strong&gt;the fantastic genderizeR package&lt;/strong&gt;, which looks into an online database to determine gender from names in several languages. &lt;a href=&#34;http://stackoverflow.com/questions/16802704/r-is-there-a-package-to-determine-gender-from-english-first-names#&#34; target=&#34;_blank&#34;&gt;[source link] &lt;/a&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p style=&#34;text-align: left;&#34;&gt;
-I’m a Data Scientist working for a company on the automotive industry. I stumbled upon the genderizeR package while looking for a solution that would allow me to complete missing data, present on our databases. Sometimes some people forget to fill out their honorific titles (e.g. Mrs.), or they’re transcribed poorly from paper-based documents. &lt;strong&gt;With this package, I’m able to not only correct those mistakes, but also to complete the missing data to provide stronger statistical value to my work. All this can be done automatically, directly in R&lt;/strong&gt;. I personally thank Dr. Kamil Wais for helping me with some features that are to be implemented in a future version of the package.
-&lt;/p&gt;
-&lt;p style=&#34;text-align: right;&#34;&gt;
-Carlos
-&lt;/p&gt;
-&lt;strong&gt;Without this package, I never would have been able to implement the algorithm I needed to assess gender balance in syllabi&lt;/strong&gt;, since RShiny doesn’t work well with https. Thanks so much for making it. It’s really great and makes using the genderize.io API so much easier.
-&lt;p style=&#34;text-align: right;&#34;&gt;
-Jane
-&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Jane is the author of a &lt;a href=&#34;https://jlsumner.shinyapps.io/syllabustool/&#34;&gt;Shiny app&lt;/a&gt;, which is an interesting use case for the genderizeR package:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;How Gender-Balanced is Your Syllabus? One of the explanations for the gender citation gap is that syllabi are disproportionately male. Thus, when students begin conducting their own research, most of their exposure has been to male researchers. Yet even well-meaning instructors may find that they have difficulty assessing how gender-balanced their syllabi really are. Counting is tedious and prone to human error, and instructors may not know the gender identities of all the authors they cite. This tool aims to help with that, by automating the process of evaluating the (probabilistic) gender of each name and then providing an estimate of what percentage of the authors on a syllabus are women.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I am glad that the package can be helpful for so many applications.&lt;/p&gt;
-&lt;h2&gt;
-Examples of applications
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fell, C.B. &amp;amp; König, C.J. &lt;em&gt;Is there a gender difference in scientific collaboration? A scientometric examination of co-authorships among industrial–organizational psychologists&lt;/em&gt;, Scientometrics (2016) 108: 113.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;doi:10.1007/s11192-016-1967-5&#34; class=&#34;uri&#34;&gt;doi:10.1007/s11192-016-1967-5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://link.springer.com/article/10.1007/s11192-016-1967-5&#34;&gt;http://link.springer.com/article/10.1007/s11192-016-1967-5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/publication/301771909_Is_there_a_gender_difference_in_scientific_collaboration_A_scientometric_examination_of_co_authorships_among_industrial_organizational_psychologists&#34;&gt;https://www.researchgate.net/publication/301771909&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jlsumner.shinyapps.io/syllabustool/&#34;&gt;How Diverse is Your Syllabus?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.highcharts.com/blog/223-visualizing-the-gender-of-us-senators&#34;&gt;Visualizing the gender of US senators with R and Highmaps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aschinchon.wordpress.com/2016/06/06/women-in-orchestras/&#34;&gt;Women in Orchestras&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aschinchon.wordpress.com/2016/02/17/the-gender-of-big-data/&#34;&gt;The Gender of Big Data&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;
-Collaboration
-&lt;/h2&gt;
-&lt;p&gt;Feel free to comment or contribute in any way! Let me know if you are using the genderizeR package in your work or if I could help you in your research or commercial project.&lt;/p&gt;
-&lt;div id=&#34;speed-test&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Speed Test&lt;/h2&gt;
-&lt;p&gt;A few people have been asking about the speed of the package, so I have done some speed test using the latest version of the genderizeR package.&lt;/p&gt;
-&lt;p&gt;Without any parallel programming I managed to check 108 023 unique terms through genderize.io API and it took 45 minutes (2 395 term per minute).&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;package-downloads&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Package downloads&lt;/h2&gt;
-&lt;p&gt;(from CRAN RStudio mirror)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/project/genderizer_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/project/genderizer/</guid>
+      <description>R package for gender prediction based on first namesThe package uses genderize.io API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.
+README, BugReports and development repository on GitHub: https://github.com/kalimu/genderizeR
+The package webpage on CRAN:
+http://cran.r-project.org/web/packages/genderizeR
+Article &amp;amp; Citations:When using the genderizeR R package in your work, please cite also the article:Kamil Wais, Gender Prediction Methods Based on First Names with genderizeR, The R Journal,Vol.</description>
     </item>
     
     <item>
-      <title>RRUG</title>
-      <link>/project/rrug/</link>
+      <title>Resovia R User Group (RRUG)</title>
+      <link>https://kalimu.github.io/project/rrug/</link>
       <pubDate>Wed, 23 Jul 2014 21:13:14 -0500</pubDate>
       
-      <guid>/project/rrug/</guid>
-      <description>&lt;div id=&#34;resovia-r-user-group-rrug&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Resovia R User Group (RRUG)&lt;/h1&gt;
-&lt;p&gt;[in Polish]&lt;/p&gt;
-&lt;p&gt;Od kwietnia 2016 roku działa pod patronatem WSIiZ w Rzeszowie Resovia R User Group (RRUG), czyli Rzeszowska Grupa Użytkowników R’a. Język programowania statystycznego R jest standardem zarówno wśród analityków sektora komercyjnego, administracyjnego, jak i pracowników naukowych. Globalna liczba jego użytkowników szacowana jest w milionach i stale rośnie. Wymianę doświadczeń związanych z analizą danych za pomocą R’a wspierają liczne grupy użytkowników R’a – lokalne społeczności analityków i programistów wspierające się w rozwoju zawodowym, naukowym i projektach analitycznych. Stworzenie takiej właśnie społeczności jest celem również naszej grupy.&lt;/p&gt;
-&lt;p&gt;Bieżąca komunikacja wewnątrz grupy odbywa się za pomocą Slack’a: rerug.slack.com. Jeśli nie możesz się dołączyć do grupy lub nie dostałaś zaproszenia skontaktuj się ze mną – można użyć formularza kontaktowego na tej stronie.&lt;/p&gt;
-&lt;p&gt;Spotykamy się w wybrane środy o 17.00 w Wyższej Szkole Informatyki i Zarządzania w Rzeszowie (WSIiZ) na Sucharskiego 2. O dokładnych terminach staramy się powiadamiać z minimum tygodniowym wyprzedzeniem (jak tylko uzyskamy potwierdzenia od prowadzących na danym spotkaniu prezentacje).&lt;/p&gt;
-&lt;p&gt;Spotkania składają się zwykle z dwóch krótkich prezentacji (2 x ok. 20-30 min). Po prezentacjach przewidujemy swobodną wymianę myśli i zarysowanie planów przyszłych spotkań. Jest też czas na dyskusję w kuluarach, wymianę doświadczeń, networking. Atmosfera spotkań jest przyjazna i nieformalna.&lt;/p&gt;
-&lt;p&gt;Jeśli jest zapotrzebowanie możemy spotkanie przekształcić w mini warsztaty wprowadzające do wybranych zagadnień związanych z R’em. Wtedy też uczestnicy pojawiają się ze swoimi laptopami. Na zwykłych spotkaniach nie są one potrzebne. Prowadzącym zapewniamy dostęp do komputera z Internetem i rzutnika multimedialnego (oczywiście można też przyjść ze swoim sprzętem).&lt;/p&gt;
-&lt;p&gt;Jak dotąd uczestnikami spotkań byli przedstawiciele firm, innych uczelni rzeszowskich, administracji, programiści, zawodowi i początkujący analitycy, informatycy i badacze społeczni, studenci. Zapraszamy i zachęcamy do przekazania tej informacji wszystkim zainteresowanym. Proszę tylko ze względów logistycznych o wstępne zgłaszanie swojej chęci obecności (ew. liczby chętnych osób). Można skorzystać ze slacka lub formularza kontaktowego.&lt;/p&gt;
-&lt;div id=&#34;informacje-o-wybranych-spotkaniach&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Informacje o wybranych spotkaniach:&lt;/h2&gt;
-&lt;div id=&#34;listopada-2016-r.&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;30 listopada 2016 r.&lt;/h3&gt;
-&lt;p&gt;Mieliśmy dwie prezentacje:&lt;/p&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;p&gt;Relacja z październikowego eRum – Europejskiego Spotkania Użytkowników R’a (by Kamil Wais). Prezentacja dostępna tutaj: &lt;a href=&#34;http://rpubs.com/kalimu/erum-about&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum-about&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;dr Piotr Lasek przedstawił prezentację “Początki i współczesne wyzwania wizualizacji danych” i opowiedział o swoich doświadczeniach z tą problematyką, którą zajmował się przez ostatnie 2 lata jako Postdoctoral Fellow w York University (Toronto). Można było dowiedzieć się o drodze jaką przeszła wizualizacja danych od swoich początków, po katastrofę promu Challenger i na współczesnych narzędziach wizualizacji terabajtowych zbiorów danych skończywszy. Więcej informacji o naszym prelegencie: &lt;a href=&#34;http://piotrlasek.com/about/&#34; class=&#34;uri&#34;&gt;http://piotrlasek.com/about/&lt;/a&gt; Prezentacja dostępna tutaj: &lt;a href=&#34;http://piotrlasek.com/talks/datavis&#34; class=&#34;uri&#34;&gt;http://piotrlasek.com/talks/datavis&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://kalimu.github.io/project/rrug/</guid>
+      <description>[in Polish]
+Od kwietnia 2016 roku działa pod patronatem WSIiZ w Rzeszowie Resovia R User Group (RRUG), czyli Rzeszowska Grupa Użytkowników R’a. Język programowania statystycznego R jest standardem zarówno wśród analityków sektora komercyjnego, administracyjnego, jak i pracowników naukowych. Globalna liczba jego użytkowników szacowana jest w milionach i stale rośnie. Wymianę doświadczeń związanych z analizą danych za pomocą R’a wspierają liczne grupy użytkowników R’a – lokalne społeczności analityków i programistów wspierające się w rozwoju zawodowym, naukowym i projektach analitycznych.</description>
     </item>
     
   </channel>
