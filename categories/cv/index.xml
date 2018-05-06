@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CV on Kamil Wais</title>
-    <link>/categories/cv/</link>
+    <link>https://kalimu.github.io/categories/cv/</link>
     <description>Recent content in CV on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.2</copyright>
     <lastBuildDate>Sun, 19 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/cv/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalimu.github.io/categories/cv/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wrażenia z pobytu na Uniwersytecie Notre Dame (USA)</title>
-      <link>/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
+      <link>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
+      <guid>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
       <description>Center for Research Computing (CRC)Od 1 sierpnia do 31 października 2017 r. miałem możliwość i ogromną satysfakcję gościć na Uniwersytecie Notre Dame w stanie Indiana. Pojechałem tam zaproszony przez dyrektora Center for Research Computing (CRC) prof. Jarka Nabrzyskiego, którego poznałem w Tokio rok wcześniej na konferencji plenarnej Research Data Alliance. W USA spędziłem trzy miesiące jako wizytujący assistant professor, przyglądając się pracy CRC, które jest jednym z kilku wydzielonych Centrów, działających na Uniwersytecie Notre Dame.</description>
     </item>
     
     <item>
       <title>My Data Science &amp; Programming Skills &amp; Tools</title>
-      <link>/post/my-data-science-and-programming-skills-and-tools/</link>
+      <link>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-data-science-and-programming-skills-and-tools/</guid>
+      <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
       <description>Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.
 The last update of this post was done: 2018-05-06.
 Data Science SkillsData ManipulationEfficient data manipulation in R;

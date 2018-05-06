@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Downloads on Kamil Wais</title>
-    <link>/downloads/</link>
+    <link>https://kalimu.github.io/downloads/</link>
     <description>Recent content in Downloads on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.2</copyright>
     
-	<atom:link href="/downloads/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalimu.github.io/downloads/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/downloads/datascienceforsocialgood/</link>
+      <link>https://kalimu.github.io/downloads/datascienceforsocialgood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/downloads/datascienceforsocialgood/</guid>
+      <guid>https://kalimu.github.io/downloads/datascienceforsocialgood/</guid>
       <description>The Role of Data Science in Pursuit of Long-Term Relationship Between Respondents and Researchersvar SLIDE_CONFIG = {// Slide settingssettings: {title: &#39;The Role of Data Science in Pursuit of Long-Term Relationship Between Respondents and Researchers&#39;,useBuilds: true,usePrettify: true,enableSlideAreas: true,enableTouch: true,},// Author informationpresenters: [{name: &#39;Kamil Wais kamil.wais@gmail.com Center for Social Research, University of Notre Dame, USA  University of Information Technology and Management in Rzeszow, Poland&#39; ,company: &#39;&#39;,gplus: &#39;&#39;,twitter: &#39;&#39;,www: &#39;&#39;,github: &#39;&#39;},]};b, strong {font-weight: bold;}em {font-style: italic;}slides  slide {-webkit-transition: all 0.</description>
     </item>
     

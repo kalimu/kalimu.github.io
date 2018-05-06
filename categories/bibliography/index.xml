@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bibliography on Kamil Wais</title>
-    <link>/categories/bibliography/</link>
+    <link>https://kalimu.github.io/categories/bibliography/</link>
     <description>Recent content in Bibliography on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.2</copyright>
     <lastBuildDate>Sun, 19 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/bibliography/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalimu.github.io/categories/bibliography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wrażenia z pobytu na Uniwersytecie Notre Dame (USA)</title>
-      <link>/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
+      <link>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
+      <guid>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
       <description>Center for Research Computing (CRC)Od 1 sierpnia do 31 października 2017 r. miałem możliwość i ogromną satysfakcję gościć na Uniwersytecie Notre Dame w stanie Indiana. Pojechałem tam zaproszony przez dyrektora Center for Research Computing (CRC) prof. Jarka Nabrzyskiego, którego poznałem w Tokio rok wcześniej na konferencji plenarnej Research Data Alliance. W USA spędziłem trzy miesiące jako wizytujący assistant professor, przyglądając się pracy CRC, które jest jednym z kilku wydzielonych Centrów, działających na Uniwersytecie Notre Dame.</description>
     </item>
     
     <item>
       <title>Resources: Programming &amp; Data Science in R</title>
-      <link>/post/resources-programming-data-science-in-r/</link>
+      <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/resources-programming-data-science-in-r/</guid>
+      <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.
 The last update of this post was done: 2018-05-06.
 Books (on-line &amp;amp; printed)Hadley Wickham, Advanced R

@@ -2,31 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Kamil Wais</title>
-    <link>/tags/programming/</link>
+    <link>https://kalimu.github.io/tags/programming/</link>
     <description>Recent content in Programming on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
-    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.2</copyright>
+    <lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalimu.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Informal Guidelines for R Coders [draft]</title>
-      <link>/post/informal-guidelines-for-r-coders/</link>
-      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/informal-guidelines-for-r-coders/</guid>
-      <description>Editor settingSet 80 characters as the maximum length of the line in R Studio, and obey that limit.Set 2 spaces for code indendation.Naming conventionBe consistent.Use lowercase verb with underscores _ for variable name: add_numbers().You can group related functions from the same package using prefixes: math_add_numbers().You can use CamelCase or camelCase naming convention if you inisist, but please, do not use periods inside function and variable names.</description>
-    </item>
     
     <item>
       <title>My Data Science &amp; Programming Skills &amp; Tools</title>
-      <link>/post/my-data-science-and-programming-skills-and-tools/</link>
+      <link>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-data-science-and-programming-skills-and-tools/</guid>
+      <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
       <description>Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.
 The last update of this post was done: 2018-05-06.
 Data Science SkillsData ManipulationEfficient data manipulation in R;
@@ -36,10 +27,10 @@ lubridate, xts.Reproducible AnalysesRStudio IDE, Markdown, LaTeX;</descripti
     
     <item>
       <title>Resources: Programming &amp; Data Science in R</title>
-      <link>/post/resources-programming-data-science-in-r/</link>
+      <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/resources-programming-data-science-in-r/</guid>
+      <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.
 The last update of this post was done: 2018-05-06.
 Books (on-line &amp;amp; printed)Hadley Wickham, Advanced R
@@ -48,10 +39,10 @@ The book is designed primarily for R users who want to improve their programming
     
     <item>
       <title>Checklist for R package submission to CRAN</title>
-      <link>/post/checklist-for-r-package-submission-to-cran/</link>
+      <link>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</link>
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/checklist-for-r-package-submission-to-cran/</guid>
+      <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
       <description>Version: 1.2The last update of this post: 2018-05-06.
 Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
 See what new Hadley recommends:

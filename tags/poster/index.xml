@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poster on Kamil Wais</title>
-    <link>/tags/poster/</link>
+    <link>https://kalimu.github.io/tags/poster/</link>
     <description>Recent content in Poster on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.2</copyright>
     <lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/poster/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalimu.github.io/tags/poster/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>International On-line Expert Access Panel for Open Science Development (poster)</title>
-      <link>/talk/2016-tokyo/</link>
+      <link>https://kalimu.github.io/talk/2016-tokyo/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
       
-      <guid>/talk/2016-tokyo/</guid>
+      <guid>https://kalimu.github.io/talk/2016-tokyo/</guid>
       <description></description>
     </item>
     

@@ -2,27 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Instant feedback on Kamil Wais</title>
-    <link>/tags/instant-feedback/</link>
+    <link>https://kalimu.github.io/tags/instant-feedback/</link>
     <description>Recent content in Instant feedback on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.2</copyright>
     <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/instant-feedback/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalimu.github.io/tags/instant-feedback/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Role of Data Science in Pursuit of Long-Term Relationship Between Respondents and Social Researchers</title>
-      <link>/talk/2017-chicago/</link>
+      <link>https://kalimu.github.io/talk/2017-chicago/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/2017-chicago/</guid>
+      <guid>https://kalimu.github.io/talk/2017-chicago/</guid>
       <description></description>
-    </item>
-    
-  </channel>
-</rss>rvey techniques. Most online research techniques convert old-fashioned off-line questionnaires to HTML forms, so not only they do not exploit the full potential of Data Science &amp;amp; Internet Technologies, but they are outdated already by design. Thus, contemporary on-line techniques are not natively on-line—they are mainly off-line questionnaires converted into more or less advanced on-line HTML forms, but with inherited off-line characteristics (high burden and low value for respondents, non-equivalent information exchange).</description>
     </item>
     
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferences on Kamil Wais</title>
-    <link>/categories/conferences/</link>
+    <link>https://kalimu.github.io/categories/conferences/</link>
     <description>Recent content in Conferences on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.2</copyright>
     <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/conferences/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalimu.github.io/categories/conferences/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Seminarium z udziałem prof. Philipa Zimbardo </title>
-      <link>/post/seminarium-z-udzialem-prof-philip-zimbardo/</link>
+      <link>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/seminarium-z-udzialem-prof-philip-zimbardo/</guid>
+      <guid>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</guid>
       <description>W sobotę (24.06) odbyło się na WSIiZ insprujące seminarium z udziałem on-line prof. P.Zimbardo.
 Philip Zimbardo był w 1971 roku liderem sławnego Stanfordzkiego Eksperymentu Więziennego i świadkiem-ekspertem w sprawie więzienia Abu Ghraib. Autor wpływowych książek: The Time Paradox: The New Psychology of Time That Will Change Your Life i The Lucifer Effect: Understanding How Good People Turn Evil.
 Warto zapoznać się z projektem Profesora Zimbardo:
@@ -26,20 +26,20 @@ Heroic Imagination Project.</description>
     
     <item>
       <title>Presentation of R package LimeRick on eRum</title>
-      <link>/post/presentation-of-r-package-limerick-on-erum/</link>
+      <link>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/presentation-of-r-package-limerick-on-erum/</guid>
+      <guid>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</guid>
       <description>UPDATE: The online static version of the presentation is available here: http://rpubs.com/kalimu/erum. Thank you for all the feedback!
 In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data.</description>
     </item>
     
     <item>
       <title>My impression from Research Data Alliance (RDA) 7th Plenary Meeting in Tokyo</title>
-      <link>/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</link>
+      <link>https://kalimu.github.io/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</link>
       <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</guid>
+      <guid>https://kalimu.github.io/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</guid>
       <description>Seventh RDA Plenary was organized in Tokyo in March 2016 in close partnership with the Japan Science and Technology Agency (JST). This was the first time a plenary took place in Asia. One of the reason was to expand the reach of the RDA far beyond America and Europe through increase in organization’s memberships from Asia region.
 As one of the winners of the RDA Early Career European Researchers &amp;amp; Scientists Working with Data (RDA P7 Financial Support Programme), I had a unique opportunity and honor to see with my own eyes how activities in RDA look like.</description>
     </item>

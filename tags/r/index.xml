@@ -2,41 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Kamil Wais</title>
-    <link>/tags/r/</link>
+    <link>https://kalimu.github.io/tags/r/</link>
     <description>Recent content in R on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
-    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.2</copyright>
+    <lastBuildDate>Mon, 28 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalimu.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Informal Guidelines for R Coders [draft]</title>
-      <link>/post/informal-guidelines-for-r-coders/</link>
-      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/informal-guidelines-for-r-coders/</guid>
-      <description>Editor settingSet 80 characters as the maximum length of the line in R Studio, and obey that limit.Set 2 spaces for code indendation.Naming conventionBe consistent.Use lowercase verb with underscores _ for variable name: add_numbers().You can group related functions from the same package using prefixes: math_add_numbers().You can use CamelCase or camelCase naming convention if you inisist, but please, do not use periods inside function and variable names.</description>
-    </item>
     
     <item>
       <title>Welcome to the Tidyverse. Hadley Wickham lecture at Notre Dame University</title>
-      <link>/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</link>
+      <link>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
+      <guid>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
       <description>During my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham’s lecture Welcome to the Tidyverse and meet Hadley in person. Hadley’s talks are always well-structured and worth listening.
 Hadley Wickham has been a prime mover in releasing R upon the masses, enabling hordes of unsuspecting would-be researchers to process and visualize data in ways they never dreamed of. The tidyverse, the culmination of years of effort in the R language, is a universe of packages that facilitate a grammar of data, graphics, and modeling that allows even beginners to speak the language of data science fluently.</description>
     </item>
     
     <item>
       <title>My Data Science &amp; Programming Skills &amp; Tools</title>
-      <link>/post/my-data-science-and-programming-skills-and-tools/</link>
+      <link>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-data-science-and-programming-skills-and-tools/</guid>
+      <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
       <description>Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.
 The last update of this post was done: 2018-05-06.
 Data Science SkillsData ManipulationEfficient data manipulation in R;
@@ -46,10 +37,10 @@ lubridate, xts.Reproducible AnalysesRStudio IDE, Markdown, LaTeX;</descripti
     
     <item>
       <title>Resources: Programming &amp; Data Science in R</title>
-      <link>/post/resources-programming-data-science-in-r/</link>
+      <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/resources-programming-data-science-in-r/</guid>
+      <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.
 The last update of this post was done: 2018-05-06.
 Books (on-line &amp;amp; printed)Hadley Wickham, Advanced R
@@ -58,10 +49,10 @@ The book is designed primarily for R users who want to improve their programming
     
     <item>
       <title>Building static homepage with R &amp; blogdown</title>
-      <link>/post/building-static-homepage-with-r-and-blogdown/</link>
+      <link>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/building-static-homepage-with-r-and-blogdown/</guid>
+      <guid>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</guid>
       <description>This new homepage is a static website generated in R (!) with the help of brilliant blogdown package by Yihui Xie. Hugo is the site engine and it also uses amazing Academic theme.
 More about the blogdown R package you can find here: https://bookdown.org/yihui/blogdown/
 Some additional usefull posts:
@@ -70,40 +61,40 @@ Some additional usefull posts:
     
     <item>
       <title>Presentation of R package LimeRick on eRum</title>
-      <link>/post/presentation-of-r-package-limerick-on-erum/</link>
+      <link>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/presentation-of-r-package-limerick-on-erum/</guid>
+      <guid>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</guid>
       <description>UPDATE: The online static version of the presentation is available here: http://rpubs.com/kalimu/erum. Thank you for all the feedback!
 In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data.</description>
     </item>
     
     <item>
       <title>Gender Prediction Methods based on First Names with genderizeR</title>
-      <link>/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
+      <link>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
+      <guid>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
       <description>When using the genderizeR R package in your work, please cite also the article:
 @article{RJ-2016-002, author = {Kamil Wais}, title = {{Gender Prediction Methods Based on First Names with genderizeR}}, year = {2016}, journal = {{The R Journal}}, url = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html}, pages = {17--37}, volume = {8}, number = {1} }  </description>
     </item>
     
     <item>
       <title>limeRick</title>
-      <link>/project/limerick/</link>
+      <link>https://kalimu.github.io/project/limerick/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/project/limerick/</guid>
+      <guid>https://kalimu.github.io/project/limerick/</guid>
       <description>limeRick: The bridge between LimeSurvey and RThe R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:
 importing on-line survey responses into R,adding new responses to the survey directly from R,automatically accessing surveys and question properties,implementing passive measurement surveys,developing data products based on real-time declarative data collection.</description>
     </item>
     
     <item>
       <title>Checklist for R package submission to CRAN</title>
-      <link>/post/checklist-for-r-package-submission-to-cran/</link>
+      <link>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</link>
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/checklist-for-r-package-submission-to-cran/</guid>
+      <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
       <description>Version: 1.2The last update of this post: 2018-05-06.
 Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
 See what new Hadley recommends:
@@ -112,10 +103,10 @@ See what new Hadley recommends:
     
     <item>
       <title>genderizeR</title>
-      <link>/project/genderizer/</link>
+      <link>https://kalimu.github.io/project/genderizer/</link>
       <pubDate>Tue, 27 Jan 2015 21:13:14 -0500</pubDate>
       
-      <guid>/project/genderizer/</guid>
+      <guid>https://kalimu.github.io/project/genderizer/</guid>
       <description>R package for gender prediction based on first namesThe package uses genderize.io API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.
 README, BugReports and development repository on GitHub: https://github.com/kalimu/genderizeR
 The package webpage on CRAN:
@@ -125,10 +116,10 @@ http://cran.r-project.org/web/packages/genderizeR
     
     <item>
       <title>Resovia R User Group (RRUG)</title>
-      <link>/project/rrug/</link>
+      <link>https://kalimu.github.io/project/rrug/</link>
       <pubDate>Wed, 23 Jul 2014 21:13:14 -0500</pubDate>
       
-      <guid>/project/rrug/</guid>
+      <guid>https://kalimu.github.io/project/rrug/</guid>
       <description>[in Polish]
 Od kwietnia 2016 roku działa pod patronatem WSIiZ w Rzeszowie Resovia R User Group (RRUG), czyli Rzeszowska Grupa Użytkowników R’a. Język programowania statystycznego R jest standardem zarówno wśród analityków sektora komercyjnego, administracyjnego, jak i pracowników naukowych. Globalna liczba jego użytkowników szacowana jest w milionach i stale rośnie. Wymianę doświadczeń związanych z analizą danych za pomocą R’a wspierają liczne grupy użytkowników R’a – lokalne społeczności analityków i programistów wspierające się w rozwoju zawodowym, naukowym i projektach analitycznych.</description>
     </item>
