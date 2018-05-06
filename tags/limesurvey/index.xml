@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LimeSurvey on Kamil Wais</title>
-    <link>https://kalimu.github.io/tags/limesurvey/</link>
+    <link>/tags/limesurvey/</link>
     <description>Recent content in LimeSurvey on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
     <lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kalimu.github.io/tags/limesurvey/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/limesurvey/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Presentation of R package LimeRick on eRum</title>
-      <link>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</link>
+      <link>/post/presentation-of-r-package-limerick-on-erum/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</guid>
+      <guid>/post/presentation-of-r-package-limerick-on-erum/</guid>
       <description>UPDATE: The online static version of the presentation is available here: http://rpubs.com/kalimu/erum. Thank you for all the feedback!
 In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data.</description>
     </item>

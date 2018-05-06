@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rpackage on Kamil Wais</title>
-    <link>https://kalimu.github.io/tags/rpackage/</link>
+    <link>/tags/rpackage/</link>
     <description>Recent content in Rpackage on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
     <lastBuildDate>Mon, 28 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kalimu.github.io/tags/rpackage/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/rpackage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to the Tidyverse. Hadley Wickham lecture at Notre Dame University</title>
-      <link>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</link>
+      <link>/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
+      <guid>/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
       <description>During my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham’s lecture Welcome to the Tidyverse and meet Hadley in person. Hadley’s talks are always well-structured and worth listening.
 Hadley Wickham has been a prime mover in releasing R upon the masses, enabling hordes of unsuspecting would-be researchers to process and visualize data in ways they never dreamed of. The tidyverse, the culmination of years of effort in the R language, is a universe of packages that facilitate a grammar of data, graphics, and modeling that allows even beginners to speak the language of data science fluently.</description>
     </item>
     
     <item>
       <title>limeRick</title>
-      <link>https://kalimu.github.io/project/limerick/</link>
+      <link>/project/limerick/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/limerick/</guid>
+      <guid>/project/limerick/</guid>
       <description>limeRick: The bridge between LimeSurvey and RThe R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:
 importing on-line survey responses into R,adding new responses to the survey directly from R,automatically accessing surveys and question properties,implementing passive measurement surveys,developing data products based on real-time declarative data collection.</description>
     </item>
     
     <item>
       <title>genderizeR</title>
-      <link>https://kalimu.github.io/project/genderizer/</link>
+      <link>/project/genderizer/</link>
       <pubDate>Tue, 27 Jan 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/genderizer/</guid>
+      <guid>/project/genderizer/</guid>
       <description>R package for gender prediction based on first namesThe package uses genderize.io API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.
 README, BugReports and development repository on GitHub: https://github.com/kalimu/genderizeR
 The package webpage on CRAN:

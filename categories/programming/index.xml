@@ -2,23 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Kamil Wais</title>
-    <link>https://kalimu.github.io/categories/programming/</link>
+    <link>/categories/programming/</link>
     <description>Recent content in Programming on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
-    <lastBuildDate>Tue, 21 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
+    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kalimu.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Informal Guidelines for R Coders [draft]</title>
+      <link>/post/informal-guidelines-for-r-coders/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/informal-guidelines-for-r-coders/</guid>
+      <description>Editor settingSet 80 characters as the maximum length of the line in R Studio, and obey that limit.Set 2 spaces for code indendation.Naming conventionBe consistent.Use lowercase verb with underscores _ for variable name: add_numbers().You can group related functions from the same package using prefixes: math_add_numbers().You can use CamelCase or camelCase naming convention if you inisist, but please, do not use periods inside function and variable names.</description>
+    </item>
+    
+    <item>
       <title>Checklist for R package submission to CRAN</title>
-      <link>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</link>
+      <link>/post/checklist-for-r-package-submission-to-cran/</link>
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
-      <description>Version: 1.2The last update of this post: 2018-04-23.
+      <guid>/post/checklist-for-r-package-submission-to-cran/</guid>
+      <description>Version: 1.2The last update of this post: 2018-05-06.
 Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
 See what new Hadley recommends:
 (http://r-pkgs.had.co.nz/release.html).Update R &amp;amp; packages:Rall packagesRStudio (stable or preview version).Update your package:Check unit tests.</description>

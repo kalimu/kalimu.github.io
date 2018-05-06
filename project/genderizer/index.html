@@ -8,17 +8,32 @@
   <meta name="theme" content="hugo-academic">
   <meta name="generator" content="Hugo 0.40" />
   <meta name="author" content="Kamil Wais Ph.D.">
-  <meta name="description" content="Data Science Consultant">
-
-  
-  <link rel="alternate" hreflang="en-us" href="https://kalimu.github.io/project/genderizer/">
 
   
   
+  
+  
+    
+      
+    
+  
+  <meta name="description" content="R package for gender prediction based on first namesThe package uses genderize.io API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.
+README, BugReports and development repository on GitHub: https://github.com/kalimu/genderizeR
+The package webpage on CRAN:
+http://cran.r-project.org/web/packages/genderizeR
+Article &amp; Citations:When using the genderizeR R package in your work, please cite also the article:Kamil Wais, Gender Prediction Methods Based on First Names with genderizeR, The R Journal,Vol.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/project/genderizer/">
+
+  
 
 
   
 
+  
+  
+  <meta name="theme-color" content="#0095eb">
   
   
   
@@ -35,8 +50,9 @@
   
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
   
   
   
@@ -50,6 +66,7 @@
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-100423384-1', 'auto');
+      ga('set', 'anonymizeIp', true);
       ga('require', 'eventTracker');
       ga('require', 'outboundLinkTracker');
       ga('require', 'urlChangeTracker');
@@ -62,15 +79,15 @@
   
 
   
-  <link rel="alternate" href="https://kalimu.github.io/index.xml" type="application/rss+xml" title="Kamil Wais">
-  <link rel="feed" href="https://kalimu.github.io/index.xml" type="application/rss+xml" title="Kamil Wais">
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Kamil Wais">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Kamil Wais">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://kalimu.github.io/project/genderizer/">
+  <link rel="canonical" href="/project/genderizer/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -78,9 +95,13 @@
   <meta property="twitter:creator" content="@KamilWais">
   
   <meta property="og:site_name" content="Kamil Wais">
-  <meta property="og:url" content="https://kalimu.github.io/project/genderizer/">
+  <meta property="og:url" content="/project/genderizer/">
   <meta property="og:title" content="genderizeR | Kamil Wais">
-  <meta property="og:description" content=""><meta property="og:image" content="https://kalimu.github.io/img/headers/gender.gif">
+  <meta property="og:description" content="R package for gender prediction based on first namesThe package uses genderize.io API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.
+README, BugReports and development repository on GitHub: https://github.com/kalimu/genderizeR
+The package webpage on CRAN:
+http://cran.r-project.org/web/packages/genderizeR
+Article &amp; Citations:When using the genderizeR R package in your work, please cite also the article:Kamil Wais, Gender Prediction Methods Based on First Names with genderizeR, The R Journal,Vol."><meta property="og:image" content="/img/headers/gender.gif">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2015-01-27T21:13:14-05:00">
@@ -90,10 +111,36 @@
 
   
 
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#0095eb",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#0095eb"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more"
+      }
+    })});
+</script>
+
+  
+
   <title>genderizeR | Kamil Wais</title>
 
 </head>
-<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
 
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
   <div class="container">
@@ -121,7 +168,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -138,7 +187,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -155,7 +206,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -172,7 +225,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -189,7 +244,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -206,7 +263,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -223,7 +282,9 @@
         
 
         
-
+        
+        
+        
         
           
         
@@ -252,7 +313,11 @@
 
   
 <div class="article-header">
-  <img src="/img/headers/gender.gif" class="article-banner" itemprop="image">
+  
+  
+    <img src="/img/headers/gender.gif" class="article-banner" itemprop="image">
+  
+
   
 </div>
 
@@ -269,35 +334,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=genderizeR&amp;url=https%3a%2f%2fkalimu.github.io%2fproject%2fgenderizer%2f"
+         href="https://twitter.com/intent/tweet?text=genderizeR&amp;url=%2fproject%2fgenderizer%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fkalimu.github.io%2fproject%2fgenderizer%2f"
+         href="https://www.facebook.com/sharer.php?u=%2fproject%2fgenderizer%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fkalimu.github.io%2fproject%2fgenderizer%2f&amp;title=genderizeR"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fproject%2fgenderizer%2f&amp;title=genderizeR"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fkalimu.github.io%2fproject%2fgenderizer%2f&amp;title=genderizeR"
+         href="http://service.weibo.com/share/share.php?url=%2fproject%2fgenderizer%2f&amp;title=genderizeR"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=genderizeR&amp;body=https%3a%2f%2fkalimu.github.io%2fproject%2fgenderizer%2f">
+         href="mailto:?subject=genderizeR&amp;body=%2fproject%2fgenderizer%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -411,13 +476,13 @@ Collaboration
 
 <div class="article-tags">
   
-  <a class="btn btn-primary btn-outline" href="/tags/software">software</a>
+  <a class="btn btn-primary btn-outline" href="/tags/software/">software</a>
   
-  <a class="btn btn-primary btn-outline" href="/tags/r">R</a>
+  <a class="btn btn-primary btn-outline" href="/tags/r/">R</a>
   
-  <a class="btn btn-primary btn-outline" href="/tags/cran">CRAN</a>
+  <a class="btn btn-primary btn-outline" href="/tags/cran/">CRAN</a>
   
-  <a class="btn btn-primary btn-outline" href="/tags/rpackage">Rpackage</a>
+  <a class="btn btn-primary btn-outline" href="/tags/rpackage/">Rpackage</a>
   
 </div>
 
@@ -436,43 +501,47 @@ Collaboration
         <h2>Publications</h2>
         
           
-            <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
-  <div class="row">
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
 
+  
     
+  
+  
+  <div>
+    <a href="/publication/gender-prediction-methods-based-on-first-names-with-genderizer/">
+      
+      
+        <img src="/img/headers/genderizer_rjournal.png" class="article-banner" itemprop="image">
+      
+    </a>
+  </div>
+  
 
-    <div class="col-md-12">
-      <a href="https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/">
-        <img src="/img/headers/genderizer_rjournal.png" class="pub-banner"
-             itemprop="image">
-      </a>
-    </div>
-    <div class="col-md-12">
+  <h3 class="article-title" itemprop="name">
+    <a href="/publication/gender-prediction-methods-based-on-first-names-with-genderizer/" itemprop="url">Gender Prediction Methods based on First Names with genderizeR</a>
+  </h3>
 
+  <div class="pub-abstract" itemprop="text">
     
+    In recent years, there has been increased interest in methods for gender prediction based on first names that employ various open data sources. These methods have applications from bibliometric studies to customizing commercial offers for web users. Analysis of gender disparities in science based on such methods are published in the most prestigious journals, although they could be improved by choosing the most suited prediction method with optimal parameters and performing validation studies using the best data source for a given purpose.
+    
+  </div>
 
-      <h3 class="article-title" itemprop="name">
-        <a href="https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/" itemprop="url">Gender Prediction Methods based on First Names with genderizeR</a>
-      </h3>
+  <div class="pub-authors" itemprop="author">
+    
+    Kamil Wais
+    
+  </div>
 
-      <div class="pub-abstract" itemprop="text">
-        
-        In recent years, there has been increased interest in methods for gender prediction based on first names that employ various open data sources. These methods have applications from bibliometric studies to customizing commercial offers for web users. Analysis of gender disparities in science based on such methods are published in the most prestigious journals, although they could be improved by choosing the most suited prediction method with optimal parameters and performing validation studies using the best data source for a given purpose.
-        
-      </div>
+  <div class="pub-publication">
+    
+    In <em>The R Journal</em>,
+    
+    2016
+  </div>
 
-      <div class="pub-authors" itemprop="author">
-        
-        Kamil Wais
-        
-      </div>
-
-      <div class="pub-publication">
-        In <em>The R Journal</em>,&nbsp;2016.
-      </div>
-
-      <div class="pub-links">
-        
+  <div class="pub-links">
+    
 
 
 
@@ -520,10 +589,8 @@ Collaboration
 </a>
 
 
-      </div>
-
-    </div>
   </div>
+
 </div>
 
           
@@ -539,28 +606,13 @@ Collaboration
   </div>
 </article>
 
-<div class="container">
-  <nav>
-  <ul class="pager">
-    
-    <li class="previous"><a href="https://kalimu.github.io/project/rrug/"><span
-      aria-hidden="true">&larr;</span> Resovia R User Group (RRUG)</a></li>
-    
 
-    
-    <li class="next"><a href="https://kalimu.github.io/project/limerick/">limeRick <span
-      aria-hidden="true">&rarr;</span></a></li>
-    
-  </ul>
-</nav>
-
-</div>
 
 <footer class="site-footer">
   <div class="container">
     <p class="powered-by">
 
-      &copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0 &middot; 
+      &copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1 &middot; 
 
       Powered by the
       <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -614,6 +666,7 @@ Collaboration
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
     
     
     <script src="/js/hugo-academic.js"></script>

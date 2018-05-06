@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CRAN on Kamil Wais</title>
-    <link>https://kalimu.github.io/tags/cran/</link>
+    <link>/tags/cran/</link>
     <description>Recent content in CRAN on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
     <lastBuildDate>Wed, 31 Aug 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kalimu.github.io/tags/cran/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/cran/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gender Prediction Methods based on First Names with genderizeR</title>
-      <link>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
+      <link>/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
+      <guid>/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
       <description>When using the genderizeR R package in your work, please cite also the article:
 @article{RJ-2016-002, author = {Kamil Wais}, title = {{Gender Prediction Methods Based on First Names with genderizeR}}, year = {2016}, journal = {{The R Journal}}, url = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html}, pages = {17--37}, volume = {8}, number = {1} }  </description>
     </item>
     
     <item>
       <title>genderizeR</title>
-      <link>https://kalimu.github.io/project/genderizer/</link>
+      <link>/project/genderizer/</link>
       <pubDate>Tue, 27 Jan 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/genderizer/</guid>
+      <guid>/project/genderizer/</guid>
       <description>R package for gender prediction based on first namesThe package uses genderize.io API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.
 README, BugReports and development repository on GitHub: https://github.com/kalimu/genderizeR
 The package webpage on CRAN:

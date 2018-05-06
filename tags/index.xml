@@ -2,355 +2,346 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kamil Wais</title>
-    <link>https://kalimu.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
+    <lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://kalimu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://kalimu.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
     
     <item>
       <title>Access panel</title>
-      <link>https://kalimu.github.io/tags/access-panel/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <link>/tags/access-panel/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://kalimu.github.io/tags/access-panel/</guid>
+      <guid>/tags/access-panel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogdown</title>
-      <link>https://kalimu.github.io/tags/blogdown/</link>
+      <link>/tags/blogdown/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/blogdown/</guid>
+      <guid>/tags/blogdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>https://kalimu.github.io/tags/books/</link>
+      <link>/tags/books/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/books/</guid>
+      <guid>/tags/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CAWI</title>
-      <link>https://kalimu.github.io/tags/cawi/</link>
+      <link>/tags/cawi/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/cawi/</guid>
+      <guid>/tags/cawi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CRAN</title>
-      <link>https://kalimu.github.io/tags/cran/</link>
+      <link>/tags/cran/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/cran/</guid>
+      <guid>/tags/cran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference</title>
-      <link>https://kalimu.github.io/tags/conference/</link>
+      <link>/tags/conference/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/conference/</guid>
+      <guid>/tags/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>https://kalimu.github.io/tags/data-science/</link>
+      <link>/tags/data-science/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/data-science/</guid>
+      <guid>/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DataScience</title>
-      <link>https://kalimu.github.io/tags/datascience/</link>
+      <link>/tags/datascience/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/datascience/</guid>
+      <guid>/tags/datascience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Debt literacy</title>
-      <link>https://kalimu.github.io/tags/debt-literacy/</link>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <link>/tags/debt-literacy/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/debt-literacy/</guid>
+      <guid>/tags/debt-literacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event</title>
-      <link>https://kalimu.github.io/tags/event/</link>
+      <link>/tags/event/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/event/</guid>
+      <guid>/tags/event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Foreign students</title>
-      <link>https://kalimu.github.io/tags/foreign-students/</link>
+      <link>/tags/foreign-students/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/foreign-students/</guid>
+      <guid>/tags/foreign-students/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Higher education</title>
-      <link>https://kalimu.github.io/tags/higher-education/</link>
+      <link>/tags/higher-education/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/higher-education/</guid>
+      <guid>/tags/higher-education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instant Feedback</title>
-      <link>https://kalimu.github.io/tags/instant-feedback/</link>
+      <link>/tags/instant-feedback/</link>
       <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/tags/instant-feedback/</guid>
+      <guid>/tags/instant-feedback/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instant feedback</title>
-      <link>https://kalimu.github.io/tags/instant-feedback/</link>
+      <link>/tags/instant-feedback/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/instant-feedback/</guid>
+      <guid>/tags/instant-feedback/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instytut Matki i Dziecka</title>
-      <link>https://kalimu.github.io/tags/instytut-matki-i-dziecka/</link>
+      <link>/tags/instytut-matki-i-dziecka/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/instytut-matki-i-dziecka/</guid>
+      <guid>/tags/instytut-matki-i-dziecka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LimeSurvey</title>
-      <link>https://kalimu.github.io/tags/limesurvey/</link>
+      <link>/tags/limesurvey/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/limesurvey/</guid>
+      <guid>/tags/limesurvey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Loans</title>
-      <link>https://kalimu.github.io/tags/loans/</link>
+      <link>/tags/loans/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/loans/</guid>
+      <guid>/tags/loans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MOOCs</title>
-      <link>https://kalimu.github.io/tags/moocs/</link>
+      <link>/tags/moocs/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/moocs/</guid>
+      <guid>/tags/moocs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notre Dame University</title>
-      <link>https://kalimu.github.io/tags/notre-dame-university/</link>
+      <link>/tags/notre-dame-university/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/notre-dame-university/</guid>
+      <guid>/tags/notre-dame-university/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ODGAR</title>
-      <link>https://kalimu.github.io/tags/odgar/</link>
+      <link>/tags/odgar/</link>
       <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/tags/odgar/</guid>
+      <guid>/tags/odgar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Research Data</title>
-      <link>https://kalimu.github.io/tags/open-research-data/</link>
+      <link>/tags/open-research-data/</link>
       <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/open-research-data/</guid>
+      <guid>/tags/open-research-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenData</title>
-      <link>https://kalimu.github.io/tags/opendata/</link>
+      <link>/tags/opendata/</link>
       <pubDate>Sun, 18 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/tags/opendata/</guid>
+      <guid>/tags/opendata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polonia</title>
-      <link>https://kalimu.github.io/tags/polonia/</link>
+      <link>/tags/polonia/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/polonia/</guid>
+      <guid>/tags/polonia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster</title>
-      <link>https://kalimu.github.io/tags/poster/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <link>/tags/poster/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://kalimu.github.io/tags/poster/</guid>
+      <guid>/tags/poster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>https://kalimu.github.io/tags/programming/</link>
-      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <link>/tags/programming/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/programming/</guid>
+      <guid>/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://kalimu.github.io/tags/r/</link>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <link>/tags/r/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R User Group</title>
-      <link>https://kalimu.github.io/tags/r-user-group/</link>
+      <link>/tags/r-user-group/</link>
       <pubDate>Wed, 23 Jul 2014 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/tags/r-user-group/</guid>
+      <guid>/tags/r-user-group/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RDA</title>
-      <link>https://kalimu.github.io/tags/rda/</link>
+      <link>/tags/rda/</link>
       <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/rda/</guid>
+      <guid>/tags/rda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://kalimu.github.io/tags/research/</link>
+      <link>/tags/research/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/research/</guid>
+      <guid>/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Respondent-researcher relationship</title>
-      <link>https://kalimu.github.io/tags/respondent-researcher-relationship/</link>
+      <link>/tags/respondent-researcher-relationship/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/respondent-researcher-relationship/</guid>
+      <guid>/tags/respondent-researcher-relationship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rpackage</title>
-      <link>https://kalimu.github.io/tags/rpackage/</link>
+      <link>/tags/rpackage/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/rpackage/</guid>
+      <guid>/tags/rpackage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rzeszów</title>
-      <link>https://kalimu.github.io/tags/rzesz%C3%B3w/</link>
+      <link>/tags/rzesz%C3%B3w/</link>
       <pubDate>Wed, 23 Jul 2014 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/tags/rzesz%C3%B3w/</guid>
+      <guid>/tags/rzesz%C3%B3w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scouting</title>
-      <link>https://kalimu.github.io/tags/scouting/</link>
+      <link>/tags/scouting/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/scouting/</guid>
+      <guid>/tags/scouting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar</title>
-      <link>https://kalimu.github.io/tags/seminar/</link>
+      <link>/tags/seminar/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/seminar/</guid>
+      <guid>/tags/seminar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shadow banking</title>
-      <link>https://kalimu.github.io/tags/shadow-banking/</link>
+      <link>/tags/shadow-banking/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/shadow-banking/</guid>
+      <guid>/tags/shadow-banking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>https://kalimu.github.io/tags/software/</link>
+      <link>/tags/software/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/software/</guid>
+      <guid>/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk</title>
-      <link>https://kalimu.github.io/tags/talk/</link>
+      <link>/tags/talk/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/tags/talk/</guid>
+      <guid>/tags/talk/</guid>
       <description></description>
     </item>
     

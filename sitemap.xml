@@ -5,7 +5,25 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</loc>
+      <loc>/publication/debt-literacy-and-debt-literacy-self-assessment-the-case-of-poland/</loc>
+      <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/informal-guidelines-for-r-coders/</loc>
+      <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</loc>
       <lastmod>2017-11-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +32,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</loc>
+      <loc>/publication/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</loc>
       <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +41,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/talk/2017-chicago/</loc>
+      <loc>/talk/2017-chicago/</loc>
       <lastmod>2017-09-29T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +50,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</loc>
+      <loc>/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</loc>
       <lastmod>2017-08-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +59,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</loc>
+      <loc>/post/seminarium-z-udzialem-prof-philip-zimbardo/</loc>
       <lastmod>2017-06-25T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +68,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/project/gus/</loc>
+      <loc>/project/gus/</loc>
       <lastmod>2017-06-18T21:13:14-05:00</lastmod>
     </url>
     
@@ -59,7 +77,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</loc>
+      <loc>/post/my-data-science-and-programming-skills-and-tools/</loc>
       <lastmod>2017-06-06T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +86,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/</loc>
+      <loc>/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/</loc>
       <lastmod>2017-06-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +95,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/post/resources-programming-data-science-in-r/</loc>
+      <loc>/post/resources-programming-data-science-in-r/</loc>
       <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +104,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</loc>
+      <loc>/post/building-static-homepage-with-r-and-blogdown/</loc>
       <lastmod>2017-05-31T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +113,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/personal-loan-companies-in-poland/</loc>
+      <loc>/publication/personal-loan-companies-in-poland/</loc>
       <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +122,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/academic/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,7 +131,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/post/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -122,8 +140,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -131,16 +149,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://kalimu.github.io/publication/external-evaluation-of-the-school-and-academic-achievements/</loc>
+      <loc>/publication/external-evaluation-of-the-school-and-academic-achievements/</loc>
       <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -149,7 +158,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</loc>
+      <loc>/post/presentation-of-r-package-limerick-on-erum/</loc>
       <lastmod>2016-10-09T00:00:00+00:00</lastmod>
     </url>
     
@@ -158,7 +167,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</loc>
+      <loc>/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</loc>
       <lastmod>2016-08-31T00:00:00+00:00</lastmod>
     </url>
     
@@ -167,7 +176,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</loc>
+      <loc>/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</loc>
       <lastmod>2016-03-31T00:00:00+00:00</lastmod>
     </url>
     
@@ -176,8 +185,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/talk/2016-tokyo/</loc>
-      <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+      <loc>/talk/2016-tokyo/</loc>
+      <lastmod>2016-03-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -185,7 +194,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/loan-perception-and-loan-related-attitude-of-poles/</loc>
+      <loc>/publication/loan-perception-and-loan-related-attitude-of-poles/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -194,7 +203,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/project/limerick/</loc>
+      <loc>/project/limerick/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -203,7 +212,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</loc>
+      <loc>/post/checklist-for-r-package-submission-to-cran/</loc>
       <lastmod>2015-04-21T00:00:00+00:00</lastmod>
     </url>
     
@@ -212,7 +221,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/project/genderizer/</loc>
+      <loc>/project/genderizer/</loc>
       <lastmod>2015-01-27T21:13:14-05:00</lastmod>
     </url>
     
@@ -221,7 +230,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/sektor-shadow-banking-in-poland/</loc>
+      <loc>/publication/sektor-shadow-banking-in-poland/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -230,7 +239,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/project/rrug/</loc>
+      <loc>/project/rrug/</loc>
       <lastmod>2014-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -239,7 +248,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/access-panel-and-its-specificity-as-a-challange-for-new-reserch-techniques-based-on-internet/</loc>
+      <loc>/publication/access-panel-and-its-specificity-as-a-challange-for-new-reserch-techniques-based-on-internet/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -248,7 +257,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/project/odgar/</loc>
+      <loc>/project/odgar/</loc>
       <lastmod>2011-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -257,7 +266,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/project/polonia/</loc>
+      <loc>/project/polonia/</loc>
       <lastmod>2011-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -266,7 +275,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication/action-for-growth-a-resource/</loc>
+      <loc>/publication/action-for-growth-a-resource/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -275,7 +284,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/downloads/datascienceforsocialgood/</loc>
+      <loc>/downloads/datascienceforsocialgood/</loc>
     </url>
     
   
@@ -283,7 +292,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication_types/0/</loc>
+      <loc>/publication_types/0/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -293,8 +302,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication_types/2/</loc>
-      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-05-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -303,7 +312,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication_types/4/</loc>
+      <loc>/publication_types/4/</loc>
       <lastmod>2017-06-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -313,7 +322,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication_types/5/</loc>
+      <loc>/publication_types/5/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -323,8 +332,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/access-panel/</loc>
-      <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+      <loc>/tags/access-panel/</loc>
+      <lastmod>2016-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -333,7 +342,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/categories/bibliography/</loc>
+      <loc>/categories/bibliography/</loc>
       <lastmod>2017-11-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -343,7 +352,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/blogdown/</loc>
+      <loc>/tags/blogdown/</loc>
       <lastmod>2017-05-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -353,7 +362,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/books/</loc>
+      <loc>/tags/books/</loc>
       <lastmod>2017-06-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -363,7 +372,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/cawi/</loc>
+      <loc>/tags/cawi/</loc>
       <lastmod>2017-06-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -373,7 +382,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/cran/</loc>
+      <loc>/tags/cran/</loc>
       <lastmod>2016-08-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -383,7 +392,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/categories/cv/</loc>
+      <loc>/categories/cv/</loc>
       <lastmod>2017-11-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -393,7 +402,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/categories/</loc>
+      <loc>/categories/</loc>
       <lastmod>2017-11-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -403,7 +412,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/conference/</loc>
+      <loc>/tags/conference/</loc>
       <lastmod>2017-09-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -413,7 +422,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/categories/conferences/</loc>
+      <loc>/categories/conferences/</loc>
       <lastmod>2017-06-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -423,7 +432,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/data-science/</loc>
+      <loc>/tags/data-science/</loc>
       <lastmod>2017-09-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -433,7 +442,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/datascience/</loc>
+      <loc>/tags/datascience/</loc>
       <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -443,8 +452,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/debt-literacy/</loc>
-      <lastmod>2017-05-09T00:00:00+00:00</lastmod>
+      <loc>/tags/debt-literacy/</loc>
+      <lastmod>2018-05-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -453,7 +462,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/downloads/</loc>
+      <loc>/downloads/</loc>
       <priority>0</priority>
     </url>
     
@@ -462,7 +471,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/event/</loc>
+      <loc>/tags/event/</loc>
       <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -472,7 +481,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/foreign-students/</loc>
+      <loc>/tags/foreign-students/</loc>
       <lastmod>2017-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -482,7 +491,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/higher-education/</loc>
+      <loc>/tags/higher-education/</loc>
       <lastmod>2017-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -492,7 +501,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/instant-feedback/</loc>
+      <loc>/tags/instant-feedback/</loc>
       <lastmod>2011-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -502,7 +511,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/instant-feedback/</loc>
+      <loc>/tags/instant-feedback/</loc>
       <lastmod>2017-09-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -512,7 +521,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/instytut-matki-i-dziecka/</loc>
+      <loc>/tags/instytut-matki-i-dziecka/</loc>
       <lastmod>2017-06-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -522,8 +531,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <loc>/</loc>
+      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -532,7 +541,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/limesurvey/</loc>
+      <loc>/tags/limesurvey/</loc>
       <lastmod>2016-10-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -542,7 +551,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/loans/</loc>
+      <loc>/tags/loans/</loc>
       <lastmod>2017-05-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -552,7 +561,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/moocs/</loc>
+      <loc>/tags/moocs/</loc>
       <lastmod>2017-06-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -562,7 +571,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/categories/news/</loc>
+      <loc>/categories/news/</loc>
       <lastmod>2017-11-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -572,7 +581,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/notre-dame-university/</loc>
+      <loc>/tags/notre-dame-university/</loc>
       <lastmod>2017-11-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -582,7 +591,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/odgar/</loc>
+      <loc>/tags/odgar/</loc>
       <lastmod>2011-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -592,7 +601,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/open-research-data/</loc>
+      <loc>/tags/open-research-data/</loc>
       <lastmod>2016-03-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -602,7 +611,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/opendata/</loc>
+      <loc>/tags/opendata/</loc>
       <lastmod>2017-06-18T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -612,7 +621,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/polonia/</loc>
+      <loc>/tags/polonia/</loc>
       <lastmod>2017-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -622,8 +631,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/poster/</loc>
-      <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+      <loc>/tags/poster/</loc>
+      <lastmod>2016-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -632,8 +641,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/categories/programming/</loc>
-      <lastmod>2015-04-21T00:00:00+00:00</lastmod>
+      <loc>/tags/programming/</loc>
+      <lastmod>2018-05-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -642,8 +651,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/programming/</loc>
-      <lastmod>2017-06-06T00:00:00+00:00</lastmod>
+      <loc>/categories/programming/</loc>
+      <lastmod>2018-05-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -652,7 +661,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/project/</loc>
+      <loc>/project/</loc>
       <lastmod>2017-06-18T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -662,7 +671,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -672,8 +681,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/r/</loc>
-      <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+      <loc>/tags/r/</loc>
+      <lastmod>2018-05-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -682,7 +691,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/r-user-group/</loc>
+      <loc>/tags/r-user-group/</loc>
       <lastmod>2014-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -692,7 +701,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/rda/</loc>
+      <loc>/tags/rda/</loc>
       <lastmod>2016-03-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -702,7 +711,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/research/</loc>
+      <loc>/tags/research/</loc>
       <lastmod>2017-11-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -712,7 +721,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/respondent-researcher-relationship/</loc>
+      <loc>/tags/respondent-researcher-relationship/</loc>
       <lastmod>2017-09-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -722,7 +731,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/rpackage/</loc>
+      <loc>/tags/rpackage/</loc>
       <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -732,7 +741,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/rzesz%C3%B3w/</loc>
+      <loc>/tags/rzesz%C3%B3w/</loc>
       <lastmod>2014-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -742,7 +751,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/scouting/</loc>
+      <loc>/tags/scouting/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -752,7 +761,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/seminar/</loc>
+      <loc>/tags/seminar/</loc>
       <lastmod>2017-06-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -762,7 +771,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/shadow-banking/</loc>
+      <loc>/tags/shadow-banking/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -772,7 +781,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/software/</loc>
+      <loc>/tags/software/</loc>
       <lastmod>2016-10-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -782,8 +791,8 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>/tags/</loc>
+      <lastmod>2016-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -792,7 +801,7 @@
     
     <url>
     
-      <loc>https://kalimu.github.io/tags/talk/</loc>
+      <loc>/tags/talk/</loc>
       <lastmod>2017-09-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Kamil Wais</title>
-    <link>https://kalimu.github.io/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
     <lastBuildDate>Sun, 18 Jun 2017 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://kalimu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Closed Open Data</title>
-      <link>https://kalimu.github.io/project/gus/</link>
+      <link>/project/gus/</link>
       <pubDate>Sun, 18 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/gus/</guid>
+      <guid>/project/gus/</guid>
       <description>SummaryIn this research project we analyze barriers and bad practices in accessing Open Administrative Data in Poland.
 </description>
     </item>
     
     <item>
       <title>limeRick</title>
-      <link>https://kalimu.github.io/project/limerick/</link>
+      <link>/project/limerick/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/limerick/</guid>
+      <guid>/project/limerick/</guid>
       <description>limeRick: The bridge between LimeSurvey and RThe R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:
 importing on-line survey responses into R,adding new responses to the survey directly from R,automatically accessing surveys and question properties,implementing passive measurement surveys,developing data products based on real-time declarative data collection.</description>
     </item>
     
     <item>
       <title>genderizeR</title>
-      <link>https://kalimu.github.io/project/genderizer/</link>
+      <link>/project/genderizer/</link>
       <pubDate>Tue, 27 Jan 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/genderizer/</guid>
+      <guid>/project/genderizer/</guid>
       <description>R package for gender prediction based on first namesThe package uses genderize.io API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.
 README, BugReports and development repository on GitHub: https://github.com/kalimu/genderizeR
 The package webpage on CRAN:
@@ -47,30 +47,30 @@ http://cran.r-project.org/web/packages/genderizeR
     
     <item>
       <title>Resovia R User Group (RRUG)</title>
-      <link>https://kalimu.github.io/project/rrug/</link>
+      <link>/project/rrug/</link>
       <pubDate>Wed, 23 Jul 2014 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/rrug/</guid>
+      <guid>/project/rrug/</guid>
       <description>[in Polish]
 Od kwietnia 2016 roku działa pod patronatem WSIiZ w Rzeszowie Resovia R User Group (RRUG), czyli Rzeszowska Grupa Użytkowników R’a. Język programowania statystycznego R jest standardem zarówno wśród analityków sektora komercyjnego, administracyjnego, jak i pracowników naukowych. Globalna liczba jego użytkowników szacowana jest w milionach i stale rośnie. Wymianę doświadczeń związanych z analizą danych za pomocą R’a wspierają liczne grupy użytkowników R’a – lokalne społeczności analityków i programistów wspierające się w rozwoju zawodowym, naukowym i projektach analitycznych.</description>
     </item>
     
     <item>
       <title>ODGAR</title>
-      <link>https://kalimu.github.io/project/odgar/</link>
+      <link>/project/odgar/</link>
       <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/odgar/</guid>
+      <guid>/project/odgar/</guid>
       <description>ODGAR: Framework for Online Declarative Data Gathering, Analyzing, and Reporting.
 BackgroundOff-line research paradigms are still dominant even in on-line survey techniques. Most online research techniques convert old-fashioned off-line questionnaires to HTML forms, so not only they do not exploit the full potential of Data Science &amp;amp; Internet Technologies, but they are outdated already by design. Thus, contemporary on-line techniques are not natively on-line—they are mainly off-line questionnaires converted into more or less advanced on-line HTML forms, but with inherited off-line characteristics (high burden and low value for respondents, non-equivalent information exchange).</description>
     </item>
     
     <item>
       <title>Polonia</title>
-      <link>https://kalimu.github.io/project/polonia/</link>
+      <link>/project/polonia/</link>
       <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/polonia/</guid>
+      <guid>/project/polonia/</guid>
       <description>W ramach projektu badawczego prowadzone są badania CAWI i PAPI wśród przedstawicieli środowisk polonijnych z całego świata, m.in.:
 Polonijny Omnibus – badanie ankietowe przeprowadzane od 2011 r. wśród uczestników kolejnych edycji Światowych Festiwali Polonijnych Zespołów Folklorystycznych w Rzeszowie.Partnerami projektu są:
 Rzeszowski Oddział Stowarzyszenia “Wspólnota Polska”Centrum Badań nad Polonią i Polakami na Świecie Uniwersytetu Rzeszowskiego</description>

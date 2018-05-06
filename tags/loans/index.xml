@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Loans on Kamil Wais</title>
-    <link>https://kalimu.github.io/tags/loans/</link>
+    <link>/tags/loans/</link>
     <description>Recent content in Loans on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Kamil Wais · Site created in R &amp; Blogdown · v2.4.0</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.0.1</copyright>
     <lastBuildDate>Tue, 09 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kalimu.github.io/tags/loans/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/loans/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Personal Loan Companies in Poland: Does Empirical Evidence Justify Regulatory Transition?</title>
-      <link>https://kalimu.github.io/publication/personal-loan-companies-in-poland/</link>
+      <link>/publication/personal-loan-companies-in-poland/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/publication/personal-loan-companies-in-poland/</guid>
+      <guid>/publication/personal-loan-companies-in-poland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Loan perception and loan-related attitude of Poles: evidence from the field</title>
-      <link>https://kalimu.github.io/publication/loan-perception-and-loan-related-attitude-of-poles/</link>
+      <link>/publication/loan-perception-and-loan-related-attitude-of-poles/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/publication/loan-perception-and-loan-related-attitude-of-poles/</guid>
+      <guid>/publication/loan-perception-and-loan-related-attitude-of-poles/</guid>
       <description></description>
     </item>
     
