@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny on Kamil Wais</title>
+    <link>/tags/shiny/</link>
+    <description>Recent content in Shiny on Kamil Wais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.1.1.9000</copyright>
+    <lastBuildDate>Sun, 06 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R Packages for Extending Shiny Apps [draft]</title>
+      <link>/post/r-packages-for-extending-shiny-apps/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-packages-for-extending-shiny-apps/</guid>
+      <description> UI Extensions  shinyanimate: An extension of &amp;lsquo;animate.css&amp;rsquo; that allows user to easily add animations to any UI element in &amp;lsquo;shiny&amp;rsquo; app using the elements id [CRAN].  </description>
+    </item>
+    
+  </channel>
+</rss>
