@@ -6,16 +6,25 @@
     <description>Recent content in Talk on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.1.2</copyright>
-    <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.4.0</copyright>
+    <lastBuildDate>Sun, 13 May 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://kalimu.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Towards Native Declarative Data Collection with Question and Survey Instant Feedback in R&amp;Shiny</title>
+      <link>https://kalimu.github.io/talk/2018-budapest/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://kalimu.github.io/talk/2018-budapest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Role of Data Science in Pursuit of Long-Term Relationship Between Respondents and Social Researchers</title>
       <link>https://kalimu.github.io/talk/2017-chicago/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://kalimu.github.io/talk/2017-chicago/</guid>
       <description></description>

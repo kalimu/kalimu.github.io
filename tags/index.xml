@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.1.2</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.4.0</copyright>
     <lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://kalimu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -60,7 +60,7 @@
     <item>
       <title>Conference</title>
       <link>https://kalimu.github.io/tags/conference/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://kalimu.github.io/tags/conference/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Data Science</title>
       <link>https://kalimu.github.io/tags/data-science/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://kalimu.github.io/tags/data-science/</guid>
       <description></description>
@@ -132,7 +132,7 @@
     <item>
       <title>Instant feedback</title>
       <link>https://kalimu.github.io/tags/instant-feedback/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://kalimu.github.io/tags/instant-feedback/</guid>
       <description></description>
@@ -186,7 +186,7 @@
     <item>
       <title>ODGAR</title>
       <link>https://kalimu.github.io/tags/odgar/</link>
-      <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://kalimu.github.io/tags/odgar/</guid>
       <description></description>
@@ -240,7 +240,7 @@
     <item>
       <title>R</title>
       <link>https://kalimu.github.io/tags/r/</link>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://kalimu.github.io/tags/r/</guid>
       <description></description>
@@ -276,7 +276,7 @@
     <item>
       <title>Respondent-researcher relationship</title>
       <link>https://kalimu.github.io/tags/respondent-researcher-relationship/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://kalimu.github.io/tags/respondent-researcher-relationship/</guid>
       <description></description>
@@ -285,7 +285,7 @@
     <item>
       <title>Rpackage</title>
       <link>https://kalimu.github.io/tags/rpackage/</link>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://kalimu.github.io/tags/rpackage/</guid>
       <description></description>
@@ -328,6 +328,15 @@
     </item>
     
     <item>
+      <title>Shiny</title>
+      <link>https://kalimu.github.io/tags/shiny/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://kalimu.github.io/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Software</title>
       <link>https://kalimu.github.io/tags/software/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
@@ -339,7 +348,7 @@
     <item>
       <title>Talk</title>
       <link>https://kalimu.github.io/tags/talk/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://kalimu.github.io/tags/talk/</guid>
       <description></description>

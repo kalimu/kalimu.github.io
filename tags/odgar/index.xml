@@ -6,11 +6,20 @@
     <description>Recent content in ODGAR on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.1.2</copyright>
-    <lastBuildDate>Sat, 23 Jul 2011 21:13:14 -0500</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.4.0</copyright>
+    <lastBuildDate>Sun, 13 May 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://kalimu.github.io/tags/odgar/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Towards Native Declarative Data Collection with Question and Survey Instant Feedback in R&amp;Shiny</title>
+      <link>https://kalimu.github.io/talk/2018-budapest/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://kalimu.github.io/talk/2018-budapest/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ODGAR</title>

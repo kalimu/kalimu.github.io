@@ -6,9 +6,57 @@
     <description>Recent content in Kamil Wais on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.1.2</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.4.0</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Notes from eRum 2018: European R User Conference in Budapest</title>
+      <link>https://kalimu.github.io/post/notes-from-erum-2018-european-r-user-conference-in-budapest/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/notes-from-erum-2018-european-r-user-conference-in-budapest/</guid>
+      <description>&lt;p&gt;The second eRum was organized this year in Budapest (Hungary) and gathered ~500 participants (mostly, but not only, from Europe). It was a great event and a worthy successor of the first eRum organized in Poznań (Poland) two years ago.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;em&gt;Workskop Day&lt;/em&gt; I participated in two workshops:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Efficient R programming&lt;/em&gt; by &lt;strong&gt;Colin Gillespie&lt;/strong&gt; (author of the &lt;em&gt;Efficient R Programming&lt;/em&gt; book by &lt;em&gt;O’Reilly&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Building a package that lasts&lt;/em&gt; by &lt;strong&gt;Colin Fay&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Both workshops were great for someone who wants to refresh knowledge about up-to-date good practices in developing and optimizing R packages (including package structure, unit testing, roxygen documentation, &lt;code&gt;pkgdown&lt;/code&gt;, continuous integration, code coverage, banchmarking, version control, parallel computing, byte complier etc.).&lt;/p&gt;
+
+&lt;p&gt;In the next two &lt;em&gt;Conference Days&lt;/em&gt;, there were a number of inspiring talks, but I would like to highlight at least some of them:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Martin Mächler&lt;/strong&gt; and &lt;strong&gt;Roger Bivand&lt;/strong&gt; (&lt;strong&gt;R Core Team&lt;/strong&gt; members) both had great and illuminating talks about R (coding good practicies, history and future of R).&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Olga Mierzwa-Sulima&lt;/strong&gt; introduced two new packages from Appsilon that provides logging of user activities and managing users of shiny apps. Unfortunately, these packages are not open source, and are not yet available for other developers. However, you can taste their flavor &lt;a href=&#34;https://go.appsilondatascience.com/shiny.users/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Matthias Templ&lt;/strong&gt; had a great talk about &lt;code&gt;robCompositions&lt;/code&gt; package and a proper way for analyzing compositional data which are present in almost any field of research (for example concentration of chemical elements, time budget data, expenditures, percentages and ratios reported in various tables).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Przemysław Biecek&lt;/strong&gt; introduced a toolkit for interpreting machine learning models. Great toolkit and great talk, which is always the case when Prof. Biecek gives a talk.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Heather Turner&lt;/strong&gt; introduced new &lt;code&gt;PlackettLuce&lt;/code&gt; package for analyzing rankings data. This could be very useful tool, applicable in many different fields. I&amp;rsquo;m looking forward to trying it myself.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Henring Bengtsson&lt;/strong&gt; had a great talk about the impactful &lt;code&gt;future&lt;/code&gt; package. I’ve used his package for one of my shiny app for refreshing the data in the background process, even without using brand new package &lt;code&gt;promises&lt;/code&gt;. The &lt;code&gt;future&lt;/code&gt; package is, in my opinion, indeed a future for parallel and distributed processing in R. It has multi-platform, well-designed API that allows for very easy code adaptation to different parallel infrastructure backends. Development of the project is currently sponsored by R Consortium.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Achim Zeileis&lt;/strong&gt; presented &lt;code&gt;R/exams&lt;/code&gt; package for generating exams tests. Everyone working with students may find it interesting tool for teaching and knowledge checking.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mark van der Loo&lt;/strong&gt; had a talk about &lt;code&gt;lumberjack&lt;/code&gt; package and &lt;strong&gt;Edwin de Jonge&lt;/strong&gt; about &lt;code&gt;validatetools&lt;/code&gt; package. Both packages can be very useful if someone needs to validate correctness of data in datasets or log changes done to the raw data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other notes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you have never used interactive plots before, try &lt;code&gt;ggplotly()&lt;/code&gt; - a function that converts a ggplot2 object to a &lt;code&gt;plotly&lt;/code&gt; interactive object, so you can rapidly make your static plot interactive.&lt;/li&gt;
+&lt;li&gt;If you like use Hadley’s &lt;code&gt;purrr&lt;/code&gt; package for functional programming, you need to check new &lt;code&gt;furrr&lt;/code&gt; package, which was recently published on CRAN. In this package you can find implementations of &lt;code&gt;map()&lt;/code&gt; functions that can be run in parallel or on distributed cluster.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Native Declarative Data Collection with Question and Survey Instant Feedback in R&amp;Shiny</title>
+      <link>https://kalimu.github.io/talk/2018-budapest/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://kalimu.github.io/talk/2018-budapest/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Debt Literacy and Debt Literacy Self‐Assessment: The Case of Poland</title>
@@ -75,7 +123,7 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
     <item>
       <title>The Role of Data Science in Pursuit of Long-Term Relationship Between Respondents and Social Researchers</title>
       <link>https://kalimu.github.io/talk/2017-chicago/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://kalimu.github.io/talk/2017-chicago/</guid>
       <description></description>
@@ -136,7 +184,7 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
       
       <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
       <description>&lt;p&gt;Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2018-05-10.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2018-05-23.&lt;/p&gt;
 &lt;div id=&#34;data-science-skills&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Data Science Skills&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -262,7 +310,7 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
       
       <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>&lt;p&gt;This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.&lt;/p&gt;
-&lt;p&gt;The last update of this post was done: 2018-05-10.&lt;/p&gt;
+&lt;p&gt;The last update of this post was done: 2018-05-23.&lt;/p&gt;
 &lt;div id=&#34;books-on-line-printed&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Books (on-line &amp;amp; printed)&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
@@ -422,43 +470,6 @@ Na ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co raze
       
       <guid>https://kalimu.github.io/publication/external-evaluation-of-the-school-and-academic-achievements/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Presentation of R package LimeRick on eRum</title>
-      <link>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</link>
-      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</guid>
-      <description>&lt;p&gt;UPDATE: The online static version of the presentation is available here: &lt;a href=&#34;http://rpubs.com/kalimu/erum&#34; class=&#34;uri&#34;&gt;http://rpubs.com/kalimu/erum&lt;/a&gt;. Thank you for all the feedback!&lt;/p&gt;
-&lt;p&gt;In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data. But the LimeRick package will be able to do a lot more. Stay tuned!&lt;/p&gt;
-&lt;p&gt;The abstract:&lt;/p&gt;
-&lt;p&gt;The first public presentation of the prototype of a new R package that provides useful connection between R and the most popular open-source web scripts for on-line surveys (&lt;a href=&#34;http://www.LimeSurvey.org&#34; class=&#34;uri&#34;&gt;http://www.LimeSurvey.org&lt;/a&gt;). The package aims to enable and simplify the work flow of reproducible CAWI research in Social Science; preparing templates for ad hoc and real-time analysis, performing detailed meta-analysis, archiving and monitoring responses directly from R. With the LimeRick package one can import pre-processed data from an on-line survey with an R script (with the use of RemoteConrol2 API or with non-API solution). Then, the data can be processed analytically by an R script and automatically reported with the use of shiny package. The whole process can be pre-programmed and performed without the researcher interference. This enables to build data products based on declarative data from on-line surveys, which are processed, analyzed, and visualized on-line and in real time. It can be of use for performing automatic tracking studies with real-time KPIs monitoring (e.g. for a customer satisfaction survey). The package will be also linked to a tool for unique, advanced analysis of meta-data from an on-line survey, which has already been alpha tested during large CAWI research project. As the early prototype of the package is presented, the presentation will end with a call for collaboration for developing and testing the package in different usage cases.&lt;/p&gt;
-&lt;p&gt;PS. Thanks to Carsten Shmitz (the main developer of LimeSurvey) after my presentation participants interested in LimeSurvey and LimeRick projects will be able to get some gifts (cool promotional materials of LimeSurvey open-source project – see the picture below). See you then!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Gender Prediction Methods based on First Names with genderizeR</title>
-      <link>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
-      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
-      <description>&lt;p&gt;When using the genderizeR R package in your work, please cite also the article:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;@article{RJ-2016-002,
-  author = {Kamil Wais},
-  title = {{Gender Prediction Methods Based on First Names with
-          genderizeR}},
-  year = {2016},
-  journal = {{The R Journal}},
-  url = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html},
-  pages = {17--37},
-  volume = {8},
-  number = {1}
-}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
     </item>
     
   </channel>

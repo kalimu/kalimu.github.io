@@ -6,11 +6,31 @@
     <description>Recent content in R on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.1.2</copyright>
-    <lastBuildDate>Mon, 28 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.4.0</copyright>
+    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kalimu.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Notes from eRum 2018: European R User Conference in Budapest</title>
+      <link>https://kalimu.github.io/post/notes-from-erum-2018-european-r-user-conference-in-budapest/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/notes-from-erum-2018-european-r-user-conference-in-budapest/</guid>
+      <description>The second eRum was organized this year in Budapest (Hungary) and gathered ~500 participants (mostly, but not only, from Europe). It was a great event and a worthy successor of the first eRum organized in Poznań (Poland) two years ago.
+In the Workskop Day I participated in two workshops:
+ Efficient R programming by Colin Gillespie (author of the Efficient R Programming book by O’Reilly) Building a package that lasts by Colin Fay.</description>
+    </item>
+    
+    <item>
+      <title>Towards Native Declarative Data Collection with Question and Survey Instant Feedback in R&amp;Shiny</title>
+      <link>https://kalimu.github.io/talk/2018-budapest/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://kalimu.github.io/talk/2018-budapest/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Welcome to the Tidyverse. Hadley Wickham lecture at Notre Dame University</title>
@@ -29,7 +49,7 @@
       
       <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
       <description>Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.
-The last update of this post was done: 2018-05-10.
+The last update of this post was done: 2018-05-23.
 Data Science SkillsData ManipulationEfficient data manipulation in R;
 dplyr, data.table, reshape2.Working with dates and time-series;
 lubridate, xts.Reproducible AnalysesRStudio IDE, Markdown, LaTeX;</description>
@@ -42,7 +62,7 @@ lubridate, xts.Reproducible AnalysesRStudio IDE, Markdown, LaTeX;</descripti
       
       <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
       <description>This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.
-The last update of this post was done: 2018-05-10.
+The last update of this post was done: 2018-05-23.
 Books (on-line &amp;amp; printed)Hadley Wickham, Advanced R
 The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.</description>
     </item>
@@ -95,7 +115,7 @@ In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the 
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
-      <description>Version: 1.2The last update of this post: 2018-05-10.
+      <description>Version: 1.2The last update of this post: 2018-05-23.
 Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
 See what new Hadley recommends:
 (http://r-pkgs.had.co.nz/release.html).Update R &amp;amp; packages:Rall packagesRStudio (stable or preview version).Update your package:Check unit tests.</description>
