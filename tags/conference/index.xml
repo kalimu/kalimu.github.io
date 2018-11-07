@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conference on Kamil Wais</title>
+    <title>conference on Kamil Wais</title>
     <link>https://kalimu.github.io/tags/conference/</link>
-    <description>Recent content in Conference on Kamil Wais</description>
+    <description>Recent content in conference on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.4.0</copyright>
-    <lastBuildDate>Sun, 13 May 2018 00:00:00 +0200</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.0</copyright>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://kalimu.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Paradigms in Online Declarative Data Collection</title>
+      <link>https://kalimu.github.io/talk/2018-barcelona/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://kalimu.github.io/talk/2018-barcelona/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Native Declarative Data Collection with Question and Survey Instant Feedback in R&amp;Shiny</title>

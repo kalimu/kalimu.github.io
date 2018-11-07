@@ -1,0 +1,30 @@
+---
+title: 'Seminarium z udziałem prof. Philipa Zimbardo '
+slug: seminarium-z-udzialem-prof-philip-zimbardo
+author: Kamil Wais
+
+date: '2017-06-25'
+# lastmod = 2017-09-03
+
+categories:
+  - news
+  - conferences
+tags:
+  - seminar
+
+summary: ''
+
+---
+
+W sobotę (24.06) odbyło się na WSIiZ insprujące seminarium z udziałem on-line prof. P.Zimbardo.
+
+> Philip Zimbardo był w 1971 roku liderem sławnego Stanfordzkiego Eksperymentu Więziennego i świadkiem-ekspertem w sprawie więzienia Abu Ghraib. Autor wpływowych książek: The Time Paradox:
+The New Psychology of Time That Will Change Your Life i The Lucifer Effect: Understanding How Good People Turn Evil.
+
+Warto zapoznać się z projektem Profesora Zimbardo:   
+[Heroic Imagination Project](http://heroicimagination.org/).
+
+Przystępne krótkie wykłady można natomiast znaleźć na stronie:   
+[TED Talks](https://www.ted.com/speakers/philip_zimbardo).
+
+Więcej o samym seminarium [na stronie WSIiZ](https://wsiz.rzeszow.pl/pl/Uczelnia/Wydarzenia/Strony/profesor-philip-zimbardo-z-wykladem-podczas-seminarium-doktoranckiego-wsiiz.aspx).

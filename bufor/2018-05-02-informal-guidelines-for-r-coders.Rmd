@@ -1,0 +1,42 @@
+---
+title: Informal Guidelines for R Coders [draft]
+author: Kamil Wais
+date: '2018-05-02'
+lastmod: '2018-05-02'
+draft: true
+slug: informal-guidelines-for-r-coders
+categories:
+  - programming
+tags:
+  - R
+  - programming
+header:
+  caption: ''
+  image: ''
+---
+
+1. __Editor setting__
+    * Set `80 characters` as the maximum length of the line in R Studio, and obey that limit.
+    * Set `2 spaces` for code indendation.
+1. __Naming convention__
+    * Be consistent.
+    * Use lowercase verb with underscores `_` for variable name: `add_numbers()`. 
+    * You can group related functions from the same package using prefixes: `math_add_numbers()`.
+    * You can use CamelCase or camelCase naming convention if you inisist, but please, do not use periods inside function and variable names. Reserve them only for working with S3 methods.
+1. __Code Aesthetics__ 
+    * Always use curly braces with `if else` statements.
+    * Always intend the code inside curly braces and function definition.
+1. __Comments__
+    * Comments that explain what your code is doing are usually a bad practice. Instead improve readabilty of your code using, for example, more intuitive identifiers. 
+    * `TODO` comments are not bad.
+    * Commenting out parts of your code is usually a bad practice.
+1. __Unit Tests__
+    * All functions in you package (especially exported ones) should have related unit tests.
+    * Name your R file with unit test the same as R file with function code with prefix like `test_`: `test_math_add_numbers.R`.
+    * 
+1. __Code Diagnostics__
+    * Check all options for code diagnostics in RStudio (Tools/Global options/Code/Diagnostics), and follow their suggestions.
+    * Use `lintr` package for checking if your code followes coding good practices.
+1. __Session Information__
+    * If you are sharing your analysis with others, make it more reproducible adding at the end output from `sessionInfo`.
+

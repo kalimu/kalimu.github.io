@@ -1,0 +1,711 @@
+[
+  {
+    "authors": [],
+    "categories": [
+      "conferences"
+    ],
+    "content": " Conference Recently, I was representing 7N on BigSurv18 Conference in Barcelona . The conference title was Big Data Meets Survey Science and this was the first conference with the aim of exploring new statistical frontiers at the intersection of Survey Science and Big Data. The conference was organized by The European Survey Research Association (ESRA) and was held at the Research and Expertise Center of Survey Methodology at the Universitat Pompeu Fabra in Barcelona.\nThe participants represented major academic centers, global companies, and governmental agencies, for example: Colombia University, University of Chicago, University of Maryland, University of Michigan, University of Mannheim, University of Essex, NYU, Australian National University, University of Illinois, University of Southampton, RTI International, Kantar Public, GESSIS, CentERdata/Tilburg University, Max Planck Institute, SurveyMonkey, Qualtrics, Uber, Gallup, Gfk, Ipssos, Google, YouTube, Facebook, Civis Analytics, U.S. Census Bureau, Statistics Canada, Office for National Statistics UK, Statistics Netherlands, Statistics Finland, Statistics Norway, EUSTAT, OECD, and others.\nThe conference gathered many participants and presenters who are well-known in the worlds of Survey Science and/or Big Data. In attendance were, for example: Julia Lane (Professor at New York University, the recipient of more than 70 million USD in grants) whose current research focuses on Big Data\u0026rsquo;s role in government and public policies. Additionally, there was strong representation of R users - one of the presenters was Maciej Beręsewicz, who was the main organizer of first eRum: European R User Conference in Poznań, Poland.\nConference Topics Nowadays, there are more and more barriers for conducting survey research projects. The major ones are decreasing response rates and increasing costs of gathering declarative data from respondents. Therefore, many survey methodologists are looking towards Data Science and Big Data trying to supplement or even replace traditional surveys with new methods and technologies and still gain useful insights. There are many challenges to overcome (like methodological issues, low data quality, privacy concerns, etc.), yet some approaches seem to be particularly promising. Therefore, some trending topics at the conference were:\n ethical and privacy challenges and considerations, using Big Data in Official Statistics, using new technologies for passive data collection, using data from Social Media (text-mining, process-mining, targeting recruitment), merging data from different sources (survey data, administrative data, big data, passive data, web-scraped data), using Big Data to improve surveys and vice versa.  Interestingly, there is no consensus about how to approach ethical and privacy challenges in Survey Data \u0026amp; Big Data world. For many, the EU General Data Protection Regulation (GDPR) is far from being the optimal solution. Some claim that the responsibility for protecting privacy should be moved from data-producers towards those who are using the data for different purposes. Nevertheless, many speakers seemed to agree that the problem is not a binary one. It is more a continuum between full privacy on the one side and full utility from data on the other. However, it was highlighted that the problem is far more complex, because what brings full utility for most people, can be harmful for a few, and even those few should be protected in some way. To sum it up, one is certain - much more discussion is still needed on this topic in many countries, both in US and Europe, and among various professions (including lawyers, politicians, social, computer, and data scientists, philosophers, and people who are concerned about their privacy).\nNew Paradigms in On-line Declarative Data Collection At the conference I had a talk about new paradigms in on-line declarative data collection. I was arguing that off-line research paradigms are still dominant, even in the world of on-line research techniques, because most on-line surveys are mainly off-line questionnaires converted into more or less advanced on-line HTML forms. We need to seek, and to be willing to accept, new paradigms in social science research techniques that will allow us to develop new, native on-line research tools designed to build long-term relationships with our respondents. Although, even now almost all attention is focused on more traditional approaches to current problems in Survey Science, in my opinion the change already has started. These days, Social Scientists, Data Scientists, and Computer Scientists more often than ever are working together to find new, interdisciplinary, and innovative methods and tools for conducting important research projects with aim to benefit whole societies.\nBarcelona Supercomputing Center Aside the main conference, visiting „the most beautiful data center in the World” - Barcelona Supercomputing Center - was one of the main attractions of the conference. Created in 2005, the center has now one of the most powerful supercomputers in Europe based on MareNostrum 4 (described by experts as „the world’s most diverse supercomputer” due to the heterogeneity of its architecture). MareNostrum is known for allocating 32 million core hours to the Nobel Prize for detecting gravitational waves. Currently, MareNostrum can perform at 13.7 petaflops (13700 trillion floating-point operations per second). Every four years the supercomputers are upgraded to achieve the European Commission goal to develop exascale supercomputers. The Center has more than 500 employees from 45 countries. The total budget for 2017 was almost 37 million EUR. Supercomputing enables scientific experiments that could not be performed in the real world, because they would be too expensive, too dangerous or simply impossible.      \n",
+    "date": 1541372400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "01d601ad33deadb1f188716ea9d7b977",
+    "permalink": "https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/",
+    "publishdate": "2018-11-05T00:00:00+01:00",
+    "relpermalink": "/post/2018-11-05-bigsurv18-big-data-meets-survey-science/",
+    "section": "post",
+    "summary": "Conference Recently, I was representing 7N on BigSurv18 Conference in Barcelona . The conference title was Big Data Meets Survey Science and this was the first conference with the aim of exploring new statistical frontiers at the intersection of Survey Science and Big Data. The conference was organized by The European Survey Research Association (ESRA) and was held at the Research and Expertise Center of Survey Methodology at the Universitat Pompeu Fabra in Barcelona.",
+    "tags": [
+      "DataScience",
+      "event",
+      "ODGAR"
+    ],
+    "title": "BigSurv18: Big Data Meets Survey Science Conference and Supercomputing Center in Barcelona",
+    "type": "post"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1540504800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "58d3fed32832f17e53ad3780b1968a81",
+    "permalink": "https://kalimu.github.io/talk/2018-barcelona/",
+    "publishdate": "2018-10-26T00:00:00+02:00",
+    "relpermalink": "/talk/2018-barcelona/",
+    "section": "talk",
+    "summary": "Offline research paradigms are still dominant, even in the world of online research techniques. Most online surveys are mainly offline questionnaires converted into more or less advanced online HTML forms. Hence, they are not natively online—not only do they not exploit the full potential of Internet technologies, but they are outdated already by their inherited design. Thus, online techniques inherit some undesirable offline characteristics: high burden and low value for respondents and non-equivalent information exchange between a respondent and a researcher. This is one of the reasons why social researchers usually fail to establish long-term relationships with respondents—the respondents devote their time and share their knowledge, but receive nothing valuable in return. Hence, their intrinsic motivation is low, resulting in long-term trends of decreasing response rates in social studies. Another reason for decreasing response rates is the prevalent model of respondent-researcher relationship, which is based on the following heuristic: 1) find potential respondents within a time window that is convenient for a researcher and not necessarily convenient for the respondents; 2) convince them to devote their time to work through a questionnaire, which is often unattractive and time-consuming; 3) convince them to share valuable, often quite private and sensitive information, with someone who will benefit from it; 4) do not share any valuable information with respondents in return; 5) give the respondents as little as possible in return to be as cost-effective as possible; 6) repeat the whole process as many times and as for many respondents as necessary. In the long run this model is clearly not sustainable, but we—social scientists—act like the general population of respondents is infinite, or it is an easily renewable resource. This situation can be seen as the classic 'tragedy of the commons' describing a situation where a shared resource is spoiled and depleted by collective actions of all the actors driven by their individual self-interest, which is at odds with the long-term interests of the common good. We need to seek, and to be willing to accept, new paradigms in social science research techniques that will allow us to develop new online research tools designed to build long-term relationships with respondents. We could try to achieve this goal by providing respondents with highly customised instant feedback. This approach, based on valuable information exchange, could be implemented as after-question and after-survey feedback in a new type of online surveys. The real-world examples show that even simplistic versions of this approach can be highly successful. Salary surveys, which ask people about their current salary and compare it to the salaries of people similar to them, have been proven to be highly scalable and able to collect millions of salary profiles. While thinking about promising potential and possible implementations of this approach in social sciences, we also need to think about possible theoretical, empirical, and technological approaches to this problem, and methodological concerns that should be addressed.",
+    "tags": [
+      "conference",
+      "talk",
+      "ODGAR",
+      "instant feedback",
+      "respondent-researcher relationship"
+    ],
+    "title": "New Paradigms in Online Declarative Data Collection",
+    "type": "talk"
+  },
+  {
+    "authors": [
+      "Olesia Iefremova",
+      "Kamil Wais",
+      "Marcin Kozak"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1538690400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "164b1cd2bb8d1a6df27a61bceab740f4",
+    "permalink": "https://kalimu.github.io/publication/2018_scientometrics/biographical-articles-in-scientific-literature-analysis-of-articles-indexed-in-web-of-science/",
+    "publishdate": "2018-10-05T00:00:00+02:00",
+    "relpermalink": "/publication/2018_scientometrics/biographical-articles-in-scientific-literature-analysis-of-articles-indexed-in-web-of-science/",
+    "section": "publication",
+    "summary": "Biographical articles in scientific journals offer a platform for the commemoration of distinguished individuals from the world of science. Despite so important a role for the scientific community, research on biographical articles is scarce. To fill this gap, we have analyzed 190,350 biographical articles indexed in Web of Science, written by 251,908 authors in 1945–2014. We have analyzed the development of this article type over the studied period and research areas, how women and men are represented in the subject of articles, and who the authors are. Over the time the number of biographical articles has been increasing, with the highest number in Life Sciences and Biomedicine. Around 20% of the articles were written about women, with the highest share of 24% in Arts and Humanities. Both male and female authors write more often about men than about women, a stable situation for the last 70 years.",
+    "tags": [
+      "genderizer",
+      "biographical articles",
+      "scientometrics"
+    ],
+    "title": "Biographical articles in scientific literature: analysis of articles indexed in Web of Science",
+    "type": "publication"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1526162400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "adc5ab3066b5539ec50bc26e15a199c2",
+    "permalink": "https://kalimu.github.io/talk/2018-budapest/",
+    "publishdate": "2018-05-13T00:00:00+02:00",
+    "relpermalink": "/talk/2018-budapest/",
+    "section": "talk",
+    "summary": "R is great for data analysis and Shiny is great for interactive data visualisation, but could we use R\u0026Shiny for efficient declarative data collection? Moreover, how can we develop web data products in R\u0026Shiny, that are based on real-time declarative data collection with after-question and after-survey instant feedback? Users of such web data products should be able to immediately access the feedback relevant to their answers. To increase the value of the feedback, it should be dynamically customised to each respondent. This can be achieved by pre-programmed templates of feedback scenarios, which can be adaptively customised by the respondent’s answers to this or previous questions. Employing large analytical and data visualisation capabilities in R, we could try to adapt any type of instant feedback to each user. Using R, we could also combine different feedback sources: a respondent’s answers to a given question and to other questions, other users’ answers, external open data (imported into our app or available via APIs), and aggregated or summarised outcomes from reference studies. What are the possibilities and obstacles for developing such data products natively in R\u0026Shiny? How the idea of QAF (Question, Answer, and Feedback) objects can be implemented in R\u0026Shiny? What is the roadmap for developing ODGAR framework for On-line Data Gathering, Analysing, and Reporting? Is it possible to build mobile app in R\u0026Shiny? I will try to answer these questions using experience gained from developing early stage prototypes.",
+    "tags": [
+      "conference",
+      "talk",
+      "ODGAR",
+      "instant feedback",
+      "respondent-researcher relationship",
+      "R",
+      "Rpackage",
+      "Shiny"
+    ],
+    "title": "Towards Native Declarative Data Collection with Question and Survey Instant Feedback in R\u0026Shiny",
+    "type": "talk"
+  },
+  {
+    "authors": [],
+    "categories": [
+      "conferences"
+    ],
+    "content": "The second eRum was organized this year in Budapest (Hungary) and gathered ~500 participants (mostly, but not only, from Europe). It was a great event and a worthy successor of the first eRum organized in Poznań (Poland) two years ago.\nIn the Workskop Day I participated in two workshops:\n Efficient R programming by Colin Gillespie (author of the Efficient R Programming book by O’Reilly) Building a package that lasts by Colin Fay.  Both workshops were great for someone who wants to refresh knowledge about up-to-date good practices in developing and optimizing R packages (including package structure, unit testing, roxygen documentation, pkgdown, continuous integration, code coverage, banchmarking, version control, parallel computing, byte complier etc.).\nIn the next two Conference Days, there were a number of inspiring talks, but I would like to highlight at least some of them:\n Martin Mächler and Roger Bivand (R Core Team members) both had great and illuminating talks about R (coding good practicies, history and future of R).\n Olga Mierzwa-Sulima introduced two new packages from Appsilon that provides logging of user activities and managing users of shiny apps. Unfortunately, these packages are not open source, and are not yet available for other developers. However, you can taste their flavor here. Matthias Templ had a great talk about robCompositions package and a proper way for analyzing compositional data which are present in almost any field of research (for example concentration of chemical elements, time budget data, expenditures, percentages and ratios reported in various tables). Przemysław Biecek introduced a toolkit for interpreting machine learning models. Great toolkit and great talk, which is always the case when Prof. Biecek gives a talk. Heather Turner introduced new PlackettLuce package for analyzing rankings data. This could be very useful tool, applicable in many different fields. I\u0026rsquo;m looking forward to trying it myself. Henring Bengtsson had a great talk about the impactful future package. I’ve used his package for one of my shiny app for refreshing the data in the background process, even without using brand new package promises. The future package is, in my opinion, indeed a future for parallel and distributed processing in R. It has multi-platform, well-designed API that allows for very easy code adaptation to different parallel infrastructure backends. Development of the project is currently sponsored by R Consortium. Achim Zeileis presented R/exams package for generating exams tests. Everyone working with students may find it interesting tool for teaching and knowledge checking. Mark van der Loo had a talk about lumberjack package and Edwin de Jonge about validatetools package. Both packages can be very useful if someone needs to validate correctness of data in datasets or log changes done to the raw data.  Other notes:\n If you have never used interactive plots before, try ggplotly() - a function that converts a ggplot2 object to a plotly interactive object, so you can rapidly make your static plot interactive. If you like use Hadley’s purrr package for functional programming, you need to check new furrr package, which was recently published on CRAN. In this package you can find implementations of map() functions that can be run in parallel or on distributed cluster.  ",
+    "date": 1525471200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "736170b846c6e8394b26fcda96652dbb",
+    "permalink": "https://kalimu.github.io/post/2018-05-23-notes-from-erum-2018-european-r-user-conference-in-budapest/",
+    "publishdate": "2018-05-05T00:00:00+02:00",
+    "relpermalink": "/post/2018-05-23-notes-from-erum-2018-european-r-user-conference-in-budapest/",
+    "section": "post",
+    "summary": "The second eRum was organized this year in Budapest (Hungary) and gathered ~500 participants (mostly, but not only, from Europe). It was a great event and a worthy successor of the first eRum organized in Poznań (Poland) two years ago.\nIn the Workskop Day I participated in two workshops:\n Efficient R programming by Colin Gillespie (author of the Efficient R Programming book by O’Reilly) Building a package that lasts by Colin Fay.",
+    "tags": [
+      "Rpackage",
+      "R"
+    ],
+    "title": "Notes from eRum 2018: European R User Conference in Budapest",
+    "type": "post"
+  },
+  {
+    "authors": [
+      "Andrzej Cwynar",
+      "Wiktor Cwynar",
+      "Kamil Wais"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1525219200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "f8f323fb4c035ccbcd1852bbab229725",
+    "permalink": "https://kalimu.github.io/publication/2018_jca/debt-literacy-and-debt-literacy-self-assessment-the-case-of-poland/",
+    "publishdate": "2018-05-02T00:00:00Z",
+    "relpermalink": "/publication/2018_jca/debt-literacy-and-debt-literacy-self-assessment-the-case-of-poland/",
+    "section": "publication",
+    "summary": "It is well documented that financial literacy is at best moderate around the world and that the cost of ignorance in this field may be high on both microeconomic and macroeconomic levels. We surveyed a representative sample of Poles to measure their debt literacy—a little‐studied aspect of financial literacy—and therefore obtain insight into the factors predicting it. Our study evidenced low levels of debt literacy and its overestimation by respondents in their self‐reports. We also confirmed some of the patterns found in former studies, including the gender gap and a positive relationship between the level of educational attainment and debt literacy. Finally, our examination provides compelling outcomes with regard to the segmentation of the sample on the basis of objective and subjective debt literacy scores. They show large heterogeneity of debt literacy and thus confirm the need for far‐reaching customization of debt‐oriented education.",
+    "tags": [
+      "debt literacy"
+    ],
+    "title": "Debt Literacy and Debt Literacy Self‐Assessment: The Case of Poland",
+    "type": "publication"
+  },
+  {
+    "authors": [],
+    "categories": [
+      "news",
+      "CV"
+    ],
+    "content": " Center for Research Computing (CRC) Od 1 sierpnia do 31 października 2017 r. miałem możliwość i ogromną satysfakcję gościć na Uniwersytecie Notre Dame w stanie Indiana. Pojechałem tam zaproszony przez dyrektora Center for Research Computing (CRC) prof. Jarka Nabrzyskiego, którego poznałem w Tokio rok wcześniej na konferencji plenarnej Research Data Alliance. W USA spędziłem trzy miesiące jako wizytujący assistant professor, przyglądając się pracy CRC, które jest jednym z kilku wydzielonych Centrów, działających na Uniwersytecie Notre Dame. W szczególności blisko współpracowałem z Center for Social Research (CRS). CRS jest jednostką blisko zintegrowaną z CRC i kierowaną przez Kate E. Mueller. CRS składa się z grupy osób specjalizujących się w analizie danych (Data Science) w badaniach społecznych. W sumie w całym CRC pracuje około 50 osób. Oprócz CRS w CRC działają też inne grupy: High Performance Computing Group, Software Development Group i CyberInfrastructure Development Group. Taka struktura pozwala CRC na sprawną realizację misji, którą jest, między innymi, ułatwienie współpracy interdyscyplinarnej pomiędzy badaczami nauk społecznych i informatycznych. CRC zapewnia dostęp do rozbudowanej infrastruktury informatycznej i może np. zapewnić dostęp do mocy obliczeniowej ponad 30 000 rdzeni procesorowych, pozwalając m.in. na rozwój tzw. obliczeniowych nauk społecznych (Computational Social Science). CRC jest uznawane za jedno z najlepszych akademickich centrów obliczeniowych w Stanach. Notre Dame dysponuje obecnie w sumie dwudziestoma światowej klasy ośrodkami/centrami badawczymi (tzw. core facilities).\nCenter for Social Research (CRS) CRS z kolei zapewnia wsparcie pracownikom naukowym Uniwersytetu w zakresie gromadzenia, przechowywania, analizy, interpretacji i wizualizacji danych badawczych. W skład Centrum wchodzą osoby specjalizujące się w różnych obszarach i narzędziach. Cześć z tych osób pracuje nad doktoratami (pierwszymi lub kolejnymi). Nie mają oni obowiązków dydaktycznych. Oferowane są natomiast warsztaty dla chętnych studentów i pracowników naukowych. Podstawowym narzędziem analitycznym jest język programowania statystycznego R; wykorzystywany jest również Python. Mam bardzo pozytywne wrażenia z pracy w tym międzynarodowym środowisku osób (w składzie zespołu znajdowały się osoby pochodzące z Chin, Irlandii, czy Nepalu), zajmujących się Data Science w naukach społecznych. Niezwykle wartościowe było również różnorodne, interdyscyplinarne przygotowanie tych osób, często wychodzące daleko poza tylko nauki społeczne, np. podwójne studia z filozofii i informatyki, doktoraty z prawa oraz fizyki i statystyki, bioinformatyka, systemy GIS, czy formalna matematyka. CRS rozwija się coraz intensywniej, zatrudnia nowych konsultantów, rozbudowuje ofertę usługową. Plany rozwoju są ambitne, a potencjał duży również dzięki bliskiej integracji z CRC. Podczas swoich kontaktów z CRC/CRS byłem pod ogromnym wrażeniem dużej życzliwości i otwartości kadry zarządzającej, nie tylko w stosunku do mnie, ale i do wszystkich pracowników. To wszystko budowało od początku bardzo dobrą atmosferę do zespołowej pracy, współodpowiedzialność za projekty, lojalność i zaangażowanie ze strony pracowników. Dodać też trzeba, że ogromne wsparcie było również widoczne ze strony wszystkich wydziałów administracyjnych, jakie miałem okazję poznać (w moim przypadku szczególnie w sprawach formalno-wizowych).\nCharakterystyka Uniwersytetu Notre Dame Uniwersytet Notre Dame został ufundowany w 1842 r. jako uniwersytet katolicki i od 175 lat nieprzerwanie zachowuje ten religijny charakter. Nie przeszkadza to jednak w tym, że zarówno pracownicy, jak i studenci reprezentują różne kraje, kultury i religie. Władze Uczelni jednoznacznie i otwarcie sprzeciwiają się wszelkim tendencjom rasistowskim czy antysemickim. Wolność słowa czy wyznania to wartości powszechnie akceptowane i pilnowane przez wszystkie strony. Podkreślana jest przez władze uczelni konieczność dialogu niezależnie od dzielących różnic, także światopoglądowych czy politycznych.\nKadra i studenci Na uniwersytecie pracuje około 1200 pełnoetatowych pracowników akademickich (nie licząc administracyjnych) i studiuje prawie 12 400 studentów, co daje stosunek ok. 10 studentów na jednego pracownika naukowego. Z tego też powodu grupy dydaktyczne liczące 12 osób uważane są za duże. Na około 20 000 podań w 2016 roku przyjęto na studia 3 655 osób, czyli 18.7% aplikujących. Składana jest duża liczba aplikacji z całego świata, mimo że czesne należy do jednego z wyższych w USA (średniorocznie ok. 50 tys. dolarów). Jednocześnie prawie 3\u0026frasl;4 studentów pierwszych lat otrzymuje jakąś formę pomocy finansowej — w 2015\u0026frasl;16 było to w sumie ponad 233 miliony dolarów. Na 2200 studentów poziomu graduate, 73% zdobywa doktoraty w 32 dyscyplinach. Około 97% otrzymuje pełne stypendia (full-tuition scholarships). Ponad połowa studentów pierwszych lat studiuje również za granicą: w Australii, Brazylii, Chile, Chinach, Francji, Niemczech, Grecji, Irlandii, Izraelu, we Włoszech, Japonii, Jordanii, Meksyku, Rosji, Senegalu, Singapurze, Południowej Korei, Hiszpanii, Szwajcarii, Ugandzie i Wielkiej Brytanii. Na Notre Dame studiuje 1300 studentów międzynarodowych z 100 krajów. Dodatkowo, uczelnia gości każdego roku około 350 naukowców z różnych krajów. Na uczelni działa ponad 500 klubów studenckich i organizacji. 95% studentów kończy uczelnie z dyplomem, co daje Notre Dame miejsce w pierwszej piątce rankingu dla uczelni badawczych. Na świecie aktywnie działa największa w szkolnictwie wyższym sieć 270 klubów absolwentów Notre Dame.\nRankingi Krajowe rankingi dają Notre Dame miejsce (w zależności od konstrukcji) w pierwszej 25-tce, 15-tce lub nawet 10-tce najlepszych uniwersytetów w Stanach Zjednoczonych. Uczelnia jest też w ścisłej czołówce rankingu uniwersytetów, w którym rodzicie wybierają uczelnie, na jakich chcieliby, żeby studiowały ich dzieci (24% obecnych studentów to dzieci absolwentów Notre Dame). Uniwersytet jest również na pierwszym miejscu w rankingu instytucji szkolnictwa wyższego o charakterze katolickim. Wśród absolwentów Notre Dame są nobliści, senatorowie, pracownicy NASA, astronauci, kardynałowie czy osoby ze świata polityki, jak np. była Sekretarz Stanu Condoleezza Rice. Absolwenci Notre Dame pełnią najwyższe funkcje zarządcze (CEO) w około 25 collegach i uniwersytetach. W skład Notre Dame wchodzą również znane college i szkoły uznawane w kraju za jedne z najlepszych (np. Notre Dame Law School czy Mendoza College of Business).\nFinanse Notre Dame dysponuje rocznym budżetem około 1.6 miliarda dolarów i obecnie może pochwalić się najwyższą ze wszystkich amerykańskich uniwersytetów sumą darowizn, wynoszącą łącznie ponad 10 miliardów dolarów. W roku 2016\u0026frasl;17 sami absolwenci uczelni przekazali swojej Alma Mater w darowiznach 233 miliony dolarów. W ostatnim roku pozyskano również 138 milionów dolarów z samych grantów badawczych. Za pozyskanie ok. 10% tej sumy, czyli 14 mln dolarów, było współodpowiedzialne CRC.\nKampus Kampus Uniwersytetu jest uważany za najpiękniejszy w Stanach Zjednoczonych i stanowi jedną z głównych atrakcji turystycznych w stanie Indiana. W roku akademickim 2015\u0026frasl;2016 odwiedziło go ponad 1.8 miliona gości.\nNa ponad 1260 akrach zlokalizowanych jest 171 budynków uniwersyteckich, co razem daje wartość ponad 3 miliardów dolarów. Budowane są kolejne budynki, w tym nowe centra badawcze. Moje miejsce pracy mieściło się w siedzibie CRS, zlokalizowanej w nowo wybudowanym, nowoczesnym i pięknym architektonicznie Jenkins Hall. W obrębie kampusu mieszczą się boiska, pola golfowe, trasy spacerowo-biegowe wokół dwóch jezior, przystań dla żaglówek, dwie pływalnie (w tym jedna o wymiarach olimpijskich). Na kampusie zlokalizowany jest też stadion sportowy mieszczący 80 000 widzów, na którym regularnie odbywają się rozgrywki amerykańskiego footballu. W historii 150 kolejnych rozgrywek, za każdym razem, wykupione były wszystkie miejsca. Stadion od tego roku został wyposażony w największy stadionowy telebim. Kontrakt ze znaną marką amerykańską Under Armor na produkcję odzieży sportowej z logiem Notre Dame został wyceniony na prawie 100 mln dolarów, a wartość footballowej drużyny sportowej jest wyceniana na ponad 100 mln dolarów. Przy stadionie zlokalizowane jest również nowe, wyposażone w najnowszą technologię, studium telewizyjne, które przygotowuje transmisje telewizyjne wychodzące z Uniwersytetu. Główny budynek biblioteki uniwersyteckiej (a jest ich kilka) ma 14 pięter i w momencie ukończenia budowy był największą biblioteką uniwersytecką na świecie. Uniwersytet ma również własną elektrownię, straż pożarną, dwie kliniki (dla studentów i kadry naukowej) i własną policję, która posiada jurysdykcję na terenie kampusu niezależną od lokalnej policji. Wydawnictwo uniwersyteckie ma 1000 książek w druku i ponad 50 nowych tytułów rocznie. Uniwersytet Notre Dame posiada również swoje filie w Londynie, Beijing, Dublinie, Jeruzalem i Rzymie.\nEventy Pobyt w Notre Dame to również była doskonała okazja do udziału w otwartych wykładach, seminariach, spotkaniach, warsztatach i uroczystościach. Z ciekawszych wykładów warto wspomnieć wykład prof. Anny Grzymały-Busse ze Stanford University, która odbierała jednocześnie prestiżową nagrodę z swoją książkę Nations under God, czy wykład Citizenship in a Global Age prowadzony przez Horsta Koehlera — byłego prezydenta Niemiec, obecnie przedstawiciela Narodów Zjednoczonych na zachodnią Saharę. Wartościowe było osobiste poznanie Hadley’a Wickhama (Chief Scientist w RStudio), cieszącego się ogromnym uznaniem w społeczności osób zajmujących się Data Science, który przybył do Notre Dame z gościnnym wykładem w ramach cyklu zaproszonych wykładów dla studentów kierunku Data Science. Interesujące były również spotkania z udziałem osób ze świata polityki amerykańskiej, np. z byłą Sekretarz Stanu Condoleezzą Rice, szefami sztabów Baracka Obamy i Georga Busha, czy byłym dyrektorem CIA. Brałem również udział w bardzo wartościowych i inspirujących warsztatach Writing Successful Grants prowadzonych przez Roberta Portera — byłego dyrektora Research Development na University of Tenessee.\nOgólnie swój pobyt oceniam jako bardzo udany, przekraczający znacznie moje wcześniejsze oczekiwania. O wynikach prac naukowych prowadzonych w Notre Dame będę informował w odpowiednim czasie w innym miejscu na swojej stronie WWW.\n            ",
+    "date": 1511823600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "bbdfd601927fd8f35a7d04b9f0a46ba2",
+    "permalink": "https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/",
+    "publishdate": "2017-11-28T00:00:00+01:00",
+    "relpermalink": "/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/",
+    "section": "post",
+    "summary": "Center for Research Computing (CRC) Od 1 sierpnia do 31 października 2017 r. miałem możliwość i ogromną satysfakcję gościć na Uniwersytecie Notre Dame w stanie Indiana. Pojechałem tam zaproszony przez dyrektora Center for Research Computing (CRC) prof. Jarka Nabrzyskiego, którego poznałem w Tokio rok wcześniej na konferencji plenarnej Research Data Alliance. W USA spędziłem trzy miesiące jako wizytujący assistant professor, przyglądając się pracy CRC, które jest jednym z kilku wydzielonych Centrów, działających na Uniwersytecie Notre Dame.",
+    "tags": [
+      "Research",
+      "Notre Dame University"
+    ],
+    "title": "Wrażenia z pobytu na Uniwersytecie Notre Dame (USA)",
+    "type": "post"
+  },
+  {
+    "authors": [
+      "Kamil Wais",
+      "Olesia Iefremova"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1509494400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "0cf06ec31219029075fbf4b305f87254",
+    "permalink": "https://kalimu.github.io/publication/2018_polonia_studies/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/",
+    "publishdate": "2017-11-01T00:00:00Z",
+    "relpermalink": "/publication/2018_polonia_studies/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/",
+    "section": "publication",
+    "summary": "Although the percentage of foreign students in Poland has increased over 9 times over past 10 years, it is still well below European Union average. We have been looking for determinants of willingness to study in Poland among members of Polish Diaspora, who already have ties with the country. We created empirical models of willingness of people with Polish origin to study abroad, in Poland, and in a peripheral Polish academic centre in particular. Such models can help policy-makers and universities to meet the needs of international students and make universities more competitive on the global higher education market.",
+    "tags": [
+      "Polonia",
+      "foreign students",
+      "higher education"
+    ],
+    "title": "Determinants of willingness to study in Poland among members of Polish Diaspora",
+    "type": "publication"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1506636000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "9d8e28ee1f2649b4524e6bfecc199bc5",
+    "permalink": "https://kalimu.github.io/talk/2017-chicago/",
+    "publishdate": "2017-09-29T00:00:00+02:00",
+    "relpermalink": "/talk/2017-chicago/",
+    "section": "talk",
+    "summary": "There is an urgent need for new declarative data that can help solve important social problems. However, such data are more and more often difficult to obtain even if the research project is non-for-profit and aims at solving some social problem of great importance. The main reason for this situation is the perseverance of traditional model of respondent-researcher relationship. This model is harmful to social science research in general, and often under-founded socially important research projects in particular. Additionally, traditional on-line research techniques which collect declarative data are obsolete. They do not fully take advantage of Internet technologies and specificity of the needs of Internet users. In order to advance declarative data collection for social good, we need to implement new model of long-term respondent-researcher relationship. In this model there is a need for close collaboration between social scientist, programmers and data scientists. This collaboration is necessary for the transformation of old social science research techniques into modern on-line data products for collecting declarative data and providing instant customized feedback for the respondents. The main goal of these new tools is to support stable on-line panels of respondents willing to participate in important social research projects in exchange for valuable content provided instantly by data scientists via the same research tool.",
+    "tags": [
+      "conference",
+      "talk",
+      "Data Science",
+      "instant feedback",
+      "respondent-researcher relationship"
+    ],
+    "title": "The Role of Data Science in Pursuit of Long-Term Relationship Between Respondents and Social Researchers",
+    "type": "talk"
+  },
+  {
+    "authors": null,
+    "categories": [
+      "news"
+    ],
+    "content": "\rDuring my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham’s lecture Welcome to the Tidyverse and meet Hadley in person. Hadley’s talks are always well-structured and worth listening.\n\rHadley Wickham has been a prime mover in releasing R upon the masses, enabling hordes of unsuspecting would-be researchers to process and visualize data in ways they never dreamed of. The tidyverse, the culmination of years of effort in the R language, is a universe of packages that facilitate a grammar of data, graphics, and modeling that allows even beginners to speak the language of data science fluently. Author of several books on programming and dozens(!) of R packages that are among the most widely used in the realm of data, Hadley Wickham invites you personally to experience the thrill of diving deep into data, discovering unknown treasures, and coming out on the other side with a fuller understanding of the way in which the world works! Hadley Wickham is the Chief Scientist at RStudio and an Adjunct Professor of Statistics at the University of Auckland, Stanford University, and Rice University. He builds computational and cognitive tools that make data science easier, faster, and more fun. This event was hosted by the MS-ACMS Data Science program and was co-sponsored by the Mendoza College of Business MSBA program and the Office of the Provost.\n\rMay the RStudio be with you!\n\r",
+    "date": 1503878400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "011f72e3a79c66f9582604a2fd7d5075",
+    "permalink": "https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/",
+    "publishdate": "2017-08-28T00:00:00Z",
+    "relpermalink": "/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/",
+    "section": "post",
+    "summary": "During my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham’s lecture Welcome to the Tidyverse and meet Hadley in person. Hadley’s talks are always well-structured and worth listening.\n\rHadley Wickham has been a prime mover in releasing R upon the masses, enabling hordes of unsuspecting would-be researchers to process and visualize data in ways they never dreamed of. The tidyverse, the culmination of years of effort in the R language, is a universe of packages that facilitate a grammar of data, graphics, and modeling that allows even beginners to speak the language of data science fluently.",
+    "tags": [
+      "DataScience",
+      "event",
+      "R",
+      "Rpackage",
+      "Notre Dame University"
+    ],
+    "title": "Welcome to the Tidyverse. Hadley Wickham lecture at Notre Dame University",
+    "type": "post"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "\rSummary\rIn this research project we analyze barriers and bad practices in accessing Open Administrative Data in Poland.\n\r",
+    "date": 1497838394,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "6e5ff91da8a9a53caae43e2543febf3e",
+    "permalink": "https://kalimu.github.io/project/gus/",
+    "publishdate": "2017-06-18T21:13:14-05:00",
+    "relpermalink": "/project/gus/",
+    "section": "project",
+    "summary": "Barriers \u0026 bad practices in accessing Open Data. Case study of Poland.",
+    "tags": [
+      "Research",
+      "OpenData"
+    ],
+    "title": "Closed Open Data",
+    "type": "project"
+  },
+  {
+    "authors": [
+      "Joanna Mazur",
+      "Agnieszka Małkowska-Szkutnik",
+      "Izabela Tabak",
+      "Anna Dzielska",
+      "Dorota Zawadzka",
+      "Anna Kowalewska",
+      "Hanna Nałęcz",
+      "Dorota Kleszczewska",
+      "Magdalena Stalmach",
+      "Anna Oblacińska",
+      "Kamil Wais",
+      "Marta Malinowska-Cieślik",
+      "Krzysztof Wąż",
+      "Barbara Woynarowska"
+    ],
+    "categories": null,
+    "content": "Raport został przedstawiony przez prof. Bogusława Śliwerskiego na jego blogu: http://sliwerski-pedagog.blogspot.com/2017/06/jakosc-szkoy-zdrowie-uczniow.html\n",
+    "date": 1496534400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "18051e98ec620da1b670a39187b77696",
+    "permalink": "https://kalimu.github.io/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/",
+    "publishdate": "2017-06-04T00:00:00Z",
+    "relpermalink": "/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/",
+    "section": "publication",
+    "summary": "Opracowanie stanowi podsumowanie wyników projektu badawczego realizowanego w Zakładzie Zdrowia Dzieci i Młodzieży Instytutu Matki i Dziecka w Warszawie w latach 2014-2017 w ramach umowy z Narodowym Centrum Nauki (nr 09/B/HS6/03438) w konkursie OPUS 5. Projekt zatytułowany był: „Środowisko fzyczne i społeczne oraz jakość funkcjonowania szkoły a zdrowie subiektywne i zachowania zdrowotne nastolatków – zastosowanie modeli strukturalnych i ścieżkowych szacowanych na danych o strukturze hierarchicznej. [...] Dzięki zaangażowaniu multidyscyplinarnego zespołu można było dotrzeć z wynikami badań do różnych środowisk, w tym środowiska medycznego i specjalistów zdrowia publicznego oraz psychologów i pedagogów. Współpraca z międzynarodową siecią badawczą HBSC (Health Behaviour in School-aged Children) dodatkowo zwiększyła zasięg odbiorców wyników projektu poza granice kraju. [...] Głównym celem projektu było zbadanie interakcji między czynnikami szkolnymi i pozaszkolnymi w ich łącznym oddziaływaniu na zdrowie uczniów. Przeprowadzono w 2015 roku badanie ankietowe wśród 4085 uczniów z 70 gimnazjów zlokalizowanych w całej Polsce oraz dodatkowo wykorzystano wyniki przeprowadzonych rok wcześniej w tej grupie wieku badań nad zachowaniami zdrowotnymi młodzieży szkolnej HBSC. [...] co pozwoliło na zbadanie, jaki wpływ na zdrowie mają czynniki szkolne i pozaszkolne (np. środowisko rodzinne) oraz wybrane zachowania zdrowotne (np. aktywność fzyczna). W okresie likwidowania gimnazjów, trudno jest formułować wnioski na temat ich dalszego funkcjonowania w kontekście poprawy zdrowia uczniów. Mamy jednak nadzieję, że uzyskane wyniki będą inspiracją do dalszych analiz i reﬂeksji na temat wpływu szkoły na zdrowie starszych uczniów, niezależnie od obowiązującego systemu edukacji",
+    "tags": [
+      "Instytut Matki i Dziecka",
+      "CAWI"
+    ],
+    "title": "Środowisko fizyczne i społeczne oraz jakość funkcjonowania szkoły a zdrowie subiektywne i zachowania zdrowotne nastolatków. Raport końcowy z realizacji projektu badawczego",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Andrzej Cwynar",
+      "Wiktor Cwynar",
+      "Kamil Wais",
+      "Radosław Parda"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1494288000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "ffeb6f385a6443fe79f1e8c7e98806c8",
+    "permalink": "https://kalimu.github.io/publication/personal-loan-companies-in-poland/",
+    "publishdate": "2017-05-09T00:00:00Z",
+    "relpermalink": "/publication/personal-loan-companies-in-poland/",
+    "section": "publication",
+    "summary": "We surveyed representative sample of 1,004 adult Poles to check the extent to which they distinguish among the entities operating in the market for personal loans in Poland, how they perceive loans and lending entities, and what is their knowledge on lending/borrowing issues. Particularly, we were interested in getting the insight into the fragment of the market that is operated by personal loan companies, with special emphasis on the profile of the average (statistical) borrower. Our examination was motivated by the controversies surrounding the law amendment started in Poland in 2015 in order to regulate the fraction of the consumer credit market represented by personal loan companies. By utilizing logistic and multivariate linear regression models with variables obtained from our survey, we tested whether the legal reform was well-informed and well-addressed. We found that Polish households have serious problems with distinguishing various entities that provide loans to private individuals and that such problems manifest even greater problem of material shortcomings in Poles’ debt literacy. We also evidenced low public trust to lending entities, particularly to loan companies. In the light of the findings the law amendment is well-grounded, however it should be supported by actions aimed at enhancing households’ financial literacy.",
+    "tags": [
+      "loans",
+      "debt literacy"
+    ],
+    "title": "Personal Loan Companies in Poland: Does Empirical Evidence Justify Regulatory Transition?",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Joanna Mazur",
+      "Anna Kowalewska",
+      "Dorota Zawadzka",
+      "Anna Dzielska",
+      "Kamil Wais"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1480550400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "07a98e72f7323cda0303470baacedb7f",
+    "permalink": "https://kalimu.github.io/publication/external-evaluation-of-the-school-and-academic-achievements/",
+    "publishdate": "2016-12-01T00:00:00Z",
+    "relpermalink": "/publication/external-evaluation-of-the-school-and-academic-achievements/",
+    "section": "publication",
+    "summary": "Introduction. The aim of the paper is to evaluate the association between overall state school assessment and selected problem behaviours among secondary school students. Method. The nationwide sample included 4085 students interviewed in 2015, from 70 randomly selected schools that had undergone comprehensive external evaluation. Two standardised scales describing alcohol drinking and delinquent behaviour taken from Polish version of CHIP-AE questionnaire (Child Health and Illness Profile – Adolescent Edition) were used. Hierarchical data structure was taking into account by comparison between a standard linear model and a mixed model with random intercept. The school assessment was based on 12 evaluation requirements and three categories of schools were distinguished (worse, average and better; 20%, 60% and 20% of the sampled schools respectively). Impact of gender, age, school achievements and family affluence on problem behaviours were analysed at the individual level. Results. Among individual determinants, males and poor school achievements were a prediction of both problem behaviours (alcohol use and delinquent behaviour). A significant relationship between the results of school evaluation and alcohol use was demonstrated in preliminary analyses, but was weakly confirmed in multilevel models. However, the association between these results of school evaluation and the variability of delinquent behaviour index was revealed in the multivariate analysis, particularly in interaction with school achievements. Conclusion. Better school may reduce the negative impact of factors contributing to adolescence problem behaviour.",
+    "tags": [
+      "CAWI",
+      "Instytut Matki i Dziecka"
+    ],
+    "title": "External evaluation of the school and academic achievements in relation to alcohol drinking and delinquent behaviour among secondary school students / Wyniki zewnętrznej ewaluacji szkoły i osiągnięcia w nauce a picie alkoholu i wykroczenia gimnazjalistów",
+    "type": "publication"
+  },
+  {
+    "authors": null,
+    "categories": [
+      "conferences"
+    ],
+    "content": "\rUPDATE: The online static version of the presentation is available here: http://rpubs.com/kalimu/erum. Thank you for all the feedback!\nIn two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data. But the LimeRick package will be able to do a lot more. Stay tuned!\nThe abstract:\nThe first public presentation of the prototype of a new R package that provides useful connection between R and the most popular open-source web scripts for on-line surveys (http://www.LimeSurvey.org). The package aims to enable and simplify the work flow of reproducible CAWI research in Social Science; preparing templates for ad hoc and real-time analysis, performing detailed meta-analysis, archiving and monitoring responses directly from R. With the LimeRick package one can import pre-processed data from an on-line survey with an R script (with the use of RemoteConrol2 API or with non-API solution). Then, the data can be processed analytically by an R script and automatically reported with the use of shiny package. The whole process can be pre-programmed and performed without the researcher interference. This enables to build data products based on declarative data from on-line surveys, which are processed, analyzed, and visualized on-line and in real time. It can be of use for performing automatic tracking studies with real-time KPIs monitoring (e.g. for a customer satisfaction survey). The package will be also linked to a tool for unique, advanced analysis of meta-data from an on-line survey, which has already been alpha tested during large CAWI research project. As the early prototype of the package is presented, the presentation will end with a call for collaboration for developing and testing the package in different usage cases.\nPS. Thanks to Carsten Shmitz (the main developer of LimeSurvey) after my presentation participants interested in LimeSurvey and LimeRick projects will be able to get some gifts (cool promotional materials of LimeSurvey open-source project – see the picture below). See you then!\n",
+    "date": 1475971200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "997ea59909c642c26f20dc87131aa529",
+    "permalink": "https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/",
+    "publishdate": "2016-10-09T00:00:00Z",
+    "relpermalink": "/post/presentation-of-r-package-limerick-on-erum/",
+    "section": "post",
+    "summary": "UPDATE: The online static version of the presentation is available here: http://rpubs.com/kalimu/erum. Thank you for all the feedback!\nIn two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data.",
+    "tags": [
+      "R",
+      "software",
+      "LimeSurvey"
+    ],
+    "title": "Presentation of R package LimeRick on eRum",
+    "type": "post"
+  },
+  {
+    "authors": [
+      "Kamil Wais"
+    ],
+    "categories": null,
+    "content": "When using the genderizeR R package in your work, please cite also the article:\n@article{RJ-2016-002, author = {Kamil Wais}, title = {{Gender Prediction Methods Based on First Names with genderizeR}}, year = {2016}, journal = {{The R Journal}}, url = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html}, pages = {17--37}, volume = {8}, number = {1} }  ",
+    "date": 1472601600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "c4cf87d3f7f671e8173eccda6742d7e5",
+    "permalink": "https://kalimu.github.io/publication/2016_genderizer/gender-prediction-methods-based-on-first-names-with-genderizer/",
+    "publishdate": "2016-08-31T00:00:00Z",
+    "relpermalink": "/publication/2016_genderizer/gender-prediction-methods-based-on-first-names-with-genderizer/",
+    "section": "publication",
+    "summary": "In recent years, there has been increased interest in methods for gender prediction based on first names that employ various open data sources. These methods have applications from bibliometric studies to customizing commercial offers for web users. Analysis of gender disparities in science based on such methods are published in the most prestigious journals, although they could be improved by choosing the most suited prediction method with optimal parameters and performing validation studies using the best data source for a given purpose. There is also a need to monitor and report how well a given prediction method works in comparison to others. In this paper, the author recommends a set of tools (including one dedicated to gender prediction, the R package called genderizeR), data sources (including the genderize.io API), and metrics that could be fully reproduced and tested in order to choose the optimal approach suitable for different gender analyses.",
+    "tags": [
+      "R",
+      "CRAN",
+      "software"
+    ],
+    "title": "Gender Prediction Methods based on First Names with genderizeR",
+    "type": "publication"
+  },
+  {
+    "authors": null,
+    "categories": [
+      "conferences"
+    ],
+    "content": "\rSeventh RDA Plenary was organized in Tokyo in March 2016 in close partnership with the Japan Science and Technology Agency (JST). This was the first time a plenary took place in Asia. One of the reason was to expand the reach of the RDA far beyond America and Europe through increase in organization’s memberships from Asia region.\nAs one of the winners of the RDA Early Career European Researchers \u0026amp; Scientists Working with Data (RDA P7 Financial Support Programme), I had a unique opportunity and honor to see with my own eyes how activities in RDA look like. Now, I can share with you my experience.\nFirstly, RDA is a truly global (international and intercontinental) organization with mission to build the social and technical bridges that enable open sharing of research data. The global character can be seen on every level. For example, to establish a so called „Working Group” you need to cooperate with researchers from at least 3 different continents.\nThose Working \u0026amp; Interest Groups are fully community-driven entities, based on volunteers’ work, consensus and a true passion for Open Research Data and Open Science in general.\nThe atmosphere inside Working \u0026amp; Interest Groups, as well during the Plenary, is very friendly without artificial distance based on level of experience or position in the academic hierarchy. One has an opportunity to have fascinating talks about science and data with leading word researchers and experts from different industries, disciplines and the most famous research centers.\nThe RDA plenaries themselves are not like traditional academic conferences. Apart from a global perspective on sharing research data, they lack meaningless paper presentations. Instead, they are focusing on collaborative effort to produce applicable outcomes and recommendations. These outcomes are results of consensus achieved mainly through on-line and off-line discussions. This approach turned out to be effective, as the RDA recommendations are quickly and widely adopted by recognized institutions and organizations.\nThere also comes a great value from working in such inter-national and inter-cultural environment. It is fascinating to hear about different perspectives and solutions specific to cultural and local conditions. Moreover, there is a mixture of all possible disciplines, from agriculture to astronomy. Many of those disciplines have different perspectives, different approaches to working with research data, which makes a common dialog sometimes difficult but also rewarding when we can agree on some common solutions to different problems.\nDuring the 7th Plenary I have participated in several Working \u0026amp; Interest Group sessions. Two of them were organized by Data Fabric Interest Group. The term „Data Fabric” (German metaphor for a „factory”) describes the Data Cycle: creating new data collections, processing, registering, describing, storing, preserving and publishing the data. The goal of the group is to improve the cycle, make the cycle more efficient and cost-effective. Considering that the most time data scientists spend on data management, improving such processes will have a huge impact on science.\nAlthough, I am not a librarian, I found the IG Libraries for Research Data session very interesting as well. It was called Applying Global Information Sharing and Collaboration in Libraries to Local Practice, and showed what impressive work librarians from all over the world can do. Solutions were presented from Japan, Korea and Singapore. Some countries are at the beginning of the process of implementing links between Open Access papers and repositories with Open Research Data. However, their „beginnings” are still very impressive (for example two levels of software platforms for open research data in Korea; one for university repositories and one for central platform that aggregates metadata from local repositories).\nInspired by this session I just can hope that someday many modern Polish librarians will be engaged in developing Open Access, Open Research Software and Open Data infrastructure and Open Science culture in general.\nShortly after the Plenary discussion the Array Database Assessment WG was created. It focuses on benchmarking, overview and best usage of Array Databases in science, engineering, and beyond. There are big hopes for efficiency and scalability of array databases. If they meet the expectations they may dominate the market of Big Data technologies in close future.\nThere were many interesting topics in the plenary sessions as well. Jean-Claude Burgelman from the European Commission, talked about European Open Science Cloud project. It might have an impressive effect on changing of many of European researchers’ workflows. I am looking forward to evaluate it myself.\nFrom the round table in Open Symposium: Data-driven Science – The trigger of Scientific development, I got an impression that data-driven approach in science is fairy more appreciated and recognized in Japan than in Poland, where still dominates hypothesis-driven approach especially in social sciences.\nI was also impressed with IT science infrastructure in Japan, and a research project that allows to identify dangerous places on streets where drivers hit breaks rapidly, thanks to spatial-temporal analysis based on data collected from GPS and accelerometers installed in cars. Considering that similar data are produced daily by approximately 100 000 users of some mobile application in Poland, it would be great if similar study would help to improve safety on Polish roads.\nI have also come back with positive feedback on my poster presented in Tokyo titled International On-line Expert Access Panel for Open Science Development. With some institutional and organizational support such project seems to be feasible and I believe that it can bring a lot of valuable data from science community. Anyone interested in the project is welcome to contact me.\nNow, I am back to Poland, but I feel that this was only the beginning of me thinking constantly about science that always takes into account the open research data postulates. Now it is also the time to promote RDA activities in my country, with the vision of global science community that works together and shares its research data for the benefits of all of us.\n",
+    "date": 1459382400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "92171651242c51f7fce24042cc60b0fa",
+    "permalink": "https://kalimu.github.io/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/",
+    "publishdate": "2016-03-31T00:00:00Z",
+    "relpermalink": "/post/my-impression-from-research-data-alliance-rda-7th-plenary-meeting-in-tokyo/",
+    "section": "post",
+    "summary": "Seventh RDA Plenary was organized in Tokyo in March 2016 in close partnership with the Japan Science and Technology Agency (JST). This was the first time a plenary took place in Asia. One of the reason was to expand the reach of the RDA far beyond America and Europe through increase in organization’s memberships from Asia region.\nAs one of the winners of the RDA Early Career European Researchers \u0026amp; Scientists Working with Data (RDA P7 Financial Support Programme), I had a unique opportunity and honor to see with my own eyes how activities in RDA look like.",
+    "tags": [
+      "RDA",
+      "Open Research Data"
+    ],
+    "title": "My impression from Research Data Alliance (RDA) 7th Plenary Meeting in Tokyo",
+    "type": "post"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1456786800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "8189f0091a9f2a9f978c9ade34ade90f",
+    "permalink": "https://kalimu.github.io/talk/2016-tokyo/",
+    "publishdate": "2016-03-01T00:00:00+01:00",
+    "relpermalink": "/talk/2016-tokyo/",
+    "section": "talk",
+    "summary": "The global population of researchers, data scientists, and analysts from academia and private sector is hard to reach for quick and cost-effective survey needs. At the same time, quantified opinions of such experts are a valuable help for decision-making, public policies, and meta analyses of (open) science development. In the forthcoming age of the Open Science there is a strong need for tools and methods that would allow for quick and easy access to members of the scientific community for research purposes. This also should be a system solution, that can be easily scalable across countries and cost-efficiently maintained for a long period of time. Such solution should be also open to research proposals coming both from inside and outside of the research community. Our concept of on-line expert access panel meets those needs and exceeds most of the limitations.",
+    "tags": [
+      "poster",
+      "conference",
+      "RDA",
+      "access panel"
+    ],
+    "title": "International On-line Expert Access Panel for Open Science Development (poster)",
+    "type": "talk"
+  },
+  {
+    "authors": [
+      "Andrzej Cwynar",
+      "Wiktor Cwynar",
+      "Kamil Wais",
+      "Radosław Parda"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1451606400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "34cd0e9c95c080963367ad071e8476fe",
+    "permalink": "https://kalimu.github.io/publication/loan-perception-and-loan-related-attitude-of-poles/",
+    "publishdate": "2016-01-01T00:00:00Z",
+    "relpermalink": "/publication/loan-perception-and-loan-related-attitude-of-poles/",
+    "section": "publication",
+    "summary": "Personal loans market in Poland has changed substantially within last years. Relevant aspect of the change was the emergence of personal loan companies and other non-banking entities with their offer addressed to clients excluded by banks. Positive results of the change were offset by increased concerns regarding financial safety of those who take loans from such institutions, not fully encompassed by the regulations followed by banks and credit unions. We investigated opinions of private individuals to study their perception of loans and attitudes towards selected loan-related issues within the new lending environment. To achieve the goal, we conducted survey in a representative sample of 1004 adult Poles and we utilized logistic regression model to get additional insight into the survey results. We found that negative opinions outweigh positive ones, both in general attitude towards loans and in the perception of particular loan-related issues such as connotations concerning payday loans and parabanks. Despite the study was not meant to ascertain the level of Poles’ debt knowledge, we perceive the results of our study as evidencing, though indirectly, the lack of such knowledge. Hence, we believe that the findings call for more activity – both regulatory and market-driven – aimed at making private individuals more debt knowledgeable.",
+    "tags": [
+      "loans"
+    ],
+    "title": "Loan perception and loan-related attitude of Poles: evidence from the field",
+    "type": "publication"
+  },
+  {
+    "authors": null,
+    "categories": [
+      "programming"
+    ],
+    "content": "\rVersion: 1.2\rThe last update of this post: 2018-11-07.\nBelow is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.\nSee what new Hadley recommends:\n(http://r-pkgs.had.co.nz/release.html).\rUpdate R \u0026amp; packages:\rR\rall packages\rRStudio (stable or preview version).\r\rUpdate your package:\rCheck unit tests.\rUpdate vignettes.\rCheck reverse dependencies.\rIf devtools functions don’t work use:\ntools::dependsOnPkgs()\r\rImport undefined globals in the NAMESPACE file\n(generated automatically by roxygen2)\r\rUpdate README.md file:\rMake change in README.Rmd.\rKnit the Rmd into md.\r\rRun a R CMD check locally with ‘–as-cran‘ option.\rIf you got an error regarding qpdf missing, check:\rView(Sys.getenv(“PATH”) )\rSys.which(Sys.getenv(“R_QPDF”, “qpdf”))\r\r\rRun a R CMD check on win-builder\n(devel and release versions) via ‘devtools::build_win()‘.\rRun a R CMD check on Ubuntu (via Travis-CI).\rUpdate ‘cran-comments.md‘:\rTest environments,\rR CMD check results (explain ERRORs, WARNINGs, NOTEs).\rDownstream dependencies.\rResubmit comments.\r\rUpdate ‘Version‘ field in the DESCRIPTION file\n(major.minor.patch.dev).\rUpdate ‘Date‘ field in the DESCRIPTION file.\rUpdate NEWS.md file.\rPush all necessary commits to GitHub.\rRun again a R CMD check locally just to be sure.\rUse devtools::check().\r\rPush all necessary commits to GitHub.\rMerge branches if necessary\nVia GithHub website OR Via GIT: git merge –no-ff branch_name\r\rCheck vignettes:\rBuild your package sources\rLoad them with:\ninstall.packages(“../packageName_2.0.90002.tar.gz”,\nrepos = NULL, type = “source”)\rUse browseVignettes(“genderizeR”)\r\rSubmit the package to CRAN.\rUse devtools::release().\rConfirm submission via link in the mail.\r\rCheck results of submission:\rin all CRAN checks\n(from http://cran.r-project.org/web/packages)\rin comments inside the e-mail from CRAN\r\rFix what needs to be fixed.\rConsider increasing version number.\rCheck everything again.\rResubmit to CRAN.\r\rAfter successful submission:\rCreate a new release with tag version on GitHub repo.\rCopy and paste the contents of the relevant NEWS.md section into the release notes\r\rIncrement the version of the package in the DESCRIPTION file (to X.X.X.9000).\rPromote your package\rPost on personal blog\rPost on Twitter (use #rstats)\rR-Bloggers\retc.\r\r\rUpdate this checklist.\rUpdate the checklist version number.\r\r\r\r",
+    "date": 1429574400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "3cdf8b7321971530d0dbf1ff6bc727db",
+    "permalink": "https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/",
+    "publishdate": "2015-04-21T00:00:00Z",
+    "relpermalink": "/post/checklist-for-r-package-submission-to-cran/",
+    "section": "post",
+    "summary": "Version: 1.2\rThe last update of this post: 2018-11-07.\nBelow is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.\nSee what new Hadley recommends:\n(http://r-pkgs.had.co.nz/release.html).\rUpdate R \u0026amp; packages:\rR\rall packages\rRStudio (stable or preview version).\r\rUpdate your package:\rCheck unit tests.",
+    "tags": [
+      "R",
+      "programming",
+      "software"
+    ],
+    "title": "Checklist for R package submission to CRAN",
+    "type": "post"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "\rR package for gender prediction based on first names\rThe package uses genderize.io API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.\nREADME, BugReports and development repository on GitHub: https://github.com/kalimu/genderizeR\nThe package webpage on CRAN:\nhttp://cran.r-project.org/web/packages/genderizeR\n\rArticle \u0026amp; Citations:\r\rWhen using the genderizeR R package in your work, please cite also the article:\rKamil Wais, Gender Prediction Methods Based on First Names with genderizeR, The R Journal,Vol. 8/1, Aug. 2016, https://journal.r-project.org/archive/2016-1/wais.pdf\r@article{RJ-2016-002,\rauthor = {Kamil Wais},\rtitle = {{Gender Prediction Methods Based on First Names with\rgenderizeR}},\ryear = {2016},\rjournal = {{The R Journal}},\rurl = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html},\rpages = {17--37},\rvolume = {8},\rnumber = {1}\r}\r\r Abstract:\r\rIn recent years, there has been increased interest in methods for gender prediction based on first names that employ various open data sources. These methods have applications from bibliometric studies to customizing commercial offers for web users. Analysis of gender disparities in science based on such methods are published in the most prestigious journals, although they could be improved by choosing the most suited prediction method with optimal parameters and performing validation studies using the best data source for a given purpose. There is also a need to monitor and report how well a given prediction method works in comparison to others. In this paper, the author recommends a set of tools (including one dedicated to gender prediction, the R package called genderizeR), data sources (including the genderize.io API), and metrics that could be fully reproduced and tested in order to choose the optimal approach suitable for different gender analyses.\r\r\rTestimonials:\r\rFrom the peer-reviews:\r\r“[…] In this paper, the authors provide methods and an R package for gender prediction based on a set of names. This comes an opportune time, given the increased number of studies that require gender identification. As someone who has to do this for my own studies, I immediately see value in this kind of package and know of many colleagues who would also use this package.”\r\rOther testimonials:\r\rIt is easy creating a highcharts using highcharter, an amazing library as genderizeR, the one I use to obtain gender names. I like them a lot. Visualizing the Gender of US Senators With R and Highmaps\nI also used a very interesting package called genderizeR, which makes gender prediction based on first names The Gender of Big Data\r\r\rFollowing this discussion on Finnish names, I came across the fantastic genderizeR package, which looks into an online database to determine gender from names in several languages. [source link] \r\r\rI’m a Data Scientist working for a company on the automotive industry. I stumbled upon the genderizeR package while looking for a solution that would allow me to complete missing data, present on our databases. Sometimes some people forget to fill out their honorific titles (e.g. Mrs.), or they’re transcribed poorly from paper-based documents. With this package, I’m able to not only correct those mistakes, but also to complete the missing data to provide stronger statistical value to my work. All this can be done automatically, directly in R. I personally thank Dr. Kamil Wais for helping me with some features that are to be implemented in a future version of the package.\rCarlos\rWithout this package, I never would have been able to implement the algorithm I needed to assess gender balance in syllabi, since RShiny doesn’t work well with https. Thanks so much for making it. It’s really great and makes using the genderize.io API so much easier.\rJane\r\rJane is the author of a Shiny app, which is an interesting use case for the genderizeR package:\n\rHow Gender-Balanced is Your Syllabus? One of the explanations for the gender citation gap is that syllabi are disproportionately male. Thus, when students begin conducting their own research, most of their exposure has been to male researchers. Yet even well-meaning instructors may find that they have difficulty assessing how gender-balanced their syllabi really are. Counting is tedious and prone to human error, and instructors may not know the gender identities of all the authors they cite. This tool aims to help with that, by automating the process of evaluating the (probabilistic) gender of each name and then providing an estimate of what percentage of the authors on a syllabus are women.\n\rI am glad that the package can be helpful for so many applications.\n\rExamples of applications\r\r\rFell, C.B. \u0026amp; König, C.J. Is there a gender difference in scientific collaboration? A scientometric examination of co-authorships among industrial–organizational psychologists, Scientometrics (2016) 108: 113.\r\rdoi:10.1007/s11192-016-1967-5\rhttp://link.springer.com/article/10.1007/s11192-016-1967-5\rhttps://www.researchgate.net/publication/301771909\r\rHow Diverse is Your Syllabus?\rVisualizing the gender of US senators with R and Highmaps\rWomen in Orchestras\rThe Gender of Big Data\r\r\rCollaboration\r\rFeel free to comment or contribute in any way! Let me know if you are using the genderizeR package in your work or if I could help you in your research or commercial project.\nSpeed Test\rA few people have been asking about the speed of the package, so I have done some speed test using the latest version of the genderizeR package.\nWithout any parallel programming I managed to check 108 023 unique terms through genderize.io API and it took 45 minutes (2 395 term per minute).\n\rPackage downloads\r(from CRAN RStudio mirror)\n\r\r",
+    "date": 1422411194,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "9b4c9379f2f4f27933978b5192ef529b",
+    "permalink": "https://kalimu.github.io/project/genderizer/",
+    "publishdate": "2015-01-27T21:13:14-05:00",
+    "relpermalink": "/project/genderizer/",
+    "section": "project",
+    "summary": "The R package for gender prediction based on first names.",
+    "tags": [
+      "software",
+      "R",
+      "CRAN",
+      "Rpackage"
+    ],
+    "title": "genderizeR",
+    "type": "project"
+  },
+  {
+    "authors": [
+      "Krzysztof Opolski",
+      "Agata Gemzik-Salwach",
+      "Marcin Dwórznik",
+      "Monika Podleśna",
+      "Kamil Wais",
+      "Piotr Zapadka"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1420070400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "4dc4e7c7545472b832b7cd5a10410f13",
+    "permalink": "https://kalimu.github.io/publication/sektor-shadow-banking-in-poland/",
+    "publishdate": "2015-01-01T00:00:00Z",
+    "relpermalink": "/publication/sektor-shadow-banking-in-poland/",
+    "section": "publication",
+    "summary": "Książka zatytułowana Sektor shadow banking w Polsce – blaski i cienie dotyczy tematów ważnych i aktualnych, które w ostatnich czasach mocno rozgrzewają dyskusję publiczną i powodują spory ekonomistów oraz prawników. [...] Książka ta jest jedną z nielicznych publikacji poświęconych tej stosunkowo mało poznanej problematyce. Temat został ujęty w sposób unikalny, wynikający z interdyscyplinarnego podejścia do zagadnienia. Zaletą książki jest też ukierunkowanie podjętych w niej rozważań na zagadnienia dotyczące rynku polskiego. [...] Ostatnia, trzecia część książki stanowi prezentację wyników jakościowych badań empirycznych [...] Głównym celem badań było poznanie i zrozumienie ogólnego obrazu problematyki społeczno-ekonomicznej tej części sektora usług pożyczkowych, widzianego z perspektywy jego klientów. [...] Przeprowadzone badania należy uznać za wyjątkowe i wnoszące spory wkład w poznanie i zrozumienie funkcjonowania tego sektora, gdyż do tej pory nie zostały przeprowadzone inne, tego typu badania, dla rynku polskiego. [...] Reasumując, recenzowana książka ma wysokie walory merytoryczne i praktyczne. Stanowi wyjątkowe działo na rynku wydawniczym. Z tego tez względu z pewnością będzie cieszyć się dużym zainteresowaniem czytelników (z recenzji Prof. dr. hab Andrzeja Wieczorkiewicza).",
+    "tags": [
+      "shadow banking"
+    ],
+    "title": "Sektor shadow banking w Polsce",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Kamil Wais"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1356998400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "01a6c942146afa1006587150d126224d",
+    "permalink": "https://kalimu.github.io/publication/access-panel-and-its-specificity-as-a-challange-for-new-reserch-techniques-based-on-internet/",
+    "publishdate": "2013-01-01T00:00:00Z",
+    "relpermalink": "/publication/access-panel-and-its-specificity-as-a-challange-for-new-reserch-techniques-based-on-internet/",
+    "section": "publication",
+    "summary": "The development of new techniques of quantitative social research, which is performing in the world, is particularly associated with an increase in popularity of online access panels. Internet access panels enable rapid implementation of different types of interdisciplinary research on an unprecedented scale, but they also generate new problems and challenges, which are necessary to overcome by panels managers, researchers and methodologists. The challenges include the need to: clarify, reformulate or complete many definitions; adopt appropriate standards of research, develop comparable with each other, precisely and formally defined indicators of panels’ quality, etc. A good starting point for such considerations is the ISO 26362:2009 standard and ESOMAR guidelines concerning the use and functioning of the access panels. These documents, however, do not solve many problems and further refining and updating them is a necessity. Particularly relevant issues worth considering are the challenges associated with the response rate and the representativeness of studies, carried out in online access panels. The key challenge in the development of this type of research is also to ensure the panelists / on-line respondents willing to participate in social research. Experiences from a variety of access panels show that their research capacities continue to grow and can be used more intensively also in Poland – both in the near and distant future.",
+    "tags": [
+      "access panel",
+      "CAWI"
+    ],
+    "title": "Access Panel and its specificity as a challange for new research techniques based on internet technologies / Access Panel i jego specyfika jako wyzwanie nowych technik badawczych opartych na technologiach internetowych",
+    "type": "publication"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "\r\r\r\rODGAR: Framework for Online Declarative Data Gathering, Analyzing, and Reporting.\nBackground\rOff-line research paradigms are still dominant even in on-line survey techniques. Most online research techniques convert old-fashioned off-line questionnaires to HTML forms, so not only they do not exploit the full potential of Data Science \u0026amp; Internet Technologies, but they are outdated already by design. Thus, contemporary on-line techniques are not natively on-line—they are mainly off-line questionnaires converted into more or less advanced on-line HTML forms, but with inherited off-line characteristics (high burden and low value for respondents, non-equivalent information exchange). We want to change that!\nSocial researchers usually fail to establish long-term relationships with participants of their studies. On-line surveys are boring for respondents, and nothing compensates this boredom—the respondents devote their time and share their knowledge but receive nothing valuable in return. Hence, that their intrinsic motivation is low, resulting in long-term trend of decreasing response rates in social studies. We want to change that!\n\rProposed solution\rThe most important principle for establishing long-term relations with intrinsically motivated respondents is that they should be able to immediately access the feedback relevant to their answers, and thus, they should be enclosed within an instant feedback loop (see Figure 1). To increase its value, the feedback should be dynamically customized to each respondent. This can be achieved by pre-programmed templates of feedback scenarios, which can be adaptively customized by the respondent’s answers to this or previous questions. Most traditional research techniques do not provide instant feedback to respondents. We want to utilize the possibilities of instant feedback to the maximum, apply it to different topics, and combine different feedback sources: a respondent’s answers to a given question and to other questions; other users’ answers; external open data; aggregated or summarized outcomes from reference studies.\n\r\r{\"x\":{\"diagram\":\"digraph {\\n\\n# graph [layout = twopi] # graph [layout = dot|neato|twopi|circo]\\n graph [compound = true, nodesep = .5, ranksep = .25,\\n color = blue]\\n\\nnode [fontname = Helvetica, fixedsize = true, style = filled, fontsize = 16]\\n\\nnode [width = 2]\\n\\n \\\"Researcher\\\" [fillcolor = red]\\n \\\"Data Scientist\\\" [fillcolor = mediumpurple]\\n\\nnode [shape = diamond, fillcolor = red, width = 3.5, fixedsize = false]\\n\\n \\\"Question\\\"\\n\\nnode [shape = oval, fillcolor = chartreuse, width = 2.5]\\n\\n \\\"Respondent 1\\\"; \\\"Respondent 2\\\"\\n\\nnode [shape = rectangle, style = filled, fillcolor = grey, width = 2]\\n\\n \\\"Answer 1\\\"; \\\"Answer 2\\\"\\n\\nnode [shape = square, style = filled, fixedsize = false, width = 2.3]\\n\\n \\\"All user answers\\\" [fillcolor = grey]\\n \\\"External data sources\\\" [fillcolor = mediumpurple]\\n\\n\\nnode [shape = rectangle, style = filled, fillcolor = lightblue, \\n fixedsize = true, width = 2.5]\\n\\n \\\"Customized feedback 1\\\"; \\\"Customized feedback 2\\\"\\n\\n\\nedge [color = grey, penwidth = 2.5]\\n \\\"Researcher\\\" - \\\"Question\\\"\\n \\\"Data Scientist\\\" - \\\"External data sources\\\"\\n \\\"Question\\\" - \\\"Data Scientist\\\"\\n\\nsubgraph cluster0 {\\n \\\"Respondent 1\\\" - \\\"Answer 1\\\"\\n \\\"Answer 1\\\" - \\\"Customized feedback 1\\\" - \\\"Respondent 1\\\"\\n} \\nsubgraph cluster2 {\\n \\\"Respondent 2\\\" - \\\"Answer 2\\\"\\n \\\"Answer 2\\\" - \\\"Customized feedback 2\\\" - \\\"Respondent 2\\\"\\n}\\n#subgraph cluster3 {\\n \\\"All user answers\\\" - \\\"Customized feedback 1\\\"\\n \\\"All user answers\\\" - \\\"Customized feedback 2\\\"\\n \\\"External data sources\\\" - \\\"Customized feedback 1\\\"\\n \\\"External data sources\\\" - \\\"Customized feedback 2\\\"\\n \\n#}\\n\\\"Question\\\" - \\\"Respondent 1\\\" [lhead = cluster0]\\n\\\"Question\\\" - \\\"Respondent 2\\\" [lhead = cluster1]\\n\\\"Answer 1\\\" - \\\"All user answers\\\"\\n\\\"Answer 2\\\" - \\\"All user answers\\\"\\n \\\"All user answers\\\" - \\\"Researcher\\\"\\n\\n\\n}\",\"config\":{\"engine\":\"dot\",\"options\":null}},\"evals\":[],\"jsHooks\":[]}\rFigure 1: Declarative Data Collection with Instant Feedback Loop\r\r\rResearch Plan\rDesk Research and designing on-line experiment.\rDevelopment \u0026amp; testing of prototype of new research software fully supporting instant feedback.\rConducting large-scale on-line experiment in full factorial design.\rEmpirical data analysis.\r\r\rRelated research task in progress\r\rExplaining Response Rates via Social Response Theory and Agent-Based Modeling Simulations\rData Science Skills in Social Sciences \u0026amp; Humanities\rHow to Legally Close \u0026amp; Commercialize Open Data? Case Study of Poland\rR Package for Developing Web Data Products Based on Declarative Data Collection with Instant Feedback\rSensitive Data Management in Web Data Products with Instant Feedback\rNew Paradata Analysis and Quality Metrics in Declarative Data Collection with Instant Feedback\r\r\rCall for Collaboration\rIf you are interested in of any form of collaboration within this project, please let me know! Especially, we are looking for research partners that could implement our approach in real-world case studies.\nLooking forward to hearing from You!\r\r\r\r",
+    "date": 1311473594,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "b9e5aba5b86248f52facecaebc1308f2",
+    "permalink": "https://kalimu.github.io/project/odgar/",
+    "publishdate": "2011-07-23T21:13:14-05:00",
+    "relpermalink": "/project/odgar/",
+    "section": "project",
+    "summary": "Online Declarative Data Gathering, Analyzing, and Reporting (ODGAR)",
+    "tags": [
+      "Research",
+      "ODGAR",
+      "Instant Feedback"
+    ],
+    "title": "ODGAR",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "\rW ramach projektu badawczego prowadzone są badania CAWI i PAPI wśród przedstawicieli środowisk polonijnych z całego świata, m.in.:\n\rPolonijny Omnibus – badanie ankietowe przeprowadzane od 2011 r. wśród uczestników kolejnych edycji Światowych Festiwali Polonijnych Zespołów Folklorystycznych w Rzeszowie.\r\rPartnerami projektu są:\n\rRzeszowski Oddział Stowarzyszenia “Wspólnota Polska”\rCentrum Badań nad Polonią i Polakami na Świecie Uniwersytetu Rzeszowskiego\r\r",
+    "date": 1311473594,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "7779fa88443837bbfa395b2d668f4ca9",
+    "permalink": "https://kalimu.github.io/project/polonia/",
+    "publishdate": "2011-07-23T21:13:14-05:00",
+    "relpermalink": "/project/polonia/",
+    "section": "project",
+    "summary": "Projekt badawczy poświęcony Polonii i Polakom poza granicami kraju.",
+    "tags": [
+      "Research",
+      "Polonia"
+    ],
+    "title": "Polonia",
+    "type": "project"
+  },
+  {
+    "authors": [
+      "Anna Heimersson",
+      "Fredrik Torberger",
+      "Cecilia Elving",
+      "Asa Olsson",
+      "Lana Hristov",
+      "Darjo Jurisic",
+      "Sinisa Ivankovic",
+      "Maryse Descioux",
+      "Jean-Philippe Michard",
+      "Jérôme Rigaud",
+      "Benno Rottermann",
+      "Jean-Luc Delli",
+      "Anna Nowakowska",
+      "Katarzyna Kwapinska",
+      "Kamil Wais",
+      "Sarah Hobbs",
+      "Lynn Oldham",
+      "Matthew Oakes",
+      "Kris Lamberts",
+      "Natalie Umans",
+      "Stijn Benoit",
+      "Robert Halkyard",
+      "Fridur Finna",
+      "Maeliosa DeBuitlear",
+      "Björn Seelbach",
+      "Katrin Tauscher",
+      "Dimitri Van Uytfange"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1167609600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541588254,
+    "objectID": "1fd10559821a25f3e2a54323e7ac3d2b",
+    "permalink": "https://kalimu.github.io/publication/action-for-growth-a-resource/",
+    "publishdate": "2007-01-01T00:00:00Z",
+    "relpermalink": "/publication/action-for-growth-a-resource/",
+    "section": "publication",
+    "summary": "Scouting in Europe is facing challenges in membership growth and development. These challenges reflect the diversity of Scouting in Europe. Some Associations have to work on strengthening their work on recruitment of new members or adults. Some need to strengthen the quality of their programmes. Some need to focus on reaching out to groups of Young People who are not currently accessing Scouting. Some need to develop their adult resources. Some have other challenges entirely. There are too many challenges being faced by associations around Europe to list all of them here. However, common to all is the need to focus on growth and development.",
+    "tags": [
+      "scouting"
+    ],
+    "title": "Action for Growth. A resource to enable Scout Associations to develop a growth strategy",
+    "type": "publication"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "\r\rThe Role of Data Science in Pursuit of Long-Term Relationship Between Respondents and Researchers\rvar SLIDE_CONFIG = {\r// Slide settings\rsettings: {\rtitle: 'The Role of Data Science in Pursuit of Long-Term Relationship Between Respondents and Researchers',\ruseBuilds: true,\rusePrettify: true,\renableSlideAreas: true,\renableTouch: true,\r},\r// Author information\rpresenters: [\r{\rname: 'Kamil Wais kamil.wais@gmail.com Center for Social Research, University of Notre Dame, USA  University of Information Technology and Management in Rzeszow, Poland' ,\rcompany: '',\rgplus: '',\rtwitter: '',\rwww: '',\rgithub: ''\r},\r]\r};\r\r\r\r\r\r\r\r\rb, strong {\rfont-weight: bold;\r}\rem {\rfont-style: italic;\r}\rslides  slide {\r-webkit-transition: all 0.4s ease-in-out;\r-moz-transition: all 0.4s ease-in-out;\r-o-transition: all 0.4s ease-in-out;\rtransition: all 0.4s ease-in-out;\r}\r.auto-fadein {\r-webkit-transition: opacity 0.6s ease-in;\r-webkit-transition-delay: 0.4s;\r-moz-transition: opacity 0.6s ease-in 0.4s;\r-o-transition: opacity 0.6s ease-in 0.4s;\rtransition: opacity 0.6s ease-in 0.4s;\ropacity: 0;\r}\r\r\r\r\rData Science for Social Good, Chicago 2017\n\r\rThe urgent need for declarative dataDeclarative data are (and will) be needed !\n\rIn order to solve many social problems we often\r\rneed to conduct an ad-hoc study and\rgather new quantitative datafrom population of interest.\r\rExisting data can be not comprehensive enoughor not up-to-date.\rThe solution is to ask people relevant questions directly and gather enough declarative dataof acceptable quality.\r\rBarriers in declarative data collection\rWe could conduct a survey using one of off-line or on-line research techniques\u0026#8230;\r\u0026#8230;but we will face barriers that can prevent even most important social research projects from being conducted, for example:\r\rsurveying people is expensive,\rrespondents are hard to recruit,\rresponse rates are declining, and\rmethodological concerns are rising.\r\rThe problems are growing even more, if we want to establish long-term relationship with respondents\r\ri.e. to conduct repeated measurements within longitudinal panels (when we want to return with our questions to the same respondents at least once after some time).\r\r\rWhy is it so difficult to establish long-term relationship between researchers and respondents?{.build}\r--\rThe heuristic of the traditional model of Respondent-Researcher Relationship\rFind potential respondents within time window that is not necessarily convenient for them.\rConvince them to devote their time to work through a questionnaire, which is often boring.\rConvince them to share some valuable, also often quite private and sensitive information with someone who will benefit from their answers.\rDo not share any valuable information with them.\rGive the respondents as little as possible in return in order to be as much cost-effective as possible.\rRepeat the whole process as many times and for as many respondents as necessary.\r\rConsequence of the traditional model\rRespondents do not want to be respondents anymore!\n\rIn the long run this model is clearly not sustainable but researchers act like the general population of respondents is infinite or it is an easily renewable resource.\nThis is not only wrong but also harmful!\n\rThis situation can be seen as the classic \u0026quot;tragedy of the commons\u0026quot; describing a situation where a shared resource is spoiled and depleted by collective actions of all the actors driven by their individual self-interest which is at odds with the long-term interests of the common good.\n\rOld paradigm in on-line research techniquesOn-line research techniques are not natively on-line.They simply mimic off-line techniques.\n\rThey are mainly off-line questionnaires converted into more or less advanced HTML forms with some additional functionalities (like randomization, skip logic, new question types) but they are still: \rrepetitive\u0026#8212;many questions from one survey is repeated in others;\rtime-consuming\u0026#8212;need a relatively long block of time to complete;\rlinear\u0026#8212;non-linear behavior is often forbidden;\rbased on non-equivalent information exchange\u0026#8212;valuable information from respondent vs.no valuable information from researcher.\r\rTowards new paradigm in declarative data collectionAssumption of the new model  of Respondent-Researcher Relationship\r\n\rThe priority is to build long-term relationship with respondents.\rThe process should be more similar to a conversation than an interrogation.\rThe new research tool for collecting declarative data should be able to let go old off-line paradigms, be designed to work natively in on-line environment (both desktop \u0026amp; mobile), and it should maximize the user-experience. \rDuring each single interaction between researcher and respondent, done through new research tool, both sides should receive something valuable for them.\rIn consequence, people are intrinsically motivated to become respondents repeatedly, for a long time.\r\rWhat can be valuable for respondents?Instant feedback\n\r\rRespondents should be able to access feedback relevant to their answers.\rThe feedback should be provided immediately at the end of a question set if not right after each answered question.\rThe value of the feedback will be much higher for a respondent, if the feedback will be highly customized to this particular respondent.\r\rThe simplistic but existing in real-world example of this approach is a salary survey, which asks you about your current salary and compares it to salaries of people similar to you.\r\r\rSources of data-driven feedbackThe feedback for a given respondent can be based on different data sources: \rthe answer of the respondentto the given question,\rprevious answers of the respondentto the given question,\ranswers of the respondentto other questions,\ranswers of other respondentsto given or other questions,\rexternal open data(research or administrative) ,\routcomes from reference studies(aggregated or summarized),\rother sources.\r\rThe role of Data Science in the new model\rThe role of Data Science is to use multiple data sources, statistical inference, machine learning algorithms, and interactive data visualization, among others, to provide feedback to the respondents, which is easily understandable,highly customized,visually atractive,comprehensive,truly valuable,data-driven,instant.\n\rPossible applications\r\n\revaluating services provided by private companies or governmental agencies,\reducating respondents about the facts and counteract spreading misleading information.\r\r\r\rtracking opinions within local communities,\rmonitoring customer satisfaction,\revaluating public policies,\rassessing performance of local authorities,\rrating educational and cultural institutions,\rmaking forecasts about social and political events,\rtracking trends and changes in attitudes,\rhelping respondents fighting with bad habbits,\r\rCall for Collaboration!Let\u0026#39;s develop this new model further!Let\u0026#39;s implement it into new research tools!Let\u0026#39;s test it on different use cases!Let\u0026#39;s share the results! Join the persuit for better research techniques and tools for declarative data collection to enable more Data Science for Social Good!\n\rThank you!\r\r\r\r(function () {\rvar script = document.createElement(\"script\");\rscript.type = \"text/javascript\";\rscript.src = \"https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\";\rdocument.getElementsByTagName(\"head\")[0].appendChild(script);\r})();\r\r\r(function() {\rif (window.jQuery) {\rwindow.jQuery(document).on('slideleave', function(e) {\rwindow.jQuery(e.target).trigger('hidden');\r});\rwindow.jQuery(document).on('slideenter', function(e) {\rwindow.jQuery(e.target).trigger('shown');\r});\r}\r})();\r\r\r\r",
+    "date": -62135596800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": -62135596800,
+    "objectID": "ac019d3b14a3d55aeaf040b4c69045ae",
+    "permalink": "https://kalimu.github.io/downloads/datascienceforsocialgood/",
+    "publishdate": "0001-01-01T00:00:00Z",
+    "relpermalink": "/downloads/datascienceforsocialgood/",
+    "section": "downloads",
+    "summary": "The Role of Data Science in Pursuit of Long-Term Relationship Between Respondents and Researchers\rvar SLIDE_CONFIG = {\r// Slide settings\rsettings: {\rtitle: 'The Role of Data Science in Pursuit of Long-Term Relationship Between Respondents and Researchers',\ruseBuilds: true,\rusePrettify: true,\renableSlideAreas: true,\renableTouch: true,\r},\r// Author information\rpresenters: [\r{\rname: 'Kamil Wais kamil.wais@gmail.com Center for Social Research, University of Notre Dame, USA  University of Information Technology and Management in Rzeszow, Poland' ,\rcompany: '',\rgplus: '',\rtwitter: '',\rwww: '',\rgithub: ''\r},\r]\r};\r\r\r\r\r\r\r\r\rb, strong {\rfont-weight: bold;\r}\rem {\rfont-style: italic;\r}\rslides  slide {\r-webkit-transition: all 0.",
+    "tags": null,
+    "title": "",
+    "type": "downloads"
+  }
+]

@@ -6,22 +6,11 @@
     <description>Recent content in R on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.4.0</copyright>
-    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.0</copyright>
+    <lastBuildDate>Sun, 13 May 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://kalimu.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Notes from eRum 2018: European R User Conference in Budapest</title>
-      <link>https://kalimu.github.io/post/notes-from-erum-2018-european-r-user-conference-in-budapest/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/post/notes-from-erum-2018-european-r-user-conference-in-budapest/</guid>
-      <description>The second eRum was organized this year in Budapest (Hungary) and gathered ~500 participants (mostly, but not only, from Europe). It was a great event and a worthy successor of the first eRum organized in Poznań (Poland) two years ago.
-In the Workskop Day I participated in two workshops:
- Efficient R programming by Colin Gillespie (author of the Efficient R Programming book by O’Reilly) Building a package that lasts by Colin Fay.</description>
-    </item>
     
     <item>
       <title>Towards Native Declarative Data Collection with Question and Survey Instant Feedback in R&amp;Shiny</title>
@@ -33,6 +22,17 @@ In the Workskop Day I participated in two workshops:
     </item>
     
     <item>
+      <title>Notes from eRum 2018: European R User Conference in Budapest</title>
+      <link>https://kalimu.github.io/post/2018-05-23-notes-from-erum-2018-european-r-user-conference-in-budapest/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://kalimu.github.io/post/2018-05-23-notes-from-erum-2018-european-r-user-conference-in-budapest/</guid>
+      <description>The second eRum was organized this year in Budapest (Hungary) and gathered ~500 participants (mostly, but not only, from Europe). It was a great event and a worthy successor of the first eRum organized in Poznań (Poland) two years ago.
+In the Workskop Day I participated in two workshops:
+ Efficient R programming by Colin Gillespie (author of the Efficient R Programming book by O’Reilly) Building a package that lasts by Colin Fay.</description>
+    </item>
+    
+    <item>
       <title>Welcome to the Tidyverse. Hadley Wickham lecture at Notre Dame University</title>
       <link>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
@@ -40,43 +40,6 @@ In the Workskop Day I participated in two workshops:
       <guid>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
       <description>During my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham’s lecture Welcome to the Tidyverse and meet Hadley in person. Hadley’s talks are always well-structured and worth listening.
 Hadley Wickham has been a prime mover in releasing R upon the masses, enabling hordes of unsuspecting would-be researchers to process and visualize data in ways they never dreamed of. The tidyverse, the culmination of years of effort in the R language, is a universe of packages that facilitate a grammar of data, graphics, and modeling that allows even beginners to speak the language of data science fluently.</description>
-    </item>
-    
-    <item>
-      <title>My Data Science &amp; Programming Skills &amp; Tools</title>
-      <link>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</link>
-      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
-      <description>Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.
-The last update of this post was done: 2018-05-23.
-Data Science SkillsData ManipulationEfficient data manipulation in R;
-dplyr, data.table, reshape2.Working with dates and time-series;
-lubridate, xts.Reproducible AnalysesRStudio IDE, Markdown, LaTeX;</description>
-    </item>
-    
-    <item>
-      <title>Resources: Programming &amp; Data Science in R</title>
-      <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
-      <description>This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.
-The last update of this post was done: 2018-05-23.
-Books (on-line &amp;amp; printed)Hadley Wickham, Advanced R
-The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.</description>
-    </item>
-    
-    <item>
-      <title>Building static homepage with R &amp; blogdown</title>
-      <link>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</link>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</guid>
-      <description>This new homepage is a static website generated in R (!) with the help of brilliant blogdown package by Yihui Xie. Hugo is the site engine and it also uses amazing Academic theme.
-More about the blogdown R package you can find here: https://bookdown.org/yihui/blogdown/
-Some additional usefull posts:
-Updating website with Hugo and BlogdownMaking SiteQuick Start setting up a custom domain with GitHub pages</description>
     </item>
     
     <item>
@@ -91,22 +54,12 @@ In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the 
     
     <item>
       <title>Gender Prediction Methods based on First Names with genderizeR</title>
-      <link>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
+      <link>https://kalimu.github.io/publication/2016_genderizer/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/publication/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
+      <guid>https://kalimu.github.io/publication/2016_genderizer/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
       <description>When using the genderizeR R package in your work, please cite also the article:
 @article{RJ-2016-002, author = {Kamil Wais}, title = {{Gender Prediction Methods Based on First Names with genderizeR}}, year = {2016}, journal = {{The R Journal}}, url = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html}, pages = {17--37}, volume = {8}, number = {1} }  </description>
-    </item>
-    
-    <item>
-      <title>limeRick</title>
-      <link>https://kalimu.github.io/project/limerick/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://kalimu.github.io/project/limerick/</guid>
-      <description>limeRick: The bridge between LimeSurvey and RThe R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:
-importing on-line survey responses into R,adding new responses to the survey directly from R,automatically accessing surveys and question properties,implementing passive measurement surveys,developing data products based on real-time declarative data collection.</description>
     </item>
     
     <item>
@@ -115,7 +68,7 @@ In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the 
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
-      <description>Version: 1.2The last update of this post: 2018-05-23.
+      <description>Version: 1.2The last update of this post: 2018-11-07.
 Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
 See what new Hadley recommends:
 (http://r-pkgs.had.co.nz/release.html).Update R &amp;amp; packages:Rall packagesRStudio (stable or preview version).Update your package:Check unit tests.</description>
@@ -132,16 +85,6 @@ README, BugReports and development repository on GitHub: https://github.com/kali
 The package webpage on CRAN:
 http://cran.r-project.org/web/packages/genderizeR
 Article &amp;amp; Citations:When using the genderizeR R package in your work, please cite also the article:Kamil Wais, Gender Prediction Methods Based on First Names with genderizeR, The R Journal,Vol.</description>
-    </item>
-    
-    <item>
-      <title>Resovia R User Group (RRUG)</title>
-      <link>https://kalimu.github.io/project/rrug/</link>
-      <pubDate>Wed, 23 Jul 2014 21:13:14 -0500</pubDate>
-      
-      <guid>https://kalimu.github.io/project/rrug/</guid>
-      <description>[in Polish]
-Od kwietnia 2016 roku działa pod patronatem WSIiZ w Rzeszowie Resovia R User Group (RRUG), czyli Rzeszowska Grupa Użytkowników R’a. Język programowania statystycznego R jest standardem zarówno wśród analityków sektora komercyjnego, administracyjnego, jak i pracowników naukowych. Globalna liczba jego użytkowników szacowana jest w milionach i stale rośnie. Wymianę doświadczeń związanych z analizą danych za pomocą R’a wspierają liczne grupy użytkowników R’a – lokalne społeczności analityków i programistów wspierające się w rozwoju zawodowym, naukowym i projektach analitycznych.</description>
     </item>
     
   </channel>

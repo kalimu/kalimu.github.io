@@ -6,18 +6,27 @@
     <description>Recent content in Posts on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.4.0</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.0</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://kalimu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Notes from eRum 2018: European R User Conference in Budapest</title>
-      <link>https://kalimu.github.io/post/notes-from-erum-2018-european-r-user-conference-in-budapest/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <title>BigSurv18: Big Data Meets Survey Science Conference and Supercomputing Center in Barcelona</title>
+      <link>https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://kalimu.github.io/post/notes-from-erum-2018-european-r-user-conference-in-budapest/</guid>
+      <guid>https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</guid>
+      <description>Conference Recently, I was representing 7N on BigSurv18 Conference in Barcelona . The conference title was Big Data Meets Survey Science and this was the first conference with the aim of exploring new statistical frontiers at the intersection of Survey Science and Big Data. The conference was organized by The European Survey Research Association (ESRA) and was held at the Research and Expertise Center of Survey Methodology at the Universitat Pompeu Fabra in Barcelona.</description>
+    </item>
+    
+    <item>
+      <title>Notes from eRum 2018: European R User Conference in Budapest</title>
+      <link>https://kalimu.github.io/post/2018-05-23-notes-from-erum-2018-european-r-user-conference-in-budapest/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://kalimu.github.io/post/2018-05-23-notes-from-erum-2018-european-r-user-conference-in-budapest/</guid>
       <description>The second eRum was organized this year in Budapest (Hungary) and gathered ~500 participants (mostly, but not only, from Europe). It was a great event and a worthy successor of the first eRum organized in Poznań (Poland) two years ago.
 In the Workskop Day I participated in two workshops:
  Efficient R programming by Colin Gillespie (author of the Efficient R Programming book by O’Reilly) Building a package that lasts by Colin Fay.</description>
@@ -25,11 +34,11 @@ In the Workskop Day I participated in two workshops:
     
     <item>
       <title>Wrażenia z pobytu na Uniwersytecie Notre Dame (USA)</title>
-      <link>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
-      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      <link>https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://kalimu.github.io/post/wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
-      <description>Center for Research Computing (CRC)Od 1 sierpnia do 31 października 2017 r. miałem możliwość i ogromną satysfakcję gościć na Uniwersytecie Notre Dame w stanie Indiana. Pojechałem tam zaproszony przez dyrektora Center for Research Computing (CRC) prof. Jarka Nabrzyskiego, którego poznałem w Tokio rok wcześniej na konferencji plenarnej Research Data Alliance. W USA spędziłem trzy miesiące jako wizytujący assistant professor, przyglądając się pracy CRC, które jest jednym z kilku wydzielonych Centrów, działających na Uniwersytecie Notre Dame.</description>
+      <guid>https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
+      <description>Center for Research Computing (CRC) Od 1 sierpnia do 31 października 2017 r. miałem możliwość i ogromną satysfakcję gościć na Uniwersytecie Notre Dame w stanie Indiana. Pojechałem tam zaproszony przez dyrektora Center for Research Computing (CRC) prof. Jarka Nabrzyskiego, którego poznałem w Tokio rok wcześniej na konferencji plenarnej Research Data Alliance. W USA spędziłem trzy miesiące jako wizytujący assistant professor, przyglądając się pracy CRC, które jest jednym z kilku wydzielonych Centrów, działających na Uniwersytecie Notre Dame.</description>
     </item>
     
     <item>
@@ -40,55 +49,6 @@ In the Workskop Day I participated in two workshops:
       <guid>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
       <description>During my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham’s lecture Welcome to the Tidyverse and meet Hadley in person. Hadley’s talks are always well-structured and worth listening.
 Hadley Wickham has been a prime mover in releasing R upon the masses, enabling hordes of unsuspecting would-be researchers to process and visualize data in ways they never dreamed of. The tidyverse, the culmination of years of effort in the R language, is a universe of packages that facilitate a grammar of data, graphics, and modeling that allows even beginners to speak the language of data science fluently.</description>
-    </item>
-    
-    <item>
-      <title>Seminarium z udziałem prof. Philipa Zimbardo </title>
-      <link>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</guid>
-      <description>W sobotę (24.06) odbyło się na WSIiZ insprujące seminarium z udziałem on-line prof. P.Zimbardo.
-Philip Zimbardo był w 1971 roku liderem sławnego Stanfordzkiego Eksperymentu Więziennego i świadkiem-ekspertem w sprawie więzienia Abu Ghraib. Autor wpływowych książek: The Time Paradox: The New Psychology of Time That Will Change Your Life i The Lucifer Effect: Understanding How Good People Turn Evil.
-Warto zapoznać się z projektem Profesora Zimbardo:
-Heroic Imagination Project.</description>
-    </item>
-    
-    <item>
-      <title>My Data Science &amp; Programming Skills &amp; Tools</title>
-      <link>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</link>
-      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
-      <description>Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.
-The last update of this post was done: 2018-05-23.
-Data Science SkillsData ManipulationEfficient data manipulation in R;
-dplyr, data.table, reshape2.Working with dates and time-series;
-lubridate, xts.Reproducible AnalysesRStudio IDE, Markdown, LaTeX;</description>
-    </item>
-    
-    <item>
-      <title>Resources: Programming &amp; Data Science in R</title>
-      <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
-      <description>This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.
-The last update of this post was done: 2018-05-23.
-Books (on-line &amp;amp; printed)Hadley Wickham, Advanced R
-The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.</description>
-    </item>
-    
-    <item>
-      <title>Building static homepage with R &amp; blogdown</title>
-      <link>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</link>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/post/building-static-homepage-with-r-and-blogdown/</guid>
-      <description>This new homepage is a static website generated in R (!) with the help of brilliant blogdown package by Yihui Xie. Hugo is the site engine and it also uses amazing Academic theme.
-More about the blogdown R package you can find here: https://bookdown.org/yihui/blogdown/
-Some additional usefull posts:
-Updating website with Hugo and BlogdownMaking SiteQuick Start setting up a custom domain with GitHub pages</description>
     </item>
     
     <item>
@@ -117,7 +77,7 @@ As one of the winners of the RDA Early Career European Researchers &amp;amp; Sci
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
-      <description>Version: 1.2The last update of this post: 2018-05-23.
+      <description>Version: 1.2The last update of this post: 2018-11-07.
 Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
 See what new Hadley recommends:
 (http://r-pkgs.had.co.nz/release.html).Update R &amp;amp; packages:Rall packagesRStudio (stable or preview version).Update your package:Check unit tests.</description>

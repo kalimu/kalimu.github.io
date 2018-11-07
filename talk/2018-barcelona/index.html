@@ -1,0 +1,1023 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 3.1.0">
+  <meta name="generator" content="Hugo 0.50" />
+  <meta name="author" content="Kamil Wais Ph.D.">
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="Offline research paradigms are still dominant, even in the world of online research techniques. Most online surveys are mainly offline questionnaires converted into more or less advanced online HTML forms. Hence, they are not natively online—not only do they not exploit the full potential of Internet technologies, but they are outdated already by their inherited design. Thus, online techniques inherit some undesirable offline characteristics: high burden and low value for respondents and non-equivalent information exchange between a respondent and a researcher. This is one of the reasons why social researchers usually fail to establish long-term relationships with respondents—the respondents devote their time and share their knowledge, but receive nothing valuable in return. Hence, their intrinsic motivation is low, resulting in long-term trends of decreasing response rates in social studies. Another reason for decreasing response rates is the prevalent model of respondent-researcher relationship, which is based on the following heuristic: 1) find potential respondents within a time window that is convenient for a researcher and not necessarily convenient for the respondents; 2) convince them to devote their time to work through a questionnaire, which is often unattractive and time-consuming; 3) convince them to share valuable, often quite private and sensitive information, with someone who will benefit from it; 4) do not share any valuable information with respondents in return; 5) give the respondents as little as possible in return to be as cost-effective as possible; 6) repeat the whole process as many times and as for many respondents as necessary. In the long run this model is clearly not sustainable, but we—social scientists—act like the general population of respondents is infinite, or it is an easily renewable resource. This situation can be seen as the classic &#39;tragedy of the commons&#39; describing a situation where a shared resource is spoiled and depleted by collective actions of all the actors driven by their individual self-interest, which is at odds with the long-term interests of the common good. We need to seek, and to be willing to accept, new paradigms in social science research techniques that will allow us to develop new online research tools designed to build long-term relationships with respondents. We could try to achieve this goal by providing respondents with highly customised instant feedback. This approach, based on valuable information exchange, could be implemented as after-question and after-survey feedback in a new type of online surveys. The real-world examples show that even simplistic versions of this approach can be highly successful. Salary surveys, which ask people about their current salary and compare it to the salaries of people similar to them, have been proven to be highly scalable and able to collect millions of salary profiles. While thinking about promising potential and possible implementations of this approach in social sciences, we also need to think about possible theoretical, empirical, and technological approaches to this problem, and methodological concerns that should be addressed.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://kalimu.github.io/talk/2018-barcelona/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-100423384-1', 'auto');
+      ga('set', 'anonymizeIp', true);
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+  <link rel="alternate" href="https://kalimu.github.io/index.xml" type="application/rss+xml" title="Kamil Wais">
+  <link rel="feed" href="https://kalimu.github.io/index.xml" type="application/rss+xml" title="Kamil Wais">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://kalimu.github.io/talk/2018-barcelona/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Kamil Wais">
+  <meta property="og:url" content="https://kalimu.github.io/talk/2018-barcelona/">
+  <meta property="og:title" content="New Paradigms in Online Declarative Data Collection | Kamil Wais">
+  <meta property="og:description" content="Offline research paradigms are still dominant, even in the world of online research techniques. Most online surveys are mainly offline questionnaires converted into more or less advanced online HTML forms. Hence, they are not natively online—not only do they not exploit the full potential of Internet technologies, but they are outdated already by their inherited design. Thus, online techniques inherit some undesirable offline characteristics: high burden and low value for respondents and non-equivalent information exchange between a respondent and a researcher. This is one of the reasons why social researchers usually fail to establish long-term relationships with respondents—the respondents devote their time and share their knowledge, but receive nothing valuable in return. Hence, their intrinsic motivation is low, resulting in long-term trends of decreasing response rates in social studies. Another reason for decreasing response rates is the prevalent model of respondent-researcher relationship, which is based on the following heuristic: 1) find potential respondents within a time window that is convenient for a researcher and not necessarily convenient for the respondents; 2) convince them to devote their time to work through a questionnaire, which is often unattractive and time-consuming; 3) convince them to share valuable, often quite private and sensitive information, with someone who will benefit from it; 4) do not share any valuable information with respondents in return; 5) give the respondents as little as possible in return to be as cost-effective as possible; 6) repeat the whole process as many times and as for many respondents as necessary. In the long run this model is clearly not sustainable, but we—social scientists—act like the general population of respondents is infinite, or it is an easily renewable resource. This situation can be seen as the classic &#39;tragedy of the commons&#39; describing a situation where a shared resource is spoiled and depleted by collective actions of all the actors driven by their individual self-interest, which is at odds with the long-term interests of the common good. We need to seek, and to be willing to accept, new paradigms in social science research techniques that will allow us to develop new online research tools designed to build long-term relationships with respondents. We could try to achieve this goal by providing respondents with highly customised instant feedback. This approach, based on valuable information exchange, could be implemented as after-question and after-survey feedback in a new type of online surveys. The real-world examples show that even simplistic versions of this approach can be highly successful. Salary surveys, which ask people about their current salary and compare it to the salaries of people similar to them, have been proven to be highly scalable and able to collect millions of salary profiles. While thinking about promising potential and possible implementations of this approach in social sciences, we also need to think about possible theoretical, empirical, and technological approaches to this problem, and methodological concerns that should be addressed.">
+  
+  
+    
+  <meta property="og:image" content="https://kalimu.github.io/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2018-10-26T00:00:00&#43;02:00">
+  
+  <meta property="article:modified_time" content="2018-11-07T11:57:34&#43;01:00">
+  
+
+  
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
+
+  
+
+  <title>New Paradigms in Online Declarative Data Collection | Kamil Wais</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Kamil Wais</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#changelog">
+            
+            <span>News</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#posts">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#publications_selected">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#talks">
+            
+            <span>Talks</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#course">
+            
+            <span>Courses</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#offer">
+            
+            <span>Hire me!</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+<div class="pub" itemscope itemtype="http://schema.org/Event">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <img src="/talk/2018-barcelona/featured_hu67db4f92d4be5548dfe97bff9216487a_112248_1600x400_fill_q90_box_bottomleft_2.png" class="article-banner" itemprop="image" alt="">
+  
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">New Paradigms in Online Declarative Data Collection</h1>
+
+        
+
+        
+
+<div class="article-metadata">
+
+  
+  
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Kamil Wais Ph.D.">
+  </span>
+  
+
+  <span class="article-date">
+    
+        Last updated on
+    
+    <meta content="2018-10-26 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+    <time datetime="2018-11-07 11:57:34 &#43;0100 CET" itemprop="dateModified">
+       7 November, 2018
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Kamil Wais Ph.D.">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+
+</div>
+
+
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/odgar/">
+    Project
+  </a>
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.bigsurv18.org/program?sess=30" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+</div>
+
+
+
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=New%20Paradigms%20in%20Online%20Declarative%20Data%20Collection&amp;url=https%3a%2f%2fkalimu.github.io%2ftalk%2f2018-barcelona%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fkalimu.github.io%2ftalk%2f2018-barcelona%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fkalimu.github.io%2ftalk%2f2018-barcelona%2f&amp;title=New%20Paradigms%20in%20Online%20Declarative%20Data%20Collection"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fkalimu.github.io%2ftalk%2f2018-barcelona%2f&amp;title=New%20Paradigms%20in%20Online%20Declarative%20Data%20Collection"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=New%20Paradigms%20in%20Online%20Declarative%20Data%20Collection&amp;body=https%3a%2f%2fkalimu.github.io%2ftalk%2f2018-barcelona%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/talk/2018-barcelona/featured_hu67db4f92d4be5548dfe97bff9216487a_112248_680x500_fill_q90_box_bottomleft_2.png" itemprop="image" alt="">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">New Paradigms in Online Declarative Data Collection</h1>
+
+  
+
+  
+
+<div class="article-metadata">
+
+  
+  
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Kamil Wais Ph.D.">
+  </span>
+  
+
+  <span class="article-date">
+    
+        Last updated on
+    
+    <meta content="2018-10-26 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+    <time datetime="2018-11-07 11:57:34 &#43;0100 CET" itemprop="dateModified">
+       7 November, 2018
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Kamil Wais Ph.D.">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=New%20Paradigms%20in%20Online%20Declarative%20Data%20Collection&amp;url=https%3a%2f%2fkalimu.github.io%2ftalk%2f2018-barcelona%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fkalimu.github.io%2ftalk%2f2018-barcelona%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fkalimu.github.io%2ftalk%2f2018-barcelona%2f&amp;title=New%20Paradigms%20in%20Online%20Declarative%20Data%20Collection"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fkalimu.github.io%2ftalk%2f2018-barcelona%2f&amp;title=New%20Paradigms%20in%20Online%20Declarative%20Data%20Collection"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=New%20Paradigms%20in%20Online%20Declarative%20Data%20Collection&amp;body=https%3a%2f%2fkalimu.github.io%2ftalk%2f2018-barcelona%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/odgar/">
+    Project
+  </a>
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.bigsurv18.org/program?sess=30" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Offline research paradigms are still dominant, even in the world of online research techniques. Most online surveys are mainly offline questionnaires converted into more or less advanced online HTML forms. Hence, they are not natively online—not only do they not exploit the full potential of Internet technologies, but they are outdated already by their inherited design. Thus, online techniques inherit some undesirable offline characteristics: high burden and low value for respondents and non-equivalent information exchange between a respondent and a researcher. This is one of the reasons why social researchers usually fail to establish long-term relationships with respondents—the respondents devote their time and share their knowledge, but receive nothing valuable in return. Hence, their intrinsic motivation is low, resulting in long-term trends of decreasing response rates in social studies. Another reason for decreasing response rates is the prevalent model of respondent-researcher relationship, which is based on the following heuristic: 1) find potential respondents within a time window that is convenient for a researcher and not necessarily convenient for the respondents; 2) convince them to devote their time to work through a questionnaire, which is often unattractive and time-consuming; 3) convince them to share valuable, often quite private and sensitive information, with someone who will benefit from it; 4) do not share any valuable information with respondents in return; 5) give the respondents as little as possible in return to be as cost-effective as possible; 6) repeat the whole process as many times and as for many respondents as necessary. In the long run this model is clearly not sustainable, but we—social scientists—act like the general population of respondents is infinite, or it is an easily renewable resource. This situation can be seen as the classic &lsquo;tragedy of the commons&rsquo; describing a situation where a shared resource is spoiled and depleted by collective actions of all the actors driven by their individual self-interest, which is at odds with the long-term interests of the common good. We need to seek, and to be willing to accept, new paradigms in social science research techniques that will allow us to develop new online research tools designed to build long-term relationships with respondents. We could try to achieve this goal by providing respondents with highly customised instant feedback. This approach, based on valuable information exchange, could be implemented as after-question and after-survey feedback in a new type of online surveys. The real-world examples show that even simplistic versions of this approach can be highly successful. Salary surveys, which ask people about their current salary and compare it to the salaries of people similar to them, have been proven to be highly scalable and able to collect millions of salary profiles. While thinking about promising potential and possible implementations of this approach in social sciences, we also need to think about possible theoretical, empirical, and technological approaches to this problem, and methodological concerns that should be addressed.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            
+            25 October, 2018
+            <div class="talk-time">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://www.bigsurv18.org/" target="_blank" rel="noopener">
+            BigSurv18: Big Data Meets Survey Science, Barcelona
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/conference/">conference</a>
+  
+  <a class="badge badge-light" href="/tags/talk/">talk</a>
+  
+  <a class="badge badge-light" href="/tags/odgar/">ODGAR</a>
+  
+  <a class="badge badge-light" href="/tags/instant-feedback/">instant feedback</a>
+  
+  <a class="badge badge-light" href="/tags/respondent-researcher-relationship/">respondent-researcher relationship</a>
+  
+</div>
+
+
+
+    
+
+
+
+
+
+
+<div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  
+  <img class="portrait mr-3" src="/img/portrait3.jpg" itemprop="image" alt="Avatar">
+  
+  <div class="media-body">
+    <h5 class="card-title" itemprop="name"><a href="/">Kamil Wais Ph.D.</a></h5>
+    <h6 class="card-subtitle">Data Scientist / R &amp; Shiny Developer</h6>
+    
+    <ul class="network-icon" aria-hidden="true">
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="/#contact" >
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="//twitter.com/KamilWais" >
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="//www.linkedin.com/in/kamilwais/" >
+          <i class="fab fa-linkedin"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://scholar.google.pl/citations?user=CBg59pcAAAAJ&amp;hl=pl" target="_blank" rel="noopener">
+          <i class="ai ai-google-scholar"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="//rpubs.com/kalimu" >
+          <i class="fas fa-chart-bar"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="//github.com/kalimu" >
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="/index.xml" >
+          <i class="fas fa-rss"></i>
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+
+
+  </div>
+</div>
+
+
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.0 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+      
+    
+
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "Search Results",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+  </body>
+</html>
+

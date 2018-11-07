@@ -6,11 +6,20 @@
     <description>Recent content in DataScience on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.4.0</copyright>
-    <lastBuildDate>Mon, 28 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.0</copyright>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://kalimu.github.io/tags/datascience/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BigSurv18: Big Data Meets Survey Science Conference and Supercomputing Center in Barcelona</title>
+      <link>https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</guid>
+      <description>Conference Recently, I was representing 7N on BigSurv18 Conference in Barcelona . The conference title was Big Data Meets Survey Science and this was the first conference with the aim of exploring new statistical frontiers at the intersection of Survey Science and Big Data. The conference was organized by The European Survey Research Association (ESRA) and was held at the Research and Expertise Center of Survey Methodology at the Universitat Pompeu Fabra in Barcelona.</description>
+    </item>
     
     <item>
       <title>Welcome to the Tidyverse. Hadley Wickham lecture at Notre Dame University</title>
@@ -20,31 +29,6 @@
       <guid>https://kalimu.github.io/post/welcome-to-the-tidyverse-hadley-wickham-lecture-at-notre-dame-university/</guid>
       <description>During my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham’s lecture Welcome to the Tidyverse and meet Hadley in person. Hadley’s talks are always well-structured and worth listening.
 Hadley Wickham has been a prime mover in releasing R upon the masses, enabling hordes of unsuspecting would-be researchers to process and visualize data in ways they never dreamed of. The tidyverse, the culmination of years of effort in the R language, is a universe of packages that facilitate a grammar of data, graphics, and modeling that allows even beginners to speak the language of data science fluently.</description>
-    </item>
-    
-    <item>
-      <title>My Data Science &amp; Programming Skills &amp; Tools</title>
-      <link>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</link>
-      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/post/my-data-science-and-programming-skills-and-tools/</guid>
-      <description>Here is a selection of my Data Science and Programming skills and tools that turned out to be helpful in my work and I believe are important for any Data Scientist as well.
-The last update of this post was done: 2018-05-23.
-Data Science SkillsData ManipulationEfficient data manipulation in R;
-dplyr, data.table, reshape2.Working with dates and time-series;
-lubridate, xts.Reproducible AnalysesRStudio IDE, Markdown, LaTeX;</description>
-    </item>
-    
-    <item>
-      <title>Resources: Programming &amp; Data Science in R</title>
-      <link>https://kalimu.github.io/post/resources-programming-data-science-in-r/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalimu.github.io/post/resources-programming-data-science-in-r/</guid>
-      <description>This post is an annotated bibliography of helpful resources for programming and doing Data Science in R. I will try to expand this list and add some short recommendations in the future.
-The last update of this post was done: 2018-05-23.
-Books (on-line &amp;amp; printed)Hadley Wickham, Advanced R
-The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.</description>
     </item>
     
   </channel>

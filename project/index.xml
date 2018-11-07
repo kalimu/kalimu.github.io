@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.4.0</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.0</copyright>
     <lastBuildDate>Sun, 18 Jun 2017 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="https://kalimu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
@@ -18,18 +18,8 @@
       <pubDate>Sun, 18 Jun 2017 21:13:14 -0500</pubDate>
       
       <guid>https://kalimu.github.io/project/gus/</guid>
-      <description>SummaryIn this research project we analyze barriers and bad practices in accessing Open Administrative Data in Poland.
+      <description>SummaryIn this research project we analyze barriers and bad practices in accessing Open Administrative Data in Poland.
 </description>
-    </item>
-    
-    <item>
-      <title>limeRick</title>
-      <link>https://kalimu.github.io/project/limerick/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://kalimu.github.io/project/limerick/</guid>
-      <description>limeRick: The bridge between LimeSurvey and RThe R package LimeRick enables close connection between R and LimeSurvey - one of the most popular and advanced open-source scripts for on-line surveys (a.k.a. CAWI - Computer-Aided Web Interviewing). Using new LimeSurvey RemoteControl2 API for two-way data exchange the package allows for:
-importing on-line survey responses into R,adding new responses to the survey directly from R,automatically accessing surveys and question properties,implementing passive measurement surveys,developing data products based on real-time declarative data collection.</description>
     </item>
     
     <item>
@@ -43,16 +33,6 @@ README, BugReports and development repository on GitHub: https://github.com/kali
 The package webpage on CRAN:
 http://cran.r-project.org/web/packages/genderizeR
 Article &amp;amp; Citations:When using the genderizeR R package in your work, please cite also the article:Kamil Wais, Gender Prediction Methods Based on First Names with genderizeR, The R Journal,Vol.</description>
-    </item>
-    
-    <item>
-      <title>Resovia R User Group (RRUG)</title>
-      <link>https://kalimu.github.io/project/rrug/</link>
-      <pubDate>Wed, 23 Jul 2014 21:13:14 -0500</pubDate>
-      
-      <guid>https://kalimu.github.io/project/rrug/</guid>
-      <description>[in Polish]
-Od kwietnia 2016 roku działa pod patronatem WSIiZ w Rzeszowie Resovia R User Group (RRUG), czyli Rzeszowska Grupa Użytkowników R’a. Język programowania statystycznego R jest standardem zarówno wśród analityków sektora komercyjnego, administracyjnego, jak i pracowników naukowych. Globalna liczba jego użytkowników szacowana jest w milionach i stale rośnie. Wymianę doświadczeń związanych z analizą danych za pomocą R’a wspierają liczne grupy użytkowników R’a – lokalne społeczności analityków i programistów wspierające się w rozwoju zawodowym, naukowym i projektach analitycznych.</description>
     </item>
     
     <item>
@@ -71,7 +51,7 @@ BackgroundOff-line research paradigms are still dominant even in on-line survey
       <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
       
       <guid>https://kalimu.github.io/project/polonia/</guid>
-      <description>W ramach projektu badawczego prowadzone są badania CAWI i PAPI wśród przedstawicieli środowisk polonijnych z całego świata, m.in.:
+      <description>W ramach projektu badawczego prowadzone są badania CAWI i PAPI wśród przedstawicieli środowisk polonijnych z całego świata, m.in.:
 Polonijny Omnibus – badanie ankietowe przeprowadzane od 2011 r. wśród uczestników kolejnych edycji Światowych Festiwali Polonijnych Zespołów Folklorystycznych w Rzeszowie.Partnerami projektu są:
 Rzeszowski Oddział Stowarzyszenia “Wspólnota Polska”Centrum Badań nad Polonią i Polakami na Świecie Uniwersytetu Rzeszowskiego</description>
     </item>

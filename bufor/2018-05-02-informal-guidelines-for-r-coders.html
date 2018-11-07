@@ -1,0 +1,59 @@
+---
+title: Informal Guidelines for R Coders [draft]
+author: Kamil Wais
+date: '2018-05-02'
+lastmod: '2018-05-02'
+draft: true
+slug: informal-guidelines-for-r-coders
+categories:
+  - programming
+tags:
+  - R
+  - programming
+header:
+  caption: ''
+  image: ''
+---
+
+
+
+<ol style="list-style-type: decimal">
+<li><strong>Editor setting</strong>
+<ul>
+<li>Set <code>80 characters</code> as the maximum length of the line in R Studio, and obey that limit.</li>
+<li>Set <code>2 spaces</code> for code indendation.</li>
+</ul></li>
+<li><strong>Naming convention</strong>
+<ul>
+<li>Be consistent.</li>
+<li>Use lowercase verb with underscores <code>_</code> for variable name: <code>add_numbers()</code>.</li>
+<li>You can group related functions from the same package using prefixes: <code>math_add_numbers()</code>.</li>
+<li>You can use CamelCase or camelCase naming convention if you inisist, but please, do not use periods inside function and variable names. Reserve them only for working with S3 methods.</li>
+</ul></li>
+<li><strong>Code Aesthetics</strong>
+<ul>
+<li>Always use curly braces with <code>if else</code> statements.</li>
+<li>Always intend the code inside curly braces and function definition.</li>
+</ul></li>
+<li><strong>Comments</strong>
+<ul>
+<li>Comments that explain what your code is doing are usually a bad practice. Instead improve readabilty of your code using, for example, more intuitive identifiers.</li>
+<li><code>TODO</code> comments are not bad.</li>
+<li>Commenting out parts of your code is usually a bad practice.</li>
+</ul></li>
+<li><strong>Unit Tests</strong>
+<ul>
+<li>All functions in you package (especially exported ones) should have related unit tests.</li>
+<li>Name your R file with unit test the same as R file with function code with prefix like <code>test_</code>: <code>test_math_add_numbers.R</code>.</li>
+<li></li>
+</ul></li>
+<li><strong>Code Diagnostics</strong>
+<ul>
+<li>Check all options for code diagnostics in RStudio (Tools/Global options/Code/Diagnostics), and follow their suggestions.</li>
+<li>Use <code>lintr</code> package for checking if your code followes coding good practices.</li>
+</ul></li>
+<li><strong>Session Information</strong>
+<ul>
+<li>If you are sharing your analysis with others, make it more reproducible adding at the end output from <code>sessionInfo</code>.</li>
+</ul></li>
+</ol>

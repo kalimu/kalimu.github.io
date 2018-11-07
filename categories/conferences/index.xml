@@ -1,38 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conferences on Kamil Wais</title>
+    <title>conferences on Kamil Wais</title>
     <link>https://kalimu.github.io/categories/conferences/</link>
-    <description>Recent content in Conferences on Kamil Wais</description>
+    <description>Recent content in conferences on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.4.0</copyright>
-    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.0</copyright>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://kalimu.github.io/categories/conferences/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Notes from eRum 2018: European R User Conference in Budapest</title>
-      <link>https://kalimu.github.io/post/notes-from-erum-2018-european-r-user-conference-in-budapest/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <title>BigSurv18: Big Data Meets Survey Science Conference and Supercomputing Center in Barcelona</title>
+      <link>https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://kalimu.github.io/post/notes-from-erum-2018-european-r-user-conference-in-budapest/</guid>
-      <description>The second eRum was organized this year in Budapest (Hungary) and gathered ~500 participants (mostly, but not only, from Europe). It was a great event and a worthy successor of the first eRum organized in Poznań (Poland) two years ago.
-In the Workskop Day I participated in two workshops:
- Efficient R programming by Colin Gillespie (author of the Efficient R Programming book by O’Reilly) Building a package that lasts by Colin Fay.</description>
+      <guid>https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</guid>
+      <description>Conference Recently, I was representing 7N on BigSurv18 Conference in Barcelona . The conference title was Big Data Meets Survey Science and this was the first conference with the aim of exploring new statistical frontiers at the intersection of Survey Science and Big Data. The conference was organized by The European Survey Research Association (ESRA) and was held at the Research and Expertise Center of Survey Methodology at the Universitat Pompeu Fabra in Barcelona.</description>
     </item>
     
     <item>
-      <title>Seminarium z udziałem prof. Philipa Zimbardo </title>
-      <link>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Notes from eRum 2018: European R User Conference in Budapest</title>
+      <link>https://kalimu.github.io/post/2018-05-23-notes-from-erum-2018-european-r-user-conference-in-budapest/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://kalimu.github.io/post/seminarium-z-udzialem-prof-philip-zimbardo/</guid>
-      <description>W sobotę (24.06) odbyło się na WSIiZ insprujące seminarium z udziałem on-line prof. P.Zimbardo.
-Philip Zimbardo był w 1971 roku liderem sławnego Stanfordzkiego Eksperymentu Więziennego i świadkiem-ekspertem w sprawie więzienia Abu Ghraib. Autor wpływowych książek: The Time Paradox: The New Psychology of Time That Will Change Your Life i The Lucifer Effect: Understanding How Good People Turn Evil.
-Warto zapoznać się z projektem Profesora Zimbardo:
-Heroic Imagination Project.</description>
+      <guid>https://kalimu.github.io/post/2018-05-23-notes-from-erum-2018-european-r-user-conference-in-budapest/</guid>
+      <description>The second eRum was organized this year in Budapest (Hungary) and gathered ~500 participants (mostly, but not only, from Europe). It was a great event and a worthy successor of the first eRum organized in Poznań (Poland) two years ago.
+In the Workskop Day I participated in two workshops:
+ Efficient R programming by Colin Gillespie (author of the Efficient R Programming book by O’Reilly) Building a package that lasts by Colin Fay.</description>
     </item>
     
     <item>
