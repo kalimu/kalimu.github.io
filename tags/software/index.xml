@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>software on Kamil Wais</title>
-    <link>https://kalimu.github.io/tags/software/</link>
+    <link>/tags/software/</link>
     <description>Recent content in software on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.0</copyright>
-    <lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.1</copyright>
+    <lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://kalimu.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Presentation of R package LimeRick on eRum</title>
-      <link>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</link>
-      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      <link>/post/2016-10-09-limerick-erum/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://kalimu.github.io/post/presentation-of-r-package-limerick-on-erum/</guid>
+      <guid>/post/2016-10-09-limerick-erum/</guid>
       <description>UPDATE: The online static version of the presentation is available here: http://rpubs.com/kalimu/erum. Thank you for all the feedback!
 In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data.</description>
     </item>
     
     <item>
       <title>Gender Prediction Methods based on First Names with genderizeR</title>
-      <link>https://kalimu.github.io/publication/2016_genderizer/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
+      <link>/publication/2016_genderizer/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/publication/2016_genderizer/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
+      <guid>/publication/2016_genderizer/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
       <description>When using the genderizeR R package in your work, please cite also the article:
 @article{RJ-2016-002, author = {Kamil Wais}, title = {{Gender Prediction Methods Based on First Names with genderizeR}}, year = {2016}, journal = {{The R Journal}}, url = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html}, pages = {17--37}, volume = {8}, number = {1} }  </description>
     </item>
     
     <item>
       <title>Checklist for R package submission to CRAN</title>
-      <link>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</link>
+      <link>/post/checklist-for-r-package-submission-to-cran/</link>
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
+      <guid>/post/checklist-for-r-package-submission-to-cran/</guid>
       <description>Version: 1.2The last update of this post: 2018-11-07.
 Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
 See what new Hadley recommends:
@@ -46,10 +46,10 @@ See what new Hadley recommends:
     
     <item>
       <title>genderizeR</title>
-      <link>https://kalimu.github.io/project/genderizer/</link>
+      <link>/project/genderizer/</link>
       <pubDate>Tue, 27 Jan 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kalimu.github.io/project/genderizer/</guid>
+      <guid>/project/genderizer/</guid>
       <description>R package for gender prediction based on first namesThe package uses genderize.io API to predict gender from first names extracted from text vector. The accuracy of prediction could be control by two parameters: counts of a first name in the database and probability of prediction.
 README, BugReports and development repository on GitHub: https://github.com/kalimu/genderizeR
 The package webpage on CRAN:

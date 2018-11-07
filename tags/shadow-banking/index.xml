@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shadow banking on Kamil Wais</title>
-    <link>https://kalimu.github.io/tags/shadow-banking/</link>
+    <link>/tags/shadow-banking/</link>
     <description>Recent content in shadow banking on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.0</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.1</copyright>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kalimu.github.io/tags/shadow-banking/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/shadow-banking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sektor shadow banking w Polsce</title>
-      <link>https://kalimu.github.io/publication/sektor-shadow-banking-in-poland/</link>
+      <link>/publication/sektor-shadow-banking-in-poland/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kalimu.github.io/publication/sektor-shadow-banking-in-poland/</guid>
+      <guid>/publication/sektor-shadow-banking-in-poland/</guid>
       <description></description>
     </item>
     
