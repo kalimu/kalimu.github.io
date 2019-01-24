@@ -5,11 +5,24 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.1.0">
-  <meta name="generator" content="Hugo 0.50" />
-  <meta name="author" content="Kamil Wais Ph.D.">
+  <meta name="generator" content="Source Themes Academic 3.3.0">
+  <meta name="generator" content="Hugo 0.53" />
 
   
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Kamil Wais Ph.D.">
+
   
   
   
@@ -30,6 +43,12 @@
   
 
   
+
+  
+
+  
+
+  
   
   
   <meta name="theme-color" content="#2962ff">
@@ -42,7 +61,7 @@
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
 
     
@@ -95,16 +114,18 @@
 
   <link rel="canonical" href="/talk/2018-budapest/">
 
+  
+  
+  
+  
+    
+  
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Kamil Wais">
   <meta property="og:url" content="/talk/2018-budapest/">
   <meta property="og:title" content="Towards Native Declarative Data Collection with Question and Survey Instant Feedback in R&amp;Shiny | Kamil Wais">
-  <meta property="og:description" content="R is great for data analysis and Shiny is great for interactive data visualisation, but could we use R&amp;Shiny for efficient declarative data collection? Moreover, how can we develop web data products in R&amp;Shiny, that are based on real-time declarative data collection with after-question and after-survey instant feedback? Users of such web data products should be able to immediately access the feedback relevant to their answers. To increase the value of the feedback, it should be dynamically customised to each respondent. This can be achieved by pre-programmed templates of feedback scenarios, which can be adaptively customised by the respondent’s answers to this or previous questions. Employing large analytical and data visualisation capabilities in R, we could try to adapt any type of instant feedback to each user. Using R, we could also combine different feedback sources: a respondent’s answers to a given question and to other questions, other users’ answers, external open data (imported into our app or available via APIs), and aggregated or summarised outcomes from reference studies. What are the possibilities and obstacles for developing such data products natively in R&amp;Shiny? How the idea of QAF (Question, Answer, and Feedback) objects can be implemented in R&amp;Shiny? What is the roadmap for developing ODGAR framework for On-line Data Gathering, Analysing, and Reporting? Is it possible to build mobile app in R&amp;Shiny? I will try to answer these questions using experience gained from developing early stage prototypes.">
-  
-  
-    
-  <meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:description" content="R is great for data analysis and Shiny is great for interactive data visualisation, but could we use R&amp;Shiny for efficient declarative data collection? Moreover, how can we develop web data products in R&amp;Shiny, that are based on real-time declarative data collection with after-question and after-survey instant feedback? Users of such web data products should be able to immediately access the feedback relevant to their answers. To increase the value of the feedback, it should be dynamically customised to each respondent. This can be achieved by pre-programmed templates of feedback scenarios, which can be adaptively customised by the respondent’s answers to this or previous questions. Employing large analytical and data visualisation capabilities in R, we could try to adapt any type of instant feedback to each user. Using R, we could also combine different feedback sources: a respondent’s answers to a given question and to other questions, other users’ answers, external open data (imported into our app or available via APIs), and aggregated or summarised outcomes from reference studies. What are the possibilities and obstacles for developing such data products natively in R&amp;Shiny? How the idea of QAF (Question, Answer, and Feedback) objects can be implemented in R&amp;Shiny? What is the roadmap for developing ODGAR framework for On-line Data Gathering, Analysing, and Reporting? Is it possible to build mobile app in R&amp;Shiny? I will try to answer these questions using experience gained from developing early stage prototypes."><meta property="og:image" content="/talk/2018-budapest/featured.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-05-13T00:00:00&#43;02:00">
@@ -146,6 +167,36 @@
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
 
 <nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
   <div class="container">
@@ -290,7 +341,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#course">
+          <a class="nav-link" href="/#accomplishments">
             
             <span>Courses</span>
             
@@ -343,6 +394,11 @@
         
 
         
+
+        
+
+        
+
       </ul>
 
     </div>
@@ -366,7 +422,7 @@
 
 
 <div class="article-header d-xl-none">
-  <img src="/talk/2018-budapest/featured_hu6642ca7e6cb2e44fc8a5cc428261463c_724339_1600x400_fill_q90_box_smart1_2.png" class="article-banner" itemprop="image" alt="">
+  <div class="featured-image" style="background-image: url('/talk/2018-budapest/featured_hu6642ca7e6cb2e44fc8a5cc428261463c_724339_800x0_resize_box_2.png');"></div>
   
 </div>
 
@@ -381,27 +437,16 @@
 
         
 
+
+<meta content="2018-05-13 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+<meta content="2018-11-07 11:57:34 &#43;0100 CET" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Kamil Wais Ph.D.">
-  </span>
-  
 
-  <span class="article-date">
-    
-        Last updated on
-    
-    <meta content="2018-05-13 00:00:00 &#43;0200 CEST" itemprop="datePublished">
-    <time datetime="2018-11-07 11:57:34 &#43;0100 CET" itemprop="dateModified">
-       7 November, 2018
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Kamil Wais Ph.D.">
-  </span>
+  
 
   
 
@@ -441,9 +486,6 @@
 
 
 
-  
-
-
 
   
 
@@ -464,8 +506,10 @@
 
 
 
-
-
+  
+  
+    
+  
 <a class="btn btn-outline-primary my-1 mr-1" href="http://rpubs.com/kalimu/erum2018" target="_blank" rel="noopener">
   Slides
 </a>
@@ -539,27 +583,16 @@
 
   
 
+
+<meta content="2018-05-13 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+<meta content="2018-11-07 11:57:34 &#43;0100 CET" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Kamil Wais Ph.D.">
-  </span>
-  
 
-  <span class="article-date">
-    
-        Last updated on
-    
-    <meta content="2018-05-13 00:00:00 &#43;0200 CEST" itemprop="datePublished">
-    <time datetime="2018-11-07 11:57:34 &#43;0100 CET" itemprop="dateModified">
-       7 November, 2018
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Kamil Wais Ph.D.">
-  </span>
+  
 
   
 
@@ -641,9 +674,6 @@
 
 
 
-  
-
-
 
   
 
@@ -664,8 +694,10 @@
 
 
 
-
-
+  
+  
+    
+  
 <a class="btn btn-outline-primary my-1 mr-1" href="http://rpubs.com/kalimu/erum2018" target="_blank" rel="noopener">
   Slides
 </a>
@@ -764,136 +796,11 @@
 
 
 
-<div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
-  <img class="portrait mr-3" src="/img/portrait3.jpg" itemprop="image" alt="Avatar">
-  
-  <div class="media-body">
-    <h5 class="card-title" itemprop="name"><a href="/">Kamil Wais Ph.D.</a></h5>
-    <h6 class="card-subtitle">Data Scientist / R &amp; Shiny Developer</h6>
-    
-    <ul class="network-icon" aria-hidden="true">
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="/#contact" >
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="//twitter.com/KamilWais" >
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="//www.linkedin.com/in/kamilwais/" >
-          <i class="fab fa-linkedin"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://scholar.google.pl/citations?user=CBg59pcAAAAJ&amp;hl=pl" target="_blank" rel="noopener">
-          <i class="ai ai-google-scholar"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="//rpubs.com/kalimu" >
-          <i class="fas fa-chart-bar"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="//github.com/kalimu" >
-          <i class="fab fa-github"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="/index.xml" >
-          <i class="fas fa-rss"></i>
-        </a>
-      </li>
-      
-    </ul>
-  </div>
-</div>
+
+
+
+
 
 
 
@@ -908,7 +815,7 @@
   
 
   <p class="powered-by">
-    &copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.1 &middot; 
+    &copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.6.3 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -974,9 +881,6 @@
       
     
 
-    <script src="/js/hugo-academic.js"></script>
-    
-
     
     
 
@@ -993,7 +897,7 @@
       const search_index_filename = "/index.json";
       const i18n = {
         'placeholder': "Search...",
-        'results': "Search Results",
+        'results': "results found",
         'no_results': "No results found"
       };
       const content_type = {
@@ -1014,6 +918,21 @@
     
 
     
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    <script src="/js/academic.min.546d82170f310ecadabf6df91fb59927.js"></script>
+
     
 
   </body>

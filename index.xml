@@ -6,9 +6,42 @@
     <description>Recent content in Kamil Wais on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.1</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.6.3</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>shinyEventLogger</title>
+      <link>/project/shinyeventlogger/</link>
+      <pubDate>Wed, 23 Jan 2019 21:07:14 +0000</pubDate>
+      
+      <guid>/project/shinyeventlogger/</guid>
+      <description>
+
+
+&lt;div id=&#34;logging-events-in-shiny-apps&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Logging Events in Shiny Apps&lt;/h1&gt;
+&lt;p&gt;R package &lt;code&gt;shinyEventLogger&lt;/code&gt; is a logging framework dedicated for complex shiny apps. Different types of events can be logged (character string, value of a variable, multi-line output of a function, result of a unit test, custom error, warning, or diagnostic message). Each event can be logged with a list of parameters that are event-specific, common for a group of events, or common for all app events. Logging can be done simultaneously to R console, browser JavaScript console, a file log, and a database (currently &lt;code&gt;MongoDB&lt;/code&gt;). Log data can be further analyzed with the help of process-mining techniques from &lt;code&gt;bupaR&lt;/code&gt; package.&lt;/p&gt;
+&lt;div id=&#34;documentation&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documentation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kalimu.github.io/shinyEventLogger/index.html&#34;&gt;PackageDocs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kalimu/shinyEventLogger#readme&#34;&gt;README&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kalimu/shinyEventLogger/issues&#34;&gt;BugReports&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cran.r-project.org/web/packages/shinyEventLogger&#34;&gt;CRAN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;demo-shiny-apps&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Demo Shiny Apps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kalimu.shinyapps.io/demoapp/&#34;&gt;DemoApp&lt;/a&gt; – demo shiny app logging different types of events.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kalimu.shinyapps.io/dashboardapp/&#34;&gt;DashboardApp&lt;/a&gt; – demo dashboard showing examples how logged events from the &lt;code&gt;DemoApp&lt;/code&gt; can be anlyzed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both apps are available in the package and can be run with &lt;code&gt;run_demo()&lt;/code&gt; and &lt;code&gt;run_demo_dashboard()&lt;/code&gt; functions. See also &lt;a href=&#34;https://github.com/kalimu/shinyEventLogger#readme&#34;&gt;README&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>BigSurv18: Big Data Meets Survey Science Conference and Supercomputing Center in Barcelona</title>
@@ -114,10 +147,10 @@ We need to seek, and to be willing to accept, new paradigms in social science re
     
     <item>
       <title>Biographical articles in scientific literature: analysis of articles indexed in Web of Science</title>
-      <link>/publication/2018_scientometrics/biographical-articles-in-scientific-literature-analysis-of-articles-indexed-in-web-of-science/</link>
+      <link>/publication/2018_scientometrics/biographical-articles-in-indexed-in-web-of-science/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/2018_scientometrics/biographical-articles-in-scientific-literature-analysis-of-articles-indexed-in-web-of-science/</guid>
+      <guid>/publication/2018_scientometrics/biographical-articles-in-indexed-in-web-of-science/</guid>
       <description></description>
     </item>
     
@@ -407,25 +440,6 @@ This event was hosted by the MS-ACMS Data Science program and was co-sponsored b
       
       <guid>/publication/external-evaluation-of-the-school-and-academic-achievements/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Presentation of R package LimeRick on eRum</title>
-      <link>/post/2016-10-09-limerick-erum/</link>
-      <pubDate>Sun, 09 Oct 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/post/2016-10-09-limerick-erum/</guid>
-      <description>&lt;p&gt;UPDATE: The online static version of the presentation is available here: &lt;a href=&#34;http://rpubs.com/kalimu/erum&#34; target=&#34;_blank&#34;&gt;http://rpubs.com/kalimu/erum&lt;/a&gt;. Thank you for all the feedback!&lt;/p&gt;
-
-&lt;p&gt;In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the conference “eRum 2016: european R users meeting“. I will give a talk about new R package: LimeRick. LimeRick enables close connection between two important open-source projects: R and LimeSurvey. LimeSurvey is the most advanced open-source system for on-line survey and Computer Aided Web Interviewing (CAWI) and together with R they offer advanced ecosystem for gathering and analyzing declarative data. But the LimeRick package will be able to do a lot more. Stay tuned!&lt;/p&gt;
-
-&lt;p&gt;The abstract:&lt;/p&gt;
-
-&lt;p&gt;The first public presentation of the prototype of a new R package that provides useful connection between R and the most popular open-source web scripts for on-line surveys (&lt;a href=&#34;http://www.LimeSurvey.org&#34; target=&#34;_blank&#34;&gt;http://www.LimeSurvey.org&lt;/a&gt;). The package aims to enable and simplify the work flow of reproducible CAWI research in Social Science; preparing templates for ad hoc and real-time analysis, performing detailed meta-analysis, archiving and monitoring responses directly from R. With the LimeRick package one can import pre-processed data from an on-line survey with an R script (with the use of RemoteConrol2 API or with non-API solution). Then, the data can be processed analytically by an R script and automatically reported with the use of shiny package. The whole process can be pre-programmed and performed without the researcher interference. This enables to build data products based on declarative data from on-line surveys, which are processed, analyzed, and visualized on-line and in real time. It can be of use for performing automatic tracking studies with real-time KPIs monitoring (e.g. for a customer satisfaction survey). The package will be also linked to a tool for unique, advanced analysis of meta-data from an on-line survey, which has already been alpha tested during large CAWI research project.
-As the early prototype of the package is presented, the presentation will end with a call for collaboration for developing and testing the package in different usage cases.&lt;/p&gt;
-
-&lt;p&gt;PS. Thanks to Carsten Shmitz (the main developer of LimeSurvey) after my presentation participants interested in LimeSurvey and LimeRick projects will be able to get some gifts (cool promotional materials of LimeSurvey open-source project – see the picture below). See you then!&lt;/p&gt;
-</description>
     </item>
     
   </channel>

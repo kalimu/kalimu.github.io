@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/project/shinyeventlogger/</loc>
+      <lastmod>2019-01-23T21:07:14+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</loc>
       <lastmod>2018-11-07T11:57:34+01:00</lastmod>
     </url>
@@ -20,8 +28,8 @@
     
     <url>
     
-      <loc>/publication/2018_scientometrics/biographical-articles-in-scientific-literature-analysis-of-articles-indexed-in-web-of-science/</loc>
-      <lastmod>2018-11-07T11:57:34+01:00</lastmod>
+      <loc>/publication/2018_scientometrics/biographical-articles-in-indexed-in-web-of-science/</loc>
+      <lastmod>2019-01-23T07:16:08+01:00</lastmod>
     </url>
     
   
@@ -77,7 +85,7 @@
     <url>
     
       <loc>/post/2017-08-28-hadley-wickham-lecture/welcome-to-the-tidyverse/</loc>
-      <lastmod>2017-08-28T00:00:00+02:00</lastmod>
+      <lastmod>2019-01-23T07:16:08+01:00</lastmod>
     </url>
     
   
@@ -125,7 +133,7 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2018-11-07T11:57:34+01:00</lastmod>
+      <lastmod>2019-01-23T07:16:08+01:00</lastmod>
     </url>
     
   
@@ -141,7 +149,7 @@
     <url>
     
       <loc>/post/2016-10-09-limerick-erum/</loc>
-      <lastmod>2016-10-09T00:00:00+02:00</lastmod>
+      <lastmod>2019-01-23T07:16:08+01:00</lastmod>
     </url>
     
   
@@ -157,7 +165,7 @@
     <url>
     
       <loc>/post/2016-03-31-rda-tokyo/research-data-alliance-rda-7th-plenary-meeting-in-tokyo/</loc>
-      <lastmod>2016-03-31T00:00:00+02:00</lastmod>
+      <lastmod>2019-01-23T07:16:08+01:00</lastmod>
     </url>
     
   
@@ -236,6 +244,13 @@
     
     <url>
     
+      <loc>/author/admin/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/downloads/datascienceforsocialgood/</loc>
     </url>
     
@@ -279,6 +294,14 @@
     
     <url>
     
+      <loc>/author/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/cawi/</loc>
       <lastmod>2018-11-07T11:57:34+01:00</lastmod>
       <priority>0</priority>
@@ -289,7 +312,7 @@
     <url>
     
       <loc>/tags/cran/</loc>
-      <lastmod>2018-11-07T11:57:34+01:00</lastmod>
+      <lastmod>2019-01-23T21:07:14+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -369,7 +392,7 @@
     <url>
     
       <loc>/tags/limesurvey/</loc>
-      <lastmod>2016-10-09T00:00:00+02:00</lastmod>
+      <lastmod>2019-01-23T07:16:08+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -396,7 +419,7 @@
     <url>
     
       <loc>/tags/open-research-data/</loc>
-      <lastmod>2016-03-31T00:00:00+02:00</lastmod>
+      <lastmod>2019-01-23T07:16:08+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -423,7 +446,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2018-11-07T11:57:34+01:00</lastmod>
+      <lastmod>2019-01-23T21:07:14+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -441,7 +464,7 @@
     <url>
     
       <loc>/tags/r/</loc>
-      <lastmod>2018-11-07T11:57:34+01:00</lastmod>
+      <lastmod>2019-01-23T21:07:14+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -450,7 +473,7 @@
     <url>
     
       <loc>/tags/rda/</loc>
-      <lastmod>2016-03-31T00:00:00+02:00</lastmod>
+      <lastmod>2019-01-23T07:16:08+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -468,7 +491,7 @@
     <url>
     
       <loc>/tags/rpackage/</loc>
-      <lastmod>2018-11-07T11:57:34+01:00</lastmod>
+      <lastmod>2019-01-23T21:07:14+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -477,7 +500,7 @@
     <url>
     
       <loc>/tags/shiny/</loc>
-      <lastmod>2018-11-07T11:57:34+01:00</lastmod>
+      <lastmod>2019-01-23T21:07:14+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -504,7 +527,7 @@
     <url>
     
       <loc>/tags/biographical-articles/</loc>
-      <lastmod>2018-11-07T11:57:34+01:00</lastmod>
+      <lastmod>2019-01-23T07:16:08+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -558,7 +581,7 @@
     <url>
     
       <loc>/tags/genderizer/</loc>
-      <lastmod>2018-11-07T11:57:34+01:00</lastmod>
+      <lastmod>2019-01-23T07:16:08+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -639,7 +662,7 @@
     <url>
     
       <loc>/tags/scientometrics/</loc>
-      <lastmod>2018-11-07T11:57:34+01:00</lastmod>
+      <lastmod>2019-01-23T07:16:08+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -666,7 +689,7 @@
     <url>
     
       <loc>/tags/software/</loc>
-      <lastmod>2016-10-09T00:00:00+02:00</lastmod>
+      <lastmod>2019-01-23T21:07:14+00:00</lastmod>
       <priority>0</priority>
     </url>
     

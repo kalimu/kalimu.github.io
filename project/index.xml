@@ -6,11 +6,20 @@
     <description>Recent content in Projects on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.1</copyright>
-    <lastBuildDate>Sun, 18 Jun 2017 21:13:14 -0500</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.6.3</copyright>
+    <lastBuildDate>Wed, 23 Jan 2019 21:07:14 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>shinyEventLogger</title>
+      <link>/project/shinyeventlogger/</link>
+      <pubDate>Wed, 23 Jan 2019 21:07:14 +0000</pubDate>
+      
+      <guid>/project/shinyeventlogger/</guid>
+      <description>Logging Events in Shiny AppsR package shinyEventLogger is a logging framework dedicated for complex shiny apps. Different types of events can be logged (character string, value of a variable, multi-line output of a function, result of a unit test, custom error, warning, or diagnostic message). Each event can be logged with a list of parameters that are event-specific, common for a group of events, or common for all app events.</description>
+    </item>
     
     <item>
       <title>Closed Open Data</title>

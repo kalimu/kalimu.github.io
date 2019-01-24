@@ -5,17 +5,30 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.1.0">
-  <meta name="generator" content="Hugo 0.50" />
-  <meta name="author" content="Kamil Wais Ph.D.">
+  <meta name="generator" content="Source Themes Academic 3.3.0">
+  <meta name="generator" content="Hugo 0.53" />
+
+  
 
   
   
   
   
+  
+    
+    
     
   
-  <meta name="description" content="Version: 1.2The last update of this post: 2018-11-07.
+  
+
+  <meta name="author" content="Kamil Wais Ph.D.">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Version: 1.2The last update of this post: 2019-01-23.
 Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
 See what new Hadley recommends:
 (http://r-pkgs.had.co.nz/release.html).Update R &amp; packages:Rall packagesRStudio (stable or preview version).Update your package:Check unit tests.">
@@ -25,6 +38,12 @@ See what new Hadley recommends:
 
   
 
+
+  
+
+  
+
+  
 
   
 
@@ -45,7 +64,7 @@ See what new Hadley recommends:
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
 
     
@@ -105,19 +124,22 @@ See what new Hadley recommends:
 
   <link rel="canonical" href="/post/checklist-for-r-package-submission-to-cran/">
 
-  <meta property="twitter:card" content="summary_large_image">
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Kamil Wais">
   <meta property="og:url" content="/post/checklist-for-r-package-submission-to-cran/">
   <meta property="og:title" content="Checklist for R package submission to CRAN | Kamil Wais">
-  <meta property="og:description" content="Version: 1.2The last update of this post: 2018-11-07.
+  <meta property="og:description" content="Version: 1.2The last update of this post: 2019-01-23.
 Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
 See what new Hadley recommends:
-(http://r-pkgs.had.co.nz/release.html).Update R &amp; packages:Rall packagesRStudio (stable or preview version).Update your package:Check unit tests.">
-  
-  
-    
-  <meta property="og:image" content="/img/icon-192.png">
+(http://r-pkgs.had.co.nz/release.html).Update R &amp; packages:Rall packagesRStudio (stable or preview version).Update your package:Check unit tests."><meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2015-04-21T00:00:00&#43;00:00">
@@ -159,6 +181,36 @@ See what new Hadley recommends:
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
 
 <nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
   <div class="container">
@@ -303,7 +355,7 @@ See what new Hadley recommends:
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#course">
+          <a class="nav-link" href="/#accomplishments">
             
             <span>Courses</span>
             
@@ -356,6 +408,11 @@ See what new Hadley recommends:
         
 
         
+
+        
+
+        
+
       </ul>
 
     </div>
@@ -391,27 +448,26 @@ See what new Hadley recommends:
   
     
 
+
+<meta content="2015-04-21 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2018-11-07 11:57:34 &#43;0100 CET" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Kamil Wais Ph.D.">
-  </span>
-  
 
+  
   <span class="article-date">
     
-        Last updated on
     
-    <meta content="2015-04-21 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2018-11-07 11:57:34 &#43;0100 CET" itemprop="dateModified">
-       7 November, 2018
-    </time>
+      
+          Last updated on
+      
+    
+    <time> 7 November, 2018</time>
   </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Kamil Wais Ph.D.">
-  </span>
+  
 
   
 
@@ -506,7 +562,7 @@ See what new Hadley recommends:
 
 <div id="version-1.2" class="section level2">
 <h2>Version: 1.2</h2>
-<p>The last update of this post: 2018-11-07.</p>
+<p>The last update of this post: 2019-01-23.</p>
 <p>Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.</p>
 <ol style="list-style-type: decimal">
 <li><strong>See what new Hadley recommends</strong>:<br />
@@ -630,158 +686,35 @@ repos = NULL, type = “source”)</li>
 
 
 
+
     
+      
 
 
 
 
 
 
-<div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
-  <img class="portrait mr-3" src="/img/portrait3.jpg" itemprop="image" alt="Avatar">
-  
-  <div class="media-body">
-    <h5 class="card-title" itemprop="name"><a href="/">Kamil Wais Ph.D.</a></h5>
-    <h6 class="card-subtitle">Data Scientist / R &amp; Shiny Developer</h6>
-    
-    <ul class="network-icon" aria-hidden="true">
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="/#contact" >
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="//twitter.com/KamilWais" >
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="//www.linkedin.com/in/kamilwais/" >
-          <i class="fab fa-linkedin"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://scholar.google.pl/citations?user=CBg59pcAAAAJ&amp;hl=pl" target="_blank" rel="noopener">
-          <i class="ai ai-google-scholar"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="//rpubs.com/kalimu" >
-          <i class="fas fa-chart-bar"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="//github.com/kalimu" >
-          <i class="fab fa-github"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="/index.xml" >
-          <i class="fas fa-rss"></i>
-        </a>
-      </li>
-      
-    </ul>
-  </div>
-</div>
 
 
 
 
-    
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li><a href="/project/genderizer/">genderizeR</a></li>
-        
-      </ul>
-    </div>
+
+
+
+      
+      
+      <div class="article-widget">
+        <div class="hr-light"></div>
+        <h3>Related</h3>
+        <ul>
+          
+          <li><a href="/project/genderizer/">genderizeR</a></li>
+          
+        </ul>
+      </div>
+      
     
 
     
@@ -797,7 +730,7 @@ repos = NULL, type = “source”)</li>
   
 
   <p class="powered-by">
-    &copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.1 &middot; 
+    &copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.6.3 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -867,9 +800,6 @@ repos = NULL, type = “source”)</li>
       
     
 
-    <script src="/js/hugo-academic.js"></script>
-    
-
     
     
 
@@ -888,7 +818,7 @@ repos = NULL, type = “source”)</li>
       const search_index_filename = "/index.json";
       const i18n = {
         'placeholder': "Search...",
-        'results': "Search Results",
+        'results': "results found",
         'no_results': "No results found"
       };
       const content_type = {
@@ -909,6 +839,21 @@ repos = NULL, type = “source”)</li>
     
 
     
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    <script src="/js/academic.min.546d82170f310ecadabf6df91fb59927.js"></script>
+
     
 
   </body>

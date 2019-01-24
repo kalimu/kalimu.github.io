@@ -6,11 +6,20 @@
     <description>Recent content in software on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.1</copyright>
-    <lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0200</lastBuildDate>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.6.3</copyright>
+    <lastBuildDate>Wed, 23 Jan 2019 21:07:14 +0000</lastBuildDate>
     
 	<atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>shinyEventLogger</title>
+      <link>/project/shinyeventlogger/</link>
+      <pubDate>Wed, 23 Jan 2019 21:07:14 +0000</pubDate>
+      
+      <guid>/project/shinyeventlogger/</guid>
+      <description>Logging Events in Shiny AppsR package shinyEventLogger is a logging framework dedicated for complex shiny apps. Different types of events can be logged (character string, value of a variable, multi-line output of a function, result of a unit test, custom error, warning, or diagnostic message). Each event can be logged with a list of parameters that are event-specific, common for a group of events, or common for all app events.</description>
+    </item>
     
     <item>
       <title>Presentation of R package LimeRick on eRum</title>
@@ -38,7 +47,7 @@ In two days, from 12 to 14 October, 2016 in Poznan (Poland) will take place the 
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>/post/checklist-for-r-package-submission-to-cran/</guid>
-      <description>Version: 1.2The last update of this post: 2018-11-07.
+      <description>Version: 1.2The last update of this post: 2019-01-23.
 Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
 See what new Hadley recommends:
 (http://r-pkgs.had.co.nz/release.html).Update R &amp;amp; packages:Rall packagesRStudio (stable or preview version).Update your package:Check unit tests.</description>

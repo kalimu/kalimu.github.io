@@ -6,20 +6,19 @@
     <description>Recent content in Homes on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.5.1</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.6.3</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>Biography</title>
       <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Kamil Wais Ph.D. — Data Scientist and R &amp;amp; Shiny Developer, specializing in developing web data products and new research techniques &amp;amp; tools based on Internet technologies and Open Data.
-Previously, Research Product Manager in MillwardBrown Poland (one of the largest global institutes of market and opinion research), Assistant Professor in Department of Quantitative and Qualitative Methods at University of Information Technology and Management in Rzeszow, Poland. In 2017, short-term visiting Assistant Professor at Center for Social Research &amp;amp; Center for Research Computing at the University of Notre Dame (Indiana, USA).</description>
+      <description></description>
     </item>
     
     <item>
@@ -28,7 +27,8 @@ Previously, Research Product Manager in MillwardBrown Poland (one of the largest
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/changelog/</guid>
-      <description>v3.5.1
+      <description>v3.6.3
+ [added] New software project ShinyEventLogger. [added] Docker workshop in Warsaw. [changed] Hugo ver. 0.53. Academic ver. 3.3.1.  v3.5.1
  [fixed] Featured photos.  v3.5.0
  [added] Publication in Scientometrics. [added] Post about BigSurv18 in Barcelona. [added] Talk at the BigSurv18 Conference in Barcelona. [added] Section with selected on-line &amp;amp; off-line courses. [added] Experience section. [added] Contact form. [changed] Old news section to Changelog section.  </description>
     </item>
@@ -61,11 +61,11 @@ Previously, Research Product Manager in MillwardBrown Poland (one of the largest
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
+      <title>Featured Publications</title>
+      <link>/home/publications_featured/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/publications_selected/</guid>
+      <guid>/home/publications_featured/</guid>
       <description></description>
     </item>
     
@@ -116,10 +116,10 @@ Previously, Research Product Manager in MillwardBrown Poland (one of the largest
     
     <item>
       <title>Selected Courses</title>
-      <link>/home/course/</link>
+      <link>/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/course/</guid>
+      <guid>/home/accomplishments/</guid>
       <description></description>
     </item>
     
