@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Kamil Wais</title>
-    <link>/publication_types/2/</link>
+    <link>https://kalimu.github.io/publication_types/2/</link>
     <description>Recent content in 2 on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.6.3</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.7.0</copyright>
     <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalimu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Debt Literacy and Debt Literacy Self‐Assessment: The Case of Poland</title>
-      <link>/publication/2018_jca/debt-literacy-and-debt-literacy-self-assessment-the-case-of-poland/</link>
+      <link>https://kalimu.github.io/publication/2018_jca/debt-literacy-and-debt-literacy-self-assessment-the-case-of-poland/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018_jca/debt-literacy-and-debt-literacy-self-assessment-the-case-of-poland/</guid>
+      <guid>https://kalimu.github.io/publication/2018_jca/debt-literacy-and-debt-literacy-self-assessment-the-case-of-poland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determinants of willingness to study in Poland among members of Polish Diaspora</title>
-      <link>/publication/2018_polonia_studies/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</link>
+      <link>https://kalimu.github.io/publication/2018_polonia_studies/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018_polonia_studies/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</guid>
+      <guid>https://kalimu.github.io/publication/2018_polonia_studies/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal Loan Companies in Poland: Does Empirical Evidence Justify Regulatory Transition?</title>
-      <link>/publication/personal-loan-companies-in-poland/</link>
+      <link>https://kalimu.github.io/publication/personal-loan-companies-in-poland/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/personal-loan-companies-in-poland/</guid>
+      <guid>https://kalimu.github.io/publication/personal-loan-companies-in-poland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External evaluation of the school and academic achievements in relation to alcohol drinking and delinquent behaviour among secondary school students / Wyniki zewnętrznej ewaluacji szkoły i osiągnięcia w nauce a picie alkoholu i wykroczenia gimnazjalistów</title>
-      <link>/publication/external-evaluation-of-the-school-and-academic-achievements/</link>
+      <link>https://kalimu.github.io/publication/external-evaluation-of-the-school-and-academic-achievements/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/external-evaluation-of-the-school-and-academic-achievements/</guid>
+      <guid>https://kalimu.github.io/publication/external-evaluation-of-the-school-and-academic-achievements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gender Prediction Methods based on First Names with genderizeR</title>
-      <link>/publication/2016_genderizer/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
+      <link>https://kalimu.github.io/publication/2016_genderizer/gender-prediction-methods-based-on-first-names-with-genderizer/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2016_genderizer/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
+      <guid>https://kalimu.github.io/publication/2016_genderizer/gender-prediction-methods-based-on-first-names-with-genderizer/</guid>
       <description>When using the genderizeR R package in your work, please cite also the article:
 @article{RJ-2016-002, author = {Kamil Wais}, title = {{Gender Prediction Methods Based on First Names with genderizeR}}, year = {2016}, journal = {{The R Journal}}, url = {https://journal.r-project.org/archive/2016/RJ-2016-002/index.html}, pages = {17--37}, volume = {8}, number = {1} }  </description>
     </item>
     
     <item>
       <title>Loan perception and loan-related attitude of Poles: evidence from the field</title>
-      <link>/publication/loan-perception-and-loan-related-attitude-of-poles/</link>
+      <link>https://kalimu.github.io/publication/loan-perception-and-loan-related-attitude-of-poles/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/loan-perception-and-loan-related-attitude-of-poles/</guid>
+      <guid>https://kalimu.github.io/publication/loan-perception-and-loan-related-attitude-of-poles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Access Panel and its specificity as a challange for new research techniques based on internet technologies / Access Panel i jego specyfika jako wyzwanie nowych technik badawczych opartych na technologiach internetowych</title>
-      <link>/publication/access-panel-and-its-specificity-as-a-challange-for-new-reserch-techniques-based-on-internet/</link>
+      <link>https://kalimu.github.io/publication/access-panel-and-its-specificity-as-a-challange-for-new-reserch-techniques-based-on-internet/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/access-panel-and-its-specificity-as-a-challange-for-new-reserch-techniques-based-on-internet/</guid>
+      <guid>https://kalimu.github.io/publication/access-panel-and-its-specificity-as-a-challange-for-new-reserch-techniques-based-on-internet/</guid>
       <description></description>
     </item>
     

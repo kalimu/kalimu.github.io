@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ODGAR on Kamil Wais</title>
-    <link>/tags/odgar/</link>
+    <link>https://kalimu.github.io/tags/odgar/</link>
     <description>Recent content in ODGAR on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.6.3</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.7.0</copyright>
     <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/odgar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalimu.github.io/tags/odgar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BigSurv18: Big Data Meets Survey Science Conference and Supercomputing Center in Barcelona</title>
-      <link>/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</link>
+      <link>https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0100</pubDate>
       
-      <guid>/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</guid>
+      <guid>https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</guid>
       <description>Conference Recently, I was representing 7N on BigSurv18 Conference in Barcelona . The conference title was Big Data Meets Survey Science and this was the first conference with the aim of exploring new statistical frontiers at the intersection of Survey Science and Big Data. The conference was organized by The European Survey Research Association (ESRA) and was held at the Research and Expertise Center of Survey Methodology at the Universitat Pompeu Fabra in Barcelona.</description>
     </item>
     
     <item>
       <title>New Paradigms in Online Declarative Data Collection</title>
-      <link>/talk/2018-barcelona/</link>
+      <link>https://kalimu.github.io/talk/2018-barcelona/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/talk/2018-barcelona/</guid>
+      <guid>https://kalimu.github.io/talk/2018-barcelona/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Native Declarative Data Collection with Question and Survey Instant Feedback in R&amp;Shiny</title>
-      <link>/talk/2018-budapest/</link>
+      <link>https://kalimu.github.io/talk/2018-budapest/</link>
       <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>/talk/2018-budapest/</guid>
+      <guid>https://kalimu.github.io/talk/2018-budapest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ODGAR</title>
-      <link>/project/odgar/</link>
+      <link>https://kalimu.github.io/project/odgar/</link>
       <pubDate>Sat, 23 Jul 2011 21:13:14 -0500</pubDate>
       
-      <guid>/project/odgar/</guid>
+      <guid>https://kalimu.github.io/project/odgar/</guid>
       <description>ODGAR: Framework for Online Declarative Data Gathering, Analyzing, and Reporting.
 BackgroundOff-line research paradigms are still dominant even in on-line survey techniques. Most online research techniques convert old-fashioned off-line questionnaires to HTML forms, so not only they do not exploit the full potential of Data Science &amp;amp; Internet Technologies, but they are outdated already by design. Thus, contemporary on-line techniques are not natively on-line—they are mainly off-line questionnaires converted into more or less advanced on-line HTML forms, but with inherited off-line characteristics (high burden and low value for respondents, non-equivalent information exchange).</description>
     </item>

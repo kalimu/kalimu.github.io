@@ -2,26 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>programming on Kamil Wais</title>
-    <link>/tags/programming/</link>
+    <link>https://kalimu.github.io/tags/programming/</link>
     <description>Recent content in programming on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.6.3</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.7.0</copyright>
     <lastBuildDate>Tue, 21 Apr 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kalimu.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Checklist for R package submission to CRAN</title>
-      <link>/post/checklist-for-r-package-submission-to-cran/</link>
+      <link>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</link>
       <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/checklist-for-r-package-submission-to-cran/</guid>
-      <description>Version: 1.2The last update of this post: 2019-01-23.
-Below is a checklist that I wrote for my own purposes. I helps me to be sure that I did what I should have done before release a new version of R package to CRAN. Maybe it will also help others.
-See what new Hadley recommends:
-(http://r-pkgs.had.co.nz/release.html).Update R &amp;amp; packages:Rall packagesRStudio (stable or preview version).Update your package:Check unit tests.</description>
+      <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
+      <description>Version: 1.5.0
+Below you can find a checklist, which I wrote for my own purposes. It helps me to remember to check everything important before release a new version of R package to CRAN. Maybe you will also find it helpful.
+[ ] Update this checklist.[ ] Update the checklist version number.[ ] See what new Hadley recommends:[ ] http://r-pkgs.had.co.nz/release.html[ ] Update R &amp;amp; packages:[ ] R[ ] all R packages[ ] RStudio (stable or preview version).</description>
     </item>
     
   </channel>

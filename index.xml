@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kamil Wais on Kamil Wais</title>
-    <link>/</link>
+    <link>https://kalimu.github.io/</link>
     <description>Recent content in Kamil Wais on Kamil Wais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.6.3</copyright>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.7.0</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>shinyEventLogger</title>
-      <link>/project/shinyeventlogger/</link>
+      <link>https://kalimu.github.io/project/shinyeventlogger/</link>
       <pubDate>Wed, 23 Jan 2019 21:07:14 +0000</pubDate>
       
-      <guid>/project/shinyeventlogger/</guid>
+      <guid>https://kalimu.github.io/project/shinyeventlogger/</guid>
       <description>
 
 
@@ -35,9 +35,10 @@
 &lt;h2&gt;Demo Shiny Apps&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://kalimu.shinyapps.io/demoapp/&#34;&gt;DemoApp&lt;/a&gt; – demo shiny app logging different types of events.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kalimu.shinyapps.io/dashboardapp/&#34;&gt;DashboardApp&lt;/a&gt; – demo dashboard showing examples how logged events from the &lt;code&gt;DemoApp&lt;/code&gt; can be anlyzed.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kalimu.shinyapps.io/dashboardapp/&#34;&gt;DashboardApp&lt;/a&gt; – demo dashboard showing examples how logged events from the &lt;code&gt;DemoApp&lt;/code&gt; can be analyzed&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Both apps are available in the package and can be run with &lt;code&gt;run_demo()&lt;/code&gt; and &lt;code&gt;run_demo_dashboard()&lt;/code&gt; functions. See also &lt;a href=&#34;https://github.com/kalimu/shinyEventLogger#readme&#34;&gt;README&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kalimu.github.io/project/shinyEventLogger/index_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -45,10 +46,10 @@
     
     <item>
       <title>BigSurv18: Big Data Meets Survey Science Conference and Supercomputing Center in Barcelona</title>
-      <link>/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</link>
+      <link>https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0100</pubDate>
       
-      <guid>/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</guid>
+      <guid>https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/</guid>
       <description>
 
 &lt;h2 id=&#34;conference&#34;&gt;Conference&lt;/h2&gt;
@@ -94,40 +95,40 @@ We need to seek, and to be willing to accept, new paradigms in social science re
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0029.JPG&#34; &gt;
-  &lt;img src=&#34;/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0029.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0029.JPG&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0029.JPG&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0037.JPG&#34; &gt;
-  &lt;img src=&#34;/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0037.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0037.JPG&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0037.JPG&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0038.JPG&#34; &gt;
-  &lt;img src=&#34;/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0038.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0038.JPG&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0038.JPG&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0039.JPG&#34; &gt;
-  &lt;img src=&#34;/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0039.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0039.JPG&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0039.JPG&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0049.JPG&#34; &gt;
-  &lt;img src=&#34;/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0049.JPG&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0049.JPG&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2018-11-05-bigsurv18-big-data-meets-survey-science/gallery/DSC_0049.JPG&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -138,37 +139,37 @@ We need to seek, and to be willing to accept, new paradigms in social science re
     
     <item>
       <title>New Paradigms in Online Declarative Data Collection</title>
-      <link>/talk/2018-barcelona/</link>
+      <link>https://kalimu.github.io/talk/2018-barcelona/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/talk/2018-barcelona/</guid>
+      <guid>https://kalimu.github.io/talk/2018-barcelona/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biographical articles in scientific literature: analysis of articles indexed in Web of Science</title>
-      <link>/publication/2018_scientometrics/biographical-articles-in-indexed-in-web-of-science/</link>
+      <link>https://kalimu.github.io/publication/2018_scientometrics/biographical-articles-in-indexed-in-web-of-science/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/2018_scientometrics/biographical-articles-in-indexed-in-web-of-science/</guid>
+      <guid>https://kalimu.github.io/publication/2018_scientometrics/biographical-articles-in-indexed-in-web-of-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Native Declarative Data Collection with Question and Survey Instant Feedback in R&amp;Shiny</title>
-      <link>/talk/2018-budapest/</link>
+      <link>https://kalimu.github.io/talk/2018-budapest/</link>
       <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>/talk/2018-budapest/</guid>
+      <guid>https://kalimu.github.io/talk/2018-budapest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes from eRum 2018: European R User Conference in Budapest</title>
-      <link>/post/2018-05-23-notes-from-erum-2018-european-r-user-conference-in-budapest/</link>
+      <link>https://kalimu.github.io/post/2018-05-23-notes-from-erum-2018-european-r-user-conference-in-budapest/</link>
       <pubDate>Sat, 05 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>/post/2018-05-23-notes-from-erum-2018-european-r-user-conference-in-budapest/</guid>
+      <guid>https://kalimu.github.io/post/2018-05-23-notes-from-erum-2018-european-r-user-conference-in-budapest/</guid>
       <description>&lt;p&gt;The second eRum was organized this year in Budapest (Hungary) and gathered ~500 participants (mostly, but not only, from Europe). It was a great event and a worthy successor of the first eRum organized in Poznań (Poland) two years ago.&lt;/p&gt;
 
 &lt;p&gt;In the &lt;em&gt;Workskop Day&lt;/em&gt; I participated in two workshops:&lt;/p&gt;
@@ -204,19 +205,19 @@ We need to seek, and to be willing to accept, new paradigms in social science re
     
     <item>
       <title>Debt Literacy and Debt Literacy Self‐Assessment: The Case of Poland</title>
-      <link>/publication/2018_jca/debt-literacy-and-debt-literacy-self-assessment-the-case-of-poland/</link>
+      <link>https://kalimu.github.io/publication/2018_jca/debt-literacy-and-debt-literacy-self-assessment-the-case-of-poland/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018_jca/debt-literacy-and-debt-literacy-self-assessment-the-case-of-poland/</guid>
+      <guid>https://kalimu.github.io/publication/2018_jca/debt-literacy-and-debt-literacy-self-assessment-the-case-of-poland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wrażenia z pobytu na Uniwersytecie Notre Dame (USA)</title>
-      <link>/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
+      <link>https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0100</pubDate>
       
-      <guid>/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
+      <guid>https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/</guid>
       <description>
 
 &lt;h2 id=&#34;center-for-research-computing-crc&#34;&gt;Center for Research Computing (CRC)&lt;/h2&gt;
@@ -271,88 +272,88 @@ Główny budynek biblioteki uniwersyteckiej (a jest ich kilka) ma 14 pięter i w
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_01.jpg&#34; &gt;
-  &lt;img src=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_01.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_01.jpg&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_01.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_02.jpg&#34; &gt;
-  &lt;img src=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_02.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_02.jpg&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_02.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_03.jpg&#34; &gt;
-  &lt;img src=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_03.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_03.jpg&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_03.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_04.jpg&#34; &gt;
-  &lt;img src=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_04.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_04.jpg&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_04.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_05.jpg&#34; &gt;
-  &lt;img src=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_05.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_05.jpg&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_05.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_06.jpg&#34; &gt;
-  &lt;img src=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_06.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_06.jpg&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_06.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_07.jpg&#34; &gt;
-  &lt;img src=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_07.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_07.jpg&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_07.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_08.jpg&#34; &gt;
-  &lt;img src=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_08.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_08.jpg&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_08.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_09.jpg&#34; &gt;
-  &lt;img src=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_09.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_09.jpg&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_09.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_10.jpg&#34; &gt;
-  &lt;img src=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_10.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_10.jpg&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_10.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_11.jpg&#34; &gt;
-  &lt;img src=&#34;/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_11.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_11.jpg&#34; &gt;
+  &lt;img src=&#34;https://kalimu.github.io/post/2017-11-19-wrazenia-z-pobytu-na-uniwersytecie-notre-dame-usa/gallery/nd_11.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -363,28 +364,28 @@ Główny budynek biblioteki uniwersyteckiej (a jest ich kilka) ma 14 pięter i w
     
     <item>
       <title>Determinants of willingness to study in Poland among members of Polish Diaspora</title>
-      <link>/publication/2018_polonia_studies/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</link>
+      <link>https://kalimu.github.io/publication/2018_polonia_studies/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018_polonia_studies/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</guid>
+      <guid>https://kalimu.github.io/publication/2018_polonia_studies/determinants-of-willingness-to-study-in-poland-among-members-of-polish-diaspora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Role of Data Science in Pursuit of Long-Term Relationship Between Respondents and Social Researchers</title>
-      <link>/talk/2017-chicago/</link>
+      <link>https://kalimu.github.io/talk/2017-chicago/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>/talk/2017-chicago/</guid>
+      <guid>https://kalimu.github.io/talk/2017-chicago/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to the Tidyverse. Hadley Wickham lecture at Notre Dame University</title>
-      <link>/post/2017-08-28-hadley-wickham-lecture/welcome-to-the-tidyverse/</link>
+      <link>https://kalimu.github.io/post/2017-08-28-hadley-wickham-lecture/welcome-to-the-tidyverse/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0200</pubDate>
       
-      <guid>/post/2017-08-28-hadley-wickham-lecture/welcome-to-the-tidyverse/</guid>
+      <guid>https://kalimu.github.io/post/2017-08-28-hadley-wickham-lecture/welcome-to-the-tidyverse/</guid>
       <description>&lt;p&gt;During my research visit at Notre Dame University I had the pleasure to participate in Hadley Wickham&amp;rsquo;s lecture &lt;em&gt;Welcome to the Tidyverse&lt;/em&gt; and meet Hadley in person. Hadley&amp;rsquo;s talks are always well-structured and worth listening.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -393,16 +394,16 @@ Hadley Wickham is the Chief Scientist at RStudio and an Adjunct Professor of Sta
 This event was hosted by the MS-ACMS Data Science program and was co-sponsored by the Mendoza College of Business MSBA program and the Office of the Provost.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/photos/hadley.jpg&#34; alt=&#34;May the RStudio be with you!&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kalimu.github.io/img/photos/hadley.jpg&#34; alt=&#34;May the RStudio be with you!&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Closed Open Data</title>
-      <link>/project/gus/</link>
+      <link>https://kalimu.github.io/project/gus/</link>
       <pubDate>Sun, 18 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>/project/gus/</guid>
+      <guid>https://kalimu.github.io/project/gus/</guid>
       <description>
 
 
@@ -415,10 +416,10 @@ This event was hosted by the MS-ACMS Data Science program and was co-sponsored b
     
     <item>
       <title>Środowisko fizyczne i społeczne oraz jakość funkcjonowania szkoły a zdrowie subiektywne i zachowania zdrowotne nastolatków. Raport końcowy z realizacji projektu badawczego</title>
-      <link>/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/</link>
+      <link>https://kalimu.github.io/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/</guid>
+      <guid>https://kalimu.github.io/publication/srodowisko-fizyczne-i-spoleczne-oraz-jakosc-funkcjonowania-szkoly/</guid>
       <description>&lt;p&gt;Raport został przedstawiony przez prof. Bogusława Śliwerskiego na jego blogu:
 &lt;a href=&#34;http://sliwerski-pedagog.blogspot.com/2017/06/jakosc-szkoy-zdrowie-uczniow.html&#34; target=&#34;_blank&#34;&gt;http://sliwerski-pedagog.blogspot.com/2017/06/jakosc-szkoy-zdrowie-uczniow.html&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -426,19 +427,19 @@ This event was hosted by the MS-ACMS Data Science program and was co-sponsored b
     
     <item>
       <title>Personal Loan Companies in Poland: Does Empirical Evidence Justify Regulatory Transition?</title>
-      <link>/publication/personal-loan-companies-in-poland/</link>
+      <link>https://kalimu.github.io/publication/personal-loan-companies-in-poland/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/personal-loan-companies-in-poland/</guid>
+      <guid>https://kalimu.github.io/publication/personal-loan-companies-in-poland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External evaluation of the school and academic achievements in relation to alcohol drinking and delinquent behaviour among secondary school students / Wyniki zewnętrznej ewaluacji szkoły i osiągnięcia w nauce a picie alkoholu i wykroczenia gimnazjalistów</title>
-      <link>/publication/external-evaluation-of-the-school-and-academic-achievements/</link>
+      <link>https://kalimu.github.io/publication/external-evaluation-of-the-school-and-academic-achievements/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/external-evaluation-of-the-school-and-academic-achievements/</guid>
+      <guid>https://kalimu.github.io/publication/external-evaluation-of-the-school-and-academic-achievements/</guid>
       <description></description>
     </item>
     
