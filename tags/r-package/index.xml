@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R package on Kamil Wais</title>
+    <link>https://kalimu.github.io/tags/r-package/</link>
+    <description>Recent content in R package on Kamil Wais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.7.0</copyright>
+    <lastBuildDate>Tue, 21 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kalimu.github.io/tags/r-package/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Checklist for R package submission to CRAN</title>
+      <link>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalimu.github.io/post/checklist-for-r-package-submission-to-cran/</guid>
+      <description>Version: 1.5.0
+Below you can find a checklist, which I wrote for my own purposes. It helps me to remember to check everything important before release a new version of R package to CRAN. Maybe you will also find it helpful.
+[ ] Update this checklist.[ ] Update the checklist version number.[ ] See what new Hadley recommends:[ ] http://r-pkgs.had.co.nz/release.html[ ] Update R &amp;amp; packages:[ ] R[ ] all R packages[ ] RStudio (stable or preview version).</description>
+    </item>
+    
+  </channel>
+</rss>

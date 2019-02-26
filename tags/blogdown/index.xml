@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogdown on Kamil Wais</title>
+    <link>/tags/blogdown/</link>
+    <description>Recent content in blogdown on Kamil Wais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2018 Kamil Wais · Site created in R &amp; Blogdown · v3.7.0</copyright>
+    <lastBuildDate>Wed, 31 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/blogdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building static homepage with R &amp; blogdown</title>
+      <link>/post/building-static-homepage-with-r-and-blogdown/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/building-static-homepage-with-r-and-blogdown/</guid>
+      <description>This new homepage is a static website generated in R (!) with the help of brilliant blogdown package by Yihui Xie. Hugo is the site engine and it also uses amazing Academic theme.
+More about the blogdown R package you can find here: https://bookdown.org/yihui/blogdown/
+Some additional usefull posts:
+Updating website with Hugo and BlogdownMaking SiteQuick Start setting up a custom domain with GitHub pages</description>
+    </item>
+    
+  </channel>
+</rss>
